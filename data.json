@@ -1,5 +1,5 @@
 {
- "stand_daten": "29.10.2026 21:02",
+ "stand_daten": "29.10.2026 21:06",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -29,6 +29,7 @@
  },
  "offen": [],
  "geschlossen": [],
+ "warnungen": [],
  "pl_strategie": {},
  "scout": {
   "datei": "scout-2026-10-30.md",
@@ -410,7 +411,17 @@
    "pl": null,
    "trades": 0
   },
+  "meme-liq": {
+   "meme": true,
+   "pl": null,
+   "trades": 0
+  },
   "meme-momo": {
+   "meme": true,
+   "pl": null,
+   "trades": 0
+  },
+  "meme-news": {
    "meme": true,
    "pl": null,
    "trades": 0

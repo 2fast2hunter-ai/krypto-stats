@@ -447,19 +447,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-29 21:21:11",
-   "tokens": 128,
-   "paar": 128,
+   "t": "2026-10-29 21:24:17",
+   "tokens": 127,
+   "paar": 127,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 9,
-   "tokens": 1134,
-   "paar": 1119,
+   "runden": 12,
+   "tokens": 1513,
+   "paar": 1498,
    "vor": 0,
-   "kandidaten_zeilen": 75,
+   "kandidaten_zeilen": 78,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -468,7 +468,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    39
+    40
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -484,7 +484,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    2
+    4
    ]
   ]
  },
@@ -536,7 +536,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-29T21:21:11+01:00"
+   "zeit": "2026-10-29T21:24:17+01:00"
   },
   {
    "name": "Magnayen",
@@ -544,7 +544,7 @@
    "farbe": "#9CA3AF",
    "form": "circle",
    "letzte_datei": "krypto/dashboard/build.py",
-   "zeit": "2026-10-29T21:21:21+01:00"
+   "zeit": "2026-10-29T21:23:48+01:00"
   }
  ],
  "aktivitaet": [
@@ -627,6 +627,21 @@
    "2026-10-29T21:21:11",
    "SCAN",
    "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ],
+  [
+   "2026-10-29T21:22:06",
+   "SCAN",
+   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ],
+  [
+   "2026-10-29T21:23:11",
+   "SCAN",
+   "Runde: 125 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ],
+  [
+   "2026-10-29T21:24:17",
+   "SCAN",
+   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
   ]
  ],
  "trefferquote": {
@@ -634,5 +649,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-29T21:21:11+01:00"
+ "daten_neuest": "2026-10-29T21:24:17+01:00"
 }

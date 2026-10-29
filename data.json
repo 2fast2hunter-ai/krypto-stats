@@ -536,7 +536,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-29T21:24:17+01:00"
+   "zeit": "2026-10-29T21:24:42+01:00"
   },
   {
    "name": "Magnayen",
@@ -642,6 +642,16 @@
    "2026-10-29T21:24:17",
    "SCAN",
    "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ],
+  [
+   "2026-10-29T21:24:27",
+   "RISK",
+   "supervisor: Neustart in 15 s"
+  ],
+  [
+   "2026-10-29T21:24:42",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet)"
   ]
  ],
  "trefferquote": {
@@ -649,5 +659,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-29T21:24:17+01:00"
+ "daten_neuest": "2026-10-29T21:24:42+01:00"
 }

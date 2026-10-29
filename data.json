@@ -1,5 +1,5 @@
 {
- "stand_daten": "29.10.2026 23:00",
+ "stand_daten": "29.10.2026 23:05",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -331,6 +331,146 @@
  },
  "news": [
   {
+   "zeit": "2026-10-29T23:05:00+01:00",
+   "coin": "FARTCOIN",
+   "ca": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+   "posts_1h": "40",
+   "trend_pct": "-30",
+   "top_engagement": "L78/R8 (@RonnieRiches, Post wirbt v. a. für STANK)",
+   "grosse_accounts": "@whalewatchalert 196k (Bot)",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja: Ticker wird mehrfach genutzt, um Fremd-Token 5wsjHx… (STANK) zu pushen, u. a. Account von 10/2026",
+   "score_0_10": "1",
+   "quelle_links": "https://x.com/RonnieRiches/status/2115904247283998976 https://x.com/whalewatchalert/status/2115918012918153308",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-29T23:05:00+01:00",
+   "coin": "USELESS",
+   "ca": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+   "posts_1h": "3",
+   "trend_pct": "200",
+   "top_engagement": "L0 (Ticker-Zählung 3192/h = Wortrauschen)",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "3",
+   "quelle_links": "https://x.com/gmaneplays/status/2115920624916808168",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-29T23:05:00+01:00",
+   "coin": "PENGU",
+   "ca": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+   "posts_1h": "144",
+   "trend_pct": "-28",
+   "top_engagement": "L5/R3",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "3",
+   "quelle_links": "https://x.com/ParallaxLauncHQ/status/2115924636030640343",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-29T23:05:00+01:00",
+   "coin": "POPCAT",
+   "ca": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+   "posts_1h": "7",
+   "trend_pct": "-46",
+   "top_engagement": "L4",
+   "grosse_accounts": "keine",
+   "stimmung": "negativ",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "https://x.com/0xPunishedFren/status/2115909780233675050 https://x.com/WFBM_RUNES/status/2115910106848129053",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-29T23:05:00+01:00",
+   "coin": "GIGA",
+   "ca": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+   "posts_1h": "5",
+   "trend_pct": "150",
+   "top_engagement": "L11/R2 (@Jisko1000B 8.8k)",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "nein",
+   "score_0_10": "4",
+   "quelle_links": "https://x.com/Jisko1000B/status/2115914693475004638",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-29T23:05:00+01:00",
+   "coin": "VINE",
+   "ca": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+   "posts_1h": "3",
+   "trend_pct": "200",
+   "top_engagement": "L6/R1",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "nein (aber 3 von 4 Posts vom selben Account @stupidlabia)",
+   "score_0_10": "4",
+   "quelle_links": "https://x.com/stupidlabia/status/2115921216586580376",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-29T23:05:00+01:00",
+   "coin": "CHILLGUY",
+   "ca": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
+   "posts_1h": "8",
+   "trend_pct": "-47",
+   "top_engagement": "keine Top-Posts",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "1",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-29T23:05:00+01:00",
+   "coin": "WIF",
+   "ca": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+   "posts_1h": "2",
+   "trend_pct": "n/a",
+   "top_engagement": "L0 (Ticker-Zählung 3033/h = Wortrauschen)",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja: mehrere Call-Accounts verbreiten FALSCHE WIF-CA fuUb3T8EgWkgwgrSyGPz26p6AkkzWZ4yxjgMjKppump",
+   "score_0_10": "0",
+   "quelle_links": "https://x.com/COINTRACKER003/status/2115927333278216473 https://x.com/CryptoRamzfys5/status/2115926469830389764",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-29T23:05:00+01:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "66",
+   "trend_pct": "144",
+   "top_engagement": "R30 (RT KCEX-Listing), R5",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "ja: gleiche Promo-Posts (KCEX-Listing, GTA6-Cat) mehrfach von denselben Accounts retweetet",
+   "score_0_10": "6",
+   "quelle_links": "https://x.com/DavidGu44926042/status/2115924736849182739 https://x.com/BirdBrain2025/status/2115917898199839079",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-29T23:05:00+01:00",
+   "coin": "SI276",
+   "ca": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+   "posts_1h": "5",
+   "trend_pct": "25",
+   "top_engagement": "L1",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "nein",
+   "score_0_10": "3",
+   "quelle_links": "https://x.com/drstvn82/status/2115899739598205101",
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-10-29.md",
    "titel": "Scan 23:00 – Do 29.10.2026, 22:59 Uhr (Europe/Berlin)",
    "text": ""
@@ -546,19 +686,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-29 23:02:15",
-   "tokens": 112,
-   "paar": 110,
+   "t": "2026-10-29 23:12:24",
+   "tokens": 126,
+   "paar": 122,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 80,
-   "tokens": 9892,
-   "paar": 9776,
+   "runden": 90,
+   "tokens": 11111,
+   "paar": 10973,
    "vor": 0,
-   "kandidaten_zeilen": 373,
+   "kandidaten_zeilen": 394,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -567,15 +707,15 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    222
+    237
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    72
+    74
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    43
+    45
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -583,7 +723,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    17
+    19
    ]
   ]
  },
@@ -602,8 +742,8 @@
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/2026-10-29.csv",
-   "zeit": "2026-10-29T22:59:52+01:00"
+   "letzte_datei": "krypto/news/x-stimmung.csv",
+   "zeit": "2026-10-29T23:05:48+01:00"
   },
   {
    "name": "Kadabra",
@@ -635,7 +775,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-29T23:02:49+01:00"
+   "zeit": "2026-10-29T23:12:24+01:00"
   },
   {
    "name": "Magnayen",
@@ -647,76 +787,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-29T22:13:29",
-   "SCAN",
-   "Runde: 123 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T22:14:29",
-   "RISK",
-   "KAUF_PAUSE aktiv"
-  ],
-  [
-   "2026-10-29T22:14:29",
-   "SCAN",
-   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T22:15:29",
-   "RISK",
-   "KAUF_PAUSE aktiv"
-  ],
-  [
-   "2026-10-29T22:15:29",
-   "SCAN",
-   "Runde: 107 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T22:16:29",
-   "RISK",
-   "KAUF_PAUSE aktiv"
-  ],
-  [
-   "2026-10-29T22:16:29",
-   "SCAN",
-   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T22:17:29",
-   "RISK",
-   "KAUF_PAUSE aktiv"
-  ],
-  [
-   "2026-10-29T22:17:29",
-   "SCAN",
-   "Runde: 126 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T22:18:29",
-   "RISK",
-   "KAUF_PAUSE aktiv"
-  ],
-  [
-   "2026-10-29T22:18:29",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T22:19:34",
-   "RISK",
-   "KAUF_PAUSE aktiv"
-  ],
-  [
-   "2026-10-29T22:19:34",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T22:20:29",
-   "RISK",
-   "KAUF_PAUSE aktiv"
-  ],
   [
    "2026-10-29T22:20:29",
    "SCAN",
@@ -946,6 +1016,76 @@
    "2026-10-29T23:02:49",
    "SCAN",
    "Start meme-scan (PAPER, keine Wallet) pid 2101143"
+  ],
+  [
+   "2026-10-29T23:03:06",
+   "SCAN",
+   "Runde: 122 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 17 s"
+  ],
+  [
+   "2026-10-29T23:03:13",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet) pid 2101369"
+  ],
+  [
+   "2026-10-29T23:03:24",
+   "SCAN",
+   "Runde: 121 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-29T23:03:53",
+   "RISK",
+   "supervisor: scanner beendet (rc 143), Neustart in 15 s"
+  ],
+  [
+   "2026-10-29T23:04:08",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet) pid 2102034"
+  ],
+  [
+   "2026-10-29T23:04:58",
+   "SCAN",
+   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 50 s"
+  ],
+  [
+   "2026-10-29T23:05:53",
+   "SCAN",
+   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 35 s"
+  ],
+  [
+   "2026-10-29T23:07:11",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 53 s"
+  ],
+  [
+   "2026-10-29T23:08:20",
+   "RISK",
+   "WARN ds-profile: API fehlgeschlagen: https://api.dexscreener.com/token-profiles/latest/v1"
+  ],
+  [
+   "2026-10-29T23:08:53",
+   "SCAN",
+   "Runde: 103 Tokens, 101 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 81 s"
+  ],
+  [
+   "2026-10-29T23:09:45",
+   "SCAN",
+   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 32 s"
+  ],
+  [
+   "2026-10-29T23:10:45",
+   "SCAN",
+   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 32 s"
+  ],
+  [
+   "2026-10-29T23:11:29",
+   "SCAN",
+   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
+  ],
+  [
+   "2026-10-29T23:12:24",
+   "SCAN",
+   "Runde: 126 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -953,5 +1093,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-29T23:02:49+01:00"
+ "daten_neuest": "2026-10-29T23:12:24+01:00"
 }

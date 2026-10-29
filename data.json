@@ -1,5 +1,5 @@
 {
- "stand_daten": "29.10.2026 21:06",
+ "stand_daten": "29.10.2026 21:14",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -156,7 +156,10 @@
    "Fear & Greed (alternative.me): 51 \"Neutral\" (29.10.).",
    "CoinDesk 29.10.: BTC um 80k nach Alphabet/Samsung-Zahlen, Fed hält Zins (2 Dissens für Erhöhung), CoinDesk Memecoin Index −3,4 %; BTC-Spot-ETFs +137 Mio $ (28.10.). https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
    "crypto.news: SOL <100 $, SOL-ETFs −24,8 Mio $ (27.–28.10.); Lookonchain: Wallet verkaufte 1,02 Mio SOL in 5 Tagen (Einzelquelle). https://crypto.news/solana-price-prediction-etf-outflows-100-support/",
-   "X-Tools nicht genutzt (Zeit); keine Gerüchte aufgenommen."
+   "X-Tools nicht genutzt (Zeit); keine Gerüchte aufgenommen.",
+   "RugCheck-knownAccounts kennzeichnen nur AMM/Creator/Locker, **keine CEX-Wallets**; Solscan-Labels ohne Key nicht abrufbar (public-api 404, api-v2 403). Bereinigung um Börsen daher nicht belegbar.",
+   "Strenge Top-10 ≤30 % erfüllt kaum ein liquider Memecoin; erst Stufe \"etabliert\" liefert Kandidaten.",
+   "Fee-Feld `transferFee` im Report kann 0 zeigen, obwohl `token_extensions.transferFeeConfig` eine Fee hat (SI, ZCAT) → immer Extensions prüfen."
   ]
  },
  "backtest": {
@@ -164,7 +167,7 @@
   "rows": [
    {
     "Coin": "BTCUSDT",
-    "Strategie": "trend",
+    "Strategie": "trend-d1",
     "Periode": "IS bis 2023",
     "Trades": "13",
     "PF": "5.6241181278173356",
@@ -182,7 +185,7 @@
    },
    {
     "Coin": "BTCUSDT",
-    "Strategie": "trend",
+    "Strategie": "trend-d1",
     "Periode": "OOS 2024–heute",
     "Trades": "16",
     "PF": "1.2039446897975208",
@@ -200,7 +203,7 @@
    },
    {
     "Coin": "BTCUSDT",
-    "Strategie": "mr",
+    "Strategie": "rsi2-mr",
     "Periode": "IS bis 2023",
     "Trades": "32",
     "PF": "0.8397206739445235",
@@ -209,7 +212,7 @@
    },
    {
     "Coin": "BTCUSDT",
-    "Strategie": "mr",
+    "Strategie": "rsi2-mr",
     "Periode": "OOS 2024–heute",
     "Trades": "28",
     "PF": "0.6741642134508956",
@@ -218,7 +221,7 @@
    },
    {
     "Coin": "ETHUSDT",
-    "Strategie": "trend",
+    "Strategie": "trend-d1",
     "Periode": "IS bis 2023",
     "Trades": "18",
     "PF": "3.6717724691887126",
@@ -236,7 +239,7 @@
    },
    {
     "Coin": "ETHUSDT",
-    "Strategie": "trend",
+    "Strategie": "trend-d1",
     "Periode": "OOS 2024–heute",
     "Trades": "10",
     "PF": "1.7691152409666957",
@@ -254,7 +257,7 @@
    },
    {
     "Coin": "ETHUSDT",
-    "Strategie": "mr",
+    "Strategie": "rsi2-mr",
     "Periode": "IS bis 2023",
     "Trades": "34",
     "PF": "0.9732801827302555",
@@ -263,7 +266,7 @@
    },
    {
     "Coin": "ETHUSDT",
-    "Strategie": "mr",
+    "Strategie": "rsi2-mr",
     "Periode": "OOS 2024–heute",
     "Trades": "22",
     "PF": "0.4493066135640273",
@@ -272,7 +275,7 @@
    },
    {
     "Coin": "SOLUSDT",
-    "Strategie": "trend",
+    "Strategie": "trend-d1",
     "Periode": "IS bis 2023",
     "Trades": "9",
     "PF": "15.814962748169258",
@@ -290,7 +293,7 @@
    },
    {
     "Coin": "SOLUSDT",
-    "Strategie": "trend",
+    "Strategie": "trend-d1",
     "Periode": "OOS 2024–heute",
     "Trades": "13",
     "PF": "0.7825004334764277",
@@ -308,7 +311,7 @@
    },
    {
     "Coin": "SOLUSDT",
-    "Strategie": "mr",
+    "Strategie": "rsi2-mr",
     "Periode": "IS bis 2023",
     "Trades": "21",
     "PF": "0.6356582924648214",
@@ -317,7 +320,7 @@
    },
    {
     "Coin": "SOLUSDT",
-    "Strategie": "mr",
+    "Strategie": "rsi2-mr",
     "Periode": "OOS 2024–heute",
     "Trades": "28",
     "PF": "0.5808945162616268",
@@ -426,22 +429,12 @@
    "pl": null,
    "trades": 0
   },
-  "mr": {
-   "meme": false,
-   "pl": null,
-   "trades": 0
-  },
   "news-signale": {
    "meme": false,
    "pl": null,
    "trades": 0
   },
   "rsi2-mr": {
-   "meme": false,
-   "pl": null,
-   "trades": 0
-  },
-  "trend": {
    "meme": false,
    "pl": null,
    "trades": 0

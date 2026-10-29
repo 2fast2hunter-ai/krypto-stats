@@ -501,19 +501,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-29 22:12:29",
-   "tokens": 122,
-   "paar": 121,
+   "t": "2026-10-29 22:46:44",
+   "tokens": 125,
+   "paar": 124,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 53,
-   "tokens": 6606,
-   "paar": 6543,
+   "runden": 71,
+   "tokens": 8835,
+   "paar": 8734,
    "vor": 0,
-   "kandidaten_zeilen": 201,
+   "kandidaten_zeilen": 301,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -522,23 +522,23 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    119
+    184
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    34
+    51
+   ],
+   [
+    "Vorfilter: kein Volumen-Spike (#× < #×)",
+    31
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
     19
    ],
    [
-    "Vorfilter: kein Volumen-Spike (#× < #×)",
-    16
-   ],
-   [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    13
+    16
    ]
   ]
  },
@@ -590,7 +590,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-29T22:12:29+01:00"
+   "zeit": "2026-10-29T22:51:52+01:00"
   },
   {
    "name": "Magnayen",
@@ -602,206 +602,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-29T21:21:11",
-   "SCAN",
-   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
-  ],
-  [
-   "2026-10-29T21:22:06",
-   "SCAN",
-   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
-  ],
-  [
-   "2026-10-29T21:23:11",
-   "SCAN",
-   "Runde: 125 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
-  ],
-  [
-   "2026-10-29T21:24:17",
-   "SCAN",
-   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
-  ],
-  [
-   "2026-10-29T21:24:27",
-   "RISK",
-   "supervisor: Neustart in 15 s"
-  ],
-  [
-   "2026-10-29T21:24:42",
-   "SCAN",
-   "Start meme-scan (PAPER, keine Wallet)"
-  ],
-  [
-   "2026-10-29T21:24:58",
-   "SCAN",
-   "Runde: 115 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:26:13",
-   "SCAN",
-   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:27:20",
-   "RISK",
-   "supervisor: Neustart in 15 s"
-  ],
-  [
-   "2026-10-29T21:27:35",
-   "SCAN",
-   "Start meme-scan (PAPER, keine Wallet)"
-  ],
-  [
-   "2026-10-29T21:27:46",
-   "SCAN",
-   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:28:46",
-   "SCAN",
-   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:29:52",
-   "SCAN",
-   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:30:48",
-   "SCAN",
-   "Runde: 113 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:30:56",
-   "RISK",
-   "supervisor: Neustart in 15 s"
-  ],
-  [
-   "2026-10-29T21:31:11",
-   "SCAN",
-   "Start meme-scan (PAPER, keine Wallet)"
-  ],
-  [
-   "2026-10-29T21:31:52",
-   "SCAN",
-   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:32:22",
-   "SCAN",
-   "Runde: 128 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:33:21",
-   "SCAN",
-   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:34:27",
-   "SCAN",
-   "Runde: 125 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:35:22",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:36:22",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:37:21",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:38:22",
-   "SCAN",
-   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:39:22",
-   "SCAN",
-   "Runde: 130 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:40:22",
-   "SCAN",
-   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:41:22",
-   "SCAN",
-   "Runde: 130 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:48:59",
-   "RISK",
-   "supervisor: Neustart in 15 s"
-  ],
-  [
-   "2026-10-29T21:49:14",
-   "SCAN",
-   "Start meme-scan (PAPER, keine Wallet)"
-  ],
-  [
-   "2026-10-29T21:49:28",
-   "SCAN",
-   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:50:25",
-   "SCAN",
-   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:51:03",
-   "SCAN",
-   "Start meme-scan (PAPER, keine Wallet) pid 2066246"
-  ],
-  [
-   "2026-10-29T21:51:14",
-   "SCAN",
-   "Runde: 130 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:52:14",
-   "SCAN",
-   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:53:14",
-   "SCAN",
-   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:54:20",
-   "SCAN",
-   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:55:15",
-   "SCAN",
-   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:56:14",
-   "SCAN",
-   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:57:18",
-   "SCAN",
-   "Runde: 116 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T21:58:29",
-   "SCAN",
-   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
   [
    "2026-10-29T21:59:14",
    "SCAN",
@@ -901,6 +701,206 @@
    "2026-10-29T22:12:29",
    "SCAN",
    "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:13:29",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:13:29",
+   "SCAN",
+   "Runde: 123 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:14:29",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:14:29",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:15:29",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:15:29",
+   "SCAN",
+   "Runde: 107 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:16:29",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:16:29",
+   "SCAN",
+   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:17:29",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:17:29",
+   "SCAN",
+   "Runde: 126 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:18:29",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:18:29",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:19:34",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:19:34",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:20:29",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:20:29",
+   "SCAN",
+   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:37:08",
+   "RISK",
+   "supervisor: Watchdog – Log 180 s still, kill 2079114"
+  ],
+  [
+   "2026-10-29T22:37:13",
+   "RISK",
+   "supervisor: scanner beendet (rc 143), Neustart in 15 s"
+  ],
+  [
+   "2026-10-29T22:37:28",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet) pid 2086736"
+  ],
+  [
+   "2026-10-29T22:37:39",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:37:39",
+   "SCAN",
+   "Runde: 126 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:38:44",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:38:44",
+   "SCAN",
+   "Runde: 128 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:39:39",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:39:39",
+   "SCAN",
+   "Runde: 128 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:40:39",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:40:39",
+   "SCAN",
+   "Runde: 121 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:41:44",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:41:44",
+   "SCAN",
+   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:42:45",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:42:45",
+   "SCAN",
+   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:43:39",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:43:39",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:44:39",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:44:39",
+   "SCAN",
+   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:45:39",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:45:39",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:46:44",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:46:44",
+   "SCAN",
+   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:51:52",
+   "RISK",
+   "supervisor: Watchdog – Log 180 s still, kill 2086736"
   ]
  ],
  "trefferquote": {
@@ -908,5 +908,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-29T22:12:29+01:00"
+ "daten_neuest": "2026-10-29T22:51:52+01:00"
 }

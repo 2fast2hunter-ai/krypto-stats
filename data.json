@@ -403,5 +403,42 @@
    "text": "JOLTS 03.11. 16:00, US-Arbeitsmarktbericht 06.11. 14:30, CPI 10.11. 14:30, FOMC 09.12. Dringlichkeit mittel, Unsicherheit niedrig.",
    "datei": "2026-10-29.csv"
   }
- ]
+ ],
+ "varianten": {
+  "meme-fast": {
+   "meme": true,
+   "pl": null,
+   "trades": 0
+  },
+  "meme-momo": {
+   "meme": true,
+   "pl": null,
+   "trades": 0
+  },
+  "mr": {
+   "meme": false,
+   "pl": null,
+   "trades": 0
+  },
+  "news-signale": {
+   "meme": false,
+   "pl": null,
+   "trades": 0
+  },
+  "rsi2-mr": {
+   "meme": false,
+   "pl": null,
+   "trades": 0
+  },
+  "trend": {
+   "meme": false,
+   "pl": null,
+   "trades": 0
+  },
+  "trend-d1": {
+   "meme": false,
+   "pl": null,
+   "trades": 0
+  }
+ }
 }

@@ -1,0 +1,335 @@
+{
+ "stand_daten": "29.10.2026 20:54",
+ "depot": {
+  "wert": 50.0,
+  "budget": 50.0,
+  "gesamt_pl": 0,
+  "tag_pl": 0,
+  "woche_pl": 0,
+  "stand": "29.10.2026 20:50 (Berlin)",
+  "verlauf": [
+   {
+    "t": "2026-10-29T20:50+01:00",
+    "cash": 50.0,
+    "wert": 50.0
+   }
+  ]
+ },
+ "risiko": {
+  "budget": 50.0,
+  "max_trade": 2.5,
+  "warnung": -7.5,
+  "stopp": -10.0,
+  "tag": 3.0,
+  "woche": 6.0,
+  "max_pos": 3.0,
+  "max_trades_tag": 5.0,
+  "ampel": "gruen",
+  "offene_positionen": 0
+ },
+ "offen": [],
+ "geschlossen": [],
+ "pl_strategie": {},
+ "scout": {
+  "datei": "scout-2026-10-30.md",
+  "quelle": "Fiffyen, Tests 29.10.2026 20:50 Berlin",
+  "majors": [
+   [
+    "Coin",
+    "Preis $",
+    "24h",
+    "7d",
+    "Vol 24h $",
+    "MCap $"
+   ],
+   [
+    "BTC",
+    "80.794",
+    "−0,63 %",
+    "−0,42 %",
+    "29,56 Mrd",
+    "1.624 Mrd"
+   ],
+   [
+    "ETH",
+    "2.332,66",
+    "−1,26 %",
+    "−2,00 %",
+    "11,41 Mrd",
+    "284,9 Mrd"
+   ],
+   [
+    "SOL",
+    "100,02",
+    "−2,37 %",
+    "−2,87 %",
+    "2,89 Mrd",
+    "59,0 Mrd"
+   ]
+  ],
+  "kandidaten": [
+   {
+    "Contract": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+    "Preis $": "0,004985",
+    "Vol 24h $": "1.050.740",
+    "Liq $": "222.978",
+    "MCap/FDV $": "4,92 Mio",
+    "Pair-Alter": "65 d",
+    "24h": "+4,6 %",
+    "1 Mint": "✓",
+    "2 Freeze": "✓",
+    "3 LP": "✓ 100 %",
+    "4 Liq": "✓",
+    "5 Top10": "✓ 18,2 %",
+    "6 Alter": "✓",
+    "7 RugCheck": "✓ Score 1, keine Risiken",
+    "8 Honeypot": "?",
+    "Rote Flagge": "Vol/Liq 4,7",
+    "Link": "https://dexscreener.com/solana/5e3dxlxgwmtdcoka51wyyakttjfzbwqcoyuhbui5gt2m",
+    "name": "GATO (GTA6CAT)"
+   },
+   {
+    "Contract": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+    "Preis $": "0,0004754",
+    "Vol 24h $": "164.223",
+    "Liq $": "70.866",
+    "MCap/FDV $": "457.613",
+    "Pair-Alter": "23 d",
+    "24h": "−11,4 %",
+    "1 Mint": "✓",
+    "2 Freeze": "✓",
+    "3 LP": "✓ 100 %",
+    "4 Liq": "✓",
+    "5 Top10": "✓ 29,8 % knapp",
+    "6 Alter": "✓",
+    "7 RugCheck": "✓ Score 1",
+    "8 Honeypot": "?",
+    "Rote Flagge": "Top10 knapp an Grenze, <100k Liq (3 % Slippage)",
+    "Link": "https://dexscreener.com/solana/12jc1dzjpzbcdakum4brakh9jcfry2tlg1ffgsl4ftcg",
+    "name": "SI276 (Super Intelligence)"
+   },
+   {
+    "Contract": "CA8q2mkYWZnUNqYmf6pxyxAPZsmSe2EG9P7hHMW5pump",
+    "Preis $": "0,0002526",
+    "Vol 24h $": "1.168.162",
+    "Liq $": "51.688",
+    "MCap/FDV $": "249.099",
+    "Pair-Alter": "5 d",
+    "24h": "−82,1 %",
+    "1 Mint": "✓",
+    "2 Freeze": "✓",
+    "3 LP": "✓ 100 %",
+    "4 Liq": "✓ knapp",
+    "5 Top10": "✓ 22,8 %",
+    "6 Alter": "✓",
+    "7 RugCheck": "✓ Score 1",
+    "8 Honeypot": "?",
+    "Rote Flagge": "−82 % in 24h, Vol/Liq 22,6 (extrem), Liq knapp",
+    "Link": "https://dexscreener.com/solana/6jdispswbwcsn8xba4lnbzmzrikxksbxcto8j3elr4cg",
+    "name": "REMUS"
+   }
+  ],
+  "ausschluss": [
+   {
+    "coin": "SENSE (Sixth Sense Labs) GydpvgKppv8a4gGQqAQsyQJxtQN4S6Ym9gKxjnN3mfun",
+    "grund": "Alter <24h (✗6), Top10 75,4 % (✗5), +1112 %/24h. Liq 103k."
+   },
+   {
+    "coin": "HEXN (Hexncoin) ANVLA6eKiAq4nstD2Sg3SZhfVkSEwfnGccn12UQWpump",
+    "grund": "Alter <24h (✗6), +2272 %, Vol/Liq 19. Liq 96,7k."
+   },
+   {
+    "coin": "HOUSEWORM 9KhzhyM1BwgW6myZRcqdzQvemKjVrjck8kaevTkMpump",
+    "grund": "Alter <24h (✗6), Vol/Liq 28. Liq 62k."
+   },
+   {
+    "coin": "HYPERCAT AEqw9bAtqJCWPNNJp9EieXw8GYwm1kgsJBDdJBU2pump",
+    "grund": "Alter <24h (✗6), Vol/Liq 17. Liq 64k."
+   },
+   {
+    "coin": "shibana 25XYntzwGpubUjgJPTJgv5qKd3Kfp9n5tKKRZAVipump",
+    "grund": "Alter <24h (✗6), Top10 96 % (✗5), RugCheck \"Low Liquidity (danger)\" (✗7)."
+   }
+  ],
+  "stimmung": [
+   "Fear & Greed (alternative.me): 51 \"Neutral\" (29.10.).",
+   "CoinDesk 29.10.: BTC um 80k nach Alphabet/Samsung-Zahlen, Fed hält Zins (2 Dissens für Erhöhung), CoinDesk Memecoin Index −3,4 %; BTC-Spot-ETFs +137 Mio $ (28.10.). https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
+   "crypto.news: SOL <100 $, SOL-ETFs −24,8 Mio $ (27.–28.10.); Lookonchain: Wallet verkaufte 1,02 Mio SOL in 5 Tagen (Einzelquelle). https://crypto.news/solana-price-prediction-etf-outflows-100-support/",
+   "X-Tools nicht genutzt (Zeit); keine Gerüchte aufgenommen."
+  ]
+ },
+ "backtest": {
+  "datei": "ergebnisse-2026-10-29.csv",
+  "rows": [
+   {
+    "Coin": "BTCUSDT",
+    "Strategie": "trend",
+    "Periode": "IS bis 2023",
+    "Trades": "13",
+    "PF": "5.6241181278173356",
+    "Rendite": "2.3829518122799005",
+    "MaxDD": "-0.37908124484323835"
+   },
+   {
+    "Coin": "BTCUSDT",
+    "Strategie": "buy&hold",
+    "Periode": "IS bis 2023",
+    "Trades": "0",
+    "PF": "",
+    "Rendite": "3.591554557014396",
+    "MaxDD": "-0.7662925431645935"
+   },
+   {
+    "Coin": "BTCUSDT",
+    "Strategie": "trend",
+    "Periode": "OOS 2024–heute",
+    "Trades": "16",
+    "PF": "1.2039446897975208",
+    "Rendite": "0.027258166104767056",
+    "MaxDD": "-0.40978651151312073"
+   },
+   {
+    "Coin": "BTCUSDT",
+    "Strategie": "buy&hold",
+    "Periode": "OOS 2024–heute",
+    "Trades": "0",
+    "PF": "",
+    "Rendite": "0.8412025473324196",
+    "MaxDD": "-0.5297176591351063"
+   },
+   {
+    "Coin": "BTCUSDT",
+    "Strategie": "mr",
+    "Periode": "IS bis 2023",
+    "Trades": "32",
+    "PF": "0.8397206739445235",
+    "Rendite": "-0.16721033426991283",
+    "MaxDD": "-0.4752625171296967"
+   },
+   {
+    "Coin": "BTCUSDT",
+    "Strategie": "mr",
+    "Periode": "OOS 2024–heute",
+    "Trades": "28",
+    "PF": "0.6741642134508956",
+    "Rendite": "-0.14598911367546896",
+    "MaxDD": "-0.29988764684908564"
+   },
+   {
+    "Coin": "ETHUSDT",
+    "Strategie": "trend",
+    "Periode": "IS bis 2023",
+    "Trades": "18",
+    "PF": "3.6717724691887126",
+    "Rendite": "2.0191352356235273",
+    "MaxDD": "-0.361216062042485"
+   },
+   {
+    "Coin": "ETHUSDT",
+    "Strategie": "buy&hold",
+    "Periode": "IS bis 2023",
+    "Trades": "0",
+    "PF": "",
+    "Rendite": "8.543180962736814",
+    "MaxDD": "-0.7930253453633334"
+   },
+   {
+    "Coin": "ETHUSDT",
+    "Strategie": "trend",
+    "Periode": "OOS 2024–heute",
+    "Trades": "10",
+    "PF": "1.7691152409666957",
+    "Rendite": "0.30008937069732",
+    "MaxDD": "-0.30538367953728185"
+   },
+   {
+    "Coin": "ETHUSDT",
+    "Strategie": "buy&hold",
+    "Periode": "OOS 2024–heute",
+    "Trades": "0",
+    "PF": "",
+    "Rendite": "0.003248244077481699",
+    "MaxDD": "-0.6755345017766712"
+   },
+   {
+    "Coin": "ETHUSDT",
+    "Strategie": "mr",
+    "Periode": "IS bis 2023",
+    "Trades": "34",
+    "PF": "0.9732801827302555",
+    "Rendite": "-0.11314826513566756",
+    "MaxDD": "-0.36633234169538664"
+   },
+   {
+    "Coin": "ETHUSDT",
+    "Strategie": "mr",
+    "Periode": "OOS 2024–heute",
+    "Trades": "22",
+    "PF": "0.4493066135640273",
+    "Rendite": "-0.3735042028105817",
+    "MaxDD": "-0.42724783968069"
+   },
+   {
+    "Coin": "SOLUSDT",
+    "Strategie": "trend",
+    "Periode": "IS bis 2023",
+    "Trades": "9",
+    "PF": "15.814962748169258",
+    "Rendite": "20.184818728872152",
+    "MaxDD": "-0.5358141686360998"
+   },
+   {
+    "Coin": "SOLUSDT",
+    "Strategie": "buy&hold",
+    "Periode": "IS bis 2023",
+    "Trades": "0",
+    "PF": "",
+    "Rendite": "6.7109675854331545",
+    "MaxDD": "-0.9626992725584275"
+   },
+   {
+    "Coin": "SOLUSDT",
+    "Strategie": "trend",
+    "Periode": "OOS 2024–heute",
+    "Trades": "13",
+    "PF": "0.7825004334764277",
+    "Rendite": "-0.3436914994108491",
+    "MaxDD": "-0.5152626614934948"
+   },
+   {
+    "Coin": "SOLUSDT",
+    "Strategie": "buy&hold",
+    "Periode": "OOS 2024–heute",
+    "Trades": "0",
+    "PF": "",
+    "Rendite": "-0.06796469838959152",
+    "MaxDD": "-0.7625682330037791"
+   },
+   {
+    "Coin": "SOLUSDT",
+    "Strategie": "mr",
+    "Periode": "IS bis 2023",
+    "Trades": "21",
+    "PF": "0.6356582924648214",
+    "Rendite": "-0.3372686468385234",
+    "MaxDD": "-0.4303252045886409"
+   },
+   {
+    "Coin": "SOLUSDT",
+    "Strategie": "mr",
+    "Periode": "OOS 2024–heute",
+    "Trades": "28",
+    "PF": "0.5808945162616268",
+    "Rendite": "-0.3835350293313553",
+    "MaxDD": "-0.4690007393192006"
+   }
+  ]
+ },
+ "news": [
+  {
+   "datei": "2026-10-29.md",
+   "titel": "Krypto-News-Scan – Do 29.10.2026, ca. 20:55 Uhr (Europe/Berlin)",
+   "text": ""
+  }
+ ]
+}

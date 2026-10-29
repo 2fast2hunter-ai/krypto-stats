@@ -447,19 +447,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-29 21:51:14",
-   "tokens": 130,
-   "paar": 128,
+   "t": "2026-10-29 22:01:13",
+   "tokens": 118,
+   "paar": 118,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 32,
-   "tokens": 4040,
-   "paar": 4003,
+   "runden": 42,
+   "tokens": 5279,
+   "paar": 5236,
    "vor": 0,
-   "kandidaten_zeilen": 175,
+   "kandidaten_zeilen": 189,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -468,7 +468,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    98
+    110
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -484,7 +484,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    9
+    11
    ]
   ]
  },
@@ -536,7 +536,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-29T21:51:14+01:00"
+   "zeit": "2026-10-29T22:01:13+01:00"
   },
   {
    "name": "Magnayen",
@@ -787,6 +787,56 @@
    "2026-10-29T21:51:14",
    "SCAN",
    "Runde: 130 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T21:52:14",
+   "SCAN",
+   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T21:53:14",
+   "SCAN",
+   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T21:54:20",
+   "SCAN",
+   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T21:55:15",
+   "SCAN",
+   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T21:56:14",
+   "SCAN",
+   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T21:57:18",
+   "SCAN",
+   "Runde: 116 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T21:58:29",
+   "SCAN",
+   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T21:59:14",
+   "SCAN",
+   "Runde: 112 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:00:19",
+   "SCAN",
+   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:01:13",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
   ]
  ],
  "trefferquote": {
@@ -794,5 +844,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-29T21:51:14+01:00"
+ "daten_neuest": "2026-10-29T22:01:13+01:00"
 }

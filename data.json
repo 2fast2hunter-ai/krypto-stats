@@ -686,19 +686,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-29 23:33:41",
-   "tokens": 121,
-   "paar": 118,
+   "t": "2026-10-29 23:42:36",
+   "tokens": 126,
+   "paar": 124,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 111,
-   "tokens": 13657,
-   "paar": 13455,
-   "vor": 0,
-   "kandidaten_zeilen": 488,
+   "runden": 120,
+   "tokens": 14786,
+   "paar": 14566,
+   "vor": 3,
+   "kandidaten_zeilen": 514,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -707,11 +707,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    296
+    316
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    95
+    98
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -774,8 +774,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-29T23:33:41+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-10-29T23:42:36+01:00"
   },
   {
    "name": "Magnayen",
@@ -787,51 +787,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-29T22:45:39",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T22:46:44",
-   "RISK",
-   "KAUF_PAUSE aktiv"
-  ],
-  [
-   "2026-10-29T22:46:44",
-   "SCAN",
-   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T22:51:52",
-   "RISK",
-   "supervisor: Watchdog – Log 180 s still, kill 2086736"
-  ],
-  [
-   "2026-10-29T22:51:57",
-   "RISK",
-   "supervisor: scanner beendet (rc 143), Neustart in 15 s"
-  ],
-  [
-   "2026-10-29T22:52:12",
-   "SCAN",
-   "Start meme-scan (PAPER, keine Wallet) pid 2092880"
-  ],
-  [
-   "2026-10-29T22:52:24",
-   "RISK",
-   "KAUF_PAUSE aktiv"
-  ],
-  [
-   "2026-10-29T22:52:24",
-   "SCAN",
-   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
-  ],
-  [
-   "2026-10-29T22:53:23",
-   "RISK",
-   "KAUF_PAUSE aktiv"
-  ],
   [
    "2026-10-29T22:53:23",
    "SCAN",
@@ -1086,6 +1041,51 @@
    "2026-10-29T23:33:41",
    "SCAN",
    "Runde: 121 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 17 s"
+  ],
+  [
+   "2026-10-29T23:34:35",
+   "SCAN",
+   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-29T23:35:42",
+   "SCAN",
+   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 17 s"
+  ],
+  [
+   "2026-10-29T23:36:36",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
+  ],
+  [
+   "2026-10-29T23:37:36",
+   "SCAN",
+   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-29T23:38:41",
+   "SCAN",
+   "Runde: 128 Tokens, 126 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 17 s"
+  ],
+  [
+   "2026-10-29T23:39:36",
+   "SCAN",
+   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-29T23:40:41",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 17 s"
+  ],
+  [
+   "2026-10-29T23:41:35",
+   "SCAN",
+   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-29T23:42:36",
+   "SCAN",
+   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -1093,5 +1093,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-29T23:33:41+01:00"
+ "daten_neuest": "2026-10-29T23:42:36+01:00"
 }

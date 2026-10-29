@@ -1,5 +1,5 @@
 {
- "stand_daten": "29.10.2026 21:29",
+ "stand_daten": "29.10.2026 22:09",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -332,7 +332,7 @@
  "news": [
   {
    "datei": "2026-10-29.md",
-   "titel": "Krypto-News-Scan – Do 29.10.2026, ca. 20:55 Uhr (Europe/Berlin)",
+   "titel": "Scan 22:00 – Do 29.10.2026, 22:06 Uhr (Europe/Berlin)",
    "text": ""
   },
   {
@@ -406,6 +406,60 @@
    "titel": "Makro-Termine",
    "text": "JOLTS 03.11. 16:00, US-Arbeitsmarktbericht 06.11. 14:30, CPI 10.11. 14:30, FOMC 09.12. Dringlichkeit mittel, Unsicherheit niedrig.",
    "datei": "2026-10-29.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-29T21:39+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "https://beincrypto.com/is-binance-being-hacked-customer-funds/",
+   "titel": "Verdacht Binance-Hot-Wallet-Hack >2 Mrd $ (unbestätigt)",
+   "text": "On-Chain: Transfer 21:24 aus Binance 14/16 an Tornado-finanzierte Adresse. Binance-Statement fehlt. BTC 80.300 -> 78.800 $. Dringlichkeit hoch, Unsicherheit hoch.",
+   "datei": "2026-10-29.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-29T21:05+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "https://www.strategy.com/press/strategy-announces-third-quarter-2026-financial-results_10-29-2026",
+   "titel": "Strategy Q3: 20,91 Mrd $ operativer Gewinn, EPS 44,75 $",
+   "text": "848.517 BTC, Ø 75.446 $; keine BTC-Käufe Woche bis 25.10. Keine positive BTC-Reaktion. Dringlichkeit mittel, Unsicherheit niedrig.",
+   "datei": "2026-10-29.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-29T21:15+01:00",
+   "coin": "BTC",
+   "signal": "verkauf",
+   "quelle": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+   "titel": "Amazon und Intel verfehlen Ausblick, Nasdaq-Futures -1 %",
+   "text": "AMZN -6 %, INTC -16 % nachbörslich; BTC fällt mit. Dringlichkeit mittel, Unsicherheit niedrig.",
+   "datei": "2026-10-29.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-29T21:43+01:00",
+   "coin": "USELESS",
+   "signal": "neutral",
+   "quelle": "https://api.coingecko.com/api/v3/simple/price?ids=useless-3&vs_currencies=usd&include_24hr_change=true",
+   "titel": "Memecoins fallen mit Markt, kein eigener Anlass",
+   "text": "CA Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk. 24h -20 %. Anstieg seit Meldung n/a (fallend). Weitere: FARTCOIN 9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump -11 %, POPCAT 7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr -12 %, PENGU 2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv -11 %, WIF EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm -9 %.",
+   "datei": "2026-10-29.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-29T21:43+01:00",
+   "coin": "GTA6",
+   "signal": "neutral",
+   "quelle": "https://x.com/i/trending/2115905346652745864",
+   "titel": "GTA6-Memecoin -64 % nach Wallet-Dump (X, unbestätigt)",
+   "text": "CA 4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz (Zuordnung unbestätigt). Anstieg seit Meldung n/a (-49,7 % 1h laut Scanner). Kein Einstieg.",
+   "datei": "2026-10-29.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-29T22:00+01:00",
+   "coin": "SOL",
+   "signal": "neutral",
+   "quelle": "https://x.com/i/trending/2115813822527426922",
+   "titel": "Ondo: 7 tokenisierte Portfolios auf Solana",
+   "text": "Plus Polygon-Integration, RWA-ATH 5,19 Mrd $ (X-Zusammenfassungen). Dringlichkeit niedrig.",
+   "datei": "2026-10-29.csv"
   }
  ],
  "varianten": {
@@ -447,19 +501,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-29 22:01:13",
-   "tokens": 118,
-   "paar": 118,
+   "t": "2026-10-29 22:11:29",
+   "tokens": 110,
+   "paar": 108,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 42,
-   "tokens": 5279,
-   "paar": 5236,
+   "runden": 52,
+   "tokens": 6484,
+   "paar": 6422,
    "vor": 0,
-   "kandidaten_zeilen": 189,
+   "kandidaten_zeilen": 201,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -468,7 +522,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    110
+    119
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -480,11 +534,11 @@
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    15
+    16
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    11
+    13
    ]
   ]
  },
@@ -504,7 +558,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-10-29.csv",
-   "zeit": "2026-10-29T20:56:55+01:00"
+   "zeit": "2026-10-29T22:08:41+01:00"
   },
   {
    "name": "Kadabra",
@@ -520,7 +574,7 @@
    "farbe": "#F59E0B",
    "form": "shield",
    "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-10-29T21:29:42+01:00"
+   "zeit": "2026-10-29T22:09:32+01:00"
   },
   {
    "name": "Mauzi",
@@ -536,7 +590,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-29T22:01:13+01:00"
+   "zeit": "2026-10-29T22:11:29+01:00"
   },
   {
    "name": "Magnayen",
@@ -548,71 +602,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-29T21:12:54",
-   "SCAN",
-   "Start meme-scan (PAPER, keine Wallet)"
-  ],
-  [
-   "2026-10-29T21:13:41",
-   "SCAN",
-   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
-  ],
-  [
-   "2026-10-29T21:14:05",
-   "SCAN",
-   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
-  ],
-  [
-   "2026-10-29T21:15:05",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
-  ],
-  [
-   "2026-10-29T21:16:05",
-   "SCAN",
-   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
-  ],
-  [
-   "2026-10-29T21:17:05",
-   "SCAN",
-   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
-  ],
-  [
-   "2026-10-29T21:17:38",
-   "RISK",
-   "supervisor: Neustart in 15 s"
-  ],
-  [
-   "2026-10-29T21:17:53",
-   "SCAN",
-   "Start meme-scan (PAPER, keine Wallet)"
-  ],
-  [
-   "2026-10-29T21:18:12",
-   "RISK",
-   "supervisor: Neustart in 15 s"
-  ],
-  [
-   "2026-10-29T21:18:27",
-   "SCAN",
-   "Start meme-scan (PAPER, keine Wallet)"
-  ],
-  [
-   "2026-10-29T21:18:38",
-   "SCAN",
-   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
-  ],
-  [
-   "2026-10-29T21:18:40",
-   "RISK",
-   "supervisor: Neustart in 15 s"
-  ],
-  [
-   "2026-10-29T21:18:55",
-   "SCAN",
-   "Start meme-scan (PAPER, keine Wallet)"
-  ],
   [
    "2026-10-29T21:19:06",
    "SCAN",
@@ -837,6 +826,81 @@
    "2026-10-29T22:01:13",
    "SCAN",
    "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:02:55",
+   "SCAN",
+   "Runde: 128 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:03:13",
+   "SCAN",
+   "Runde: 109 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:04:36",
+   "SCAN",
+   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:05:13",
+   "SCAN",
+   "Runde: 117 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:06:13",
+   "SCAN",
+   "Runde: 110 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:07:14",
+   "SCAN",
+   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:08:14",
+   "SCAN",
+   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:09:19",
+   "SCAN",
+   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:09:56",
+   "RISK",
+   "Kauf verweigert: KAUF_PAUSE"
+  ],
+  [
+   "2026-10-29T22:10:03",
+   "RISK",
+   "supervisor: scanner beendet (rc 143), Neustart in 15 s"
+  ],
+  [
+   "2026-10-29T22:10:18",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet) pid 2079114"
+  ],
+  [
+   "2026-10-29T22:10:40",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:10:40",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T22:11:29",
+   "RISK",
+   "KAUF_PAUSE aktiv"
+  ],
+  [
+   "2026-10-29T22:11:29",
+   "SCAN",
+   "Runde: 110 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
   ]
  ],
  "trefferquote": {
@@ -844,5 +908,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-29T22:01:13+01:00"
+ "daten_neuest": "2026-10-29T22:11:29+01:00"
 }

@@ -1,5 +1,5 @@
 {
- "stand_daten": "29.10.2026 21:16",
+ "stand_daten": "29.10.2026 21:29",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -447,19 +447,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-29 21:24:17",
-   "tokens": 127,
-   "paar": 127,
+   "t": "2026-10-29 21:28:46",
+   "tokens": 128,
+   "paar": 128,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 12,
-   "tokens": 1513,
-   "paar": 1498,
+   "runden": 16,
+   "tokens": 2007,
+   "paar": 1986,
    "vor": 0,
-   "kandidaten_zeilen": 78,
+   "kandidaten_zeilen": 83,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -468,7 +468,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    40
+    45
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -520,7 +520,7 @@
    "farbe": "#F59E0B",
    "form": "shield",
    "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-10-29T21:16:51+01:00"
+   "zeit": "2026-10-29T21:29:42+01:00"
   },
   {
    "name": "Mauzi",
@@ -536,7 +536,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-29T21:24:42+01:00"
+   "zeit": "2026-10-29T21:28:46+01:00"
   },
   {
    "name": "Magnayen",
@@ -652,6 +652,36 @@
    "2026-10-29T21:24:42",
    "SCAN",
    "Start meme-scan (PAPER, keine Wallet)"
+  ],
+  [
+   "2026-10-29T21:24:58",
+   "SCAN",
+   "Runde: 115 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T21:26:13",
+   "SCAN",
+   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T21:27:20",
+   "RISK",
+   "supervisor: Neustart in 15 s"
+  ],
+  [
+   "2026-10-29T21:27:35",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet)"
+  ],
+  [
+   "2026-10-29T21:27:46",
+   "SCAN",
+   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
+  ],
+  [
+   "2026-10-29T21:28:46",
+   "SCAN",
+   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0"
   ]
  ],
  "trefferquote": {
@@ -659,5 +689,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-29T21:24:42+01:00"
+ "daten_neuest": "2026-10-29T21:29:42+01:00"
 }

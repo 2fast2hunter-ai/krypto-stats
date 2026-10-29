@@ -444,5 +444,195 @@
    "pl": null,
    "trades": 0
   }
- }
+ },
+ "funnel": {
+  "letzter": {
+   "t": "2026-10-29 21:21:11",
+   "tokens": 128,
+   "paar": 128,
+   "vor": 0,
+   "offen": 0,
+   "schatten": 0
+  },
+  "heute": {
+   "runden": 9,
+   "tokens": 1134,
+   "paar": 1119,
+   "vor": 0,
+   "kandidaten_zeilen": 75,
+   "nach_checks": 0,
+   "gekauft": 0,
+   "schatten": 0,
+   "block": 0
+  },
+  "gruende": [
+   [
+    "Vorfilter: Liquidität # $ < #k",
+    39
+   ],
+   [
+    "Vorfilter: Volumen #m # $ < #k",
+    22
+   ],
+   [
+    "Vorfilter: kein Volumen-Spike (#× < #×)",
+    8
+   ],
+   [
+    "Vorfilter: Momentum #m -# % außerhalb +#+# %",
+    4
+   ],
+   [
+    "Vorfilter: Momentum #m +# % außerhalb +#+# %",
+    2
+   ]
+  ]
+ },
+ "kurve": [],
+ "agenten": [
+  {
+   "name": "Fiffyen",
+   "rolle": "Scout",
+   "farbe": "#3B82F6",
+   "form": "circle",
+   "letzte_datei": "krypto/scout-2026-10-30.md",
+   "zeit": "2026-10-29T21:11:36+01:00"
+  },
+  {
+   "name": "Xatu",
+   "rolle": "News",
+   "farbe": "#06B6D4",
+   "form": "diamond",
+   "letzte_datei": "krypto/news/2026-10-29.csv",
+   "zeit": "2026-10-29T20:56:55+01:00"
+  },
+  {
+   "name": "Kadabra",
+   "rolle": "Strategie",
+   "farbe": "#A855F7",
+   "form": "hex",
+   "letzte_datei": "krypto/strategien/meme-liq.md",
+   "zeit": "2026-10-29T21:11:00+01:00"
+  },
+  {
+   "name": "Panzaeron",
+   "rolle": "Risiko",
+   "farbe": "#F59E0B",
+   "form": "shield",
+   "letzte_datei": "krypto/risiko-regeln.md",
+   "zeit": "2026-10-29T21:16:51+01:00"
+  },
+  {
+   "name": "Mauzi",
+   "rolle": "Trader",
+   "farbe": "#10B981",
+   "form": "square",
+   "letzte_datei": "krypto/depot.md",
+   "zeit": "2026-10-29T20:51:12+01:00"
+  },
+  {
+   "name": "Scanner",
+   "rolle": "meme-scan",
+   "farbe": "#EF4444",
+   "form": "tri",
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-10-29T21:21:11+01:00"
+  },
+  {
+   "name": "Magnayen",
+   "rolle": "Dashboard",
+   "farbe": "#9CA3AF",
+   "form": "circle",
+   "letzte_datei": "krypto/dashboard/build.py",
+   "zeit": "2026-10-29T21:21:21+01:00"
+  }
+ ],
+ "aktivitaet": [
+  [
+   "2026-10-29T21:12:54",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet)"
+  ],
+  [
+   "2026-10-29T21:13:41",
+   "SCAN",
+   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ],
+  [
+   "2026-10-29T21:14:05",
+   "SCAN",
+   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ],
+  [
+   "2026-10-29T21:15:05",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ],
+  [
+   "2026-10-29T21:16:05",
+   "SCAN",
+   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ],
+  [
+   "2026-10-29T21:17:05",
+   "SCAN",
+   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ],
+  [
+   "2026-10-29T21:17:38",
+   "RISK",
+   "supervisor: Neustart in 15 s"
+  ],
+  [
+   "2026-10-29T21:17:53",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet)"
+  ],
+  [
+   "2026-10-29T21:18:12",
+   "RISK",
+   "supervisor: Neustart in 15 s"
+  ],
+  [
+   "2026-10-29T21:18:27",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet)"
+  ],
+  [
+   "2026-10-29T21:18:38",
+   "SCAN",
+   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ],
+  [
+   "2026-10-29T21:18:40",
+   "RISK",
+   "supervisor: Neustart in 15 s"
+  ],
+  [
+   "2026-10-29T21:18:55",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet)"
+  ],
+  [
+   "2026-10-29T21:19:06",
+   "SCAN",
+   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ],
+  [
+   "2026-10-29T21:20:06",
+   "SCAN",
+   "Runde: 127 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ],
+  [
+   "2026-10-29T21:21:11",
+   "SCAN",
+   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0"
+  ]
+ ],
+ "trefferquote": {
+  "w": 0,
+  "l": 0
+ },
+ "bester_trade": null,
+ "daten_neuest": "2026-10-29T21:21:11+01:00"
 }

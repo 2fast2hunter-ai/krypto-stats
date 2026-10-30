@@ -1,5 +1,5 @@
 {
- "stand_daten": "30.10.2026 05:03",
+ "stand_daten": "30.10.2026 07:06",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -751,8 +751,134 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-10-30T07:05:00+01:00",
+   "coin": "FARTCOIN",
+   "ca": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+   "posts_1h": "0",
+   "trend_pct": "-100",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T07:05:00+01:00",
+   "coin": "USELESS",
+   "ca": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+   "posts_1h": "0",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T07:05:00+01:00",
+   "coin": "PENGU",
+   "ca": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+   "posts_1h": "73",
+   "trend_pct": "-24",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "3",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T07:05:00+01:00",
+   "coin": "POPCAT",
+   "ca": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+   "posts_1h": "7",
+   "trend_pct": "-46",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "1",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T07:05:00+01:00",
+   "coin": "GIGA+VINE",
+   "ca": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9 / 6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+   "posts_1h": "3",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "1",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T07:05:00+01:00",
+   "coin": "CHILLGUY",
+   "ca": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
+   "posts_1h": "3",
+   "trend_pct": "-63",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T07:05:00+01:00",
+   "coin": "WIF",
+   "ca": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+   "posts_1h": "1",
+   "trend_pct": "-86",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja: Fake-WIF-CA fuUb3T… erneut beworben ('2x $WIF', @ALPHAxOM3GA 3,7k)",
+   "score_0_10": "0",
+   "quelle_links": "https://x.com/ALPHAxOM3GA/status/2116041216240312559",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T07:05:00+01:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "12",
+   "trend_pct": "33",
+   "top_engagement": "L56/R7 (@ShibaXanders 40,6k)",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "nein",
+   "score_0_10": "5",
+   "quelle_links": "https://x.com/ShibaXanders/status/2116025274454184320",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T07:05:00+01:00",
+   "coin": "SI276",
+   "ca": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+   "posts_1h": "0",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja (On-Chain): 1.029 Käufe/h bei 948 $ Vol = Bot-Mikrotrades; ausgesetzt",
+   "score_0_10": "0",
+   "quelle_links": "https://dexscreener.com/solana/12jc1DzJpzbCDaKuM4brAKh9jcFry2TLG1FfGsL4ftCG",
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-10-30.md",
-   "titel": "Scan 05:00 – Fr 30.10.2026, 05:05 Uhr (Europe/Berlin)",
+   "titel": "Scan 07:00 – Fr 30.10.2026, 07:05 Uhr (Europe/Berlin)",
    "text": ""
   },
   {
@@ -843,6 +969,42 @@
    "quelle": "https://data-api.binance.vision/api/v3/ticker/price",
    "titel": "Binance-Prämie unverändert gering",
    "text": "BTCUSDT 78.083 vs Coinbase 77.870 / Kraken 77.879 (+0,27 %, USDT-bereinigt ~+0,1 %); ETH +0,2 %. Erholung seit 02:00: BTC +1,4 %, BNB +3,4 %.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T05:36:00+01:00",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "https://x.com/binance/status/2116026356740034858",
+   "titel": "Binance: Auszahlungen in 48 h, Einzahlungen normal",
+   "text": "Auszahlungen bleiben pausiert (Security-Revamp); Yi He 05:17: Beginn der Wiederaufnahme binnen 48 h. Kein Abschlussbericht, PoR nach Behebung. KAUF_PAUSE bleibt.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T01:17:00+01:00",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+   "titel": "CoinDesk: Hack traf PoR-Wallets, ETH-Deckung ~94 %",
+   "text": "~204.500 ETH gestohlen (5,6 % der ETH-Reserven); nächster PoR-Snapshot 1.11.; SAFU ~1 Mrd $ in BTC.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T06:58:00+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "https://swiftedge.uk/btc/max-pain",
+   "titel": "Optionsverfall 09:00: Max Pain 79.000, P/C 0,59",
+   "text": "~12 Mrd $ Notional; BTC 78.446 (−0,6 % unter Max Pain).",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T07:00:00+01:00",
+   "coin": "SI276",
+   "signal": "neutral",
+   "quelle": "https://dexscreener.com/solana/12jc1DzJpzbCDaKuM4brAKh9jcFry2TLG1FfGsL4ftCG",
+   "titel": "SI276: weiter schwach, Bot-artige Mikrotrades",
+   "text": "Kurs 0,0003967 (−23,7 % 24h, −7,6 % seit 21:49); Vol 1h 948 $ bei 1.029 Käufen/345 Verkäufen; Liq 63.969 $; Top10 30,5 %, 7.659 Holder; 4 X-Posts mit CA in 10 h. Ausgesetzt.",
    "datei": "2026-10-30.csv"
   },
   {
@@ -1061,19 +1223,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-30 07:05:20",
-   "tokens": 130,
-   "paar": 129,
+   "t": "2026-10-30 07:15:20",
+   "tokens": 121,
+   "paar": 120,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 224,
-   "tokens": 27362,
-   "paar": 26943,
+   "runden": 234,
+   "tokens": 28635,
+   "paar": 28202,
    "vor": 3,
-   "kandidaten_zeilen": 1252,
+   "kandidaten_zeilen": 1327,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -1082,19 +1244,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    742
+    783
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    325
+    350
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    101
+    109
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    60
+    61
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -1118,7 +1280,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-10-30T05:03:33+01:00"
+   "zeit": "2026-10-30T07:06:02+01:00"
   },
   {
    "name": "Kadabra",
@@ -1150,7 +1312,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-10-30T07:05:20+01:00"
+   "zeit": "2026-10-30T07:15:20+01:00"
   },
   {
    "name": "Magnayen",
@@ -1162,56 +1324,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-30T06:02:39",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T06:03:39",
-   "SCAN",
-   "Runde: 109 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T06:04:39",
-   "SCAN",
-   "Runde: 111 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T06:05:39",
-   "SCAN",
-   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T06:06:39",
-   "SCAN",
-   "Runde: 115 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T06:07:39",
-   "SCAN",
-   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T06:08:39",
-   "SCAN",
-   "Runde: 119 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T06:09:39",
-   "SCAN",
-   "Runde: 117 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T06:10:39",
-   "SCAN",
-   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T06:11:39",
-   "SCAN",
-   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-10-30T06:12:39",
    "SCAN",
@@ -1461,6 +1573,56 @@
    "2026-10-30T07:05:20",
    "SCAN",
    "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T07:06:20",
+   "SCAN",
+   "Runde: 132 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T07:07:20",
+   "SCAN",
+   "Runde: 128 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T07:08:20",
+   "SCAN",
+   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T07:09:20",
+   "SCAN",
+   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T07:10:20",
+   "SCAN",
+   "Runde: 131 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T07:11:20",
+   "SCAN",
+   "Runde: 131 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T07:12:20",
+   "SCAN",
+   "Runde: 132 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T07:13:20",
+   "SCAN",
+   "Runde: 128 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T07:14:19",
+   "SCAN",
+   "Runde: 111 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T07:15:20",
+   "SCAN",
+   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -1468,5 +1630,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T07:05:20+01:00"
+ "daten_neuest": "2026-10-30T07:15:20+01:00"
 }

@@ -1,5 +1,5 @@
 {
- "stand_daten": "30.10.2026 00:07",
+ "stand_daten": "30.10.2026 02:04",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -471,6 +471,196 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-10-30T02:05:00+01:00",
+   "coin": "FARTCOIN",
+   "ca": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+   "posts_1h": "1",
+   "trend_pct": "0",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja: Bot-Spam 'dev hopped on live' mit CA von 0-Follower-Account (10/2026), vermutl. Phishing",
+   "score_0_10": "0",
+   "quelle_links": "https://x.com/CarrieWillymtn/status/2115948421651874028",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T02:05:00+01:00",
+   "coin": "USELESS",
+   "ca": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+   "posts_1h": "0",
+   "trend_pct": "-100",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja: Bot-Spam 'dev is live / gives out SOL' von 0-Follower-Accounts",
+   "score_0_10": "0",
+   "quelle_links": "https://x.com/Anthony14901275/status/2115944504712643026 https://x.com/KyleGalvanrjyj/status/2115952683941052693",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T02:05:00+01:00",
+   "coin": "PENGU",
+   "ca": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+   "posts_1h": "128",
+   "trend_pct": "38",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "5",
+   "quelle_links": "https://x.com/JudFlrs/status/2115970102537625696",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T02:05:00+01:00",
+   "coin": "POPCAT",
+   "ca": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+   "posts_1h": "13",
+   "trend_pct": "-24",
+   "top_engagement": "L2",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "1",
+   "quelle_links": "https://x.com/Kee_madeit/status/2115954883941822654",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T02:05:00+01:00",
+   "coin": "GIGA",
+   "ca": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+   "posts_1h": "1",
+   "trend_pct": "n/a",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T02:05:00+01:00",
+   "coin": "VINE",
+   "ca": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+   "posts_1h": "0",
+   "trend_pct": "-100",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T02:05:00+01:00",
+   "coin": "CHILLGUY",
+   "ca": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
+   "posts_1h": "2",
+   "trend_pct": "-85",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T02:05:00+01:00",
+   "coin": "WIF",
+   "ca": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+   "posts_1h": "0",
+   "trend_pct": "-100",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein (Fake-CA fuUb3T… im Fenster nicht mehr gesehen)",
+   "score_0_10": "0",
+   "quelle_links": "https://x.com/Daily_T_Setups/status/2115941917024227404",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T02:05:00+01:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "11",
+   "trend_pct": "-72",
+   "top_engagement": "R24 (RT @TheGTA6cat)",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "ja: Bot-Spam 'dev live' (3 Accounts, 0 Follower, 10/2026) + RT-Kampagne",
+   "score_0_10": "1",
+   "quelle_links": "https://x.com/LatashaJimbgdv/status/2115944773072945480 https://x.com/NewsAsTheyAre/status/2115944467320467520",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T02:05:00+01:00",
+   "coin": "SI276",
+   "ca": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+   "posts_1h": "0",
+   "trend_pct": "-100",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein (ausgesetzt bis Panzaeron-Prüfung 07:15)",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "datei": "2026-10-30.md",
+   "titel": "Scan 02:00 – Fr 30.10.2026, 02:02 Uhr (Europe/Berlin)",
+   "text": ""
+  },
+  {
+   "zeitpunkt": "2026-10-30T01:13:00+01:00",
+   "coin": "BNB",
+   "signal": "verkauf",
+   "quelle": "https://x.com/binance/status/2115960292115124558",
+   "titel": "Binance: Ein-/Auszahlungen ausgesetzt, deckt alle Verluste",
+   "text": "Offiziell, keine Abschlussmeldung. Yi He 01:04: 'will cover all hacking losses', Post-Mortem nach Abschluss. KAUF_PAUSE bleibt.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T00:06:00+01:00",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "https://x.com/binance/status/2115943482204574108",
+   "titel": "Binance Alpha-Handel ausgesetzt",
+   "text": "Teil der Sicherheitsmaßnahmen.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T01:52:00+01:00",
+   "coin": "USDT",
+   "signal": "neutral",
+   "quelle": "https://x.com/binance/status/2115970069696217576",
+   "titel": "Binance: verifiziert eingefroren ~3 Mrd $",
+   "text": "00:22 noch 2,54 Mrd $; ZachXBT 02:01 >2,83 Mrd $; Arbitrum 01:14 30,5 Mio $.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T02:01:00+01:00",
+   "coin": "ETH",
+   "signal": "verkauf",
+   "quelle": "https://x.com/lookonchain/status/2115972257864687976",
+   "titel": "Hacker tauscht Alts in 70.480 ETH",
+   "text": "UNI 39,6 Mio, ENA 33,9 Mio, PEPE 31,7 Mio u. a. (Lookonchain, On-Chain).",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T02:00:00+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "https://data-api.binance.vision/api/v3/ticker/price",
+   "titel": "Binance-Prämie gering",
+   "text": "BTCUSDT 77.139 vs Coinbase/Kraken 76.939 (+0,26 %, USDT 0,9984 → ~+0,1 %); ETH +0,2 %. Auszahlungen gesperrt → Arbitrage blockiert.",
+   "datei": "2026-10-30.csv"
+  },
+  {
    "datei": "2026-10-29.md",
    "titel": "Scan 23:00 – Do 29.10.2026, 22:59 Uhr (Europe/Berlin)",
    "text": ""
@@ -686,19 +876,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-30 01:39:22",
-   "tokens": 127,
-   "paar": 125,
+   "t": "2026-10-30 02:22:23",
+   "tokens": 114,
+   "paar": 111,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 48,
-   "tokens": 5929,
-   "paar": 5796,
+   "runden": 70,
+   "tokens": 8573,
+   "paar": 8334,
    "vor": 1,
-   "kandidaten_zeilen": 274,
+   "kandidaten_zeilen": 381,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -707,19 +897,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    161
+    227
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    69
+    95
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    24
+    33
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    8
+    13
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -743,7 +933,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-10-29T23:05:48+01:00"
+   "zeit": "2026-10-30T02:04:58+01:00"
   },
   {
    "name": "Kadabra",
@@ -775,7 +965,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-30T01:39:22+01:00"
+   "zeit": "2026-10-30T02:22:23+01:00"
   },
   {
    "name": "Magnayen",
@@ -787,151 +977,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-29T23:54:50",
-   "SCAN",
-   "Runde: 128 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-29T23:55:58",
-   "SCAN",
-   "Runde: 118 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 18 s"
-  ],
-  [
-   "2026-10-29T23:56:56",
-   "SCAN",
-   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
-  ],
-  [
-   "2026-10-30T00:06:42",
-   "RISK",
-   "supervisor: Box war 521 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-30T00:06:51",
-   "SCAN",
-   "Runde: 126 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 55 s"
-  ],
-  [
-   "2026-10-30T00:07:22",
-   "SCAN",
-   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-30T00:08:22",
-   "SCAN",
-   "Runde: 113 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-30T00:09:22",
-   "SCAN",
-   "Runde: 128 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-30T00:10:22",
-   "SCAN",
-   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-30T00:11:22",
-   "SCAN",
-   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-30T00:16:12",
-   "RISK",
-   "supervisor: Box war 240 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-30T00:16:16",
-   "SCAN",
-   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 24 s"
-  ],
-  [
-   "2026-10-30T00:17:31",
-   "SCAN",
-   "Runde: 130 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 39 s"
-  ],
-  [
-   "2026-10-30T00:18:02",
-   "SCAN",
-   "Runde: 130 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-30T00:19:18",
-   "SCAN",
-   "Runde: 129 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 27 s"
-  ],
-  [
-   "2026-10-30T00:20:02",
-   "SCAN",
-   "Runde: 112 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-30T00:21:15",
-   "SCAN",
-   "Runde: 128 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 23 s"
-  ],
-  [
-   "2026-10-30T00:22:08",
-   "SCAN",
-   "Runde: 129 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
-  ],
-  [
-   "2026-10-30T00:23:42",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=2"
-  ],
-  [
-   "2026-10-30T00:23:43",
-   "SCAN",
-   "Runde: 107 Tokens, 105 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 52 s"
-  ],
-  [
-   "2026-10-30T00:24:15",
-   "SCAN",
-   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-30T00:25:37",
-   "RISK",
-   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
-  ],
-  [
-   "2026-10-30T00:25:43",
-   "SCAN",
-   "Runde: 100 Tokens, 98 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 39 s"
-  ],
-  [
-   "2026-10-30T00:26:14",
-   "SCAN",
-   "Runde: 117 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-30T00:27:14",
-   "SCAN",
-   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-30T00:35:51",
-   "RISK",
-   "supervisor: Box war 518 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-30T00:36:23",
-   "SCAN",
-   "Runde: 121 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
-  ],
-  [
-   "2026-10-30T00:37:18",
-   "SCAN",
-   "Runde: 130 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-30T00:38:33",
-   "SCAN",
-   "Runde: 127 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 26 s"
-  ],
   [
    "2026-10-30T00:39:23",
    "SCAN",
@@ -1086,6 +1131,151 @@
    "2026-10-30T01:39:22",
    "SCAN",
    "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 26 s"
+  ],
+  [
+   "2026-10-30T01:40:12",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
+  ],
+  [
+   "2026-10-30T01:42:20",
+   "RISK",
+   "WARN preise: API fehlgeschlagen: https://api.dexscreener.com/tokens/v1/solana/Ei2Pb7zPqqGu77o4keaGi5UpJfR1UXyqeaQ"
+  ],
+  [
+   "2026-10-30T01:43:09",
+   "RISK",
+   "WARN preise: API fehlgeschlagen: https://api.dexscreener.com/tokens/v1/solana/8GJxURLHvRDG8WqJZzRTn842x4H9NSyzzkv"
+  ],
+  [
+   "2026-10-30T01:43:09",
+   "SCAN",
+   "Runde: 127 Tokens, 89 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 132 s"
+  ],
+  [
+   "2026-10-30T01:43:53",
+   "RISK",
+   "WARN preise: API fehlgeschlagen: https://api.dexscreener.com/tokens/v1/solana/31qeNEvHp3mC4fVkU4uNrZyQzvCEbcUvDGu"
+  ],
+  [
+   "2026-10-30T01:51:37",
+   "RISK",
+   "supervisor: Box war 439 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-30T01:52:38",
+   "SCAN",
+   "Runde: 122 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 94 s"
+  ],
+  [
+   "2026-10-30T01:54:14",
+   "SCAN",
+   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 72 s"
+  ],
+  [
+   "2026-10-30T01:55:01",
+   "SCAN",
+   "Runde: 107 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 27 s"
+  ],
+  [
+   "2026-10-30T01:55:58",
+   "SCAN",
+   "Runde: 114 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 23 s"
+  ],
+  [
+   "2026-10-30T02:02:33",
+   "RISK",
+   "supervisor: Box war 356 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-30T02:02:45",
+   "SCAN",
+   "Runde: 124 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 33 s"
+  ],
+  [
+   "2026-10-30T02:03:22",
+   "SCAN",
+   "Runde: 124 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:04:22",
+   "SCAN",
+   "Runde: 125 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:05:22",
+   "SCAN",
+   "Runde: 125 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:06:22",
+   "SCAN",
+   "Runde: 125 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:07:22",
+   "SCAN",
+   "Runde: 114 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:08:22",
+   "SCAN",
+   "Runde: 119 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:09:22",
+   "SCAN",
+   "Runde: 106 Tokens, 104 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:10:22",
+   "SCAN",
+   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:11:22",
+   "SCAN",
+   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:12:22",
+   "SCAN",
+   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:14:06",
+   "RISK",
+   "supervisor: Box war 73 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-30T02:18:39",
+   "RISK",
+   "supervisor: Box war 273 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-30T02:18:40",
+   "SCAN",
+   "Runde: 122 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 27 s"
+  ],
+  [
+   "2026-10-30T02:19:23",
+   "SCAN",
+   "Runde: 112 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:20:23",
+   "SCAN",
+   "Runde: 111 Tokens, 107 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:21:24",
+   "SCAN",
+   "Runde: 127 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T02:22:23",
+   "SCAN",
+   "Runde: 114 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -1093,5 +1283,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T01:39:22+01:00"
+ "daten_neuest": "2026-10-30T02:22:23+01:00"
 }

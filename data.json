@@ -964,8 +964,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-10-30T03:26:57+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-10-30T03:34:32+01:00"
   },
   {
    "name": "Magnayen",
@@ -977,11 +977,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-30T01:43:09",
-   "RISK",
-   "WARN preise: API fehlgeschlagen: https://api.dexscreener.com/tokens/v1/solana/8GJxURLHvRDG8WqJZzRTn842x4H9NSyzzkv"
-  ],
   [
    "2026-10-30T01:43:09",
    "SCAN",
@@ -1276,6 +1271,11 @@
    "2026-10-30T03:26:57",
    "SCAN",
    "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T03:34:32",
+   "RISK",
+   "supervisor: Box war 408 s eingefroren – neue Frist 180 s"
   ]
  ],
  "trefferquote": {
@@ -1283,5 +1283,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T03:26:57+01:00"
+ "daten_neuest": "2026-10-30T03:34:32+01:00"
 }

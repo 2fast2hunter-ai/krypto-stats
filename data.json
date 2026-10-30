@@ -1,5 +1,5 @@
 {
- "stand_daten": "30.10.2026 14:10",
+ "stand_daten": "30.10.2026 15:02",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -1730,9 +1730,51 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-10-30T15:10:00+01:00",
+   "coin": "TROLL",
+   "ca": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+   "posts_1h": "21",
+   "trend_pct": "-9",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "ja: RT-Ring (fortlaufend)",
+   "score_0_10": "2",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T15:10:00+01:00",
+   "coin": "GATO+GOAT+NEET+FONE+JEANPHIL+SI276",
+   "ca": "gebündelt per CA (Hspr für GATO)",
+   "posts_1h": "8",
+   "trend_pct": "167",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "2",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T15:10:00+01:00",
+   "coin": "PENGU+POPCAT+FARTCOIN+USELESS+GIGA+VINE+WIF",
+   "ca": "gebündelt per CA",
+   "posts_1h": "7",
+   "trend_pct": "17",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "2",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-10-30.md",
-   "titel": "Scan 14:00 – Fr 30.10.2026, 14:15 Uhr (Europe/Berlin)",
-   "text": "- Binance: seit 12:57 keine neuen offiziellen Posts. Auszahlungen ZU (Ziel ~1.11. ~06:47), kein Post-Mortem, kein PoR.\n- **KAUF_PAUSE-Kriterien:** Auszahlungen offen ✗ · max. 1h-Range letzte 6 h BTC 0,81 % / ETH 1,26 % / SOL 1,30 % ✓ · ETH 2.231 > 2.125 (+5,0 %) ✓ → **Pause bleibt.**\n- Makro-Termine: Chicago PMI 14:45 Berlin (noch offen). CME-BTC-Monatsverfall 17:00 Berlin = Regel (letzter Freitag, 16:00 London) – **nicht per CME-Seite verifiziert**.\n- Listings (Binance/Coinbase/Bybit/OKX): keine neuen; Upbit nicht prüfbar. Solana: nichts Neues außer SOL-Abhebung oben.\n- SI276 (ausgesetzt): 0,0003768 $ (−34,6 % 24h), Liq 61.946 $.\n- **Shill/Köder:** CA 5wsjHxT5nW5jQuVupXUNnYszF3WoWCfGGk9LMcsCJzY8 ist Token „$STANK“ (nicht FARTCOIN) – Retweet-Ring aus 1–60-Follower-Accounts (@Gilo522, @Rasa891, @CasperFavor, @Jame0187) plus @RonnieRiches (34k, L46). TROLL: weiter RT-Posts (@hip2this, @TrollionsTroll).\n- Kandidaten seit 12:00: keine.\n- Binance: Auszahlungen weiter ZU (Ziel ~1.11. ~06:47), kein Post-Mortem, kein PoR, Recovery-Umfang unbekannt.\n- **Panzaeron-Aufhebungskriterien (Stand 13:05):** größte 1h-Spanne der letzten 6 h (Binance klines): BTC 0,81 % (12:00-Kerze), ETH 1,26 % (11:00), SOL 1,30 % (08:00) → ✓ keine Stunde >3 %. ETH 2.234 $ ≈ 5,1 % über 2.125 $ → ✓. Binance-Auszahlungen offiziell offen → ✗. **KAUF_PAUSE bleibt.**\n- Makro: ECI 13:30 noch nicht veröffentlicht (Berichtszeit 13:10) – nachtragen im 14:00-Scan. Chicago PMI 14:45.\n- SI276 (ausgesetzt): 0,0003522 $ (−3"
+   "titel": "Scan 15:00 – Fr 30.10.2026, 15:10 Uhr (Europe/Berlin)",
+   "text": "- Binance: seit 12:57 keine neuen offiziellen Posts. Auszahlungen ZU (Ziel ~1.11. ~06:47), kein Post-Mortem, kein PoR.\n- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 6 h: BTC 1,09 % (14:00), ETH 1,26 % (11:00), **SOL 2,36 % (14:00) – nahe 3 %** ✓ · ETH 2.226 > 2.125 (+4,8 %) ✓ → **Pause bleibt.**\n- SOL-Abzug 2VXozU: keine weitere Quelle außer Lookonchain-Zweitpost (@BitNewsNo1, 14:10); keine Folgebewegung gemeldet.\n- CME-Verfall 17:00: CME-Seite nicht auswertbar → **weiter unbestätigt** (Regel). Weitere Termine: keine großen US-Daten heute Abend; Wochenende 31.10./1.11.: Binance-Auszahlungsziel ~1.11. 06:47, PoR-Snapshot 1.11.\n- Listings: keine neuen (OKX nur Werbepost); Upbit nicht prüfbar. Solana: nichts Neues.\n- SI276 (ausgesetzt): 0,0003710 $ (−40,0 % 24h), Liq 60.987 $.\n- Kandidaten seit 13:00: keine.\n- Binance: seit 12:57 keine neuen offiziellen Posts. Auszahlungen ZU (Ziel ~1.11. ~06:47), kein Post-Mortem, kein PoR.\n- **KAUF_PAUSE-Kriterien:** Auszahlungen offen ✗ · max. 1h-Range letzte 6 h BTC 0,81 % / ETH 1,26 % / SOL 1,30 % ✓ · ETH 2.231 > 2.125 (+5,0 %) ✓ → **Pause bleibt.**\n- Makro-Termine: Chicago PMI 14:45 Berlin (noch offen). CME-BTC-Monatsverfall 17:00 Berlin = Regel (letzter Freitag, 16:00 London) – **nicht per CME-Seite verifiziert**.\n- Listings (Binance/Coinbase/Bybit/OKX): keine neuen; Upbit nicht prüfbar. Solana: nichts Neues außer SOL-Abhebung oben.\n- SI276 (ausgesetzt): 0,0003768 $ (−34,6 % 24h), Liq 61.946 $.\n- **Shill/Köder:** CA 5wsjHxT5n"
   },
   {
    "zeitpunkt": "2026-10-30T01:13:00+01:00",
@@ -1996,6 +2038,33 @@
    "datei": "2026-10-30.csv"
   },
   {
+   "zeitpunkt": "2026-10-30T14:45:00+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "https://www.investing.com/economic-calendar/chicago-pmi-38",
+   "titel": "Chicago PMI 55,3 unter Erwartung",
+   "text": "Erwartung 55,8, Vormonat 58,8.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T14:24:00+01:00",
+   "coin": "ETH",
+   "signal": "neutral",
+   "quelle": "https://x.com/lookonchain/status/2116159431679570229",
+   "titel": "Hacker verliert 3,32 Mio $ Altcoins an NEWT-Contract",
+   "text": "Einzelquelle Lookonchain.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T14:27:00+01:00",
+   "coin": "ETH",
+   "signal": "neutral",
+   "quelle": "https://x.com/lookonchain/status/2116160060716159167",
+   "titel": "ETF-Flows: BTC +30,5 Mio, ETH −62,3 Mio",
+   "text": "Lookonchain-Zusammenfassung.",
+   "datei": "2026-10-30.csv"
+  },
+  {
    "datei": "2026-10-29.md",
    "titel": "Scan 23:00 – Do 29.10.2026, 22:59 Uhr (Europe/Berlin)",
    "text": ""
@@ -2211,19 +2280,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-30 14:41:25",
+   "t": "2026-10-30 15:02:45",
    "tokens": 121,
-   "paar": 120,
+   "paar": 121,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 527,
-   "tokens": 64809,
-   "paar": 63918,
+   "runden": 538,
+   "tokens": 66131,
+   "paar": 65230,
    "vor": 8,
-   "kandidaten_zeilen": 2609,
+   "kandidaten_zeilen": 2643,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -2232,15 +2301,15 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1517
+    1541
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    735
+    742
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    191
+    193
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -2268,7 +2337,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-10-30T14:10:25+01:00"
+   "zeit": "2026-10-30T15:02:33+01:00"
   },
   {
    "name": "Kadabra",
@@ -2300,7 +2369,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-10-30T14:41:25+01:00"
+   "zeit": "2026-10-30T15:02:46+01:00"
   },
   {
    "name": "Magnayen",
@@ -2312,71 +2381,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-30T13:34:25",
-   "SCAN",
-   "Runde: 117 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T13:35:25",
-   "SCAN",
-   "Runde: 116 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T13:36:25",
-   "SCAN",
-   "Runde: 118 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T13:37:25",
-   "SCAN",
-   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T13:38:25",
-   "SCAN",
-   "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T13:39:25",
-   "SCAN",
-   "Runde: 121 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T13:40:25",
-   "SCAN",
-   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T13:41:25",
-   "SCAN",
-   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T13:42:25",
-   "RISK",
-   "BLOCK Dacity: Insider-Netzwerke (≤50 Wallets) 30.6 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-10-30T13:42:27",
-   "SCAN",
-   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
-  ],
-  [
-   "2026-10-30T13:43:25",
-   "RISK",
-   "BLOCK Dacity: Insider-Netzwerke (≤50 Wallets) 30.6 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-10-30T13:43:26",
-   "SCAN",
-   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-30T13:45:25",
-   "RISK",
-   "supervisor: Box war 81 s eingefroren – neue Frist 180 s"
-  ],
   [
    "2026-10-30T13:45:33",
    "SCAN",
@@ -2611,6 +2615,71 @@
    "2026-10-30T14:41:25",
    "SCAN",
    "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T14:42:25",
+   "SCAN",
+   "Runde: 122 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T14:43:25",
+   "SCAN",
+   "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T14:44:25",
+   "SCAN",
+   "Runde: 122 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T14:49:27",
+   "RISK",
+   "supervisor: Box war 245 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-30T14:49:28",
+   "SCAN",
+   "Runde: 120 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 25 s"
+  ],
+  [
+   "2026-10-30T14:50:14",
+   "SCAN",
+   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T14:51:14",
+   "SCAN",
+   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T14:52:14",
+   "SCAN",
+   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T14:53:13",
+   "SCAN",
+   "Runde: 111 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T14:54:13",
+   "SCAN",
+   "Runde: 112 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T15:01:52",
+   "RISK",
+   "supervisor: Box war 412 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-30T15:01:57",
+   "SCAN",
+   "Runde: 122 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 22 s"
+  ],
+  [
+   "2026-10-30T15:02:45",
+   "SCAN",
+   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -2618,5 +2687,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T14:41:25+01:00"
+ "daten_neuest": "2026-10-30T15:02:46+01:00"
 }

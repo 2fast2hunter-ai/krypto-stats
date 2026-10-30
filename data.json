@@ -1,5 +1,5 @@
 {
- "stand_daten": "30.10.2026 09:14",
+ "stand_daten": "30.10.2026 10:08",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -1304,9 +1304,152 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-10-30T10:15:00+01:00",
+   "coin": "GATO [Fiffyen-Freigabe = GTA6CAT-Pair]",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "0",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T10:15:00+01:00",
+   "coin": "GTA6 (nicht GATO",
+   "ca": " ungültig)",
+   "posts_1h": "4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz",
+   "trend_pct": "10",
+   "top_engagement": "-17",
+   "grosse_accounts": "R40 (RT-Kampagne @ElonTrades)",
+   "stimmung": "keine",
+   "shill_verdacht": "positiv",
+   "score_0_10": "ja: 'dev live'-Spam, RT-Kampagne",
+   "quelle_links": "0",
+   "null": [
+    "https://x.com/elcrib61/status/2116064652555604302"
+   ],
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T10:15:00+01:00",
+   "coin": "GOAT",
+   "ca": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+   "posts_1h": "2",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja: Airdrop-Spam",
+   "score_0_10": "0",
+   "quelle_links": "https://x.com/RepYourCity/status/2116080174706131229",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T10:15:00+01:00",
+   "coin": "TROLL",
+   "ca": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+   "posts_1h": "12",
+   "trend_pct": "500",
+   "top_engagement": "R6",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "ja: 'dev live' + LIVE-AIRDROP-Spam",
+   "score_0_10": "3",
+   "quelle_links": "https://x.com/TravisFrannhs5/status/2116063995547300013",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T10:15:00+01:00",
+   "coin": "NEET",
+   "ca": "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
+   "posts_1h": "0",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T10:15:00+01:00",
+   "coin": "FONE",
+   "ca": "CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump",
+   "posts_1h": "0",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T10:15:00+01:00",
+   "coin": "JEANPHIL",
+   "ca": "GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump",
+   "posts_1h": "3",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "1",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T10:15:00+01:00",
+   "coin": "PENGU",
+   "ca": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+   "posts_1h": "2",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "1",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T10:15:00+01:00",
+   "coin": "POPCAT",
+   "ca": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+   "posts_1h": "0",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T10:15:00+01:00",
+   "coin": "REST (FARTCOIN/USELESS/GIGA/VINE/WIF)",
+   "ca": "gebündelt per CA",
+   "posts_1h": "12",
+   "trend_pct": "140",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja: LIVE-AIRDROP-Spamnetz",
+   "score_0_10": "2",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-10-30.md",
-   "titel": "Scan 09:00 – Fr 30.10.2026, 09:10 Uhr (Europe/Berlin)",
-   "text": "- ETH 2.229 $ ≈ 4,9 % über Liquidationsmarke ~2.125 $ (Abstand schrumpft, 08:00 noch ~6 %).\n- SI276 (ausgesetzt): 0,0003749 $ (−29,2 % 24h), Liq 61.920 $, Bot-Muster 1.005/344 Trades/h.\n- Makro: ECI 13:30, Chicago PMI 14:45 Berlin; CME-Verfall 17:00 (Regel).\n- Shill: „LIVE AIRDROP“-Spamnetz (@sbusfzi, @LizethMonArt, @Gustavoomqs) mit CAs von WIF, FARTCOIN, GIGA, VINE – Phishing-Verdacht.\n- Kandidaten seit 07:00: keine.\n- Binance: seit 05:36 keine neuen offiziellen Posts (X-Suche @binance/@cz_binance/@heyibinance/@_RichardTeng, 05:40–08:00). Auszahlungen ZU, Einzahlungen offen, kein Post-Mortem/PoR. KAUF_PAUSE bleibt.\n- Preis Binance vs. Coinbase/Kraken: BTC 78.655 vs 78.480/78.486 (+0,22 %), ETH 2.254,35 vs 2.250,0/2.250,1 (+0,19 %) – unverändert, keine Störung.\n- Optionsverfall 09:00: Max Pain 79.000 $, P/C 0,60 ([Swiftedge](https://swiftedge.uk/btc/max-pain), 07:46); BTC 0,6 % darunter.\n- ETH 2.250 $ ≈ 6 % über 2.125 $; Status Hyperliquid-Wal weiter unverifiziert. Keine neuen Hacker-Meldungen (Lookonchain/PeckShield/ZachXBT).\n- SI276 (ausgesetzt): 0,0003954 $ (−25,3 % 24h, −1,6 % 1h), Vol 1h 925 $ bei 1.003 Käufen/342 Verkäufen (Bot-Muster unverändert), Liq 63.951 $.\n- Makro heute (US, ET→Berlin): Employment Cost Index Q3 08:30 ET = **13:30 Berlin** ([BLS](https://www.bls.gov/schedule/news_release/eci.htm)), Chicago PMI 09:45 ET = 14:45 Berlin; GDP/PCE kamen schon am 29.10. CME-Verfall 17:00 (Regel).\n- X: PENGU-Posts +195 % (Asien-„Pengu Morning“-Community-Grüße, kein Anlas"
+   "titel": "Scan 10:00 – Fr 30.10.2026, 10:15 Uhr (Europe/Berlin)",
+   "text": "- ETH 2.227 $ ≈ 4,8 % über 2.125 $. Wal 0x15a4 (20x-Short 13.000 ETH): weiterhin nur Lookonchain, keine zweite Quelle gefunden.\n- CoinDesk/The Block/Bloomberg: keine neuen Fakten über das Binance-Update hinaus (The Block 08:00: Polymarket nach 2,65-Mio-$-Exploit wieder offen).\n- Listings: keine neuen Ankündigungen von @binance/@coinbaseassets/@Bybit_Official gefunden; Upbit nicht geprüft (keine Quelle verfügbar).\n- GATO-CA-Klärung: **HsprHx…pump = GTA6CAT/GATO** (pumpswap-Pair 5E3dXLXG…, Liq 213k $, Preis 0,00465). 4kjruq…DzNz = eigener Token „GTA VI“ (GTA6), im Scanner korrekt als eigener Token geführt und aussortiert – nicht GATO, nicht in GATO-Wertung. ~~Scanner-CA ist falsch zugeordnet.~~ (Korrektur 10:08: Fehler lag in der Notiz, nicht im Scanner.)\n- Kandidaten seit 08:00: keine.\n- ETH 2.229 $ ≈ 4,9 % über Liquidationsmarke ~2.125 $ (Abstand schrumpft, 08:00 noch ~6 %).\n- SI276 (ausgesetzt): 0,0003749 $ (−29,2 % 24h), Liq 61.920 $, Bot-Muster 1.005/344 Trades/h.\n- Makro: ECI 13:30, Chicago PMI 14:45 Berlin; CME-Verfall 17:00 (Regel).\n- Shill: „LIVE AIRDROP“-Spamnetz (@sbusfzi, @LizethMonArt, @Gustavoomqs) mit CAs von WIF, FARTCOIN, GIGA, VINE – Phishing-Verdacht.\n- Kandidaten seit 07:00: keine.\n- Binance: seit 05:36 keine neuen offiziellen Posts (X-Suche @binance/@cz_binance/@heyibinance/@_RichardTeng, 05:40–08:00). Auszahlungen ZU, Einzahlungen offen, kein Post-Mortem/PoR. KAUF_PAUSE bleibt.\n- Preis Binance vs. Coinbase/Kraken: BTC 78.655 vs 78.480/78.486 (+0,22 %), ETH"
   },
   {
    "zeitpunkt": "2026-10-30T01:13:00+01:00",
@@ -1477,6 +1620,42 @@
    "quelle": "https://x.com/lookonchain/status/2116071971054334398",
    "titel": "Lazarus-Verbindung möglich (unbestätigt)",
    "text": "Gerücht, nicht bestätigt.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T09:47:00+01:00",
+   "coin": "BNB",
+   "signal": "verkauf",
+   "quelle": "https://x.com/binance/status/2116089661408108712",
+   "titel": "Binance: weitere Einbruchspunkte entdeckt",
+   "text": "Offizielles Update: zusätzlich zum Laptop weitere Breach-Punkte, komplexer Angriff. Auszahlungen weiter pausiert, kein Post-Mortem/PoR.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T09:00:00+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "https://www.deribit.com/api/v2/public/get_delivery_prices?index_name=btc_usd",
+   "titel": "Deribit-Settlement 78.119",
+   "text": "BTC 78.119,01 / ETH 2.235,49, unter Max Pain 79k.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T06:12:00+01:00",
+   "coin": "SOL",
+   "signal": "neutral",
+   "quelle": "https://coindesk.cc/story/2026/10/mirae-asset-securities-issues-tokenized-notes-on-solana",
+   "titel": "Mirae tokenisierte Notes auf Solana",
+   "text": "Institutionelle Platzierung, Volumen nicht genannt.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T08:00:00+01:00",
+   "coin": "SOL",
+   "signal": "neutral",
+   "quelle": "https://www.coingabbar.com/en/solana-news-kamino-borrowing-pause-rwa-value-ondo",
+   "titel": "Kamino pausiert SOL/BTC-Borrowing",
+   "text": "Vorsorglich wegen Binance-Lage; Uhrzeit des Kamino-Posts nicht bekannt (zeitpunkt = Artikel).",
    "datei": "2026-10-30.csv"
   },
   {
@@ -1695,19 +1874,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-30 10:05:02",
-   "tokens": 130,
+   "t": "2026-10-30 10:09:02",
+   "tokens": 131,
    "paar": 130,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 337,
-   "tokens": 41841,
-   "paar": 41266,
+   "runden": 341,
+   "tokens": 42361,
+   "paar": 41784,
    "vor": 3,
-   "kandidaten_zeilen": 1787,
+   "kandidaten_zeilen": 1791,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -1716,7 +1895,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1041
+    1044
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -1732,7 +1911,7 @@
    ],
    [
     "Vorfilter: keine Socials/Website auf DexScreener",
-    13
+    14
    ]
   ]
  },
@@ -1752,7 +1931,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-10-30T09:09:17+01:00"
+   "zeit": "2026-10-30T10:08:22+01:00"
   },
   {
    "name": "Kadabra",
@@ -1784,7 +1963,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-10-30T10:05:02+01:00"
+   "zeit": "2026-10-30T10:09:02+01:00"
   },
   {
    "name": "Magnayen",
@@ -1796,26 +1975,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-30T08:44:33",
-   "SCAN",
-   "Runde: 132 Tokens, 132 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T08:53:33",
-   "RISK",
-   "supervisor: Box war 533 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-30T08:53:33",
-   "RISK",
-   "supervisor: scanner beendet (rc 143), Neustart in 15 s"
-  ],
-  [
-   "2026-10-30T08:53:48",
-   "SCAN",
-   "Start meme-scan (PAPER, keine Wallet) pid 2325351"
-  ],
   [
    "2026-10-30T08:53:58",
    "SCAN",
@@ -2095,6 +2254,26 @@
    "2026-10-30T10:05:02",
    "SCAN",
    "Runde: 130 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T10:06:02",
+   "SCAN",
+   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T10:07:02",
+   "SCAN",
+   "Runde: 130 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T10:08:02",
+   "SCAN",
+   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T10:09:02",
+   "SCAN",
+   "Runde: 131 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -2102,5 +2281,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T10:05:02+01:00"
+ "daten_neuest": "2026-10-30T10:09:02+01:00"
 }

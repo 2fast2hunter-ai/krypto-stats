@@ -1784,7 +1784,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-30T09:49:37+01:00"
+   "zeit": "2026-10-30T09:53:56+01:00"
   },
   {
    "name": "Magnayen",
@@ -2092,9 +2092,9 @@
    "Runde: 131 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ],
   [
-   "2026-10-30T09:49:37",
+   "2026-10-30T09:53:56",
    "RISK",
-   "supervisor: Box war 62 s eingefroren – neue Frist 180 s"
+   "supervisor: Box war 321 s eingefroren – neue Frist 180 s"
   ]
  ],
  "trefferquote": {
@@ -2102,5 +2102,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T09:49:37+01:00"
+ "daten_neuest": "2026-10-30T09:53:56+01:00"
 }

@@ -2399,19 +2399,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-30 17:15:38",
-   "tokens": 113,
-   "paar": 107,
+   "t": "2026-10-30 17:22:50",
+   "tokens": 116,
+   "paar": 116,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 638,
-   "tokens": 77821,
-   "paar": 76703,
-   "vor": 12,
-   "kandidaten_zeilen": 3115,
+   "runden": 644,
+   "tokens": 78514,
+   "paar": 77380,
+   "vor": 13,
+   "kandidaten_zeilen": 3127,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -2420,11 +2420,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1822
+    1830
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    864
+    866
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -2432,7 +2432,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    131
+    132
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -2488,7 +2488,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-10-30T17:15:38+01:00"
+   "zeit": "2026-10-30T17:22:51+01:00"
   },
   {
    "name": "Magnayen",
@@ -2500,41 +2500,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-30T16:07:48",
-   "SCAN",
-   "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T16:08:48",
-   "SCAN",
-   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T16:09:56",
-   "SCAN",
-   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 18 s"
-  ],
-  [
-   "2026-10-30T16:10:48",
-   "SCAN",
-   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T16:11:48",
-   "SCAN",
-   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T16:12:48",
-   "SCAN",
-   "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T16:13:48",
-   "SCAN",
-   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-10-30T16:14:48",
    "SCAN",
@@ -2799,6 +2764,41 @@
    "2026-10-30T17:15:38",
    "SCAN",
    "Runde: 113 Tokens, 107 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 22 s"
+  ],
+  [
+   "2026-10-30T17:16:26",
+   "SCAN",
+   "Runde: 115 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T17:17:26",
+   "SCAN",
+   "Runde: 116 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T17:18:26",
+   "SCAN",
+   "Runde: 116 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T17:19:34",
+   "SCAN",
+   "Runde: 113 Tokens, 113 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 19 s"
+  ],
+  [
+   "2026-10-30T17:21:40",
+   "RISK",
+   "supervisor: Box war 103 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-30T17:21:50",
+   "SCAN",
+   "Runde: 117 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T17:22:50",
+   "SCAN",
+   "Runde: 116 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -2806,5 +2806,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T17:15:38+01:00"
+ "daten_neuest": "2026-10-30T17:22:51+01:00"
 }

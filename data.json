@@ -1,5 +1,5 @@
 {
- "stand_daten": "30.10.2026 20:06",
+ "stand_daten": "30.10.2026 21:09",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -2041,9 +2041,65 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-10-30T21:15:00+01:00",
+   "coin": "NIO (Scanner-Schatten)",
+   "ca": "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump",
+   "posts_1h": "32",
+   "trend_pct": "14",
+   "top_engagement": "L7 (@pissed 4k, @blazeycrypto 54k L4)",
+   "grosse_accounts": "@blazeycrypto 54k",
+   "stimmung": "positiv",
+   "shill_verdacht": "ja: Beta-Köder Dip 8JSvLKx…pump (Muster bekannt)",
+   "score_0_10": "3",
+   "quelle_links": "https://x.com/blazeycrypto/status/2116249951265038832",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T21:15:00+01:00",
+   "coin": "FLOAT (Scanner-Schatten)",
+   "ca": "Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr",
+   "posts_1h": "2",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "nein",
+   "score_0_10": "1",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T21:15:00+01:00",
+   "coin": "TROLL+GATO+GOAT+NEET+FONE+JEANPHIL+SI276",
+   "ca": "gebündelt per CA (Hspr für GATO)",
+   "posts_1h": "6",
+   "trend_pct": "-63",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "1",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T21:15:00+01:00",
+   "coin": "PENGU+POPCAT+FARTCOIN+USELESS+GIGA+VINE+WIF",
+   "ca": "gebündelt per CA",
+   "posts_1h": "8",
+   "trend_pct": "-43",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "1",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-10-30.md",
-   "titel": "Scan 20:00 – Fr 30.10.2026, 20:10 Uhr (Europe/Berlin)",
-   "text": "- Binance seit 17:35: keine neuen offiziellen Posts. Auszahlungen ZU (Ziel ~1.11. 06:47), kein Post-Mortem, kein PoR.\n- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 14–20 Uhr: BTC 1,15 % (19:00), ETH 1,83 % (16:00), SOL 2,36 % (14:00; fällt beim nächsten Scan aus dem Fenster) ✓ · ETH 2.231 > 2.125 (+5,0 %) ✓ → **Pause bleibt.**\n- Upbit: nichts Neues. Listings/Solana: nichts Neues. Wochenende: Auszahlungsziel 1.11. ~06:47, PoR-Snapshot 1.11.\n- SI276 (ausgesetzt): 0,0004135 $ (+3,8 % 1h, −16,9 % 24h), Liq 64.173 $ – leichte Erholung.\n- NIO (7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump): 0,001529 $ (+1,4 % 1h, +51,6 % 24h), Liq 150k $ (19:00: 181k); X 28 Posts/h (vorher 41). Scanner: Schatten-Exit 19:21 bei +36,2 % netto (Trailing-Stop) – nur Schatten. On-chain-Hinweise auf X (Einzelposts, unbestätigt): Dev nach 45 h raus, eine Wallet 40 Käufe in 5 Tagen.\n- Shill: nur bekannte Muster (NIO-Callposts „103x“, VIP-Channel @EarlyRada, weitere „paired with NIO“-Beta-Token z. B. von @SoxOnMyMind – CA im Post gekürzt, nicht erfasst).\n- Binance seit 17:35: keine neuen Posts (@binance/@cz_binance/@heyibinance/@_RichardTeng). Auszahlungen ZU (Ziel ~1.11. 06:47), kein Post-Mortem, kein PoR.\n- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 12–18 Uhr: BTC 1,13 %, ETH 1,83 %, SOL 2,36 % ✓ · ETH 2.244 > 2.125 (+5,6 %) ✓ → **Pause bleibt.**\n- Upbit: nichts Neues seit BLUR-Delisting. Listings/Solana: nichts Neues. Wochenende: Auszahlungsziel 1.11. ~06:47, PoR-Snapshot 1.11.\n-"
+   "titel": "Scan 21:00 – Fr 30.10.2026, 21:15 Uhr (Europe/Berlin)",
+   "text": "- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 15–21 Uhr: BTC 1,15 %, ETH 1,83 %, SOL 1,86 % ✓ · ETH 2.241 > 2.125 (+5,5 %) ✓ → **Pause bleibt.**\n- Upbit: nichts Neues. Listings/Solana: nichts Neues. Wochenende: Binance-Auszahlungen ~1.11., PoR bis 2.11.\n- SI276 (ausgesetzt): 0,0004143 $ (−10,3 % 24h), Liq 64.446 $.\n- NIO: 0,001334 $ (−9,4 % 1h), Liq 135k $; X 32 Posts/h. Neuer Scanner-Schatten 20:12: FLOAT (Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr), Liq 196k $, Dev-Konto leer; X: 2 Posts (eigene Positions-Posts, „added more at 700k“) – kein Muster.\n- Shill: nur bekannte (@RonnieRiches/STANK, NIO-Begleit-Token „Dip“ 8JSvLKx3vopwyxJzeuihMWUTVgEKWHKPiAzwTiaqpump = Beta-Köder-Muster, bekannt).\n- Binance seit 17:35: keine neuen offiziellen Posts. Auszahlungen ZU (Ziel ~1.11. 06:47), kein Post-Mortem, kein PoR.\n- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 14–20 Uhr: BTC 1,15 % (19:00), ETH 1,83 % (16:00), SOL 2,36 % (14:00; fällt beim nächsten Scan aus dem Fenster) ✓ · ETH 2.231 > 2.125 (+5,0 %) ✓ → **Pause bleibt.**\n- Upbit: nichts Neues. Listings/Solana: nichts Neues. Wochenende: Auszahlungsziel 1.11. ~06:47, PoR-Snapshot 1.11.\n- SI276 (ausgesetzt): 0,0004135 $ (+3,8 % 1h, −16,9 % 24h), Liq 64.173 $ – leichte Erholung.\n- NIO (7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump): 0,001529 $ (+1,4 % 1h, +51,6 % 24h), Liq 150k $ (19:00: 181k); X 28 Posts/h (vorher 41). Scanner: Schatten-Exit 19:21 bei +36,2 % netto (Trailing-Stop) – nur Schatten. On-chain-Hinw"
   },
   {
    "zeitpunkt": "2026-10-30T01:13:00+01:00",
@@ -2361,6 +2417,15 @@
    "datei": "2026-10-30.csv"
   },
   {
+   "zeitpunkt": "2026-10-30T21:00:00+01:00",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "https://x.com/_RichardTeng/status/2116259036903669855",
+   "titel": "Teng: Auszahlungen in ~40 h, PoR bis Montag",
+   "text": "6,34 Mrd $ reserviert (5 Mrd in exakten Tokens); EIP-7702-Delegation; Post-Mortem folgt.",
+   "datei": "2026-10-30.csv"
+  },
+  {
    "datei": "2026-10-29.md",
    "titel": "Scan 23:00 – Do 29.10.2026, 22:59 Uhr (Europe/Berlin)",
    "text": ""
@@ -2576,19 +2641,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-30 21:07:15",
-   "tokens": 74,
-   "paar": 73,
+   "t": "2026-10-30 21:09:32",
+   "tokens": 77,
+   "paar": 76,
    "vor": 0,
    "offen": 0,
    "schatten": 1
   },
   "heute": {
-   "runden": 765,
-   "tokens": 92068,
-   "paar": 90780,
+   "runden": 766,
+   "tokens": 92145,
+   "paar": 90856,
    "vor": 17,
-   "kandidaten_zeilen": 3763,
+   "kandidaten_zeilen": 3782,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -2597,15 +2662,15 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    2203
+    2211
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    1040
+    1047
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    283
+    286
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -2613,7 +2678,7 @@
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
-    35
+    36
    ]
   ]
  },
@@ -2633,7 +2698,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-10-30T20:06:44+01:00"
+   "zeit": "2026-10-30T21:09:13+01:00"
   },
   {
    "name": "Kadabra",
@@ -2665,7 +2730,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-10-30T21:07:15+01:00"
+   "zeit": "2026-10-30T21:09:33+01:00"
   },
   {
    "name": "Magnayen",
@@ -2677,26 +2742,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-30T20:10:58",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=2"
-  ],
-  [
-   "2026-10-30T20:11:00",
-   "SCAN",
-   "Runde: 90 Tokens, 89 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 83 s"
-  ],
-  [
-   "2026-10-30T20:11:55",
-   "RISK",
-   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
-  ],
-  [
-   "2026-10-30T20:12:19",
-   "SKIP",
-   "SCHATTEN KAUF FLOAT Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr @ 0.0008973"
-  ],
   [
    "2026-10-30T20:12:19",
    "SCAN",
@@ -2976,6 +3021,26 @@
    "2026-10-30T21:07:15",
    "SCAN",
    "Runde: 74 Tokens, 73 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 127 s"
+  ],
+  [
+   "2026-10-30T21:08:20",
+   "RISK",
+   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
+  ],
+  [
+   "2026-10-30T21:08:59",
+   "RISK",
+   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
+  ],
+  [
+   "2026-10-30T21:09:30",
+   "RISK",
+   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=2"
+  ],
+  [
+   "2026-10-30T21:09:32",
+   "SCAN",
+   "Runde: 77 Tokens, 76 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 117 s"
   ]
  ],
  "trefferquote": {
@@ -2983,5 +3048,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T21:07:15+01:00"
+ "daten_neuest": "2026-10-30T21:09:33+01:00"
 }

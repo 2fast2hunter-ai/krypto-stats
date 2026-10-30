@@ -1380,17 +1380,17 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-30 09:12:00",
-   "tokens": 133,
-   "paar": 130,
+   "t": "2026-10-30 09:13:00",
+   "tokens": 130,
+   "paar": 128,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 298,
-   "tokens": 36868,
-   "paar": 36325,
+   "runden": 299,
+   "tokens": 36998,
+   "paar": 36453,
    "vor": 3,
    "kandidaten_zeilen": 1623,
    "nach_checks": 0,
@@ -1469,7 +1469,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-30T09:12:00+01:00"
+   "zeit": "2026-10-30T09:13:00+01:00"
   },
   {
    "name": "Magnayen",
@@ -1481,11 +1481,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-30T07:38:45",
-   "SCAN",
-   "Runde: 116 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-10-30T07:44:57",
    "RISK",
@@ -1780,6 +1775,11 @@
    "2026-10-30T09:12:00",
    "SCAN",
    "Runde: 133 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T09:13:00",
+   "SCAN",
+   "Runde: 130 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -1787,5 +1787,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T09:12:00+01:00"
+ "daten_neuest": "2026-10-30T09:13:00+01:00"
 }

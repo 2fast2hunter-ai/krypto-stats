@@ -2711,19 +2711,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-30 23:12:00",
+   "t": "2026-10-30 23:13:57",
    "tokens": 129,
-   "paar": 127,
+   "paar": 128,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 789,
-   "tokens": 93960,
-   "paar": 92592,
+   "runden": 791,
+   "tokens": 94211,
+   "paar": 92842,
    "vor": 17,
-   "kandidaten_zeilen": 4003,
+   "kandidaten_zeilen": 4013,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -2732,11 +2732,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    2341
+    2350
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    1114
+    1115
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -2799,8 +2799,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-10-30T23:12:01+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-10-30T23:13:57+01:00"
   },
   {
    "name": "Magnayen",
@@ -2812,16 +2812,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-30T22:13:54",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-10-30T22:14:29",
-   "SCAN",
-   "Runde: 101 Tokens, 99 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 132 s"
-  ],
   [
    "2026-10-30T22:15:40",
    "RISK",
@@ -3111,6 +3101,16 @@
    "2026-10-30T23:12:00",
    "SCAN",
    "Runde: 129 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 13 s"
+  ],
+  [
+   "2026-10-30T23:12:57",
+   "SCAN",
+   "Runde: 122 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T23:13:57",
+   "SCAN",
+   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3118,5 +3118,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T23:12:01+01:00"
+ "daten_neuest": "2026-10-30T23:13:57+01:00"
 }

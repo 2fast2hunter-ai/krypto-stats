@@ -1,5 +1,5 @@
 {
- "stand_daten": "30.10.2026 21:09",
+ "stand_daten": "30.10.2026 22:06",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -2097,9 +2097,51 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-10-30T22:10:00+01:00",
+   "coin": "NIO+FLOAT (Scanner-Schatten)",
+   "ca": "gebündelt per CA",
+   "posts_1h": "11",
+   "trend_pct": "-68",
+   "top_engagement": "L4",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "Callposts bekannt",
+   "score_0_10": "1",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T22:10:00+01:00",
+   "coin": "TROLL+GATO+GOAT+NEET+FONE+JEANPHIL+SI276",
+   "ca": "gebündelt per CA (Hspr für GATO)",
+   "posts_1h": "12",
+   "trend_pct": "100",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "2",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T22:10:00+01:00",
+   "coin": "PENGU+POPCAT+FARTCOIN+USELESS+GIGA+VINE+WIF",
+   "ca": "gebündelt per CA",
+   "posts_1h": "9",
+   "trend_pct": "13",
+   "top_engagement": "L2 (@JackpotJohnX 49k)",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "nein",
+   "score_0_10": "2",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-10-30.md",
-   "titel": "Scan 21:00 – Fr 30.10.2026, 21:15 Uhr (Europe/Berlin)",
-   "text": "- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 15–21 Uhr: BTC 1,15 %, ETH 1,83 %, SOL 1,86 % ✓ · ETH 2.241 > 2.125 (+5,5 %) ✓ → **Pause bleibt.**\n- Upbit: nichts Neues. Listings/Solana: nichts Neues. Wochenende: Binance-Auszahlungen ~1.11., PoR bis 2.11.\n- SI276 (ausgesetzt): 0,0004143 $ (−10,3 % 24h), Liq 64.446 $.\n- NIO: 0,001334 $ (−9,4 % 1h), Liq 135k $; X 32 Posts/h. Neuer Scanner-Schatten 20:12: FLOAT (Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr), Liq 196k $, Dev-Konto leer; X: 2 Posts (eigene Positions-Posts, „added more at 700k“) – kein Muster.\n- Shill: nur bekannte (@RonnieRiches/STANK, NIO-Begleit-Token „Dip“ 8JSvLKx3vopwyxJzeuihMWUTVgEKWHKPiAzwTiaqpump = Beta-Köder-Muster, bekannt).\n- Binance seit 17:35: keine neuen offiziellen Posts. Auszahlungen ZU (Ziel ~1.11. 06:47), kein Post-Mortem, kein PoR.\n- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 14–20 Uhr: BTC 1,15 % (19:00), ETH 1,83 % (16:00), SOL 2,36 % (14:00; fällt beim nächsten Scan aus dem Fenster) ✓ · ETH 2.231 > 2.125 (+5,0 %) ✓ → **Pause bleibt.**\n- Upbit: nichts Neues. Listings/Solana: nichts Neues. Wochenende: Auszahlungsziel 1.11. ~06:47, PoR-Snapshot 1.11.\n- SI276 (ausgesetzt): 0,0004135 $ (+3,8 % 1h, −16,9 % 24h), Liq 64.173 $ – leichte Erholung.\n- NIO (7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump): 0,001529 $ (+1,4 % 1h, +51,6 % 24h), Liq 150k $ (19:00: 181k); X 28 Posts/h (vorher 41). Scanner: Schatten-Exit 19:21 bei +36,2 % netto (Trailing-Stop) – nur Schatten. On-chain-Hinw"
+   "titel": "Scan 22:00 – Fr 30.10.2026, 22:10 Uhr (Europe/Berlin)",
+   "text": "- Binance seit 21:00: nur Yi He 21:47 Emoji-Link-Post ([X](https://x.com/heyibinance/status/2116270902472249412)), keine neuen Fakten. Keine genauere Auszahlungs-Zielzeit als „~40 h“ ab 21:00 (rechnerisch ≈ So 1.11. ~13:00 – passt zu Panzaerons Neubewertung So ~13:30). Kein Post-Mortem; PoR-Report bis Mo 2.11., erster Snapshot vorher (Zeit offen).\n- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 16–22 Uhr: BTC 1,15 %, ETH 1,83 %, SOL 1,86 % ✓ · ETH 2.241 > 2.125 (+5,5 %) ✓ → **Pause bleibt.**\n- Upbit: nichts Neues. Listings/Solana: nichts Neues (OKX nur Event-Werbung).\n- SI276 / NIO / PUMP: DexScreener 22:05 rate-limited → keine Kurse.\n- Scanner: FLOAT-Schatten 21:12 ausgestoppt (−18,6 % netto). NIO+FLOAT X: 11 Posts/h (vorher 34).\n- Shill: nur bekannte (@RonnieRiches/STANK „multi 8 figures“-Claims). Kein neues Muster.\n- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 15–21 Uhr: BTC 1,15 %, ETH 1,83 %, SOL 1,86 % ✓ · ETH 2.241 > 2.125 (+5,5 %) ✓ → **Pause bleibt.**\n- Upbit: nichts Neues. Listings/Solana: nichts Neues. Wochenende: Binance-Auszahlungen ~1.11., PoR bis 2.11.\n- SI276 (ausgesetzt): 0,0004143 $ (−10,3 % 24h), Liq 64.446 $.\n- NIO: 0,001334 $ (−9,4 % 1h), Liq 135k $; X 32 Posts/h. Neuer Scanner-Schatten 20:12: FLOAT (Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr), Liq 196k $, Dev-Konto leer; X: 2 Posts (eigene Positions-Posts, „added more at 700k“) – kein Muster.\n- Shill: nur bekannte (@RonnieRiches/STANK, NIO-Begleit-Token „Dip“ 8JSvLKx3vopwyxJzeui"
   },
   {
    "zeitpunkt": "2026-10-30T01:13:00+01:00",
@@ -2641,19 +2683,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-30 21:53:23",
-   "tokens": 78,
-   "paar": 60,
+   "t": "2026-10-30 22:14:29",
+   "tokens": 101,
+   "paar": 99,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 774,
-   "tokens": 92846,
-   "paar": 91533,
+   "runden": 777,
+   "tokens": 93061,
+   "paar": 91746,
    "vor": 17,
-   "kandidaten_zeilen": 3832,
+   "kandidaten_zeilen": 3901,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -2662,15 +2704,15 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    2247
+    2282
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    1056
+    1083
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    288
+    294
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -2678,7 +2720,7 @@
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
-    36
+    37
    ]
   ]
  },
@@ -2698,7 +2740,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-10-30T21:09:13+01:00"
+   "zeit": "2026-10-30T22:06:57+01:00"
   },
   {
    "name": "Kadabra",
@@ -2730,7 +2772,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-30T22:05:39+01:00"
+   "zeit": "2026-10-30T22:16:24+01:00"
   },
   {
    "name": "Magnayen",
@@ -2742,81 +2784,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-30T20:44:56",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-10-30T20:51:55",
-   "RISK",
-   "supervisor: Box war 419 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-30T20:52:09",
-   "SCAN",
-   "Runde: 95 Tokens, 94 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 158 s"
-  ],
-  [
-   "2026-10-30T20:53:10",
-   "RISK",
-   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
-  ],
-  [
-   "2026-10-30T20:54:00",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-10-30T20:54:31",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=2"
-  ],
-  [
-   "2026-10-30T20:54:39",
-   "SCAN",
-   "Runde: 78 Tokens, 77 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 129 s"
-  ],
-  [
-   "2026-10-30T20:55:37",
-   "RISK",
-   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
-  ],
-  [
-   "2026-10-30T20:56:08",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-10-30T20:56:22",
-   "SCAN",
-   "Runde: 93 Tokens, 90 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 83 s"
-  ],
-  [
-   "2026-10-30T20:59:02",
-   "RISK",
-   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
-  ],
-  [
-   "2026-10-30T20:59:02",
-   "RISK",
-   "supervisor: Box war 127 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-30T21:03:18",
-   "RISK",
-   "supervisor: Box war 256 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-30T21:04:05",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-10-30T21:04:36",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=2"
-  ],
   [
    "2026-10-30T21:04:47",
    "SCAN",
@@ -3041,6 +3008,81 @@
    "2026-10-30T22:05:39",
    "RISK",
    "supervisor: Box war 635 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-30T22:06:13",
+   "RISK",
+   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
+  ],
+  [
+   "2026-10-30T22:06:28",
+   "RISK",
+   "WARN gt-trending: Runde > 150 s abgebrochen"
+  ],
+  [
+   "2026-10-30T22:07:00",
+   "RISK",
+   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
+  ],
+  [
+   "2026-10-30T22:07:45",
+   "RISK",
+   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=2"
+  ],
+  [
+   "2026-10-30T22:07:56",
+   "SCAN",
+   "Runde: 50 Tokens, 50 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 238 s"
+  ],
+  [
+   "2026-10-30T22:09:23",
+   "RISK",
+   "WARN ds-boosttop: API fehlgeschlagen: https://api.dexscreener.com/token-boosts/top/v1"
+  ],
+  [
+   "2026-10-30T22:09:57",
+   "RISK",
+   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
+  ],
+  [
+   "2026-10-30T22:10:41",
+   "RISK",
+   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
+  ],
+  [
+   "2026-10-30T22:11:10",
+   "RISK",
+   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
+  ],
+  [
+   "2026-10-30T22:11:56",
+   "SCAN",
+   "Runde: 64 Tokens, 64 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 219 s"
+  ],
+  [
+   "2026-10-30T22:12:55",
+   "RISK",
+   "WARN ds-boost: API fehlgeschlagen: https://api.dexscreener.com/token-boosts/latest/v1"
+  ],
+  [
+   "2026-10-30T22:13:54",
+   "RISK",
+   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
+  ],
+  [
+   "2026-10-30T22:14:29",
+   "SCAN",
+   "Runde: 101 Tokens, 99 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 132 s"
+  ],
+  [
+   "2026-10-30T22:15:40",
+   "RISK",
+   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
+  ],
+  [
+   "2026-10-30T22:16:24",
+   "RISK",
+   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
   ]
  ],
  "trefferquote": {
@@ -3048,5 +3090,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T22:05:39+01:00"
+ "daten_neuest": "2026-10-30T22:16:24+01:00"
 }

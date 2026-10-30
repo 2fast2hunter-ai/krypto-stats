@@ -2711,7 +2711,7 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-30 23:54:11",
+   "t": "2026-10-31 00:24:19",
    "tokens": 120,
    "paar": 118,
    "vor": 0,
@@ -2719,17 +2719,34 @@
    "schatten": 0
   },
   "heute": {
-   "runden": 0,
-   "tokens": 0,
-   "paar": 0,
+   "runden": 11,
+   "tokens": 1418,
+   "paar": 1381,
    "vor": 0,
-   "kandidaten_zeilen": 0,
+   "kandidaten_zeilen": 79,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
    "block": 0
   },
-  "gruende": []
+  "gruende": [
+   [
+    "Vorfilter: Liquidität # $ < #k",
+    37
+   ],
+   [
+    "Vorfilter: Volumen #m # $ < #k",
+    28
+   ],
+   [
+    "Vorfilter: kein Volumen-Spike (#× < #×)",
+    9
+   ],
+   [
+    "Vorfilter: Momentum #m +# % außerhalb +#+# %",
+    5
+   ]
+  ]
  },
  "kurve": [],
  "agenten": [
@@ -2779,7 +2796,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-31T00:05:50+01:00"
+   "zeit": "2026-10-31T00:24:19+01:00"
   },
   {
    "name": "Magnayen",
@@ -2791,71 +2808,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-30T22:38:02",
-   "RISK",
-   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
-  ],
-  [
-   "2026-10-30T22:38:36",
-   "RISK",
-   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
-  ],
-  [
-   "2026-10-30T22:39:21",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-10-30T22:40:00",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=2"
-  ],
-  [
-   "2026-10-30T22:40:01",
-   "SCAN",
-   "Runde: 60 Tokens, 60 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 177 s"
-  ],
-  [
-   "2026-10-30T22:41:22",
-   "RISK",
-   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
-  ],
-  [
-   "2026-10-30T22:41:59",
-   "RISK",
-   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
-  ],
-  [
-   "2026-10-30T22:42:30",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-10-30T22:43:00",
-   "RISK",
-   "WARN gt-new: Runde > 150 s abgebrochen"
-  ],
-  [
-   "2026-10-30T22:43:07",
-   "SCAN",
-   "Runde: 59 Tokens, 59 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 156 s"
-  ],
-  [
-   "2026-10-30T22:44:18",
-   "RISK",
-   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
-  ],
-  [
-   "2026-10-30T22:44:51",
-   "RISK",
-   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
-  ],
-  [
-   "2026-10-30T22:46:24",
-   "RISK",
-   "WARN gt-new: Runde > 150 s abgebrochen"
-  ],
   [
    "2026-10-30T22:46:24",
    "RISK",
@@ -3090,6 +3042,71 @@
    "2026-10-31T00:05:50",
    "RISK",
    "supervisor: Box war 679 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-31T00:06:00",
+   "SCAN",
+   "Runde: 132 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-31T00:07:00",
+   "SCAN",
+   "Runde: 132 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-31T00:08:01",
+   "SCAN",
+   "Runde: 132 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-31T00:09:00",
+   "SCAN",
+   "Runde: 132 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-31T00:10:00",
+   "SCAN",
+   "Runde: 132 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-31T00:12:24",
+   "RISK",
+   "supervisor: Box war 114 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-31T00:19:32",
+   "RISK",
+   "supervisor: Box war 428 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-31T00:19:34",
+   "SCAN",
+   "Runde: 115 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 25 s"
+  ],
+  [
+   "2026-10-31T00:20:22",
+   "SCAN",
+   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 13 s"
+  ],
+  [
+   "2026-10-31T00:21:19",
+   "SCAN",
+   "Runde: 132 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-31T00:22:19",
+   "SCAN",
+   "Runde: 132 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-31T00:23:19",
+   "SCAN",
+   "Runde: 132 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-31T00:24:19",
+   "SCAN",
+   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3097,5 +3114,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-31T00:05:50+01:00"
+ "daten_neuest": "2026-10-31T00:24:19+01:00"
 }

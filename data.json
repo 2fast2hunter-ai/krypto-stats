@@ -1,5 +1,5 @@
 {
- "stand_daten": "30.10.2026 19:00",
+ "stand_daten": "30.10.2026 20:06",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -1985,9 +1985,65 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-10-30T20:10:00+01:00",
+   "coin": "NIO (Scanner-Schatten)",
+   "ca": "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump",
+   "posts_1h": "28",
+   "trend_pct": "-32",
+   "top_engagement": "L7",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "ja: Callposts/VIP/Beta-Köder (bekannt)",
+   "score_0_10": "1",
+   "quelle_links": "https://x.com/VantageAlpha_1/status/2116229541219774770",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T20:10:00+01:00",
+   "coin": "TROLL",
+   "ca": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+   "posts_1h": "15",
+   "trend_pct": "-35",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "positiv",
+   "shill_verdacht": "ja: Ring (bekannt)",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T20:10:00+01:00",
+   "coin": "GATO+GOAT+NEET+FONE+JEANPHIL+SI276",
+   "ca": "gebündelt per CA (Hspr für GATO)",
+   "posts_1h": "1",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T20:10:00+01:00",
+   "coin": "PENGU+POPCAT+FARTCOIN+USELESS+GIGA+VINE+WIF",
+   "ca": "gebündelt per CA",
+   "posts_1h": "14",
+   "trend_pct": "133",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "vermutl. Airdrop-Spam (bekannt), nicht einzeln geprüft",
+   "score_0_10": "2",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-10-30.md",
-   "titel": "Scan 19:00 – Fr 30.10.2026, 19:05 Uhr (Europe/Berlin)",
-   "text": "- Binance seit 17:35: keine neuen Posts (@binance/@cz_binance/@heyibinance/@_RichardTeng). Auszahlungen ZU (Ziel ~1.11. 06:47), kein Post-Mortem, kein PoR.\n- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 12–18 Uhr: BTC 1,13 %, ETH 1,83 %, SOL 2,36 % ✓ · ETH 2.244 > 2.125 (+5,6 %) ✓ → **Pause bleibt.**\n- Upbit: nichts Neues seit BLUR-Delisting. Listings/Solana: nichts Neues. Wochenende: Auszahlungsziel 1.11. ~06:47, PoR-Snapshot 1.11.\n- SI276 (ausgesetzt): 0,0003953 $ (+7,3 % 1h, −31,1 % 24h), Liq 62.742 $.\n- NIO (Schatten, 7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump): 0,001592 $ (+50 % 1h, +58 % 24h), Liq 181k $ (17:53: 95k); X 40 Posts/h (+100 %). **NEUE Shill-Muster:** „93x/103x gain“-Callposts (@Draxen_0, @originalpump) und Beta-Köder „$CIO paired w $NIO“ (k273gUbs1brTzA9RD21gk8oLszZMyP6rEHYZF2apump, @JohnLond0n). Nur Schatten, KAUF_PAUSE.\n- Bekannt weiter aktiv: Airdrop-Spam @RepYourCity jetzt mit FARTCOIN-CA; TROLL-Ring (21/h).\n- Binance seit 17:01: nur CZ 17:33 „🙏“ und 17:35 „Fair view 👇“ (Verweis), Yi He 17:18 Dank-Post – keine neuen Fakten. Auszahlungen ZU (Ziel ~1.11. 06:47), kein Post-Mortem, kein PoR. OKX 17:30 Werbung „48 consecutive monthly PoR“ (Eigen-PR).\n- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 11–17 Uhr: BTC 1,13 %, ETH 1,83 %, SOL 2,36 % ✓ · ETH 2.230 > 2.125 (+4,9 %) ✓ → **Pause bleibt.**\n- Upbit-API: keine neue Meldung seit BLUR-Delisting (08:00). Listings/Solana: nichts Neues. Wochenende: Auszahlungsziel 1.11. ~06:47, PoR-Snap"
+   "titel": "Scan 20:00 – Fr 30.10.2026, 20:10 Uhr (Europe/Berlin)",
+   "text": "- Binance seit 17:35: keine neuen offiziellen Posts. Auszahlungen ZU (Ziel ~1.11. 06:47), kein Post-Mortem, kein PoR.\n- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 14–20 Uhr: BTC 1,15 % (19:00), ETH 1,83 % (16:00), SOL 2,36 % (14:00; fällt beim nächsten Scan aus dem Fenster) ✓ · ETH 2.231 > 2.125 (+5,0 %) ✓ → **Pause bleibt.**\n- Upbit: nichts Neues. Listings/Solana: nichts Neues. Wochenende: Auszahlungsziel 1.11. ~06:47, PoR-Snapshot 1.11.\n- SI276 (ausgesetzt): 0,0004135 $ (+3,8 % 1h, −16,9 % 24h), Liq 64.173 $ – leichte Erholung.\n- NIO (7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump): 0,001529 $ (+1,4 % 1h, +51,6 % 24h), Liq 150k $ (19:00: 181k); X 28 Posts/h (vorher 41). Scanner: Schatten-Exit 19:21 bei +36,2 % netto (Trailing-Stop) – nur Schatten. On-chain-Hinweise auf X (Einzelposts, unbestätigt): Dev nach 45 h raus, eine Wallet 40 Käufe in 5 Tagen.\n- Shill: nur bekannte Muster (NIO-Callposts „103x“, VIP-Channel @EarlyRada, weitere „paired with NIO“-Beta-Token z. B. von @SoxOnMyMind – CA im Post gekürzt, nicht erfasst).\n- Binance seit 17:35: keine neuen Posts (@binance/@cz_binance/@heyibinance/@_RichardTeng). Auszahlungen ZU (Ziel ~1.11. 06:47), kein Post-Mortem, kein PoR.\n- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 12–18 Uhr: BTC 1,13 %, ETH 1,83 %, SOL 2,36 % ✓ · ETH 2.244 > 2.125 (+5,6 %) ✓ → **Pause bleibt.**\n- Upbit: nichts Neues seit BLUR-Delisting. Listings/Solana: nichts Neues. Wochenende: Auszahlungsziel 1.11. ~06:47, PoR-Snapshot 1.11.\n-"
   },
   {
    "zeitpunkt": "2026-10-30T01:13:00+01:00",
@@ -2520,19 +2576,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-30 20:04:52",
-   "tokens": 130,
-   "paar": 130,
+   "t": "2026-10-30 20:17:34",
+   "tokens": 118,
+   "paar": 117,
    "vor": 0,
    "offen": 0,
-   "schatten": 0
+   "schatten": 1
   },
   "heute": {
-   "runden": 741,
-   "tokens": 89731,
-   "paar": 88471,
-   "vor": 16,
-   "kandidaten_zeilen": 3612,
+   "runden": 749,
+   "tokens": 90551,
+   "paar": 89283,
+   "vor": 17,
+   "kandidaten_zeilen": 3625,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -2541,11 +2597,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    2116
+    2124
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    997
+    998
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -2553,7 +2609,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    148
+    149
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -2577,7 +2633,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-10-30T19:00:33+01:00"
+   "zeit": "2026-10-30T20:06:44+01:00"
   },
   {
    "name": "Kadabra",
@@ -2609,7 +2665,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-10-30T20:04:53+01:00"
+   "zeit": "2026-10-30T20:17:35+01:00"
   },
   {
    "name": "Magnayen",
@@ -2621,106 +2677,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-30T18:54:41",
-   "RISK",
-   "supervisor: Box war 357 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-30T18:54:45",
-   "SCAN",
-   "Runde: 117 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 25 s"
-  ],
-  [
-   "2026-10-30T18:55:38",
-   "SCAN",
-   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 17 s"
-  ],
-  [
-   "2026-10-30T18:56:33",
-   "SCAN",
-   "Runde: 106 Tokens, 104 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
-  ],
-  [
-   "2026-10-30T18:57:33",
-   "SCAN",
-   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 13 s"
-  ],
-  [
-   "2026-10-30T18:58:50",
-   "SCAN",
-   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 29 s"
-  ],
-  [
-   "2026-10-30T18:59:45",
-   "SCAN",
-   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 24 s"
-  ],
-  [
-   "2026-10-30T19:00:33",
-   "SCAN",
-   "Runde: 117 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 13 s"
-  ],
-  [
-   "2026-10-30T19:01:34",
-   "SCAN",
-   "Runde: 118 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 13 s"
-  ],
-  [
-   "2026-10-30T19:02:39",
-   "SCAN",
-   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 19 s"
-  ],
-  [
-   "2026-10-30T19:03:44",
-   "SCAN",
-   "Runde: 122 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 23 s"
-  ],
-  [
-   "2026-10-30T19:04:33",
-   "SCAN",
-   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
-  ],
-  [
-   "2026-10-30T19:05:33",
-   "SCAN",
-   "Runde: 109 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
-  ],
-  [
-   "2026-10-30T19:06:44",
-   "SCAN",
-   "Runde: 115 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 23 s"
-  ],
-  [
-   "2026-10-30T19:08:32",
-   "RISK",
-   "supervisor: Box war 71 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-30T19:15:56",
-   "RISK",
-   "supervisor: Box war 444 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-30T19:16:01",
-   "SCAN",
-   "Runde: 109 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 96 s"
-  ],
-  [
-   "2026-10-30T19:16:34",
-   "SCAN",
-   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 13 s"
-  ],
-  [
-   "2026-10-30T19:18:01",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-10-30T19:18:03",
-   "SCAN",
-   "Runde: 100 Tokens, 99 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 42 s"
-  ],
   [
    "2026-10-30T19:18:37",
    "SCAN",
@@ -2920,6 +2876,106 @@
    "2026-10-30T20:04:52",
    "SCAN",
    "Runde: 130 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 61 s"
+  ],
+  [
+   "2026-10-30T20:05:51",
+   "RISK",
+   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
+  ],
+  [
+   "2026-10-30T20:05:54",
+   "SCAN",
+   "Runde: 109 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 41 s"
+  ],
+  [
+   "2026-10-30T20:06:51",
+   "RISK",
+   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
+  ],
+  [
+   "2026-10-30T20:07:38",
+   "RISK",
+   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=2"
+  ],
+  [
+   "2026-10-30T20:07:40",
+   "SCAN",
+   "Runde: 93 Tokens, 93 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 86 s"
+  ],
+  [
+   "2026-10-30T20:08:37",
+   "RISK",
+   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
+  ],
+  [
+   "2026-10-30T20:09:09",
+   "RISK",
+   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
+  ],
+  [
+   "2026-10-30T20:09:16",
+   "SCAN",
+   "Runde: 90 Tokens, 89 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 75 s"
+  ],
+  [
+   "2026-10-30T20:10:25",
+   "RISK",
+   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
+  ],
+  [
+   "2026-10-30T20:10:58",
+   "RISK",
+   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=2"
+  ],
+  [
+   "2026-10-30T20:11:00",
+   "SCAN",
+   "Runde: 90 Tokens, 89 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 83 s"
+  ],
+  [
+   "2026-10-30T20:11:55",
+   "RISK",
+   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
+  ],
+  [
+   "2026-10-30T20:12:19",
+   "SKIP",
+   "SCHATTEN KAUF FLOAT Bv1a7cEj5aRnJQhMw4kRQqAFesMSd5LwcDnUzq52BMmr @ 0.0008973"
+  ],
+  [
+   "2026-10-30T20:12:19",
+   "SCAN",
+   "Runde: 114 Tokens, 111 mit Paar, Vorfilter ok 1, offen 0, Schatten 1, nach Checks 1, gekauft 0, KAUF_PAUSE aktiv, Dauer 58 s"
+  ],
+  [
+   "2026-10-30T20:13:19",
+   "RISK",
+   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
+  ],
+  [
+   "2026-10-30T20:13:21",
+   "SCAN",
+   "Runde: 110 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 42 s"
+  ],
+  [
+   "2026-10-30T20:15:39",
+   "RISK",
+   "supervisor: Box war 87 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-30T20:16:24",
+   "RISK",
+   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
+  ],
+  [
+   "2026-10-30T20:16:34",
+   "SCAN",
+   "Runde: 96 Tokens, 95 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 75 s"
+  ],
+  [
+   "2026-10-30T20:17:34",
+   "SCAN",
+   "Runde: 118 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 40 s"
   ]
  ],
  "trefferquote": {
@@ -2927,5 +2983,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T20:04:53+01:00"
+ "daten_neuest": "2026-10-30T20:17:35+01:00"
 }

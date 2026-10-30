@@ -1,5 +1,5 @@
 {
- "stand_daten": "30.10.2026 02:04",
+ "stand_daten": "30.10.2026 05:03",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -611,8 +611,148 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-10-30T05:05:00+01:00",
+   "coin": "FARTCOIN",
+   "ca": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+   "posts_1h": "2",
+   "trend_pct": "n/a",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja: Bot-artiger Text 'Key: jade ribbon … Addr' (49 Follower)",
+   "score_0_10": "0",
+   "quelle_links": "https://x.com/CryptoBullestor/status/2116007275425137025",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T05:05:00+01:00",
+   "coin": "USELESS",
+   "ca": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
+   "posts_1h": "0",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T05:05:00+01:00",
+   "coin": "PENGU",
+   "ca": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+   "posts_1h": "122",
+   "trend_pct": "53",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "6",
+   "quelle_links": "https://x.com/btczhaojunqi/status/2115991290861248762",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T05:05:00+01:00",
+   "coin": "POPCAT",
+   "ca": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+   "posts_1h": "11",
+   "trend_pct": "22",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "3",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T05:05:00+01:00",
+   "coin": "GIGA",
+   "ca": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
+   "posts_1h": "0",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T05:05:00+01:00",
+   "coin": "VINE",
+   "ca": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+   "posts_1h": "0",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T05:05:00+01:00",
+   "coin": "CHILLGUY",
+   "ca": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
+   "posts_1h": "23",
+   "trend_pct": "-41",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "2",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T05:05:00+01:00",
+   "coin": "WIF",
+   "ca": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+   "posts_1h": "1",
+   "trend_pct": "n/a",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein (Fake-CA fuUb3T… nicht gesehen)",
+   "score_0_10": "1",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T05:05:00+01:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "11",
+   "trend_pct": "-27",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein ('dev live'-Spam im Fenster nicht gesehen)",
+   "score_0_10": "1",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-10-30T05:05:00+01:00",
+   "coin": "SI276",
+   "ca": "HMYd9tosnUXuNHmq7pXmoePRVBLBBjA3JBfydq6upump",
+   "posts_1h": "0",
+   "trend_pct": "-100",
+   "top_engagement": "–",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein (ausgesetzt bis Panzaeron-Prüfung 07:15)",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-10-30.md",
-   "titel": "Scan 02:00 – Fr 30.10.2026, 02:02 Uhr (Europe/Berlin)",
+   "titel": "Scan 05:00 – Fr 30.10.2026, 05:05 Uhr (Europe/Berlin)",
    "text": ""
   },
   {
@@ -658,6 +798,51 @@
    "quelle": "https://data-api.binance.vision/api/v3/ticker/price",
    "titel": "Binance-Prämie gering",
    "text": "BTCUSDT 77.139 vs Coinbase/Kraken 76.939 (+0,26 %, USDT 0,9984 → ~+0,1 %); ETH +0,2 %. Auszahlungen gesperrt → Arbitrage blockiert.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T03:24:00+01:00",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "https://x.com/binance/status/2115993361517891592",
+   "titel": "Binance Erstbefund: kompromittierter DevOps-Laptop",
+   "text": "Keine Private-Key-Leaks; Schaden ~6,3 Mrd $ (CoinDesk/TokenPost), Deckung SAFU + Firmenmittel; PoR und Post-Mortem später. Ein-/Auszahlungen weiter gesperrt – keine Abschlussmeldung, KAUF_PAUSE bleibt.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T03:32:00+01:00",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "https://x.com/heyibinance/status/2115995324825370777",
+   "titel": "Yi He: Auszahlungen nach Abschluss des Security-Scans",
+   "text": "Kein Termin.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T02:29:00+01:00",
+   "coin": "ETH",
+   "signal": "verkauf",
+   "quelle": "https://x.com/PeckShieldAlert/status/2115979333085118554",
+   "titel": "Hacker tauscht PEPE und WBTC in ETH",
+   "text": "14.050 ETH + 5.700 ETH; CoinDesk: 20.000 WETH über Aave geliehen; Chainalysis ~5,9 Mrd $; ZachXBT/Blockaid: vermutlich Nordkorea (Zuordnung unbestätigt).",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T02:50:00+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "https://cryptokeyhole.com/bitcoin-options-expiry/",
+   "titel": "Optionsverfall heute 09:00 Berlin (08:00 UTC)",
+   "text": "~12,1 Mrd $ Notional (Deribit/OKX/Bybit), Max Pain 79.000, P/C 0,60. CME-Verfall 17:00 Berlin laut Regel (16:00 London), nicht separat bestätigt.",
+   "datei": "2026-10-30.csv"
+  },
+  {
+   "zeitpunkt": "2026-10-30T05:00:00+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "https://data-api.binance.vision/api/v3/ticker/price",
+   "titel": "Binance-Prämie unverändert gering",
+   "text": "BTCUSDT 78.083 vs Coinbase 77.870 / Kraken 77.879 (+0,27 %, USDT-bereinigt ~+0,1 %); ETH +0,2 %. Erholung seit 02:00: BTC +1,4 %, BNB +3,4 %.",
    "datei": "2026-10-30.csv"
   },
   {
@@ -876,19 +1061,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-30 04:37:28",
-   "tokens": 117,
-   "paar": 116,
+   "t": "2026-10-30 05:03:40",
+   "tokens": 128,
+   "paar": 128,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 126,
-   "tokens": 15394,
-   "paar": 15102,
+   "runden": 134,
+   "tokens": 16365,
+   "paar": 16073,
    "vor": 3,
-   "kandidaten_zeilen": 825,
+   "kandidaten_zeilen": 859,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -897,19 +1082,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    495
+    522
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    211
+    215
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    69
+    71
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    32
+    33
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -933,7 +1118,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-10-30T02:04:58+01:00"
+   "zeit": "2026-10-30T05:03:33+01:00"
   },
   {
    "name": "Kadabra",
@@ -964,8 +1149,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-10-30T04:48:40+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-10-30T05:03:40+01:00"
   },
   {
    "name": "Magnayen",
@@ -977,51 +1162,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-30T02:51:20",
-   "SCAN",
-   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T02:52:19",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T02:53:20",
-   "SCAN",
-   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T02:54:20",
-   "SCAN",
-   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T03:05:04",
-   "RISK",
-   "supervisor: Box war 584 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-30T03:05:09",
-   "SCAN",
-   "Runde: 107 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 26 s"
-  ],
-  [
-   "2026-10-30T03:05:53",
-   "SCAN",
-   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T03:06:53",
-   "SCAN",
-   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-10-30T03:07:53",
-   "SCAN",
-   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-10-30T03:08:53",
    "SCAN",
@@ -1276,6 +1416,51 @@
    "2026-10-30T04:48:40",
    "RISK",
    "supervisor: Box war 645 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-30T04:48:53",
+   "SCAN",
+   "Runde: 114 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T04:49:53",
+   "SCAN",
+   "Runde: 117 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T04:50:53",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T04:51:53",
+   "SCAN",
+   "Runde: 120 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T04:52:53",
+   "SCAN",
+   "Runde: 116 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T05:01:30",
+   "RISK",
+   "supervisor: Box war 490 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-30T05:01:40",
+   "SCAN",
+   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T05:02:40",
+   "SCAN",
+   "Runde: 130 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-10-30T05:03:40",
+   "SCAN",
+   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -1283,5 +1468,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-30T04:48:40+01:00"
+ "daten_neuest": "2026-10-30T05:03:40+01:00"
 }

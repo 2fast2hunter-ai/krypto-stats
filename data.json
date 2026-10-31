@@ -1,5 +1,5 @@
 {
- "stand_daten": "31.10.2026 09:20",
+ "stand_daten": "31.10.2026 20:11",
  "depot": {
   "wert": 50.0,
   "budget": 50.0,
@@ -431,6 +431,34 @@
    {
     "coin": "GTA, TOAD, ALLINU, BabyDoge, FWOG, BONK, CYBERLEEK, KNOTS sowie TRUMP, BOME, MEW, PNUT, MOODENG, ACT, MELANIA, ZEREBRO, BIRB, DACITY, BAN, PONKE, ANSEM, PIPPIN, SI, ZCAT",
     "grund": "BLOCK vom 29./30.10., heute nicht erneut geprüft (RugCheck down). Auffällig: BIRB Vol 5,83 Mio $, +21 %/24h."
+   },
+   {
+    "coin": "GOAT CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+    "grund": "FREIGABE, Stufe etabliert; Top10 49,2 %/Top1 7,3 % (Grenze 50 – knapp), Liq RugCheck 2.244.683 $ (DexScreener 1.391.153 $), Score 1, Jupiter 0,53 %."
+   },
+   {
+    "coin": "PUMP pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+    "grund": "BLOCK: Top10 60,6 %/Top1 27,8 % (etabliert ≤50/≤15) und Token-2022 mit Transfer-Hook-Authority aktiv (Programm derzeit leer, kann gesetzt werden). Stufe etabliert, Liq RugCheck 30.272.841 $ (DexScreener 23.137.232 $), LP-Lock 0 %."
+   },
+   {
+    "coin": "FONE CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump",
+    "grund": "FREIGABE; Liq 296.090 $ (morgens 289.353 $, Rückgang gestoppt), Liq RugCheck 423.292 $, Top10 22,1 %/Top1 3,8 %, LP 100 %, 24h +9,9 %. Insider-Graph: 96 Wallets."
+   },
+   {
+    "coin": "JEANPHIL GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump",
+    "grund": "FREIGABE; Liq 282.353 $ (morgens 263.135 $), Liq RugCheck 453.279 $, Top10 19,2 %/Top1 3,5 %, LP 100 %, 24h +15,8 %. Insider 5,4 % (30.10.) bleibt Warnzeichen."
+   },
+   {
+    "coin": "WIF EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+    "grund": "BLOCK: Top1 15,4 % (> 15 %), Top10 44,4 %; Liq 5.174.794 $."
+   },
+   {
+    "coin": "FREIGABE außerdem: FARTCOIN (Top10 34,5 %), USELESS (36,7 %), POPCAT (41,9 %), PENGU (40,7 %, LP 0 %",
+    "grund": "etabliert entfällt), GIGA (37,5 %), VINE (42,5 %), GATO (13,6 %, 24h +37,1 % – Pump-Vorsicht), TROLL (27,1 %), NEET (17,3 %); CAs siehe Tabelle oben."
+   },
+   {
+    "coin": "Neu: GLITCH 8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
+    "grund": "FREIGABE technisch, aber bezahlter Boost (kein positives Signal), 15 d alt, 24h +38,1 %, Liq 166.095 $. HELL A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump – FREIGABE technisch, Boost, 18 d, Liq 141.745 $, Top10 19,2 %. Dev-Wallet-Alter von Hand nicht geprüft."
    }
   ],
   "stimmung": [
@@ -2676,36 +2704,36 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-10-31 20:09:45",
-   "tokens": 126,
-   "paar": 125,
-   "vor": 0,
+   "t": "2026-10-31 20:30:34",
+   "tokens": 113,
+   "paar": 112,
+   "vor": 1,
    "offen": 0,
    "schatten": 2
   },
   "heute": {
-   "runden": 467,
-   "tokens": 57657,
-   "paar": 56715,
-   "vor": 10,
-   "kandidaten_zeilen": 2689,
+   "runden": 478,
+   "tokens": 58974,
+   "paar": 58003,
+   "vor": 11,
+   "kandidaten_zeilen": 2710,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
-   "block": 2
+   "block": 3
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1519
+    1535
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    870
+    872
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    181
+    182
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -2713,7 +2741,7 @@
    ],
    [
     "Vorfilter: keine Socials/Website auf DexScreener",
-    17
+    18
    ]
   ]
  },
@@ -2724,8 +2752,8 @@
    "rolle": "Scout",
    "farbe": "#3B82F6",
    "form": "circle",
-   "letzte_datei": "wissen/krypto/scans/2026-10-31.md",
-   "zeit": "2026-10-31T09:20:14+01:00"
+   "letzte_datei": "krypto/scout-2026-10-31.md",
+   "zeit": "2026-10-31T20:11:06+01:00"
   },
   {
    "name": "Xatu",
@@ -2765,7 +2793,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-10-31T20:09:46+01:00"
+   "zeit": "2026-10-31T20:30:34+01:00"
   },
   {
    "name": "Magnayen",
@@ -2777,76 +2805,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-10-31T18:01:03",
-   "RISK",
-   "supervisor: Box war 973 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-31T18:01:13",
-   "SCAN",
-   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-31T18:02:12",
-   "RISK",
-   "BLOCK Dacity: Insider-Netzwerke (≤50 Wallets) 30.7 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-10-31T18:02:15",
-   "SCAN",
-   "Runde: 117 Tokens, 115 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
-  ],
-  [
-   "2026-10-31T18:03:31",
-   "SKIP",
-   "SCHATTEN KAUF GATO HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump @ 0.00701"
-  ],
-  [
-   "2026-10-31T18:03:31",
-   "SCAN",
-   "Runde: 110 Tokens, 109 mit Paar, Vorfilter ok 1, offen 0, Schatten 1, nach Checks 1, gekauft 0, KAUF_PAUSE aktiv, Dauer 29 s"
-  ],
-  [
-   "2026-10-31T18:04:13",
-   "SCAN",
-   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-31T18:05:13",
-   "SCAN",
-   "Runde: 118 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-31T18:23:32",
-   "RISK",
-   "supervisor: Box war 1024 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-10-31T18:24:03",
-   "SKIP",
-   "SCHATTEN KAUF ANSEM 9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump @ 0.0551"
-  ],
-  [
-   "2026-10-31T18:24:03",
-   "SCAN",
-   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 1, offen 0, Schatten 2, nach Checks 1, gekauft 0, KAUF_PAUSE aktiv, Dauer 58 s"
-  ],
-  [
-   "2026-10-31T18:24:34",
-   "SCAN",
-   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-31T18:25:34",
-   "SCAN",
-   "Runde: 120 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-10-31T18:26:34",
-   "SCAN",
-   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
   [
    "2026-10-31T18:27:34",
    "SCAN",
@@ -3076,6 +3034,76 @@
    "2026-10-31T20:09:45",
    "SCAN",
    "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-31T20:10:45",
+   "SCAN",
+   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-31T20:11:45",
+   "SCAN",
+   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-31T20:12:45",
+   "SCAN",
+   "Runde: 125 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-31T20:13:45",
+   "SCAN",
+   "Runde: 124 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-31T20:14:45",
+   "SCAN",
+   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-31T20:16:29",
+   "RISK",
+   "supervisor: Box war 97 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-31T20:25:50",
+   "RISK",
+   "supervisor: Box war 561 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-10-31T20:25:51",
+   "SCAN",
+   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 30 s"
+  ],
+  [
+   "2026-10-31T20:26:32",
+   "SCAN",
+   "Runde: 111 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-31T20:27:32",
+   "SCAN",
+   "Runde: 112 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-31T20:28:32",
+   "SCAN",
+   "Runde: 111 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-31T20:29:32",
+   "SCAN",
+   "Runde: 121 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-10-31T20:30:32",
+   "RISK",
+   "BLOCK GLITCH: Insider-Netzwerke (≤50 Wallets) 5.7 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-10-31T20:30:34",
+   "SCAN",
+   "Runde: 113 Tokens, 112 mit Paar, Vorfilter ok 1, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 13 s"
   ]
  ],
  "trefferquote": {
@@ -3083,5 +3111,5 @@
   "l": 0
  },
  "bester_trade": null,
- "daten_neuest": "2026-10-31T20:09:46+01:00"
+ "daten_neuest": "2026-10-31T20:30:34+01:00"
 }

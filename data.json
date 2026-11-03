@@ -1,5 +1,5 @@
 {
- "stand_daten": "03.11.2026 11:07",
+ "stand_daten": "03.11.2026 12:08",
  "depot": {
   "wert": 49.94,
   "budget": 50.0,
@@ -2217,9 +2217,37 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-03T12:10:00+01:00",
+   "coin": "WASTED+DESSA",
+   "ca": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump / npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
+   "posts_1h": "21",
+   "trend_pct": "-9",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja (Vote-/Airdrop-Vorlagen)",
+   "score_0_10": "1",
+   "quelle_links": "https://x.com/AnaAndrd/status/2117572445037047981",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-11-03T12:10:00+01:00",
+   "coin": "13 Freigaben (Bündel)",
+   "ca": "gebündelt per CA",
+   "posts_1h": "33",
+   "trend_pct": "-18",
+   "top_engagement": "L1",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja (Vote-Spam GATO/JEANPHIL neu)",
+   "score_0_10": "1",
+   "quelle_links": "https://x.com/josh_fuller6/status/2117565508027326473",
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-03.md",
    "titel": "News 03.11.2026 – Scan 09:00 (Berlin), Lücke 30.10. 23:05 – 03.11. 09:00 (Xatu)",
-   "text": "- Binance: keine neue Auszahlungsphase, kein Post-Mortem, PoR unverändert (Snapshot 04.11.). Yi He 10:09 nur Emoji-Link.\n- Listings/Upbit/Solana: nichts Neues. Scanner: keine Kandidaten seit 09:00.\n- **NEU Shill:** Vote-Bot-Netz jetzt auch für **GATO HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump** (@super_caelkins, @cobachi123, @pocahontas_25_2); weiter FARTCOIN, TROLL, HELL, WASTED, DESSA (neue Konten @saville_carliii, @kiTWICEhoeee_, @FruitZamuraida, @kennymadden1973, @DreRob). Airdrop-Vorlage jetzt auch WASTED (@guilhermebati25, @Sydney_Opexk9n).\n- Binance: keine neue Phase-2-Meldung seit 08:08; kein Post-Mortem; PoR-Snapshot weiter für 04.11. angekündigt.\n- Listings/Upbit/Solana: nichts Neues. Makro heute: JOLTS 16:00, US-Midterms.\n- Scanner: keine Kandidaten seit 08:00. Freigaben scout-2026-11-03 (13, bis 04.11. 08:58) + WASTED/DESSA nur Kandidaten.\n- **NEU Shill:** Vorlagen-Netz „Listing/Moonshot-Vote“ (Text + 5-stelliger Zufallscode + Vote-Link) für FARTCOIN 9BB6…pump, HELL A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump, TROLL 5UUH…BhgH2, WASTED GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump, DESSA npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump (@kinnidi_briggs, @Truspect, @TevenWilk, @josh_fuller6, @taakumaaak …). Zusätzlich „Airdrop-Intel“-Vorlage für DESSA und HELL (@guilhermebati25, @punyamanandhar, @Merlon_Tooth). WASTED/DESSA-Buzz (47 Posts/2 h) fast nur Bots. Bekannt: @Fortuna_Dev pusht STANK.\n- Post-Mortem: weiter nicht veröffentlicht (Binance: erst nach Abschluss der "
+   "text": "- Binance/CZ/Teng/Yi He seit 11:00: keine Posts; kein Post-Mortem; PoR-Snapshot 04.11. CZ-Livetalk CoinDesk 12:30 vorgemerkt (nächster Scan).\n- News (neutral, niedrig): 12:00 ARK kauft Coinbase-/Circle-Aktien für 17 Mio $ ([Cointelegraph](https://x.com/Cointelegraph/status/2117572625887121588)); 11:21 Hyperliquid 713 Mio $ Jahresumsatz (Bloomberg via [Cointelegraph](https://x.com/Cointelegraph/status/2117562811500921260)).\n- Listings/Upbit/Solana: nichts Neues. Scanner: keine Kandidaten seit 10:00.\n- **NEU Shill:** Vote-Bot-Netz jetzt auch **JEANPHIL GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump** (@josh_fuller6, @_ivyfbaby). GATO stark bespielt (≥7 Vorlagen-Posts/h). Weitere neue Konten: @Dwaynehirsch, @denisemaher, @Seriuxxx, @AnaAndrd, @TFrid7, @MaisonDunn1, @tosshiitan, @portablezar2000.\n- Binance: keine neue Auszahlungsphase, kein Post-Mortem, PoR unverändert (Snapshot 04.11.). Yi He 10:09 nur Emoji-Link.\n- Listings/Upbit/Solana: nichts Neues. Scanner: keine Kandidaten seit 09:00.\n- **NEU Shill:** Vote-Bot-Netz jetzt auch für **GATO HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump** (@super_caelkins, @cobachi123, @pocahontas_25_2); weiter FARTCOIN, TROLL, HELL, WASTED, DESSA (neue Konten @saville_carliii, @kiTWICEhoeee_, @FruitZamuraida, @kennymadden1973, @DreRob). Airdrop-Vorlage jetzt auch WASTED (@guilhermebati25, @Sydney_Opexk9n).\n- Binance: keine neue Phase-2-Meldung seit 08:08; kein Post-Mortem; PoR-Snapshot weiter für 04.11. angekündigt.\n- Listings/Upbit/Solana: nichts"
   },
   {
    "zeitpunkt": "2026-11-01T07:00+01:00",
@@ -2318,6 +2346,24 @@
    "quelle": "https://x.com/super_caelkins/status/2117557117205053722",
    "titel": "Shill: Vote-Bot-Netz jetzt auch GATO",
    "text": "CA HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03T12:00+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "https://x.com/Cointelegraph/status/2117572625887121588",
+   "titel": "ARK kauft COIN/CRCL 17 Mio",
+   "text": "Aktien",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03T11:32+01:00",
+   "coin": "JEANPHIL",
+   "signal": "neutral",
+   "quelle": "https://x.com/josh_fuller6/status/2117565508027326473",
+   "titel": "Shill: Vote-Bot-Netz jetzt auch JEANPHIL",
+   "text": "CA GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump",
    "datei": "2026-11-03.csv"
   },
   {
@@ -2870,19 +2916,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 12:02:45",
-   "tokens": 136,
-   "paar": 136,
+   "t": "2026-11-03 12:12:45",
+   "tokens": 130,
+   "paar": 129,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 247,
-   "tokens": 30839,
-   "paar": 30427,
+   "runden": 257,
+   "tokens": 32103,
+   "paar": 31686,
    "vor": 4,
-   "kandidaten_zeilen": 1506,
+   "kandidaten_zeilen": 1589,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
@@ -2891,19 +2937,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    891
+    937
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    465
+    492
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    91
+    96
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    40
+    44
    ],
    [
     "Vorfilter: keine Socials/Website auf DexScreener",
@@ -2933,8 +2979,8 @@
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-11-03T11:07:04+01:00"
+   "letzte_datei": "krypto/news/2026-11-03.md",
+   "zeit": "2026-11-03T12:08:11+01:00"
   },
   {
    "name": "Kadabra",
@@ -2965,8 +3011,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-03T12:02:45+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-03T12:12:45+01:00"
   },
   {
    "name": "Magnayen",
@@ -2978,56 +3024,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T10:35:21",
-   "SCAN",
-   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T10:36:21",
-   "SCAN",
-   "Runde: 111 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T10:37:21",
-   "SCAN",
-   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T10:38:21",
-   "SCAN",
-   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T10:39:21",
-   "SCAN",
-   "Runde: 115 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T10:40:21",
-   "SCAN",
-   "Runde: 114 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T10:45:53",
-   "RISK",
-   "supervisor: Box war 302 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T10:46:03",
-   "SCAN",
-   "Runde: 128 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T10:47:03",
-   "SCAN",
-   "Runde: 130 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T10:48:03",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-03T10:49:03",
    "SCAN",
@@ -3277,6 +3273,56 @@
    "2026-11-03T12:02:45",
    "SCAN",
    "Runde: 136 Tokens, 136 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:03:45",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:04:45",
+   "SCAN",
+   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:05:45",
+   "SCAN",
+   "Runde: 117 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:06:45",
+   "SCAN",
+   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:07:45",
+   "SCAN",
+   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:08:45",
+   "SCAN",
+   "Runde: 130 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:09:45",
+   "SCAN",
+   "Runde: 132 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:10:45",
+   "SCAN",
+   "Runde: 132 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:11:45",
+   "SCAN",
+   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:12:45",
+   "SCAN",
+   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3294,5 +3340,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T12:02:45+01:00"
+ "daten_neuest": "2026-11-03T12:12:45+01:00"
 }

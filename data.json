@@ -1,5 +1,5 @@
 {
- "stand_daten": "03.11.2026 15:13",
+ "stand_daten": "03.11.2026 16:11",
  "depot": {
   "wert": 49.47,
   "budget": 50.0,
@@ -2364,9 +2364,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-03 16:00",
+   "coin": "BUENDEL",
+   "ca": "87",
+   "posts_1h": "template WASTED9 GATO6 HELL4 DESSA4 USELESS1(neu)",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-03.md",
    "titel": "News 03.11.2026 – Scan 09:00 (Berlin), Lücke 30.10. 23:05 – 03.11. 09:00 (Xatu)",
-   "text": "- OKX 14:30: geplante Wallet-Wartung ab heute ([X](https://x.com/okx/status/2117610278338613591)). Midterms: Wahl läuft. JOLTS 16:00 (Prognose 7,13 Mio, Vorwert 7,079 Mio).\n- Binance offiziell: nichts Neues; kein Post-Mortem.\n- **WASTED-Schwellen** (DexScreener 15:15): Liq. 98.476 $ vs. 111.457 $ beim Scanner-Kauf 13:33 = **−11,6 %** (< 30 %) · 24h **+50,2 %** (kein ≥50-%-Verlust) → **kein BLOCK**. Aber 1h −23,3 %, 6h −25,7 %; Paper-Trade 14:31 per Stop −15 % geschlossen.\n- Bot-Netz: keine neuen Coins (WASTED 9, GATO 9, HELL 4, DESSA 3 Vorlagen-Posts gelesen). posts_1h 13–14 UTC: WASTED 25, GATO 25, übrige Freigaben + DESSA 28.\n- Binance: keine offiziellen Posts seit 13:00; kein Post-Mortem; PoR-Snapshot 04.11. JOLTS 16:00 (Sept., Prognose 7,13 Mio, CoinDesk), Midterms heute.\n- Listings/Upbit/Solana: nichts Neues.\n- Bot-Netz: **keine neu betroffenen freigegebenen Coins**; aktiv WASTED, GATO, JEANPHIL, HELL. posts_1h (12–13 UTC): WASTED+DESSA 17, GATO 18 (vorher 27), übrige 12 Freigaben 16.\n- Binance offiziell seit 12:00: nur VIP-Werbung; kein Post-Mortem, PoR-Snapshot 04.11.\n- Listings/Upbit/Solana: nichts Neues. Scanner: keine Kandidaten seit 11:00. Gerücht „binance unlocking“ BONK/WIF (@cultsfamily, Einzelpost) → unbestätigt.\n- Bot-Netz: **keine neuen Coins**; GATO weiter am stärksten bespielt (~11 Vorlagen-Posts in 1 h). Bekannt: FARTCOIN+STANK-Kopplung (@KernAstra).\n- Binance/CZ/Teng/Yi He seit 11:00: keine Posts; kein Post-Mortem; PoR-Snapshot 04.11. CZ-Livetalk CoinDesk"
+   "text": "- Starke Signale: nein.\n- JOLTS Sep. (16:00): 7,523 Mio vs. Prognose 7,164 Mio, Vormonat 7,079 Mio (FirstSquawk 16:00, DeItaone 16:07). US-Factory-Orders +1,8 % vs. 1,2 % (16:05). 10J-Rendite +5,4 bp auf 4,948 % (16:04). Reaktion: BTC 5m 15:55–16:10 77.292→77.350 (±0,2 %), ETH 2.285→2.286, SOL 93,33→93,31, also kaum Bewegung. Richtung neutral/leicht bärisch (Zinsen), Dringlichkeit mittel, Unsicherheit niedrig.\n- Binance veröffentlicht ersten Bericht zum Hack vom 29.10. (6,34 Mrd $): Malware über ein Fake-Jobinterview auf einem Mitarbeiter-Rechner, internes KI-Tool ausgenutzt (Teng 15:36, binance 15:33, Cointelegraph 15:43, WuBlockchain 15:46). Neutral, mittel, niedrig.\n- Tether (Ardoino) hält 150.000 BTC, etwa 50.000 mehr als im letzten Reserve-Bericht (CoinDesk 15:27). Neutral bis leicht bullisch, niedrig, mittel.\n- Makro: Iran sagt, Hormuz bleibt zu, bis 7 Bedingungen erfüllt sind (DeItaone 15:25). Midterms: keine neue Meldung in den geprüften Quellen.\n- Kurse 16:1x: BTC 77.348 (−0,7 %), ETH 2.285,40 (−0,2 %), SOL 93,27 (−1,2 %), BNB 698,95 (−0,8 %). 1h-Ranges 15–16 Uhr: BTC 0,48 %, ETH 0,72 %, SOL 0,86 %.\n- Freigaben/BLOCK nach Panzaeron: kein Coin über den Schwellen. WASTED Liq. 93.362 $ (−16,2 % vs. 111.457), 24h +37,5 %. DESSA Liq. 273.412 $, 24h −29,0 %. Alle anderen 24h zwischen −7 % und +2 %.\n- kandidaten.csv seit 14:00: keine Einträge.\n- X: posts_1h (14–15Z) für das gesamte Freigabe-Bündel 87 (Vorstunde 78). Vorlagen-Posts seit 15:10: WASTED 9, GATO 6, HELL 4, DESSA"
   },
   {
    "zeitpunkt": "2026-11-01T07:00+01:00",
@@ -2555,6 +2569,33 @@
    "quelle": "https://x.com/CoinDesk/status/2117604484519973101",
    "titel": "CZ: kein Bank-Run",
    "text": "Abflüsse ~3.6 Mrd ≈ 2 %",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03 16:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "FirstSquawk",
+   "titel": "JOLTS Sep 7,523 Mio vs 7,164",
+   "text": "",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03 15:36",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "Teng/Binance",
+   "titel": "Hack-Bericht Fake-Jobinterview",
+   "text": "",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03 15:27",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "CoinDesk",
+   "titel": "Tether 150k BTC",
+   "text": "",
    "datei": "2026-11-03.csv"
   },
   {
@@ -3107,19 +3148,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 16:02:48",
-   "tokens": 127,
-   "paar": 123,
+   "t": "2026-11-03 16:12:47",
+   "tokens": 112,
+   "paar": 110,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 387,
-   "tokens": 47639,
-   "paar": 46915,
+   "runden": 397,
+   "tokens": 48871,
+   "paar": 48118,
    "vor": 15,
-   "kandidaten_zeilen": 2276,
+   "kandidaten_zeilen": 2305,
    "nach_checks": 3,
    "gekauft": 2,
    "schatten": 0,
@@ -3128,11 +3169,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1371
+    1395
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    649
+    652
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -3140,7 +3181,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    68
+    69
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -3176,8 +3217,8 @@
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-11-03T15:13:42+01:00"
+   "letzte_datei": "krypto/news/2026-11-03.csv",
+   "zeit": "2026-11-03T16:11:33+01:00"
   },
   {
    "name": "Kadabra",
@@ -3209,7 +3250,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-03T16:02:48+01:00"
+   "zeit": "2026-11-03T16:12:48+01:00"
   },
   {
    "name": "Magnayen",
@@ -3221,56 +3262,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T14:39:12",
-   "SCAN",
-   "Runde: 103 Tokens, 101 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T14:41:05",
-   "RISK",
-   "supervisor: Box war 114 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T14:41:15",
-   "SCAN",
-   "Runde: 108 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T15:11:59",
-   "RISK",
-   "supervisor: Box war 1854 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T15:12:45",
-   "SCAN",
-   "Runde: 123 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-03T15:13:45",
-   "SCAN",
-   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T15:14:45",
-   "SCAN",
-   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T15:15:45",
-   "SCAN",
-   "Runde: 123 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T15:16:45",
-   "SCAN",
-   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T15:17:45",
-   "SCAN",
-   "Runde: 124 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-03T15:18:45",
    "SCAN",
@@ -3520,6 +3511,56 @@
    "2026-11-03T16:02:48",
    "SCAN",
    "Runde: 127 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T16:03:47",
+   "SCAN",
+   "Runde: 128 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T16:04:48",
+   "SCAN",
+   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T16:05:48",
+   "SCAN",
+   "Runde: 128 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T16:06:48",
+   "SCAN",
+   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T16:07:50",
+   "SCAN",
+   "Runde: 123 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
+  ],
+  [
+   "2026-11-03T16:08:48",
+   "SCAN",
+   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T16:09:47",
+   "SCAN",
+   "Runde: 120 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T16:10:47",
+   "SCAN",
+   "Runde: 114 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T16:11:47",
+   "SCAN",
+   "Runde: 128 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T16:12:47",
+   "SCAN",
+   "Runde: 112 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3537,5 +3578,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T16:02:48+01:00"
+ "daten_neuest": "2026-11-03T16:12:48+01:00"
 }

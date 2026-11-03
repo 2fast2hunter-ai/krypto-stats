@@ -2870,19 +2870,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 11:07:23",
-   "tokens": 129,
-   "paar": 129,
+   "t": "2026-11-03 11:09:23",
+   "tokens": 133,
+   "paar": 133,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 215,
-   "tokens": 26756,
-   "paar": 26355,
+   "runden": 217,
+   "tokens": 27018,
+   "paar": 26617,
    "vor": 3,
-   "kandidaten_zeilen": 1355,
+   "kandidaten_zeilen": 1359,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
@@ -2891,11 +2891,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    791
+    793
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    425
+    426
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -2907,7 +2907,7 @@
    ],
    [
     "Vorfilter: keine Socials/Website auf DexScreener",
-    8
+    9
    ]
   ]
  },
@@ -2966,7 +2966,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-03T11:07:23+01:00"
+   "zeit": "2026-11-03T11:09:23+01:00"
   },
   {
    "name": "Magnayen",
@@ -2978,16 +2978,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T09:42:30",
-   "SCAN",
-   "Runde: 106 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T09:43:30",
-   "SCAN",
-   "Runde: 108 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-03T09:44:30",
    "SCAN",
@@ -3277,6 +3267,16 @@
    "2026-11-03T11:07:23",
    "SCAN",
    "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T11:08:23",
+   "SCAN",
+   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T11:09:23",
+   "SCAN",
+   "Runde: 133 Tokens, 133 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3294,5 +3294,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T11:07:23+01:00"
+ "daten_neuest": "2026-11-03T11:09:23+01:00"
 }

@@ -1,5 +1,5 @@
 {
- "stand_daten": "03.11.2026 13:34",
+ "stand_daten": "03.11.2026 14:02",
  "depot": {
   "wert": 49.94,
   "budget": 50.0,
@@ -2274,9 +2274,51 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-03T14:08:00+01:00",
+   "coin": "WASTED+DESSA",
+   "ca": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump / npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
+   "posts_1h": "17",
+   "trend_pct": "6",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja (Vote-/Airdrop-Netz)",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-11-03T14:08:00+01:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "18",
+   "trend_pct": "-33",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja (Vote-Netz)",
+   "score_0_10": "0",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-11-03T14:08:00+01:00",
+   "coin": "12 Freigaben (Bündel ohne GATO)",
+   "ca": "gebündelt per CA",
+   "posts_1h": "16",
+   "trend_pct": "7",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "teilweise (JEANPHIL/HELL)",
+   "score_0_10": "2",
+   "quelle_links": "",
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-03.md",
    "titel": "News 03.11.2026 – Scan 09:00 (Berlin), Lücke 30.10. 23:05 – 03.11. 09:00 (Xatu)",
-   "text": "- Binance offiziell seit 12:00: nur VIP-Werbung; kein Post-Mortem, PoR-Snapshot 04.11.\n- Listings/Upbit/Solana: nichts Neues. Scanner: keine Kandidaten seit 11:00. Gerücht „binance unlocking“ BONK/WIF (@cultsfamily, Einzelpost) → unbestätigt.\n- Bot-Netz: **keine neuen Coins**; GATO weiter am stärksten bespielt (~11 Vorlagen-Posts in 1 h). Bekannt: FARTCOIN+STANK-Kopplung (@KernAstra).\n- Binance/CZ/Teng/Yi He seit 11:00: keine Posts; kein Post-Mortem; PoR-Snapshot 04.11. CZ-Livetalk CoinDesk 12:30 vorgemerkt (nächster Scan).\n- News (neutral, niedrig): 12:00 ARK kauft Coinbase-/Circle-Aktien für 17 Mio $ ([Cointelegraph](https://x.com/Cointelegraph/status/2117572625887121588)); 11:21 Hyperliquid 713 Mio $ Jahresumsatz (Bloomberg via [Cointelegraph](https://x.com/Cointelegraph/status/2117562811500921260)).\n- Listings/Upbit/Solana: nichts Neues. Scanner: keine Kandidaten seit 10:00.\n- **NEU Shill:** Vote-Bot-Netz jetzt auch **JEANPHIL GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump** (@josh_fuller6, @_ivyfbaby). GATO stark bespielt (≥7 Vorlagen-Posts/h). Weitere neue Konten: @Dwaynehirsch, @denisemaher, @Seriuxxx, @AnaAndrd, @TFrid7, @MaisonDunn1, @tosshiitan, @portablezar2000.\n- Binance: keine neue Auszahlungsphase, kein Post-Mortem, PoR unverändert (Snapshot 04.11.). Yi He 10:09 nur Emoji-Link.\n- Listings/Upbit/Solana: nichts Neues. Scanner: keine Kandidaten seit 09:00.\n- **NEU Shill:** Vote-Bot-Netz jetzt auch für **GATO HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump** (@super_cael"
+   "text": "- Binance: keine offiziellen Posts seit 13:00; kein Post-Mortem; PoR-Snapshot 04.11. JOLTS 16:00 (Sept., Prognose 7,13 Mio, CoinDesk), Midterms heute.\n- Listings/Upbit/Solana: nichts Neues.\n- Bot-Netz: **keine neu betroffenen freigegebenen Coins**; aktiv WASTED, GATO, JEANPHIL, HELL. posts_1h (12–13 UTC): WASTED+DESSA 17, GATO 18 (vorher 27), übrige 12 Freigaben 16.\n- Binance offiziell seit 12:00: nur VIP-Werbung; kein Post-Mortem, PoR-Snapshot 04.11.\n- Listings/Upbit/Solana: nichts Neues. Scanner: keine Kandidaten seit 11:00. Gerücht „binance unlocking“ BONK/WIF (@cultsfamily, Einzelpost) → unbestätigt.\n- Bot-Netz: **keine neuen Coins**; GATO weiter am stärksten bespielt (~11 Vorlagen-Posts in 1 h). Bekannt: FARTCOIN+STANK-Kopplung (@KernAstra).\n- Binance/CZ/Teng/Yi He seit 11:00: keine Posts; kein Post-Mortem; PoR-Snapshot 04.11. CZ-Livetalk CoinDesk 12:30 vorgemerkt (nächster Scan).\n- News (neutral, niedrig): 12:00 ARK kauft Coinbase-/Circle-Aktien für 17 Mio $ ([Cointelegraph](https://x.com/Cointelegraph/status/2117572625887121588)); 11:21 Hyperliquid 713 Mio $ Jahresumsatz (Bloomberg via [Cointelegraph](https://x.com/Cointelegraph/status/2117562811500921260)).\n- Listings/Upbit/Solana: nichts Neues. Scanner: keine Kandidaten seit 10:00.\n- **NEU Shill:** Vote-Bot-Netz jetzt auch **JEANPHIL GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump** (@josh_fuller6, @_ivyfbaby). GATO stark bespielt (≥7 Vorlagen-Posts/h). Weitere neue Konten: @Dwaynehirsch, @denisemaher, @Seriuxxx, @AnaAn"
   },
   {
    "zeitpunkt": "2026-11-01T07:00+01:00",
@@ -2411,6 +2453,33 @@
    "quelle": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
    "titel": "Nordkorea bestreitet Binance-Hack",
    "text": "FBI: TraderTraitor; Elliptic 2.85 Mrd eingefroren",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03T13:41+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "https://x.com/WuBlockchain/status/2117598104707088672",
+   "titel": "Südkorea erwägt 99 % Cold-Wallet-Pflicht",
+   "text": "Regulierung (Erwägung)",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03T13:17+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "https://x.com/Cointelegraph/status/2117592050287739025",
+   "titel": "Kraken sperrt Konten wegen EU-Diebstahl",
+   "text": "133 Mio $",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03T13:34+01:00",
+   "coin": "WASTED",
+   "signal": "neutral",
+   "quelle": "/workspace/krypto/paper-trades.csv",
+   "titel": "Scanner-Paperkauf trotz Bot-Netz-Buzz",
+   "text": "CA GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump",
    "datei": "2026-11-03.csv"
   },
   {
@@ -2963,19 +3032,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 14:01:14",
-   "tokens": 112,
-   "paar": 110,
+   "t": "2026-11-03 14:11:20",
+   "tokens": 122,
+   "paar": 119,
    "vor": 0,
    "offen": 1,
    "schatten": 0
   },
   "heute": {
-   "runden": 305,
-   "tokens": 37905,
-   "paar": 37443,
+   "runden": 315,
+   "tokens": 39074,
+   "paar": 38582,
    "vor": 5,
-   "kandidaten_zeilen": 1826,
+   "kandidaten_zeilen": 1908,
    "nach_checks": 2,
    "gekauft": 2,
    "schatten": 0,
@@ -2984,23 +3053,23 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1088
+    1137
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    553
+    576
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    109
+    115
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    51
+    54
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
-    9
+    10
    ]
   ]
  },
@@ -3027,7 +3096,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-11-03T13:03:42+01:00"
+   "zeit": "2026-11-03T14:02:44+01:00"
   },
   {
    "name": "Kadabra",
@@ -3058,8 +3127,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-03T14:01:14+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-03T14:11:21+01:00"
   },
   {
    "name": "Magnayen",
@@ -3071,56 +3140,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T12:09:45",
-   "SCAN",
-   "Runde: 132 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T12:10:45",
-   "SCAN",
-   "Runde: 132 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T12:11:45",
-   "SCAN",
-   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T12:12:45",
-   "SCAN",
-   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T12:13:45",
-   "SCAN",
-   "Runde: 119 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T12:14:45",
-   "SCAN",
-   "Runde: 131 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T12:15:45",
-   "SCAN",
-   "Runde: 131 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T12:16:45",
-   "SCAN",
-   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T12:17:45",
-   "SCAN",
-   "Runde: 131 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T12:18:45",
-   "SCAN",
-   "Runde: 113 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-03T12:19:45",
    "SCAN",
@@ -3370,6 +3389,56 @@
    "2026-11-03T14:01:14",
    "SCAN",
    "Runde: 112 Tokens, 110 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T14:02:14",
+   "SCAN",
+   "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T14:03:14",
+   "SCAN",
+   "Runde: 105 Tokens, 104 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T14:04:15",
+   "SCAN",
+   "Runde: 116 Tokens, 113 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T14:05:15",
+   "SCAN",
+   "Runde: 121 Tokens, 119 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T14:06:48",
+   "SCAN",
+   "Runde: 118 Tokens, 113 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 45 s"
+  ],
+  [
+   "2026-11-03T14:07:20",
+   "SCAN",
+   "Runde: 121 Tokens, 117 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T14:08:20",
+   "SCAN",
+   "Runde: 121 Tokens, 115 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T14:09:20",
+   "SCAN",
+   "Runde: 106 Tokens, 103 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T14:10:20",
+   "SCAN",
+   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T14:11:20",
+   "SCAN",
+   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -3387,5 +3456,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T14:01:14+01:00"
+ "daten_neuest": "2026-11-03T14:11:21+01:00"
 }

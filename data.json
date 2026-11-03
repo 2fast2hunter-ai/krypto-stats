@@ -1,5 +1,5 @@
 {
- "stand_daten": "03.11.2026 16:11",
+ "stand_daten": "03.11.2026 17:02",
  "depot": {
   "wert": 49.47,
   "budget": 50.0,
@@ -2378,9 +2378,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-03 17:00",
+   "coin": "BUENDEL",
+   "ca": "82",
+   "posts_1h": "template WASTED10 GATO6 HELL5 DESSA3 NEET1(neu) USELESS0",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-03.md",
    "titel": "News 03.11.2026 – Scan 09:00 (Berlin), Lücke 30.10. 23:05 – 03.11. 09:00 (Xatu)",
-   "text": "- Starke Signale: nein.\n- JOLTS Sep. (16:00): 7,523 Mio vs. Prognose 7,164 Mio, Vormonat 7,079 Mio (FirstSquawk 16:00, DeItaone 16:07). US-Factory-Orders +1,8 % vs. 1,2 % (16:05). 10J-Rendite +5,4 bp auf 4,948 % (16:04). Reaktion: BTC 5m 15:55–16:10 77.292→77.350 (±0,2 %), ETH 2.285→2.286, SOL 93,33→93,31, also kaum Bewegung. Richtung neutral/leicht bärisch (Zinsen), Dringlichkeit mittel, Unsicherheit niedrig.\n- Binance veröffentlicht ersten Bericht zum Hack vom 29.10. (6,34 Mrd $): Malware über ein Fake-Jobinterview auf einem Mitarbeiter-Rechner, internes KI-Tool ausgenutzt (Teng 15:36, binance 15:33, Cointelegraph 15:43, WuBlockchain 15:46). Neutral, mittel, niedrig.\n- Tether (Ardoino) hält 150.000 BTC, etwa 50.000 mehr als im letzten Reserve-Bericht (CoinDesk 15:27). Neutral bis leicht bullisch, niedrig, mittel.\n- Makro: Iran sagt, Hormuz bleibt zu, bis 7 Bedingungen erfüllt sind (DeItaone 15:25). Midterms: keine neue Meldung in den geprüften Quellen.\n- Kurse 16:1x: BTC 77.348 (−0,7 %), ETH 2.285,40 (−0,2 %), SOL 93,27 (−1,2 %), BNB 698,95 (−0,8 %). 1h-Ranges 15–16 Uhr: BTC 0,48 %, ETH 0,72 %, SOL 0,86 %.\n- Freigaben/BLOCK nach Panzaeron: kein Coin über den Schwellen. WASTED Liq. 93.362 $ (−16,2 % vs. 111.457), 24h +37,5 %. DESSA Liq. 273.412 $, 24h −29,0 %. Alle anderen 24h zwischen −7 % und +2 %.\n- kandidaten.csv seit 14:00: keine Einträge.\n- X: posts_1h (14–15Z) für das gesamte Freigabe-Bündel 87 (Vorstunde 78). Vorlagen-Posts seit 15:10: WASTED 9, GATO 6, HELL 4, DESSA"
+   "text": "- Starke Signale: nein.\n- Binance-Hack, neue Details: Binance meldet 57 abgewehrte mutmaßlich nordkoreanische Angriffe 2026 (heyibinance 16:32, Cointelegraph 16:46). CZ: Sicherheitssysteme aus der Zeit vor KI reichen künftig womöglich nicht (CoinDesk 16:40). Neutral, niedrig, niedrig.\n- Midterms: laufen, noch keine Ergebnisse. Coinbase Predictions gibt Demokraten 77 % für den Senat (Cointelegraph 17:01), UBS 50 % für beide Kammern (DeItaone 16:28). Krypto-Gruppen haben ~176 Mio $ ausgegeben (Cointelegraph 16:20). Ein Machtwechsel könnte den CLARITY Act verzögern (Analyse, keine Tatsache). Leicht bärisch, mittel, hoch.\n- Sonstiges: Justin Sun beantragt Sanktionen gegen World Liberty Financial im Rechtsstreit (Cointelegraph 16:15). Iran dementiert einen nahen Deal mit den USA (16:17), Al Arabiya meldet laut DeItaone dagegen eine US-Zustimmung zum Katar-Vorschlag (16:14), also widersprüchlich und unbestätigt.\n- Kurse ~17:05: BTC 77.662 (+0,1 %), ETH 2.298,18 (+1,0 %), SOL 93,63 (0,0 %), BNB 700,69 (−0,2 %). 1h-Ranges 16–17 Uhr: BTC 0,74 %, ETH 0,91 %, SOL 1,01 %, BNB 0,61 %.\n- BLOCK nach Panzaeron: keiner. WASTED Liq. 98.668 $ (−11,5 % vs. 111.457), 24h +16,9 %. DESSA 24h −28,6 %, Liq. 274.383 $. Übrige 24h zwischen −5 % und +21 % (HELL +20,6 %).\n- kandidaten.csv seit 15:00: keine Einträge.\n- X: posts_1h Bündel (15–16Z) 82 (Vorstunde 87). Vorlagen seit 16:10: WASTED 10, GATO 6, HELL 5, DESSA 3, NEET 1. **NEU: NEET (Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump), 1 Vorlagen-Post, "
   },
   {
    "zeitpunkt": "2026-11-01T07:00+01:00",
@@ -2596,6 +2610,42 @@
    "quelle": "CoinDesk",
    "titel": "Tether 150k BTC",
    "text": "",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03 16:32",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "heyibinance/Cointelegraph",
+   "titel": "Binance: 57 DPRK-Angriffe 2026 abgewehrt",
+   "text": "Binance meldet 57 abgewehrte mutmaßlich nordkoreanische Cyberangriffe 2026 vor dem Hack",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03 16:40",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "CoinDesk",
+   "titel": "CZ zu Sicherheit und KI",
+   "text": "CZ: Sicherheitssysteme aus der Zeit vor KI reichen künftig womöglich nicht",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03 17:01",
+   "coin": "BTC",
+   "signal": "leicht bärisch",
+   "quelle": "Cointelegraph/DeItaone",
+   "titel": "Midterms: Demokraten-Odds",
+   "text": "Coinbase Predictions 77 % Senat für Demokraten; UBS 50 % beide Kammern; Ergebnisse offen",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03 16:15",
+   "coin": "WLFI",
+   "signal": "neutral",
+   "quelle": "Cointelegraph",
+   "titel": "Sun vs. World Liberty",
+   "text": "Justin Sun beantragt Sanktionen gegen World Liberty Financial",
    "datei": "2026-11-03.csv"
   },
   {
@@ -3148,19 +3198,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 16:36:36",
-   "tokens": 120,
-   "paar": 117,
+   "t": "2026-11-03 17:11:40",
+   "tokens": 124,
+   "paar": 119,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 419,
-   "tokens": 51652,
-   "paar": 50836,
+   "runden": 429,
+   "tokens": 52870,
+   "paar": 52013,
    "vor": 15,
-   "kandidaten_zeilen": 2429,
+   "kandidaten_zeilen": 2526,
    "nach_checks": 3,
    "gekauft": 2,
    "schatten": 0,
@@ -3169,23 +3219,23 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1477
+    1537
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    682
+    708
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    155
+    164
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    69
+    70
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
-    13
+    14
    ]
   ]
  },
@@ -3217,8 +3267,8 @@
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/2026-11-03.csv",
-   "zeit": "2026-11-03T16:11:33+01:00"
+   "letzte_datei": "krypto/news/x-stimmung.csv",
+   "zeit": "2026-11-03T17:02:59+01:00"
   },
   {
    "name": "Kadabra",
@@ -3250,7 +3300,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-03T17:01:55+01:00"
+   "zeit": "2026-11-03T17:15:09+01:00"
   },
   {
    "name": "Magnayen",
@@ -3262,61 +3312,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T15:40:48",
-   "SCAN",
-   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T15:41:47",
-   "SCAN",
-   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T15:42:47",
-   "SCAN",
-   "Runde: 124 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T15:43:47",
-   "SCAN",
-   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T15:44:48",
-   "SCAN",
-   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T15:45:47",
-   "SCAN",
-   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T15:46:48",
-   "RISK",
-   "BLOCK FLOAT: Insider-Netzwerke (≤50 Wallets) 5.5 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-03T15:46:49",
-   "SCAN",
-   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-03T15:47:47",
-   "RISK",
-   "BLOCK FLOAT: Insider-Netzwerke (≤50 Wallets) 5.5 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-03T15:47:48",
-   "SCAN",
-   "Runde: 108 Tokens, 106 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-03T15:48:47",
-   "RISK",
-   "BLOCK FLOAT: Insider-Netzwerke (≤50 Wallets) 5.5 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
   [
    "2026-11-03T15:48:48",
    "SCAN",
@@ -3561,6 +3556,61 @@
    "2026-11-03T17:01:55",
    "RISK",
    "supervisor: Box war 1529 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T17:02:40",
+   "SCAN",
+   "Runde: 120 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T17:03:40",
+   "SCAN",
+   "Runde: 118 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T17:04:42",
+   "SCAN",
+   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
+  ],
+  [
+   "2026-11-03T17:05:40",
+   "SCAN",
+   "Runde: 123 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T17:06:40",
+   "SCAN",
+   "Runde: 122 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T17:07:40",
+   "SCAN",
+   "Runde: 122 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T17:08:40",
+   "SCAN",
+   "Runde: 123 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T17:09:40",
+   "SCAN",
+   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T17:10:40",
+   "SCAN",
+   "Runde: 122 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T17:11:40",
+   "SCAN",
+   "Runde: 124 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T17:14:59",
+   "RISK",
+   "supervisor: Box war 184 s eingefroren – neue Frist 180 s"
   ]
  ],
  "trefferquote": {
@@ -3578,5 +3628,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T17:01:55+01:00"
+ "daten_neuest": "2026-11-03T17:15:09+01:00"
 }

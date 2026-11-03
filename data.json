@@ -3032,7 +3032,7 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 14:11:20",
+   "t": "2026-11-03 14:12:20",
    "tokens": 122,
    "paar": 119,
    "vor": 0,
@@ -3040,11 +3040,11 @@
    "schatten": 0
   },
   "heute": {
-   "runden": 315,
-   "tokens": 39074,
-   "paar": 38582,
+   "runden": 316,
+   "tokens": 39196,
+   "paar": 38701,
    "vor": 5,
-   "kandidaten_zeilen": 1908,
+   "kandidaten_zeilen": 1912,
    "nach_checks": 2,
    "gekauft": 2,
    "schatten": 0,
@@ -3053,11 +3053,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1137
+    1140
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    576
+    577
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -3128,7 +3128,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-03T14:11:21+01:00"
+   "zeit": "2026-11-03T14:12:21+01:00"
   },
   {
    "name": "Magnayen",
@@ -3140,11 +3140,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T12:19:45",
-   "SCAN",
-   "Runde: 112 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-03T12:20:45",
    "SCAN",
@@ -3439,6 +3434,11 @@
    "2026-11-03T14:11:20",
    "SCAN",
    "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T14:12:20",
+   "SCAN",
+   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -3456,5 +3456,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T14:11:21+01:00"
+ "daten_neuest": "2026-11-03T14:12:21+01:00"
 }

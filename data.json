@@ -3353,19 +3353,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 21:36:30",
-   "tokens": 129,
-   "paar": 127,
+   "t": "2026-11-03 21:37:59",
+   "tokens": 122,
+   "paar": 121,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 549,
-   "tokens": 67822,
-   "paar": 66431,
+   "runden": 550,
+   "tokens": 67944,
+   "paar": 66552,
    "vor": 18,
-   "kandidaten_zeilen": 3305,
+   "kandidaten_zeilen": 3310,
    "nach_checks": 3,
    "gekauft": 2,
    "schatten": 0,
@@ -3374,7 +3374,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    2014
+    2018
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -3382,7 +3382,7 @@
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    232
+    233
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -3454,8 +3454,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-03T21:36:30+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-03T22:00:06+01:00"
   },
   {
    "name": "Magnayen",
@@ -3467,16 +3467,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T20:01:47",
-   "SCAN",
-   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-03T20:02:47",
-   "SCAN",
-   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-03T20:03:46",
    "SCAN",
@@ -3766,6 +3756,16 @@
    "2026-11-03T21:36:30",
    "SCAN",
    "Runde: 129 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T21:37:59",
+   "SCAN",
+   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T22:00:06",
+   "RISK",
+   "supervisor: Box war 1337 s eingefroren – neue Frist 180 s"
   ]
  ],
  "trefferquote": {
@@ -3783,5 +3783,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T21:36:30+01:00"
+ "daten_neuest": "2026-11-03T22:00:06+01:00"
 }

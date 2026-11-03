@@ -1,5 +1,5 @@
 {
- "stand_daten": "03.11.2026 20:01",
+ "stand_daten": "03.11.2026 21:09",
  "depot": {
   "wert": 49.47,
   "budget": 50.0,
@@ -2434,9 +2434,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-03 21:00",
+   "coin": "BUENDEL",
+   "ca": "56(19-20Z)",
+   "posts_1h": "template WASTED8 GATO8 USELESS4 JEANPHIL2 NEET2 HELL1",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-03.md",
    "titel": "News 03.11.2026 – Scan 09:00 (Berlin), Lücke 30.10. 23:05 – 03.11. 09:00 (Xatu)",
-   "text": "- Starke Signale: nein.\n- Binance-Hacker-Flüsse: Ein On-Chain-Analyst meldet, mutmaßlich nordkoreanische Hacker hätten 1,46 Mio $ über Jupiter Lend und Circle Bridge bewegt; Jupiter sagt, die Mittel bleiben nachverfolgbar (WuBlockchain 19:33). Seit dem Hack ist der ETH-Bestand auf Börsen von 3,56 % auf 3,20 % gefallen, rund 313.000 ETH haben die großen Börsenadressen verlassen (Cointelegraph 19:40). Neutral, niedrig, mittel.\n- ECB: Nagel hält eine Zinserhöhung im Dezember für „sehr wahrscheinlich“ (DeItaone/FirstSquawk 19:00–19:05). Leicht bärisch, mittel, niedrig.\n- Midterms: Prognosemärkte sehen die Demokraten zu 94 % beim Repräsentantenhaus vorn, UBS bleibt bei 50 % für beide Kammern (Cointelegraph 19:19). Schumer zeigt sich „nauseously optimistic“ (19:53). Ergebnisse ab 0 Uhr.\n- Iran/Israel-Chemiewaffen: in den geprüften Quellen weder Bestätigung noch Dementi. CZ in der Oxford Union: keine Meldungen zu Inhalten.\n- Sonstiges: Jemen warnt, Aramco-Anlagen lägen in Reichweite (19:22). GitBook meldet einen KI-gestützten Cyberangriff (19:01). US-Indizes im Plus: S&P +0,7 %, Nasdaq +1,2 % (19:35).\n- Kurse ~20:00: BTC 77.591 (+0,7 %), ETH 2.292,55 (+1,7 %), SOL 93,44 (+1,3 %), BNB 697,32 (−0,2 %). 1h-Ranges 19–20 Uhr: BTC 0,43 %, ETH 0,50 %, SOL 0,62 %, BNB 0,35 %.\n- BLOCK nach Panzaeron: keiner. WASTED Liq. 89.302 $ (−19,9 % vs. 111.457), 24h −21,6 %; Abstand zu den Schwellen kleiner, beobachten. DESSA 24h −27,0 %. HELL 24h −12,5 %. Übrige 24h zwischen −5 % und +22 %.\n- kandidat"
+   "text": "- Starke Signale: nein.\n- **WASTED (GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump): 24h −41,0 %, 1h −7,7 %; Liq. 87.067 $ (−21,9 % vs. 111.457). Noch kein BLOCK, aber nah an beiden Schwellen (−50 % / −30 %).**\n- Iran/Israel: Die Chemiewaffen-Behauptung spaltet laut Cointelegraph die US-Beamten, einige werfen Netanjahu vor, Trump in einen Militäreinsatz ziehen zu wollen (20:20). Weder Bestätigung noch Dementi. Leicht bärisch, mittel, hoch.\n- Hacker-Flüsse: keine neuen Meldungen seit 20:00. GitBook-Angriff (KI-Agenten) betrifft laut WuBlockchain Doku-Seiten von Krypto-Projekten (20:44).\n- CZ Oxford Union: keine Meldungen. Midterms: nichts Neues, Ergebnisse ab 0 Uhr.\n- Sonstiges: Meta will bis zu 25 Mrd $ über Anleihen aufnehmen (20:59). Brent schließt bei 103,60 $ (−1,1 %).\n- Kurse ~21:05: BTC 77.696 (+0,9 %), ETH 2.289,76 (+1,5 %), SOL 93,36 (+1,5 %), BNB 697,69 (0,0 %). 1h-Ranges 20–21 Uhr: BTC 0,20 %, ETH 0,39 %, SOL 0,35 %, BNB 0,23 %.\n- BLOCK nach Panzaeron: keiner. DESSA 24h −26,3 %. HELL 1h −13,6 %. JEANPHIL 24h −11,7 %. Übrige 24h zwischen −5 % und +13 %.\n- kandidaten.csv seit 19:00: keine Einträge.\n- X: posts_1h Bündel 18–19Z 90, 19–20Z 56. Vorlagen seit 20:00: WASTED 8, GATO 8, USELESS 4, JEANPHIL 2, NEET 2, HELL 1. Kein neuer Coin; USELESS-Posts nehmen zu.\n- Starke Signale: nein.\n- Binance-Hacker-Flüsse: Ein On-Chain-Analyst meldet, mutmaßlich nordkoreanische Hacker hätten 1,46 Mio $ über Jupiter Lend und Circle Bridge bewegt; Jupiter sagt, die Mittel bleiben nachverf"
   },
   {
    "zeitpunkt": "2026-11-01T07:00+01:00",
@@ -2769,6 +2783,24 @@
    "quelle": "Cointelegraph",
    "titel": "Midterms: Prognosemärkte Haus 94 % Demokraten",
    "text": "Prognosemärkte sehen Demokraten zu 94 % beim Haus vorn; UBS 50 % für beide Kammern; Ergebnisse offen",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03 21:05",
+   "coin": "WASTED",
+   "signal": "beobachten",
+   "quelle": "DexScreener",
+   "titel": "WASTED −41 % in 24h, Liq. −21,9 %",
+   "text": "WASTED (GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump) 24h −41,0 %, Liquidität 87.067 $ vs. Ref. 111.457 $; BLOCK-Schwellen noch nicht erreicht",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03 20:20",
+   "coin": "BTC",
+   "signal": "leicht bärisch",
+   "quelle": "Cointelegraph",
+   "titel": "Chemiewaffen-Behauptung spaltet US-Beamte",
+   "text": "Israels Behauptung zu iranischen Chemiewaffen spaltet US-Beamte; weder bestätigt noch dementiert",
    "datei": "2026-11-03.csv"
   },
   {
@@ -3321,19 +3353,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 20:42:01",
-   "tokens": 127,
-   "paar": 124,
+   "t": "2026-11-03 21:13:48",
+   "tokens": 118,
+   "paar": 115,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 528,
-   "tokens": 65254,
-   "paar": 63914,
+   "runden": 538,
+   "tokens": 66432,
+   "paar": 65070,
    "vor": 18,
-   "kandidaten_zeilen": 3195,
+   "kandidaten_zeilen": 3280,
    "nach_checks": 3,
    "gekauft": 2,
    "schatten": 0,
@@ -3342,19 +3374,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1944
+    1993
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    881
+    908
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    226
+    232
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    82
+    84
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -3391,7 +3423,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-11-03T20:01:29+01:00"
+   "zeit": "2026-11-03T21:09:54+01:00"
   },
   {
    "name": "Kadabra",
@@ -3422,8 +3454,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-03T21:02:10+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-03T21:13:49+01:00"
   },
   {
    "name": "Magnayen",
@@ -3435,71 +3467,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T19:15:41",
-   "SCAN",
-   "Runde: 121 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-03T19:16:40",
-   "SCAN",
-   "Runde: 131 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T19:17:40",
-   "SCAN",
-   "Runde: 123 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T19:18:40",
-   "SCAN",
-   "Runde: 131 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T19:21:49",
-   "RISK",
-   "supervisor: Box war 178 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T19:24:25",
-   "RISK",
-   "supervisor: Box war 156 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T19:24:28",
-   "SCAN",
-   "Runde: 133 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 26 s"
-  ],
-  [
-   "2026-11-03T19:25:13",
-   "SCAN",
-   "Runde: 133 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T19:26:13",
-   "SCAN",
-   "Runde: 133 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T19:27:12",
-   "SCAN",
-   "Runde: 116 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T19:28:13",
-   "SCAN",
-   "Runde: 131 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T19:30:49",
-   "RISK",
-   "supervisor: Box war 144 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T19:30:59",
-   "SCAN",
-   "Runde: 114 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-03T19:38:52",
    "RISK",
@@ -3734,6 +3701,71 @@
    "2026-11-03T21:02:10",
    "RISK",
    "supervisor: Box war 1219 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T21:02:46",
+   "SCAN",
+   "Runde: 115 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T21:03:46",
+   "SCAN",
+   "Runde: 112 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T21:04:47",
+   "SCAN",
+   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T21:07:43",
+   "RISK",
+   "supervisor: Box war 90 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T21:07:50",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 33 s"
+  ],
+  [
+   "2026-11-03T21:08:26",
+   "SCAN",
+   "Runde: 116 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T21:09:27",
+   "SCAN",
+   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T21:10:26",
+   "SCAN",
+   "Runde: 112 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T21:11:23",
+   "RISK",
+   "supervisor: scanner beendet (rc 143), Neustart in 15 s"
+  ],
+  [
+   "2026-11-03T21:11:38",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet) pid 3909091"
+  ],
+  [
+   "2026-11-03T21:11:48",
+   "SCAN",
+   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T21:12:48",
+   "SCAN",
+   "Runde: 111 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T21:13:48",
+   "SCAN",
+   "Runde: 118 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3751,5 +3783,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T21:02:10+01:00"
+ "daten_neuest": "2026-11-03T21:13:49+01:00"
 }

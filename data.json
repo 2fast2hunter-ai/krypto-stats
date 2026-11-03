@@ -2916,19 +2916,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 12:17:45",
-   "tokens": 131,
-   "paar": 128,
+   "t": "2026-11-03 12:33:41",
+   "tokens": 112,
+   "paar": 112,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 262,
-   "tokens": 32743,
-   "paar": 32323,
+   "runden": 268,
+   "tokens": 33461,
+   "paar": 33033,
    "vor": 4,
-   "kandidaten_zeilen": 1596,
+   "kandidaten_zeilen": 1612,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
@@ -2937,11 +2937,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    943
+    956
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    492
+    495
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -3011,8 +3011,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-03T12:17:45+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-03T12:33:41+01:00"
   },
   {
    "name": "Magnayen",
@@ -3024,46 +3024,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T11:00:23",
-   "SCAN",
-   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T11:01:22",
-   "SCAN",
-   "Runde: 116 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T11:02:23",
-   "SCAN",
-   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T11:03:22",
-   "SCAN",
-   "Runde: 117 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T11:04:23",
-   "SCAN",
-   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T11:05:23",
-   "SCAN",
-   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T11:06:22",
-   "SCAN",
-   "Runde: 113 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T11:07:23",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-03T11:08:23",
    "SCAN",
@@ -3323,6 +3283,46 @@
    "2026-11-03T12:17:45",
    "SCAN",
    "Runde: 131 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:18:45",
+   "SCAN",
+   "Runde: 113 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:19:45",
+   "SCAN",
+   "Runde: 112 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:20:45",
+   "SCAN",
+   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:21:45",
+   "SCAN",
+   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T12:24:16",
+   "RISK",
+   "supervisor: Box war 101 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T12:24:17",
+   "SCAN",
+   "Runde: 131 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 103 s"
+  ],
+  [
+   "2026-11-03T12:33:31",
+   "RISK",
+   "supervisor: Box war 555 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T12:33:41",
+   "SCAN",
+   "Runde: 112 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3340,5 +3340,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T12:17:45+01:00"
+ "daten_neuest": "2026-11-03T12:33:41+01:00"
 }

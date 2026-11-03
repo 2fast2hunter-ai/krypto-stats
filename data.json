@@ -3198,17 +3198,17 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 17:11:40",
-   "tokens": 124,
-   "paar": 119,
+   "t": "2026-11-03 17:15:09",
+   "tokens": 112,
+   "paar": 109,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 429,
-   "tokens": 52870,
-   "paar": 52013,
+   "runden": 430,
+   "tokens": 52982,
+   "paar": 52122,
    "vor": 15,
    "kandidaten_zeilen": 2526,
    "nach_checks": 3,
@@ -3299,7 +3299,7 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
    "zeit": "2026-11-03T17:15:09+01:00"
   },
   {
@@ -3312,11 +3312,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T15:48:48",
-   "SCAN",
-   "Runde: 109 Tokens, 107 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
   [
    "2026-11-03T15:49:47",
    "SCAN",
@@ -3611,6 +3606,11 @@
    "2026-11-03T17:14:59",
    "RISK",
    "supervisor: Box war 184 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T17:15:09",
+   "SCAN",
+   "Runde: 112 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {

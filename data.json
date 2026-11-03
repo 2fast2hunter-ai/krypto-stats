@@ -3230,19 +3230,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 18:14:30",
-   "tokens": 124,
-   "paar": 120,
+   "t": "2026-11-03 18:49:41",
+   "tokens": 129,
+   "paar": 124,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 455,
-   "tokens": 55974,
-   "paar": 55022,
+   "runden": 470,
+   "tokens": 57863,
+   "paar": 56854,
    "vor": 15,
-   "kandidaten_zeilen": 2724,
+   "kandidaten_zeilen": 2830,
    "nach_checks": 3,
    "gekauft": 2,
    "schatten": 0,
@@ -3251,19 +3251,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1660
+    1728
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    762
+    787
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    177
+    187
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    75
+    76
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -3332,7 +3332,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-03T18:14:30+01:00"
+   "zeit": "2026-11-03T18:49:41+01:00"
   },
   {
    "name": "Magnayen",
@@ -3344,111 +3344,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T16:21:47",
-   "SCAN",
-   "Runde: 111 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:22:48",
-   "SCAN",
-   "Runde: 129 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:23:48",
-   "SCAN",
-   "Runde: 122 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:24:48",
-   "SCAN",
-   "Runde: 131 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:25:47",
-   "SCAN",
-   "Runde: 131 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:26:48",
-   "SCAN",
-   "Runde: 129 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:27:48",
-   "SCAN",
-   "Runde: 129 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:28:47",
-   "SCAN",
-   "Runde: 128 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:29:48",
-   "SCAN",
-   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:30:47",
-   "SCAN",
-   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:31:48",
-   "SCAN",
-   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:32:48",
-   "SCAN",
-   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:33:47",
-   "SCAN",
-   "Runde: 127 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T16:36:26",
-   "RISK",
-   "supervisor: Box war 128 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T16:36:36",
-   "SCAN",
-   "Runde: 120 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T17:01:55",
-   "RISK",
-   "supervisor: Box war 1529 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T17:02:40",
-   "SCAN",
-   "Runde: 120 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T17:03:40",
-   "SCAN",
-   "Runde: 118 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T17:04:42",
-   "SCAN",
-   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
-  ],
-  [
-   "2026-11-03T17:05:40",
-   "SCAN",
-   "Runde: 123 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T17:06:40",
-   "SCAN",
-   "Runde: 122 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-03T17:07:40",
    "SCAN",
@@ -3643,6 +3538,111 @@
    "2026-11-03T18:14:30",
    "SCAN",
    "Runde: 124 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:15:30",
+   "SCAN",
+   "Runde: 112 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:16:30",
+   "SCAN",
+   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:17:30",
+   "SCAN",
+   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:19:43",
+   "RISK",
+   "supervisor: Box war 142 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T18:19:53",
+   "SCAN",
+   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:22:25",
+   "RISK",
+   "supervisor: Box war 162 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T18:23:06",
+   "SCAN",
+   "Runde: 128 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:24:06",
+   "SCAN",
+   "Runde: 130 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T18:25:06",
+   "SCAN",
+   "Runde: 129 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:26:06",
+   "SCAN",
+   "Runde: 117 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:29:00",
+   "RISK",
+   "supervisor: Box war 155 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T18:37:31",
+   "RISK",
+   "supervisor: Box war 511 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T18:37:31",
+   "SCAN",
+   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 23 s"
+  ],
+  [
+   "2026-11-03T18:38:19",
+   "SCAN",
+   "Runde: 133 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:39:19",
+   "SCAN",
+   "Runde: 129 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:40:19",
+   "SCAN",
+   "Runde: 133 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:41:19",
+   "SCAN",
+   "Runde: 132 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:45:09",
+   "RISK",
+   "supervisor: Box war 218 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T18:45:19",
+   "SCAN",
+   "Runde: 128 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T18:49:00",
+   "RISK",
+   "supervisor: Box war 231 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T18:49:41",
+   "SCAN",
+   "Runde: 129 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3660,5 +3660,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T18:14:30+01:00"
+ "daten_neuest": "2026-11-03T18:49:41+01:00"
 }

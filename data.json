@@ -1,5 +1,5 @@
 {
- "stand_daten": "03.11.2026 09:04",
+ "stand_daten": "03.11.2026 10:06",
  "depot": {
   "wert": 49.94,
   "budget": 50.0,
@@ -2161,9 +2161,37 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-03T10:10:00+01:00",
+   "coin": "WASTED+DESSA",
+   "ca": "GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump / npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
+   "posts_1h": "20",
+   "trend_pct": "-26",
+   "top_engagement": "L0",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja (Vote-/Airdrop-Vorlagen)",
+   "score_0_10": "1",
+   "quelle_links": "https://x.com/Truspect/status/2117520683764965377",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-11-03T10:10:00+01:00",
+   "coin": "13 Freigaben (Bündel)",
+   "ca": "gebündelt per CA",
+   "posts_1h": "42",
+   "trend_pct": "14",
+   "top_engagement": "L2",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja (Vote-Spam FARTCOIN/HELL/TROLL)",
+   "score_0_10": "2",
+   "quelle_links": "https://x.com/kinnidi_briggs/status/2117541308357374104",
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-03.md",
    "titel": "News 03.11.2026 – Scan 09:00 (Berlin), Lücke 30.10. 23:05 – 03.11. 09:00 (Xatu)",
-   "text": "- Post-Mortem: weiter nicht veröffentlicht (Binance: erst nach Abschluss der Untersuchung).\n- **KAUF_PAUSE: von Panzaeron 02.11. 09:15 AUFGEHOBEN** (risiko-regeln.md); Datei /workspace/krypto/KAUF_PAUSE existiert nicht mehr. Erster Paper-Trade: FONE 03.11. 00:49 → Zeit-Stop 06:51 (+1,9 %).\n- Upbit: seit 30.10. (BLUR-Delisting) keine neue Meldung. Scanner: keine Kandidaten 07–09 Uhr."
+   "text": "- Binance: keine neue Phase-2-Meldung seit 08:08; kein Post-Mortem; PoR-Snapshot weiter für 04.11. angekündigt.\n- Listings/Upbit/Solana: nichts Neues. Makro heute: JOLTS 16:00, US-Midterms.\n- Scanner: keine Kandidaten seit 08:00. Freigaben scout-2026-11-03 (13, bis 04.11. 08:58) + WASTED/DESSA nur Kandidaten.\n- **NEU Shill:** Vorlagen-Netz „Listing/Moonshot-Vote“ (Text + 5-stelliger Zufallscode + Vote-Link) für FARTCOIN 9BB6…pump, HELL A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump, TROLL 5UUH…BhgH2, WASTED GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump, DESSA npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump (@kinnidi_briggs, @Truspect, @TevenWilk, @josh_fuller6, @taakumaaak …). Zusätzlich „Airdrop-Intel“-Vorlage für DESSA und HELL (@guilhermebati25, @punyamanandhar, @Merlon_Tooth). WASTED/DESSA-Buzz (47 Posts/2 h) fast nur Bots. Bekannt: @Fortuna_Dev pusht STANK.\n- Post-Mortem: weiter nicht veröffentlicht (Binance: erst nach Abschluss der Untersuchung).\n- **KAUF_PAUSE: von Panzaeron 02.11. 09:15 AUFGEHOBEN** (risiko-regeln.md); Datei /workspace/krypto/KAUF_PAUSE existiert nicht mehr. Erster Paper-Trade: FONE 03.11. 00:49 → Zeit-Stop 06:51 (+1,9 %).\n- Upbit: seit 30.10. (BLUR-Delisting) keine neue Meldung. Scanner: keine Kandidaten 07–09 Uhr."
   },
   {
    "zeitpunkt": "2026-11-01T07:00+01:00",
@@ -2208,6 +2236,33 @@
    "quelle": "https://x.com/binance/status/2117494793446298084",
    "titel": "Einzahlungen > Auszahlungen",
    "text": "Eigenangabe Binance",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03T09:20+01:00",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "https://x.com/cz_binance/status/2117532388641136767",
+   "titel": "CZ Einzahlungen > Auszahlungen",
+   "text": "6-10 % Abflüsse zu anderen CEX (öffentliche Berichte)",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03T09:57+01:00",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "https://x.com/lookonchain/status/2117541717738172573",
+   "titel": "Binance 24h Netto-Zufluss 1.822 Mrd",
+   "text": "Analyst-Angabe",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03T10:00+01:00",
+   "coin": "WASTED",
+   "signal": "neutral",
+   "quelle": "https://x.com/Truspect/status/2117520683764965377",
+   "titel": "Shill: Listing-Vote-Spam",
+   "text": "CA GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump; auch DESSA npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
    "datei": "2026-11-03.csv"
   },
   {
@@ -2760,19 +2815,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 09:42:30",
-   "tokens": 106,
-   "paar": 106,
+   "t": "2026-11-03 10:08:33",
+   "tokens": 129,
+   "paar": 128,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 165,
-   "tokens": 20672,
-   "paar": 20294,
+   "runden": 175,
+   "tokens": 21897,
+   "paar": 21511,
    "vor": 3,
-   "kandidaten_zeilen": 1043,
+   "kandidaten_zeilen": 1130,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
@@ -2781,19 +2836,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    604
+    652
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    328
+    357
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    73
+    80
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    25
+    28
    ],
    [
     "Vorfilter: keine Socials/Website auf DexScreener",
@@ -2824,7 +2879,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-11-03T09:03:29+01:00"
+   "zeit": "2026-11-03T10:06:26+01:00"
   },
   {
    "name": "Kadabra",
@@ -2855,8 +2910,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-03T09:42:30+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-03T10:08:33+01:00"
   },
   {
    "name": "Magnayen",
@@ -2868,66 +2923,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T08:29:18",
-   "SCAN",
-   "Runde: 107 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T08:30:18",
-   "SCAN",
-   "Runde: 110 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T08:31:18",
-   "SCAN",
-   "Runde: 122 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T08:32:18",
-   "SCAN",
-   "Runde: 117 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T08:33:18",
-   "SCAN",
-   "Runde: 107 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T08:34:18",
-   "SCAN",
-   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T08:35:18",
-   "SCAN",
-   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T08:36:18",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T08:37:18",
-   "SCAN",
-   "Runde: 118 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T08:38:18",
-   "SCAN",
-   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T08:47:37",
-   "RISK",
-   "supervisor: Box war 549 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T08:48:01",
-   "SCAN",
-   "Runde: 116 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-03T08:49:01",
    "SCAN",
@@ -3167,6 +3162,66 @@
    "2026-11-03T09:42:30",
    "SCAN",
    "Runde: 106 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T09:43:30",
+   "SCAN",
+   "Runde: 108 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T09:44:30",
+   "SCAN",
+   "Runde: 109 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T09:46:17",
+   "RISK",
+   "supervisor: Box war 84 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T09:46:28",
+   "SCAN",
+   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T09:47:27",
+   "SCAN",
+   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T09:48:27",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T09:49:27",
+   "SCAN",
+   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T10:05:23",
+   "RISK",
+   "supervisor: Box war 926 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T10:05:33",
+   "SCAN",
+   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T10:06:33",
+   "SCAN",
+   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T10:07:33",
+   "SCAN",
+   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T10:08:33",
+   "SCAN",
+   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3184,5 +3239,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T09:42:30+01:00"
+ "daten_neuest": "2026-11-03T10:08:33+01:00"
 }

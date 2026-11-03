@@ -1,5 +1,5 @@
 {
- "stand_daten": "03.11.2026 22:01",
+ "stand_daten": "03.11.2026 23:05",
  "depot": {
   "wert": 49.47,
   "budget": 50.0,
@@ -2462,9 +2462,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-03 23:00",
+   "coin": "BUENDEL",
+   "ca": "46(20-21Z)",
+   "posts_1h": "template WASTED7(BLOCK) GATO5 HELL4 NEET3 USELESS3 DESSA2 JEANPHIL1",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-03.md",
    "titel": "News 03.11.2026 – Scan 09:00 (Berlin), Lücke 30.10. 23:05 – 03.11. 09:00 (Xatu)",
-   "text": "- Starke Signale: nein.\n- WASTED: seit 21:12 BLOCK durch Panzaeron (coin-block.csv, bis 05.11.), wird nur beobachtet. 22:00: 24h −30,2 %, 1h −6,7 %, Liq. 85.531 $ (−23,3 % vs. 111.457).\n- BTC-ETFs: 1,04 Mrd $ Netto-Abflüsse über zwei Handelstage (Cointelegraph 21:30). Leicht bärisch, mittel, niedrig.\n- Midterms: Kalshi sieht 75 % für einen Durchmarsch der Demokraten im Kongress, Polymarket 75,5 % (Cointelegraph 21:46). Laut FirstSquawk verteilt das Weiße Haus Talking Points, Republikaner rechnen mit enttäuschenden Ergebnissen (21:56). Ergebnisse ab 0 Uhr.\n- Iran/Golf: UKMTO meldet einen Tanker, der 14 nm nordöstlich von Lima (Oman) von zwei unbekannten Geschossen getroffen wurde, keine Opfer (21:53). Zur Chemiewaffen-Behauptung weder Bestätigung noch Dementi. Leicht bärisch, mittel, mittel.\n- Hacker-Flüsse: keine neuen Meldungen. CZ Oxford Union: keine Meldungen.\n- Kurse ~22:00: BTC 77.875 (+1,4 %), ETH 2.291,44 (+1,9 %), SOL 93,60 (+2,2 %), BNB 700,19 (+0,6 %). 1h-Ranges 21–22 Uhr: BTC 0,44 %, ETH 0,56 %, SOL 0,57 %, BNB 0,47 %.\n- BLOCK übrige Freigaben: keiner. DESSA 24h −26,9 %. JEANPHIL 24h −15,1 %. GATO 1h −12,3 % (24h −7,7 %). Übrige 24h zwischen −4 % und +17 %.\n- kandidaten.csv seit 20:00: keine Einträge.\n- X: posts_1h Bündel 19–20Z 56 (20–21Z bei Abfrage noch nicht verfügbar). Vorlagen seit 21:05: WASTED 7, GATO 5, HELL 4, NEET 3, DESSA 1. Kein neuer Coin, USELESS ohne Post.\n- Starke Signale: nein.\n- **WASTED (GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump): 24h −41,0 %"
+   "text": "- Starke Signale: nein.\n- Midterms: noch keine Ergebnisse (erste Schließungen ab 0 Uhr). Implizite Kurzfrist-Vola bei BTC-Optionen 48,08 % (Cointelegraph 22:30). CryptoQuant: im Median +63 % BTC-Rendite in den 12 Monaten nach Midterms seit 2010 (22:40; historische Statistik, kein Signal).\n- ETF-Flows: nichts Neues seit −1,04 Mrd $ (21:30).\n- Iran/Golf: nichts Neues seit dem Tanker-Treffer (21:53). EU-Kommission rät Bürgern zu Notfallvorrat für 72 h (Cointelegraph 22:00).\n- Sonstiges: Shopify baut mit Coinbase ein Stablecoin-Zahlungsprotokoll auf Base (22:51). COIN-Aktie +5,7 % (23:00). Bhutan: Gelephu-Finanzaufsicht darf in digitale Assets investieren (22:59). US-Schluss: Nasdaq +0,87 %, S&P +0,38 %, Dow −0,42 %. AMD, Super Micro und Amgen mit Q3 über den Erwartungen. Neutral bis leicht bullisch, niedrig, niedrig.\n- Kurse ~23:00: BTC 77.893 (+1,3 %), ETH 2.295,02 (+1,6 %), SOL 93,69 (+1,5 %), BNB 701,25 (+0,2 %). 1h-Ranges 22–23 Uhr: BTC 0,32 %, ETH 0,45 %, SOL 0,47 %, BNB 0,33 %.\n- WASTED (BLOCK, nur beobachten): 24h −35,9 %, Liq. 85.848 $ (−23,0 % vs. 111.457).\n- BLOCK übrige Freigaben: keiner. DESSA 24h −33,7 %, 1h −8,5 %, Liq. 272.951 $ (−20,5 % vs. 343.410 laut scout-Datei). GATO 24h −13,4 %, JEANPHIL 24h −14,7 %, HELL 1h +11,3 %. Übrige 24h zwischen −4 % und +16 %.\n- kandidaten.csv seit 21:00: keine Einträge.\n- X: posts_1h Bündel 20–21Z 46 (Vorstunde 56). Vorlagen seit 22:00: WASTED 7, GATO 5, HELL 4, NEET 3, USELESS 3, DESSA 2, JEANPHIL 1. Kein neuer Coin.\n- news-treff"
   },
   {
    "zeitpunkt": "2026-11-01T07:00+01:00",
@@ -2842,6 +2856,24 @@
    "quelle": "FirstSquawk (UKMTO)",
    "titel": "Tanker vor Oman getroffen",
    "text": "UKMTO: Tanker 14 nm nordöstlich von Lima (Oman) von zwei unbekannten Geschossen getroffen, keine Opfer",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03 22:30",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "Cointelegraph",
+   "titel": "BTC-Optionen: Kurzfrist-Vola 48 % vor Midterms",
+   "text": "Implizite Kurzfrist-Volatilität bei BTC-Optionen 48,08 % vor den Midterms",
+   "datei": "2026-11-03.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-03 22:51",
+   "coin": "ETH",
+   "signal": "neutral",
+   "quelle": "Cointelegraph",
+   "titel": "Shopify/Coinbase Stablecoin-Zahlungen auf Base",
+   "text": "Shopify baut mit Coinbase das Commerce Payments Protocol für Stablecoin-Zahlungen auf Base",
    "datei": "2026-11-03.csv"
   },
   {
@@ -3394,19 +3426,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 23:00:45",
-   "tokens": 112,
-   "paar": 111,
+   "t": "2026-11-03 23:08:31",
+   "tokens": 129,
+   "paar": 126,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 566,
-   "tokens": 69928,
-   "paar": 68513,
+   "runden": 574,
+   "tokens": 70961,
+   "paar": 69527,
    "vor": 18,
-   "kandidaten_zeilen": 3500,
+   "kandidaten_zeilen": 3581,
    "nach_checks": 3,
    "gekauft": 2,
    "schatten": 0,
@@ -3415,15 +3447,15 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    2142
+    2189
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    959
+    981
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    249
+    260
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -3431,7 +3463,7 @@
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
-    23
+    24
    ]
   ]
  },
@@ -3464,7 +3496,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-11-03T22:01:00+01:00"
+   "zeit": "2026-11-03T23:05:09+01:00"
   },
   {
    "name": "Kadabra",
@@ -3496,7 +3528,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-03T23:00:45+01:00"
+   "zeit": "2026-11-03T23:08:32+01:00"
   },
   {
    "name": "Magnayen",
@@ -3508,46 +3540,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T20:33:01",
-   "RISK",
-   "supervisor: Box war 124 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T20:37:30",
-   "RISK",
-   "supervisor: Box war 268 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T20:37:31",
-   "SCAN",
-   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 25 s"
-  ],
-  [
-   "2026-11-03T20:38:17",
-   "SCAN",
-   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T20:39:22",
-   "SCAN",
-   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 16 s"
-  ],
-  [
-   "2026-11-03T20:40:17",
-   "SCAN",
-   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-03T20:41:51",
-   "RISK",
-   "supervisor: Box war 81 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T20:42:01",
-   "SCAN",
-   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-03T21:02:10",
    "RISK",
@@ -3807,6 +3799,46 @@
    "2026-11-03T23:00:45",
    "SCAN",
    "Runde: 112 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 24 s"
+  ],
+  [
+   "2026-11-03T23:01:31",
+   "SCAN",
+   "Runde: 129 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T23:02:31",
+   "SCAN",
+   "Runde: 129 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T23:03:31",
+   "SCAN",
+   "Runde: 130 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T23:04:31",
+   "SCAN",
+   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T23:05:31",
+   "SCAN",
+   "Runde: 131 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T23:06:31",
+   "SCAN",
+   "Runde: 131 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T23:07:31",
+   "SCAN",
+   "Runde: 128 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T23:08:31",
+   "SCAN",
+   "Runde: 129 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3824,5 +3856,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T23:00:45+01:00"
+ "daten_neuest": "2026-11-03T23:08:32+01:00"
 }

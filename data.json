@@ -1,11 +1,11 @@
 {
- "stand_daten": "03.11.2026 00:49",
+ "stand_daten": "03.11.2026 06:51",
  "depot": {
-  "wert": 50.0,
+  "wert": 49.94,
   "budget": 50.0,
-  "gesamt_pl": 0,
-  "tag_pl": 0,
-  "woche_pl": 0,
+  "gesamt_pl": -0.06,
+  "tag_pl": -0.06,
+  "woche_pl": -0.06,
   "stand": "29.10.2026 20:50 (Berlin)",
   "verlauf": [
    {
@@ -17,6 +17,11 @@
     "t": "2026-11-03T00:49+01:00",
     "cash": 47.5,
     "wert": 50.0
+   },
+   {
+    "t": "2026-11-03T06:51+01:00",
+    "cash": 49.9384,
+    "wert": 49.94
    }
   ]
  },
@@ -30,22 +35,29 @@
   "max_pos": 3.0,
   "max_trades_tag": 5.0,
   "ampel": "gruen",
-  "offene_positionen": 1
+  "offene_positionen": 0
  },
- "offen": [
+ "offen": [],
+ "geschlossen": [
   {
-   "zeitpunkt": "2026-11-03T00:49+01:00",
-   "strategie": "meme-scan",
    "coin": "fone",
+   "strategie": "meme-scan",
+   "kauf": "2026-11-03T00:49+01:00",
+   "verkauf": "2026-11-03T06:51+01:00",
    "menge": 1613.68477,
-   "preis_eur": "0.00151594044",
+   "teil": false,
    "einsatz": 2.5001,
-   "notiz": "Volumen-Spike+Momentum, rugcheck FREIGABE; Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
+   "ergebnis": -0.0617,
+   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
   }
  ],
- "geschlossen": [],
  "warnungen": [],
- "pl_strategie": {},
+ "pl_strategie": {
+  "meme-scan": {
+   "pl": -0.06,
+   "trades": 1
+  }
+ },
  "scout": {
   "datei": "scout-2026-11-02.md",
   "quelle": "CoinGecko, DexScreener, RugCheck (tools/rugcheck.py), Jupiter, Solana-RPC, alternative.me, X-News; Abruf 02.11.2026 09:02–09:12 Berlin",
@@ -2624,6 +2636,11 @@
    "pl": null,
    "trades": 0
   },
+  "meme-scan": {
+   "meme": true,
+   "pl": -0.0617,
+   "trades": 1
+  },
   "news-signale": {
    "meme": false,
    "pl": null,
@@ -2642,19 +2659,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 06:45:28",
-   "tokens": 132,
-   "paar": 128,
+   "t": "2026-11-03 06:58:11",
+   "tokens": 133,
+   "paar": 127,
    "vor": 0,
-   "offen": 1,
+   "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 68,
-   "tokens": 8758,
-   "paar": 8585,
+   "runden": 78,
+   "tokens": 10058,
+   "paar": 9848,
    "vor": 3,
-   "kandidaten_zeilen": 524,
+   "kandidaten_zeilen": 606,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
@@ -2663,27 +2680,34 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    303
+    345
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    161
+    194
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    45
+    49
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    9
+    10
    ],
    [
-    "Vorfilter: Momentum #m -# % außerhalb +#+# %",
-    2
+    "Vorfilter: keine Socials/Website auf DexScreener",
+    3
    ]
   ]
  },
- "kurve": [],
+ "kurve": [
+  {
+   "t": "2026-11-03T06:51+01:00",
+   "pl": -0.0617,
+   "trade": -0.0617,
+   "coin": "fone"
+  }
+ ],
  "agenten": [
   {
    "name": "Fiffyen",
@@ -2723,7 +2747,7 @@
    "farbe": "#10B981",
    "form": "square",
    "letzte_datei": "krypto/paper-trades.csv",
-   "zeit": "2026-11-03T00:49:20+01:00"
+   "zeit": "2026-11-03T06:51:02+01:00"
   },
   {
    "name": "Scanner",
@@ -2731,7 +2755,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-03T06:45:28+01:00"
+   "zeit": "2026-11-03T06:58:11+01:00"
   },
   {
    "name": "Magnayen",
@@ -2743,66 +2767,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T01:29:57",
-   "RISK",
-   "supervisor: Box war 178 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T03:18:46",
-   "RISK",
-   "supervisor: Box war 6529 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T03:18:48",
-   "SCAN",
-   "Runde: 128 Tokens, 123 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 28 s"
-  ],
-  [
-   "2026-11-03T03:19:31",
-   "SCAN",
-   "Runde: 114 Tokens, 112 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-03T03:20:31",
-   "SCAN",
-   "Runde: 127 Tokens, 118 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-03T03:21:31",
-   "SCAN",
-   "Runde: 131 Tokens, 129 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-03T03:22:31",
-   "SCAN",
-   "Runde: 129 Tokens, 127 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-03T05:46:29",
-   "RISK",
-   "supervisor: Box war 8603 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T05:46:37",
-   "SCAN",
-   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
-  ],
-  [
-   "2026-11-03T05:47:37",
-   "SCAN",
-   "Runde: 136 Tokens, 135 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-03T05:48:37",
-   "SCAN",
-   "Runde: 136 Tokens, 135 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-03T05:49:37",
-   "SCAN",
-   "Runde: 136 Tokens, 135 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
   [
    "2026-11-03T05:50:37",
    "SCAN",
@@ -3042,12 +3006,82 @@
    "2026-11-03T06:45:28",
    "SCAN",
    "Runde: 132 Tokens, 128 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T06:46:28",
+   "SCAN",
+   "Runde: 131 Tokens, 128 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T06:47:28",
+   "SCAN",
+   "Runde: 132 Tokens, 129 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T06:51+01",
+   "LOSS",
+   "meme-scan verkauft 1613.68 fone: -0,06 €"
+  ],
+  [
+   "2026-11-03T06:51:01",
+   "RISK",
+   "supervisor: Box war 183 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-03T06:51:12",
+   "SCAN",
+   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
+  ],
+  [
+   "2026-11-03T06:52:11",
+   "SCAN",
+   "Runde: 131 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T06:53:11",
+   "SCAN",
+   "Runde: 131 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T06:54:11",
+   "SCAN",
+   "Runde: 131 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T06:55:11",
+   "SCAN",
+   "Runde: 132 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T06:56:11",
+   "SCAN",
+   "Runde: 123 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T06:57:11",
+   "SCAN",
+   "Runde: 132 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T06:58:11",
+   "SCAN",
+   "Runde: 133 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
   "w": 0,
-  "l": 0
+  "l": 1
  },
- "bester_trade": null,
- "daten_neuest": "2026-11-03T06:45:28+01:00"
+ "bester_trade": {
+  "coin": "fone",
+  "strategie": "meme-scan",
+  "kauf": "2026-11-03T00:49+01:00",
+  "verkauf": "2026-11-03T06:51+01:00",
+  "menge": 1613.68477,
+  "teil": false,
+  "einsatz": 2.5001,
+  "ergebnis": -0.0617,
+  "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
+ },
+ "daten_neuest": "2026-11-03T06:58:11+01:00"
 }

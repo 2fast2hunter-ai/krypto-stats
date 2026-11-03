@@ -3495,8 +3495,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-03T22:25:53+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-03T22:35:40+01:00"
   },
   {
    "name": "Magnayen",
@@ -3508,11 +3508,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T20:24:59",
-   "RISK",
-   "supervisor: Box war 160 s eingefroren – neue Frist 180 s"
-  ],
   [
    "2026-11-03T20:27:57",
    "RISK",
@@ -3807,6 +3802,11 @@
    "2026-11-03T22:25:53",
    "SCAN",
    "Runde: 128 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-03T22:35:40",
+   "RISK",
+   "supervisor: Box war 598 s eingefroren – neue Frist 180 s"
   ]
  ],
  "trefferquote": {
@@ -3824,5 +3824,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T22:25:53+01:00"
+ "daten_neuest": "2026-11-03T22:35:40+01:00"
 }

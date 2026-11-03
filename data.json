@@ -3426,19 +3426,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-03 23:08:31",
-   "tokens": 129,
-   "paar": 126,
+   "t": "2026-11-03 23:11:02",
+   "tokens": 131,
+   "paar": 127,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 574,
-   "tokens": 70961,
-   "paar": 69527,
+   "runden": 576,
+   "tokens": 71223,
+   "paar": 69782,
    "vor": 18,
-   "kandidaten_zeilen": 3581,
+   "kandidaten_zeilen": 3584,
    "nach_checks": 3,
    "gekauft": 2,
    "schatten": 0,
@@ -3447,7 +3447,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    2189
+    2192
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -3528,7 +3528,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-03T23:08:32+01:00"
+   "zeit": "2026-11-03T23:11:02+01:00"
   },
   {
    "name": "Magnayen",
@@ -3540,16 +3540,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-03T21:02:10",
-   "RISK",
-   "supervisor: Box war 1219 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-03T21:02:46",
-   "SCAN",
-   "Runde: 115 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-03T21:03:46",
    "SCAN",
@@ -3839,6 +3829,16 @@
    "2026-11-03T23:08:31",
    "SCAN",
    "Runde: 129 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T23:10:02",
+   "SCAN",
+   "Runde: 131 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-03T23:11:02",
+   "SCAN",
+   "Runde: 131 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3856,5 +3856,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-03T23:08:32+01:00"
+ "daten_neuest": "2026-11-03T23:11:02+01:00"
 }

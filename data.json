@@ -4003,28 +4003,28 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 22:15:38",
-   "tokens": 113,
-   "paar": 112,
-   "vor": 1,
+   "t": "2026-11-04 22:18:23",
+   "tokens": 127,
+   "paar": 125,
+   "vor": 0,
    "offen": 2,
    "schatten": 0
   },
   "heute": {
-   "runden": 550,
-   "tokens": 66786,
-   "paar": 65733,
-   "vor": 34,
-   "kandidaten_zeilen": 3607,
+   "runden": 553,
+   "tokens": 67164,
+   "paar": 66108,
+   "vor": 35,
+   "kandidaten_zeilen": 3613,
    "nach_checks": 3,
    "gekauft": 3,
    "schatten": 0,
-   "block": 31
+   "block": 32
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    2138
+    2143
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -4040,7 +4040,7 @@
    ],
    [
     "Insider-Netzwerke (≤# Wallets) # % ≥ # %",
-    20
+    21
    ]
   ]
  },
@@ -4116,8 +4116,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-04T22:15:39+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-04T22:20:43+01:00"
   },
   {
    "name": "Magnayen",
@@ -4129,31 +4129,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T20:14:32",
-   "RISK",
-   "supervisor: Box war 99 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T20:14:38",
-   "SCAN",
-   "Runde: 115 Tokens, 115 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 23 s"
-  ],
-  [
-   "2026-11-04T20:15:26",
-   "SCAN",
-   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T20:16:26",
-   "SCAN",
-   "Runde: 130 Tokens, 130 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T20:17:26",
-   "SCAN",
-   "Runde: 130 Tokens, 130 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
   [
    "2026-11-04T20:25:41",
    "RISK",
@@ -4428,6 +4403,31 @@
    "2026-11-04T22:15:38",
    "SCAN",
    "Runde: 113 Tokens, 112 mit Paar, Vorfilter ok 1, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 26 s"
+  ],
+  [
+   "2026-11-04T22:16:23",
+   "RISK",
+   "BLOCK Dacity: Insider-Netzwerke (≤50 Wallets) 32.4 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T22:16:24",
+   "SCAN",
+   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 1, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
+  ],
+  [
+   "2026-11-04T22:17:24",
+   "SCAN",
+   "Runde: 124 Tokens, 124 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T22:18:23",
+   "SCAN",
+   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T22:20:43",
+   "RISK",
+   "supervisor: Box war 126 s eingefroren – neue Frist 180 s"
   ]
  ],
  "trefferquote": {
@@ -4445,5 +4445,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-04T22:15:39+01:00"
+ "daten_neuest": "2026-11-04T22:20:43+01:00"
 }

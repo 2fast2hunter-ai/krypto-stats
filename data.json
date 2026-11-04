@@ -1,5 +1,5 @@
 {
- "stand_daten": "04.11.2026 12:02",
+ "stand_daten": "04.11.2026 13:06",
  "depot": {
   "wert": 49.47,
   "budget": 50.0,
@@ -32,6 +32,11 @@
     "t": "2026-11-03T14:31+01:00",
     "cash": 49.4654,
     "wert": 49.47
+   },
+   {
+    "t": "2026-11-04T13:06+01:00",
+    "cash": 46.9654,
+    "wert": 49.47
    }
   ]
  },
@@ -45,9 +50,19 @@
   "max_pos": 3.0,
   "max_trades_tag": 5.0,
   "ampel": "gruen",
-  "offene_positionen": 0
+  "offene_positionen": 1
  },
- "offen": [],
+ "offen": [
+  {
+   "zeitpunkt": "2026-11-04T13:06+01:00",
+   "strategie": "meme-scan",
+   "coin": "RICO",
+   "menge": 5062.440287,
+   "preis_eur": "0.0004758080814",
+   "einsatz": 2.5,
+   "notiz": "Volumen-Spike+Momentum, rugcheck FREIGABE; Slippage 3.00 %; CA 8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump"
+  }
+ ],
  "geschlossen": [
   {
    "coin": "fone",
@@ -2239,9 +2254,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-04T13:00+01:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "Counts 2/21 pro h; Template 9 Posts (GATO 7 HELL 2)",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-04.md",
    "titel": "News-Scans 04.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **Hormus: weiter nicht unabhängig bestätigt, kein Dementi.** Neu ist, dass sich Khamenei zur Aktion bekennt (FirstSquawk 11:35/11:39): Die „Hormus-Aktion“ sei eine Antwort auf US-„Aggression“, weitere Angriffe brächten eine „far wider“ Antwort, und die USA wollten Irans „unconditional surrender“. Ein IRGC-Berater (Tasnim, 11:32) sagt, Vergeltung bleibe im Kriegsfall nicht auf die Quelle des Angriffs beschränkt. Iran stützt die eigene Version, eine unabhängige Bestätigung (CENTCOM, UKMTO, Schiffsnamen) gibt es nicht. Eskalationsrhetorik: bärisch, mittel, mittel.\n- Binance PoR: keine Meldung.\n- Krypto: Die französische Bank Crédit Mutuel Arkéa bestätigt einen Hack über mehr als 133 Mio $ in Krypto. ZachXBT verfolgt 108,8 Mio $ USDC, die über Kraken abgezogen wurden (CoinDesk 11:58). Hongkong verabschiedet ein Krypto-Steuermeldegesetz, die Datenerhebung beginnt 2027 (WuBlockchain 11:43). China bestätigt Gespräche über ein mögliches Treffen von Trump, Xi und Putin bei APEC (Cointelegraph 11:13).\n- Midterms: Andrews (D) gewinnt überraschend den Senatssitz in South Carolina (Reuters 11:50). Bottoms (D) gewinnt die Gouverneurswahl in Georgia.\n- Makro-Vorschau: ADP 14:15 (Prognose 67k, vorher 90k), ISM Services 16:00 (Prognose 54,8, vorher 54,9), EIA 16:30.\n- Kurse ~12:01: BTC 78.611 (+1,9 %), ETH 2.329,52 (+2,5 %), SOL 93,63 (+1,2 %), BNB 702,77 (+0,5 %). 1h-Range 11–12 Uhr: BTC 0,42 %, ETH 0,56 %, SOL 0,84 %, BNB 0,38 %.\n- BLOCK-Schwellen: keine gerissen. **GATO 24h −27,5 % / 1h "
+   "text": "- **Hormus: unverändert, nicht unabhängig bestätigt, kein Dementi.** Seit 12:00 nichts Neues von Reuters, AP, CENTCOM oder UKMTO.\n- Arkéa-Hack: keine Folgemeldungen von CoinDesk, ZachXBT oder Lookonchain seit 11:58.\n- Binance PoR: keine Meldung.\n- Krypto: Die SEC bestätigt, dass Canton Coin ($CC) eine digitale Commodity und kein Wertpapier ist, per No-Action-Letter (CoinDesk 13:01). Regulatorisch leicht bullisch. Circle Q3: Umsatz 864,9 Mio $ (Schätzung 776,7 Mio $), durchschnittlicher USDC-Umlauf 73,3 Mrd $ (FirstSquawk 12:28, WuBlockchain 13:02). Krypto-PACs haben mehr als 64 Mio $ ausgegeben, trotzdem gewinnt Sherrod Brown in Ohio, und mehrere Pro-Krypto-Republikaner verlieren (WuBlockchain 12:14).\n- Midterms und Makro: Hinojosa (D) schlägt Abbott in Texas, Hamilton (D) schlägt Marshall in Kansas. Goldman: Siege der Demokraten könnten 45 % der geplanten US-Rechenzentrumsexpansion gefährden (DeItaone 13:02).\n- Vorschau: ADP 14:15 (Prognose 67k, vorher 90k), ISM Services 16:00.\n- Kurse ~13:03: BTC 78.336 (+1,7 %), ETH 2.324,98 (+2,6 %), SOL 93,40 (+1,0 %), BNB 701,29 (+0,6 %). 1h-Range 12–13 Uhr: BTC 0,32 %, ETH 0,54 %, SOL 0,73 %, BNB 0,48 %.\n- BLOCK-Schwellen: keine gerissen. GATO 24h −20,6 % / 1h +2,8 %, Liq. 337.674 (über der Referenz). HELL 24h +11,3 % / 1h −9,5 %, Liq. 154.555 (−1,8 % gegen 157.394). JEANPHIL −9,0 %. Gesperrt: WASTED −34,5 %, DESSA −41,0 %.\n- X-Counts (CA-Paket): 11–12 Uhr 2, 12–13 Uhr 21. Template-Check 11:55–13:00: 9 Posts von 7 Autoren ($GATO 7×, $H"
   },
   {
    "zeitpunkt": "2026-11-04T01:58+01:00",
@@ -2502,6 +2531,33 @@
    "quelle": "WuBlockchain",
    "titel": "Hongkong: Krypto-Steuermeldegesetz",
    "text": "Hongkongs Legislativrat verabschiedet ein Krypto-Steuermeldegesetz; Datenerhebung ab 2027",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T13:01+01:00",
+   "coin": "BTC",
+   "signal": "leicht bullisch",
+   "quelle": "CoinDesk",
+   "titel": "SEC: Canton Coin keine Security",
+   "text": "SEC bestätigt per No-Action-Letter, dass Canton Coin ($CC) eine digitale Commodity ist",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T12:28+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "FirstSquawk/WuBlockchain",
+   "titel": "Circle Q3 über Erwartung",
+   "text": "Umsatz 864,9 Mio $ gegen 776,7 Mio $ geschätzt; durchschnittlicher USDC-Umlauf 73,3 Mrd $",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T13:00+01:00",
+   "coin": "GATO",
+   "signal": "unsicher",
+   "quelle": "X Template-Check",
+   "titel": "GATO-Vote-Bot-Buzz zurück",
+   "text": "7 von 9 Template-Posts taggen $GATO (CA HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump); Bot-Verdacht",
    "datei": "2026-11-04.csv"
   },
   {
@@ -3455,40 +3511,40 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 12:52:38",
-   "tokens": 104,
-   "paar": 104,
+   "t": "2026-11-04 13:10:37",
+   "tokens": 113,
+   "paar": 112,
    "vor": 0,
-   "offen": 0,
+   "offen": 1,
    "schatten": 0
   },
   "heute": {
-   "runden": 258,
-   "tokens": 31461,
-   "paar": 31016,
-   "vor": 7,
-   "kandidaten_zeilen": 1889,
-   "nach_checks": 0,
-   "gekauft": 0,
+   "runden": 267,
+   "tokens": 32477,
+   "paar": 32013,
+   "vor": 8,
+   "kandidaten_zeilen": 1956,
+   "nach_checks": 1,
+   "gekauft": 1,
    "schatten": 0,
    "block": 7
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1132
+    1163
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    549
+    578
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    135
+    140
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    50
+    51
    ],
    [
     "Vorfilter: keine Socials/Website auf DexScreener",
@@ -3525,7 +3581,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-04.csv",
-   "zeit": "2026-11-04T12:02:47+01:00"
+   "zeit": "2026-11-04T13:04:21+01:00"
   },
   {
    "name": "Kadabra",
@@ -3549,7 +3605,7 @@
    "farbe": "#10B981",
    "form": "square",
    "letzte_datei": "krypto/paper-trades.csv",
-   "zeit": "2026-11-03T14:31:04+01:00"
+   "zeit": "2026-11-04T13:06:27+01:00"
   },
   {
    "name": "Scanner",
@@ -3557,7 +3613,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-04T13:02:07+01:00"
+   "zeit": "2026-11-04T13:12:39+01:00"
   },
   {
    "name": "Magnayen",
@@ -3569,61 +3625,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T11:34:00",
-   "RISK",
-   "supervisor: Box war 860 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T11:34:00",
-   "SCAN",
-   "Runde: 124 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 20 s"
-  ],
-  [
-   "2026-11-04T11:34:50",
-   "SCAN",
-   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T11:35:49",
-   "SCAN",
-   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T11:36:50",
-   "SCAN",
-   "Runde: 110 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T11:46:53",
-   "RISK",
-   "supervisor: Box war 593 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T11:47:18",
-   "SCAN",
-   "Runde: 114 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T11:48:18",
-   "SCAN",
-   "Runde: 105 Tokens, 103 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T11:49:18",
-   "SCAN",
-   "Runde: 113 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T11:50:18",
-   "RISK",
-   "BLOCK ANSEM: rugcheck.py: - ANSEM 9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump: BLOCK – 5 Top10 ≤30 %/Top1 ≤5 % (etabliert ≤50/≤15) ✗"
-  ],
-  [
-   "2026-11-04T11:51:31",
-   "RISK",
-   "supervisor: Box war 77 s eingefroren – neue Frist 180 s"
-  ],
   [
    "2026-11-04T11:51:38",
    "SCAN",
@@ -3868,6 +3869,61 @@
    "2026-11-04T13:02:07",
    "RISK",
    "supervisor: Box war 538 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T13:02:17",
+   "SCAN",
+   "Runde: 120 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T13:03:17",
+   "SCAN",
+   "Runde: 114 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T13:04:17",
+   "SCAN",
+   "Runde: 114 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T13:05:17",
+   "SCAN",
+   "Runde: 108 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T13:06+01",
+   "BUY",
+   "meme-scan kauft 5062.440287 RICO für 2,41 €"
+  ],
+  [
+   "2026-11-04T13:06:27",
+   "SCAN",
+   "Runde: 96 Tokens, 95 mit Paar, Vorfilter ok 1, offen 1, Schatten 0, nach Checks 1, gekauft 1, Dauer 20 s"
+  ],
+  [
+   "2026-11-04T13:07:18",
+   "SCAN",
+   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T13:08:18",
+   "SCAN",
+   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T13:09:18",
+   "SCAN",
+   "Runde: 113 Tokens, 112 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T13:10:37",
+   "SCAN",
+   "Runde: 113 Tokens, 112 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 29 s"
+  ],
+  [
+   "2026-11-04T13:12:39",
+   "RISK",
+   "supervisor: Box war 128 s eingefroren – neue Frist 180 s"
   ]
  ],
  "trefferquote": {
@@ -3885,5 +3941,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T13:02:07+01:00"
+ "daten_neuest": "2026-11-04T13:12:39+01:00"
 }

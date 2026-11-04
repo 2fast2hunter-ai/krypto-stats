@@ -1,5 +1,5 @@
 {
- "stand_daten": "04.11.2026 07:16",
+ "stand_daten": "04.11.2026 08:00",
  "depot": {
   "wert": 49.47,
   "budget": 50.0,
@@ -2165,9 +2165,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-04 08:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "Template 17/25 Posts; Counts 24/30/13/16 pro h ruhig",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-04.md",
    "titel": "News-Scans 04.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **Hormus: weder bestätigt noch dementiert.** Reuters (05:00), AFP und Iran International berichten nur die IRGC-Erklärung aus iranischen Staatsmedien (vier Tanker durch Minen zerstört, zwei Schiffe gestoppt, laut IRGC zusätzlich eine US-Drohne MQ-9 abgeschossen). Iran International: „could not be independently verified“. CENTCOM, UKMTO, Reedereien oder Schiffsnamen: nichts gefunden. Ölpreis nicht geprüft. Der Markt reagiert nicht mit Risk-off: BTC seit 05:05 +1,6 %. Laut AFP soll Trump am Vortag Angriffe auf Iran gemeldet haben, nach Berichten über einen Angriff auf Qeshm. Das widerspricht der FT-Aussage von 00:36 und ist ungeklärt. Bärisch, mittel, mittel.\n- KAUF_PAUSE (Panzaeron 05:10) ist aktiv, Re-Check im 9-Uhr-Scan.\n- Midterms: AP meldet, die Demokraten gewinnen die Senatsmehrheit nach Turek in Iowa (Cointelegraph 05:51). Laut CNN-Projektion schlägt Jackson (D) Collins in Maine (06:20). Polymarket zeigt einen Sweep beider Kammern (WuBlockchain 06:14). Trump: akzeptiert das Ergebnis, offen für Zusammenarbeit, Veto gegen „insane“ Vorschläge. Laut WSJ sieht er den Iran-Krieg als einen Grund für die Verluste. Leicht bärisch für den CLARITY Act, mittel, niedrig.\n- Binance: CZ meldet 2,8 Mrd $ Netto-Zufluss in 24h (06:12). CZ: „A hack of this scale means serious security failures occurred“ (06:09). PoR-Snapshot: keine Meldung. Der Mercado-Bitcoin-Hacker tauscht Altcoins in 7.988 ETH (Lookonchain 06:12).\n- Sonstiges: Silber +3 % auf 51,38 $ (07:03). Nasdaq-Futures −0,75 % (0"
+   "text": "- **Hormus: weiter weder bestätigt noch dementiert.** Seit 06:30 keine neuen Posts von Reuters, AP, CENTCOM, UKMTO, DeItaone oder FirstSquawk zu Hormus. investinglive: keine Schiffsnamen, Flaggen oder Positionen, keine unabhängige Bestätigung. Zur neuen Meldung gibt es keine Stellungnahme von CENTCOM. Ältere CENTCOM-Linie (Rudaw/Gulf News): die Hauptrouten seien minenfrei. UKMTO hatte in den Tagen davor nur Projektil-Vorfälle bestätigt. Laut Rudaw sprach eine IRGC-Version von drei Tankern, die aktuelle Meldung von vier. Das ist uneinheitlich.\n- Öl: OilPrice.com (Nov 04, 00:15 CST = 07:15 Berlin) meldet Brent 103,60 $ und WTI 95,98 $, Erholung nach Vier-Wochen-Tief. FXStreet (05:32 Berlin) meldete WTI 94,55 $ (−1,3 %). Seitdem etwa +1,5 %, also nur eine moderate Risikoprämie.\n- Trump-Angriff-Widerspruch: weiterhin nur AFP („Trump said the US had launched strikes … reports of a raid on Qeshm“). Eine zweite Quelle habe ich nicht gefunden. Ungeklärt.\n- Binance: PoR-Snapshot weiter ohne Meldung. CZ: die Börse solle transparent bleiben und Verantwortung übernehmen (Cointelegraph 07:56). Nordkorea (Kim Yo Jong) nennt die FBI-Zuschreibung des 6-Mrd-$-Binance-Hacks „hostile policy“ (07:30).\n- Markt: BTC über 78k. Ein BTC-Short-Trader (0x4b62) wurde 6× liquidiert, insgesamt 199,83 BTC = 15,45 Mio $ (Lookonchain 07:30). Ein Wal hat 1.073 BTC (83,4 Mio $) in eine neue Wallet verschoben (OnchainLens 07:20).\n- Makro heute (Berlin): ADP 14:15 (Prognose 67k, vorher 90k), US-Handelsbilanz 14:"
   },
   {
    "zeitpunkt": "2026-11-04 01:58",
@@ -2311,6 +2325,42 @@
    "quelle": "lookonchain",
    "titel": "Mercado-Bitcoin-Hacker kauft ETH",
    "text": "Mercado-Bitcoin-Hacker tauscht PEPE, AAVE, UNI u. a. in 7.988 ETH (18,19 Mio $)",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04 07:15",
+   "coin": "BTC",
+   "signal": "neutral/bärisch",
+   "quelle": "OilPrice.com/investinglive",
+   "titel": "Hormus unbestätigt, Brent 103,60",
+   "text": "Keine Bestätigung durch CENTCOM/UKMTO, keine Schiffsnamen; Brent 103,60 $, WTI 95,98 $",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04 07:56",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "Cointelegraph",
+   "titel": "CZ fordert Transparenz, Nordkorea weist Vorwurf zurück",
+   "text": "CZ: Binance soll transparent bleiben; Nordkorea nennt den FBI-Vorwurf zum 6-Mrd-$-Hack feindselig",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04 07:30",
+   "coin": "BTC",
+   "signal": "bullisch (kurzfristig)",
+   "quelle": "lookonchain",
+   "titel": "Short-Liquidationen über 78k",
+   "text": "Trader 0x4b62 sechsmal liquidiert, insgesamt 199,83 BTC (15,45 Mio $)",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04 07:45",
+   "coin": "GATO",
+   "signal": "unsicher",
+   "quelle": "X Template-Check",
+   "titel": "GATO-Template-Buzz",
+   "text": "17 von 25 Template-Posts taggen $GATO (CA HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump); Bot-Verdacht",
    "datei": "2026-11-04.csv"
   },
   {
@@ -3264,36 +3314,36 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 07:41:26",
-   "tokens": 118,
-   "paar": 116,
-   "vor": 0,
+   "t": "2026-11-04 08:01:42",
+   "tokens": 125,
+   "paar": 123,
+   "vor": 1,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 122,
-   "tokens": 15479,
-   "paar": 15273,
-   "vor": 5,
-   "kandidaten_zeilen": 1050,
+   "runden": 125,
+   "tokens": 15849,
+   "paar": 15636,
+   "vor": 6,
+   "kandidaten_zeilen": 1114,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
-   "block": 5
+   "block": 6
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    654
+    682
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    271
+    299
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    89
+    96
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -3301,7 +3351,7 @@
    ],
    [
     "Insider-Netzwerke (≤# Wallets) # % ≥ # %",
-    5
+    6
    ]
   ]
  },
@@ -3334,7 +3384,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-04.csv",
-   "zeit": "2026-11-04T07:09:19+01:00"
+   "zeit": "2026-11-04T08:00:18+01:00"
   },
   {
    "name": "Kadabra",
@@ -3365,8 +3415,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-04T07:59:10+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-04T08:01:42+01:00"
   },
   {
    "name": "Magnayen",
@@ -3378,26 +3428,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T06:11:46",
-   "RISK",
-   "supervisor: Box war 78 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T06:12:25",
-   "SCAN",
-   "Runde: 130 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T06:13:25",
-   "SCAN",
-   "Runde: 130 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T06:14:25",
-   "SCAN",
-   "Runde: 113 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-04T06:21:56",
    "RISK",
@@ -3677,6 +3707,26 @@
    "2026-11-04T07:59:10",
    "RISK",
    "supervisor: Box war 1054 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T07:59:40",
+   "SCAN",
+   "Runde: 121 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T08:00:40",
+   "SCAN",
+   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T08:01:40",
+   "RISK",
+   "BLOCK CHOO: Insider-Netzwerke (≤50 Wallets) 12.0 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T08:01:42",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
   ]
  ],
  "trefferquote": {
@@ -3694,5 +3744,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T07:59:10+01:00"
+ "daten_neuest": "2026-11-04T08:01:42+01:00"
 }

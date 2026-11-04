@@ -1,5 +1,5 @@
 {
- "stand_daten": "04.11.2026 09:06",
+ "stand_daten": "04.11.2026 10:04",
  "depot": {
   "wert": 49.47,
   "budget": 50.0,
@@ -2197,9 +2197,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-04 10:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "Counts 16/8/13 pro h; Template 5 Posts (GATO 2)",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-04.md",
    "titel": "News-Scans 04.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **Hormus: weiter unbestätigt, kein Dementi.** BBC (Tasnim) und Rudaw: von der BBC nicht verifiziert, keine Schiffsnamen oder Flaggen. Neu ist eine UKMTO-Meldung: ein Tanker wurde 14 sm nordöstlich von Lima (Oman) am Dienstag von zwei unbekannten Projektilen im Maschinenraum getroffen, ohne Verletzte und ohne Umweltschaden. Das passt nicht zur IRGC-Version „4 Tanker zerstört durch Minen“. Die CENTCOM-Linie bleibt: die Hauptrouten sind minenfrei, eine neue Stellungnahme gibt es nicht.\n- **Trump-Angriff-Widerspruch aufgelöst:** BBC schreibt „a day after US officials said the US military had launched strikes“. Laut NYT über Rudaw gab es am Montag begrenzte US-Schläge auf Qeshm, „no immediate plans to escalate“, Trump erwägt aber neue Schläge nach den Wahlen. Mehrere Quellen bestätigen das, also nicht mehr nur AFP.\n- Midterms: El-Sayed (D) gewinnt den Senatssitz in Michigan (AP 08:31). Der US-Dollar hat den schwächsten Tag seit einem Monat (Cointelegraph 09:01). Reuters: Aktien und Dollar fallen. Tesla und SpaceX −5 % auf Tradegate.\n- ETF: US-Spot-BTC-ETFs am 03.11. mit −116 Mio $ netto, der dritte Abflusstag in Folge (WuBlockchain/SoSoValue 08:40).\n- Binance: PoR weiter ohne Meldung. CZ: „The other attack on Binance“ (08:58, nur ein Link).\n- Makro: Die US-Sommerzeit endete am So 01.11.2026, der Abstand zu Berlin ist damit wieder 6 h. ADP 14:15, Handelsbilanz 14:30, S&P PMI 15:45, ISM Services 16:00, EIA 16:30 Berlin. Die Termine von 08:00 stimmen also.\n- Kurse ~09:05: BTC 78.39"
+   "text": "- **Hormus: weiter unbestätigt, kein Dementi.** Reuters hat um 09:10 die IRGC-Meldung wiederholt, die Formulierung ist weiter „IRGC says“. Von CENTCOM, UKMTO oder Reedereien gibt es nichts Neues.\n- Binance PoR: keine Meldung.\n- Markt und Makro: Nasdaq-Futures haben ein Minus von bis zu 2,4 % ausgeglichen, S&P-Futures stehen wieder im Plus (FirstSquawk 09:07–09:09). Services-PMIs: Deutschland 52,5 (vorläufig 51,7), Frankreich 46,2 (vorläufig 48,4), Italien 52. Ramaswamy räumt die Niederlage in Ohio ein, Paxton in Texas. Reuters (09:35): Trump will 4 Mrd $ Hilfe an Israel stoppen.\n- Kurse ~10:03: BTC 78.408 (+2,2 %), ETH 2.319,33 (+2,7 %), SOL 93,11 (+1,2 %), BNB 701,48 (+1,0 %). 1h-Range 09–10 Uhr: BTC 0,48 %, ETH 1,11 %, SOL 0,60 %, BNB 0,57 %.\n- BLOCK-Schwellen: keine gerissen. GATO 24h −22,4 % / 1h −5,1 %, Liq. 338.591 (über der Referenz). JEANPHIL −5,8 %, FONE −4,6 %, HELL +12,8 %. Gesperrt: WASTED −41,6 %, DESSA −31,3 %.\n- X-Counts (CA-Paket): 07–08 Uhr 16, 08–09 Uhr 8, 09–10 Uhr 13. Ruhig.\n- Template-Check 07:45–10:00: 5 Posts von 5 Autoren ($GATO 2×, $HELL 1×, $NEET 1×, USELESS 1×). Der Bot-Buzz nimmt ab, keine neuen Coins.\n- kandidaten.csv seit 09:00: keine Kandidaten.\n- **Hormus: weiter unbestätigt, kein Dementi.** BBC (Tasnim) und Rudaw: von der BBC nicht verifiziert, keine Schiffsnamen oder Flaggen. Neu ist eine UKMTO-Meldung: ein Tanker wurde 14 sm nordöstlich von Lima (Oman) am Dienstag von zwei unbekannten Projektilen im Maschinenraum getroffen, ohne Verletzte un"
   },
   {
    "zeitpunkt": "2026-11-04 01:58",
@@ -2406,6 +2420,15 @@
    "quelle": "WuBlockchain",
    "titel": "BTC-ETF −116 Mio $",
    "text": "Dritter Abflusstag in Folge laut SoSoValue",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04 09:09",
+   "coin": "BTC",
+   "signal": "leicht bullisch",
+   "quelle": "FirstSquawk",
+   "titel": "US-Futures erholen sich",
+   "text": "Nasdaq-100-Futures gleichen Minus von bis zu 2,4 % aus, S&P-500-Futures wieder positiv",
    "datei": "2026-11-04.csv"
   },
   {
@@ -3359,19 +3382,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 10:01:32",
-   "tokens": 122,
-   "paar": 121,
+   "t": "2026-11-04 10:12:32",
+   "tokens": 115,
+   "paar": 114,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 167,
-   "tokens": 20865,
-   "paar": 20574,
+   "runden": 178,
+   "tokens": 22162,
+   "paar": 21851,
    "vor": 6,
-   "kandidaten_zeilen": 1413,
+   "kandidaten_zeilen": 1437,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -3380,7 +3403,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    861
+    881
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -3392,11 +3415,11 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    34
+    36
    ],
    [
-    "Insider-Netzwerke (≤# Wallets) # % ≥ # %",
-    6
+    "Vorfilter: keine Socials/Website auf DexScreener",
+    7
    ]
   ]
  },
@@ -3429,7 +3452,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-04.csv",
-   "zeit": "2026-11-04T09:06:48+01:00"
+   "zeit": "2026-11-04T10:04:52+01:00"
   },
   {
    "name": "Kadabra",
@@ -3461,7 +3484,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-04T10:01:33+01:00"
+   "zeit": "2026-11-04T10:12:33+01:00"
   },
   {
    "name": "Magnayen",
@@ -3473,61 +3496,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T07:38:26",
-   "SCAN",
-   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T07:39:26",
-   "SCAN",
-   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T07:40:26",
-   "SCAN",
-   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T07:41:26",
-   "SCAN",
-   "Runde: 118 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T07:59:10",
-   "RISK",
-   "supervisor: Box war 1054 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T07:59:40",
-   "SCAN",
-   "Runde: 121 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T08:00:40",
-   "SCAN",
-   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T08:01:40",
-   "RISK",
-   "BLOCK CHOO: Insider-Netzwerke (≤50 Wallets) 12.0 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-04T08:01:42",
-   "SCAN",
-   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
-  ],
-  [
-   "2026-11-04T08:16:17",
-   "RISK",
-   "supervisor: Box war 847 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T08:16:26",
-   "SCAN",
-   "Runde: 106 Tokens, 103 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-04T08:17:26",
    "SCAN",
@@ -3772,6 +3740,61 @@
    "2026-11-04T10:01:32",
    "SCAN",
    "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T10:02:32",
+   "SCAN",
+   "Runde: 116 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T10:03:32",
+   "SCAN",
+   "Runde: 116 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T10:04:32",
+   "SCAN",
+   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T10:05:32",
+   "SCAN",
+   "Runde: 114 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T10:06:32",
+   "SCAN",
+   "Runde: 122 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T10:07:32",
+   "SCAN",
+   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T10:08:32",
+   "SCAN",
+   "Runde: 123 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T10:09:32",
+   "SCAN",
+   "Runde: 121 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T10:10:32",
+   "SCAN",
+   "Runde: 107 Tokens, 105 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T10:11:32",
+   "SCAN",
+   "Runde: 118 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T10:12:32",
+   "SCAN",
+   "Runde: 115 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3789,5 +3812,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T10:01:33+01:00"
+ "daten_neuest": "2026-11-04T10:12:33+01:00"
 }

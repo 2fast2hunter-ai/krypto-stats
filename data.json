@@ -1,5 +1,5 @@
 {
- "stand_daten": "04.11.2026 16:14",
+ "stand_daten": "04.11.2026 17:03",
  "depot": {
   "wert": 48.93,
   "budget": 50.0,
@@ -2316,9 +2316,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-04T17:00+01:00",
+   "coin": "RICO",
+   "ca": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump",
+   "posts_1h": "Template 18 Posts (RICO 9 GATO 6 USELESS 2)",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-04.md",
    "titel": "News-Scans 04.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **ISM Services Oktober: 54,5 (Prognose 54,8, vorher 54,9)**, laut PRNewswire/ISM. Business Activity 53,8, New Orders 55,9, Employment 51,4. Davor (15:45) das finale S&P Global Services PMI mit 56,1 (Flash/Schätzung 57,9), Composite 55,9. Beide schwächer als erwartet.\n- **Starke Marktbewegung:** BTC steigt von 78.321 (15:05) auf 80.706 (16:12), also +3,0 %. 5m-Kerze 16:00–16:05: 79.347 → 80.152. ETH +6,1 % in 24h, 1h-Range 5,7 %. Eine eindeutige Ursache lässt sich aus den Quellen nicht belegen. Zeitlich passt der Anstieg zu den schwachen PMIs, also zu niedrigeren Zinserwartungen. Dazu kommen der VIX auf einem Wochentief (16,97, DeItaone 16:09), eine Rally der Hyperscaler-Aktien (Amazon +7 %, Microsoft +5,7 %) und Silber +5 % auf 52,26 $.\n- Riot Platforms schließt einen 15-jährigen Rechenzentrums-Mietvertrag über 910 MW mit einem KI-Entwickler im Wert von rund 28 Mrd $ ab (FirstSquawk 15:51). CertiK: Der CLARITY Act ist nach dem Sieg der Demokraten „likely dead“ (Cointelegraph 15:40).\n- **Hormus: unverändert, nicht unabhängig bestätigt, kein Dementi.** Die VAE prüfen eine dritte Ölpipeline, um Hormus zu umgehen (FirstSquawk/DeItaone 15:27).\n- **Houthi/Riad: nicht bestätigt.** Es gibt weiter nur die Sprecher-Behauptung (FirstSquawk 15:03), keine saudische Bestätigung, kein AP/Reuters. Reuters (15:30): Die Türkei ratifiziert einen Verteidigungspakt mit Saudi-Arabien und Pakistan, „as Houthi attacks mount“.\n- Binance PoR: keine Meldung.\n- EIA 16:30 (Rohöllager): Prognosewert ohn"
+   "text": "- **Ursache des BTC-Anstiegs, jetzt mit Quellen:** WuBlockchain (16:58) und CoinDesk (16:43) nennen die US-Midterms, also den Erfolg der Demokraten, als Auslöser. Laut WuBlockchain wurden in einer Stunde Short-Positionen über 269 Mio $ liquidiert. Cointelegraph (16:17): BTC bei 80.000, 415 Mio $ Liquidationen in einer Stunde, davon 330 Mio $ Shorts. Diese Zuordnung kommt von Medien, ein kausaler Beleg ist sie nicht. Begleitend: Brent fällt erstmals seit dem 07.10. unter 100 $ (FirstSquawk 16:57). Die Rendite 10-jähriger französischer Staatsanleihen sinkt um 12,5 Bp. Die US-Börse gewinnt zur Eröffnung 900 Mrd $ Marktkapitalisierung (Cointelegraph).\n- **Verlauf:** Hoch 81.196 (16:15–16:30), danach leichter Rücksetzer und Seitwärtsbewegung um 80.300. Die 1h-Range ab 17:00 liegt bei 0,25 %.\n- **EIA (16:30):** Rohöl −865k Barrel (Schätzung −377,5k, vorher −1,892 Mio), laut FirstSquawk. Die US-Diesel-Vorräte liegen unter 100 Mio Barrel, so niedrig wie seit 2003 nicht mehr (DeItaone/FirstSquawk 16:43).\n- **Hormus:** unverändert, nicht unabhängig bestätigt, kein Dementi von CENTCOM oder UKMTO. Vance (16:41/16:50): Der Iran-Krieg sei ein Grund für die Niederlage der Republikaner.\n- **Houthi/Riad:** weiter unbestätigt, nur die Houthi-Behauptung. Keine saudische Bestätigung, kein Reuters/AP.\n- Binance PoR: keine Meldung.\n- Kurse ~17:03: BTC 80.340 (+3,4 %), ETH 2.429,03 (+5,7 %), SOL 96,87 (+3,5 %), BNB 716,21 (+2,3 %). 1h-Range 16 Uhr: BTC 2,37 %, ETH 5,88 %, SOL 3,16 %, BNB 1,67 %.\n- "
   },
   {
    "zeitpunkt": "2026-11-04T01:58+01:00",
@@ -2732,6 +2746,51 @@
    "quelle": "FirstSquawk/DeItaone",
    "titel": "VAE prüfen Hormus-Umgehungspipeline",
    "text": "VAE prüfen eine dritte Rohöl-Pipeline, um die Straße von Hormus zu umgehen",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T16:58+01:00",
+   "coin": "BTC",
+   "signal": "bullisch",
+   "quelle": "WuBlockchain",
+   "titel": "BTC über 80k nach Midterms, 269 Mio $ Short-Liquidationen",
+   "text": "Laut WuBlockchain steigt BTC nach den Midterms über 80.000; in einer Stunde 269 Mio $ Shorts liquidiert",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T16:43+01:00",
+   "coin": "BTC",
+   "signal": "bullisch",
+   "quelle": "CoinDesk",
+   "titel": "Krypto grün nach US-Midterms",
+   "text": "CoinDesk: ETH +6,79 %, BTC +4,42 % nach den Midterms",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T16:17+01:00",
+   "coin": "BTC",
+   "signal": "bullisch",
+   "quelle": "Cointelegraph",
+   "titel": "415 Mio $ Liquidationen bei 80k",
+   "text": "BTC bei 80.000; 415 Mio $ Liquidationen in einer Stunde, davon 330 Mio $ Shorts",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T16:30+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "FirstSquawk",
+   "titel": "EIA Rohöl −865k",
+   "text": "EIA Rohöllager −865k (Schätzung −377,5k, vorher −1,892 Mio); Diesel auf dem tiefsten Stand seit 2003",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T16:57+01:00",
+   "coin": "BTC",
+   "signal": "leicht bullisch",
+   "quelle": "FirstSquawk",
+   "titel": "Brent unter 100 $",
+   "text": "Brent fällt erstmals seit dem 07.10. unter 100 $",
    "datei": "2026-11-04.csv"
   },
   {
@@ -3685,19 +3744,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 16:55:49",
-   "tokens": 125,
-   "paar": 124,
-   "vor": 1,
+   "t": "2026-11-04 17:05:41",
+   "tokens": 129,
+   "paar": 126,
+   "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 409,
-   "tokens": 49108,
-   "paar": 48306,
+   "runden": 419,
+   "tokens": 50343,
+   "paar": 49528,
    "vor": 26,
-   "kandidaten_zeilen": 2709,
+   "kandidaten_zeilen": 2731,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
@@ -3706,7 +3765,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1620
+    1639
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -3714,11 +3773,11 @@
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    194
+    195
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    73
+    75
    ],
    [
     "Insider-Netzwerke (≤# Wallets) # % ≥ # %",
@@ -3760,8 +3819,8 @@
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/2026-11-04.md",
-   "zeit": "2026-11-04T16:14:16+01:00"
+   "letzte_datei": "krypto/news/2026-11-04.csv",
+   "zeit": "2026-11-04T17:03:37+01:00"
   },
   {
    "name": "Kadabra",
@@ -3793,7 +3852,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-04T16:55:49+01:00"
+   "zeit": "2026-11-04T17:05:42+01:00"
   },
   {
    "name": "Magnayen",
@@ -3805,56 +3864,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T15:54:26",
-   "SCAN",
-   "Runde: 104 Tokens, 102 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T15:55:26",
-   "SCAN",
-   "Runde: 108 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T15:58:49",
-   "RISK",
-   "supervisor: Box war 184 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T15:58:59",
-   "SCAN",
-   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T15:59:59",
-   "SCAN",
-   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T16:01:00",
-   "SCAN",
-   "Runde: 121 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T16:12:01",
-   "RISK",
-   "supervisor: Box war 612 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T16:12:03",
-   "RISK",
-   "BLOCK DOPE: Insider-Netzwerke (≤50 Wallets) 10.4 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-04T16:12:05",
-   "SCAN",
-   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 24 s"
-  ],
-  [
-   "2026-11-04T16:12:51",
-   "RISK",
-   "BLOCK DOPE: Insider-Netzwerke (≤50 Wallets) 10.4 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
   [
    "2026-11-04T16:12:52",
    "SCAN",
@@ -4104,6 +4113,56 @@
    "2026-11-04T16:55:49",
    "SCAN",
    "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 1, gekauft 0, Dauer 18 s"
+  ],
+  [
+   "2026-11-04T16:56:41",
+   "SCAN",
+   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T16:57:41",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T16:58:41",
+   "SCAN",
+   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T16:59:41",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T17:00:41",
+   "SCAN",
+   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T17:01:41",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T17:02:41",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T17:03:41",
+   "SCAN",
+   "Runde: 118 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T17:04:41",
+   "SCAN",
+   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T17:05:41",
+   "SCAN",
+   "Runde: 129 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -4121,5 +4180,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T16:55:49+01:00"
+ "daten_neuest": "2026-11-04T17:05:42+01:00"
 }

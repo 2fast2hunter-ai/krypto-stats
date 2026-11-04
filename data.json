@@ -1,11 +1,11 @@
 {
- "stand_daten": "04.11.2026 13:06",
+ "stand_daten": "04.11.2026 14:04",
  "depot": {
-  "wert": 49.47,
+  "wert": 48.93,
   "budget": 50.0,
-  "gesamt_pl": -0.53,
-  "tag_pl": 0,
-  "woche_pl": -0.53,
+  "gesamt_pl": -1.07,
+  "tag_pl": -0.53,
+  "woche_pl": -1.07,
   "stand": "29.10.2026 20:50 (Berlin)",
   "verlauf": [
    {
@@ -37,6 +37,11 @@
     "t": "2026-11-04T13:06+01:00",
     "cash": 46.9654,
     "wert": 49.47
+   },
+   {
+    "t": "2026-11-04T14:04+01:00",
+    "cash": 48.9335,
+    "wert": 48.93
    }
   ]
  },
@@ -50,19 +55,9 @@
   "max_pos": 3.0,
   "max_trades_tag": 5.0,
   "ampel": "gruen",
-  "offene_positionen": 1
+  "offene_positionen": 0
  },
- "offen": [
-  {
-   "zeitpunkt": "2026-11-04T13:06+01:00",
-   "strategie": "meme-scan",
-   "coin": "RICO",
-   "menge": 5062.440287,
-   "preis_eur": "0.0004758080814",
-   "einsatz": 2.5,
-   "notiz": "Volumen-Spike+Momentum, rugcheck FREIGABE; Slippage 3.00 %; CA 8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump"
-  }
- ],
+ "offen": [],
  "geschlossen": [
   {
    "coin": "fone",
@@ -85,13 +80,24 @@
    "einsatz": 2.5001,
    "ergebnis": -0.4731,
    "notiz": "Stop −15 % (-15.2 %); Slippage 1.50 %; CA GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump"
+  },
+  {
+   "coin": "RICO",
+   "strategie": "meme-scan",
+   "kauf": "2026-11-04T13:06+01:00",
+   "verkauf": "2026-11-04T14:04+01:00",
+   "menge": 5062.440287,
+   "teil": false,
+   "einsatz": 2.5,
+   "ergebnis": -0.5318,
+   "notiz": "Stop −15 % (-15.0 %); Slippage 3.00 %; CA 8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump"
   }
  ],
  "warnungen": [],
  "pl_strategie": {
   "meme-scan": {
-   "pl": -0.53,
-   "trades": 2
+   "pl": -1.07,
+   "trades": 3
   }
  },
  "scout": {
@@ -2268,9 +2274,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-04T14:00+01:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "Counts 21/22 pro h; Template 12 Posts (GATO 11 HELL 1)",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-04.md",
    "titel": "News-Scans 04.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **Hormus: unverändert, nicht unabhängig bestätigt, kein Dementi.** Seit 12:00 nichts Neues von Reuters, AP, CENTCOM oder UKMTO.\n- Arkéa-Hack: keine Folgemeldungen von CoinDesk, ZachXBT oder Lookonchain seit 11:58.\n- Binance PoR: keine Meldung.\n- Krypto: Die SEC bestätigt, dass Canton Coin ($CC) eine digitale Commodity und kein Wertpapier ist, per No-Action-Letter (CoinDesk 13:01). Regulatorisch leicht bullisch. Circle Q3: Umsatz 864,9 Mio $ (Schätzung 776,7 Mio $), durchschnittlicher USDC-Umlauf 73,3 Mrd $ (FirstSquawk 12:28, WuBlockchain 13:02). Krypto-PACs haben mehr als 64 Mio $ ausgegeben, trotzdem gewinnt Sherrod Brown in Ohio, und mehrere Pro-Krypto-Republikaner verlieren (WuBlockchain 12:14).\n- Midterms und Makro: Hinojosa (D) schlägt Abbott in Texas, Hamilton (D) schlägt Marshall in Kansas. Goldman: Siege der Demokraten könnten 45 % der geplanten US-Rechenzentrumsexpansion gefährden (DeItaone 13:02).\n- Vorschau: ADP 14:15 (Prognose 67k, vorher 90k), ISM Services 16:00.\n- Kurse ~13:03: BTC 78.336 (+1,7 %), ETH 2.324,98 (+2,6 %), SOL 93,40 (+1,0 %), BNB 701,29 (+0,6 %). 1h-Range 12–13 Uhr: BTC 0,32 %, ETH 0,54 %, SOL 0,73 %, BNB 0,48 %.\n- BLOCK-Schwellen: keine gerissen. GATO 24h −20,6 % / 1h +2,8 %, Liq. 337.674 (über der Referenz). HELL 24h +11,3 % / 1h −9,5 %, Liq. 154.555 (−1,8 % gegen 157.394). JEANPHIL −9,0 %. Gesperrt: WASTED −34,5 %, DESSA −41,0 %.\n- X-Counts (CA-Paket): 11–12 Uhr 2, 12–13 Uhr 21. Template-Check 11:55–13:00: 9 Posts von 7 Autoren ($GATO 7×, $H"
+   "text": "- **Hormus: unverändert, nicht unabhängig bestätigt, kein Dementi.** Seit 13:00 nichts Neues von CENTCOM oder UKMTO. Im Reuters-Podcast (13:45) heißt es, der Ölpreis habe frühe Gewinne wieder abgegeben.\n- ADP (14:15): noch nicht veröffentlicht. Prognose 67k, vorher 90k. ISM Services 16:00.\n- Binance: kein PoR-Snapshot. Reuters (13:40): Krypto fiel nach den Midterms kurz, Binance sagt, die Abflüsse hätten sich normalisiert.\n- Krypto: Circle Q3 netto 226 Mio $, Umsatz 778 Mio $, 11 % über Schätzung (CoinDesk 13:51; die Zahlen weichen von FirstSquawks 864,9 Mio $ ab, das ist wohl die Abgrenzung inklusive Reserve-Erträgen). Circle streicht rund 5 % der Stellen (Cointelegraph 13:12). Cooper (D) holt den Senatssitz in North Carolina. Tesla −5,6 %, SpaceX −5 % (DeItaone 13:51).\n- Kurse ~13:58: BTC 78.312 (+1,2 %), ETH 2.315,15 (+1,4 %), SOL 92,66 (−0,5 %), BNB 699,40 (−0,3 %). 1h-Range 13–14 Uhr: BTC 0,63 %, ETH 0,82 %, SOL 1,27 %, BNB 0,58 %.\n- BLOCK-Schwellen: keine gerissen. **HELL 1h −20,7 %, 24h +3,6 %, Liq. 141.102 (−10,4 % gegen 157.394).** Der Trend dreht deutlich, es bleibt aber Abstand zu −30 % Liquidität und −50 % in 24h. GATO 24h −10,4 %, Liq. 342.410 (über der Referenz). TROLL −5,5 %, die übrigen Freigaben innerhalb ±10 %. Gesperrt: WASTED −38,8 %, DESSA −40,1 %.\n- **Auffällig, kein News-Signal:** kandidaten.csv zeigt um 13:06 einen paper_kauf in RICO (CA 8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump, ds-boost, Liq. 62.642). Der Eintrag steht auch in paper-trades.csv (me"
   },
   {
    "zeitpunkt": "2026-11-04T01:58+01:00",
@@ -2558,6 +2578,33 @@
    "quelle": "X Template-Check",
    "titel": "GATO-Vote-Bot-Buzz zurück",
    "text": "7 von 9 Template-Posts taggen $GATO (CA HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump); Bot-Verdacht",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T13:40+01:00",
+   "coin": "BNB",
+   "signal": "leicht bullisch",
+   "quelle": "Reuters",
+   "titel": "Binance: Abflüsse normalisiert",
+   "text": "Laut Reuters fiel Krypto nach den Midterms kurz; Binance sagt, die Abflüsse hätten sich normalisiert",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T13:51+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "CoinDesk",
+   "titel": "Circle Q3 Gewinn 226 Mio $",
+   "text": "Circle Q3: Nettogewinn 226 Mio $, Umsatz 778 Mio $, 11 % über Schätzung; rund 5 % Stellenabbau",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T13:56+01:00",
+   "coin": "GATO",
+   "signal": "unsicher",
+   "quelle": "X Template-Check",
+   "titel": "GATO-Vote-Bots verstärkt",
+   "text": "11 von 12 Template-Posts taggen $GATO (CA HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump)",
    "datei": "2026-11-04.csv"
   },
   {
@@ -3490,8 +3537,8 @@
   },
   "meme-scan": {
    "meme": true,
-   "pl": -0.5348,
-   "trades": 2
+   "pl": -1.0666000000000002,
+   "trades": 3
   },
   "news-signale": {
    "meme": false,
@@ -3511,32 +3558,32 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 13:57:17",
-   "tokens": 110,
-   "paar": 107,
+   "t": "2026-11-04 14:10:54",
+   "tokens": 119,
+   "paar": 117,
    "vor": 1,
-   "offen": 1,
+   "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 288,
-   "tokens": 34935,
-   "paar": 34402,
-   "vor": 9,
-   "kandidaten_zeilen": 2042,
+   "runden": 299,
+   "tokens": 36229,
+   "paar": 35677,
+   "vor": 16,
+   "kandidaten_zeilen": 2078,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
-   "block": 8
+   "block": 15
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1206
+    1228
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    608
+    612
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -3544,11 +3591,11 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    57
+    59
    ],
    [
-    "Vorfilter: keine Socials/Website auf DexScreener",
-    9
+    "Insider-Netzwerke (≤# Wallets) # % ≥ # %",
+    14
    ]
   ]
  },
@@ -3564,6 +3611,12 @@
    "pl": -0.5348,
    "trade": -0.4731,
    "coin": "WASTED"
+  },
+  {
+   "t": "2026-11-04T14:04+01:00",
+   "pl": -1.0666,
+   "trade": -0.5318,
+   "coin": "RICO"
   }
  ],
  "agenten": [
@@ -3581,7 +3634,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-04.csv",
-   "zeit": "2026-11-04T13:04:21+01:00"
+   "zeit": "2026-11-04T14:00:14+01:00"
   },
   {
    "name": "Kadabra",
@@ -3605,15 +3658,15 @@
    "farbe": "#10B981",
    "form": "square",
    "letzte_datei": "krypto/paper-trades.csv",
-   "zeit": "2026-11-04T13:06:27+01:00"
+   "zeit": "2026-11-04T14:04:20+01:00"
   },
   {
    "name": "Scanner",
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-04T13:59:19+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-04T14:10:54+01:00"
   },
   {
    "name": "Magnayen",
@@ -3625,106 +3678,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T12:16:55",
-   "SCAN",
-   "Runde: 121 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T12:17:55",
-   "SCAN",
-   "Runde: 121 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T12:26:26",
-   "RISK",
-   "supervisor: Box war 498 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T12:26:52",
-   "SCAN",
-   "Runde: 122 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T12:27:52",
-   "SCAN",
-   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T12:28:51",
-   "SCAN",
-   "Runde: 122 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T12:30:52",
-   "RISK",
-   "supervisor: Box war 86 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T12:32:35",
-   "RISK",
-   "supervisor: Box war 103 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T12:32:36",
-   "SCAN",
-   "Runde: 115 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 21 s"
-  ],
-  [
-   "2026-11-04T12:33:25",
-   "SCAN",
-   "Runde: 112 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T12:34:25",
-   "SCAN",
-   "Runde: 105 Tokens, 103 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T12:35:25",
-   "SCAN",
-   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T12:40:00",
-   "SCAN",
-   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 20 s"
-  ],
-  [
-   "2026-11-04T12:40:00",
-   "RISK",
-   "supervisor: Box war 211 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T12:40:50",
-   "SCAN",
-   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T12:41:50",
-   "SCAN",
-   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T12:42:50",
-   "SCAN",
-   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T12:44:08",
-   "RISK",
-   "supervisor: Box war 68 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T12:49:49",
-   "RISK",
-   "supervisor: Box war 341 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T12:49:51",
-   "SCAN",
-   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 22 s"
-  ],
   [
    "2026-11-04T12:50:38",
    "SCAN",
@@ -3924,11 +3877,111 @@
    "2026-11-04T13:59:19",
    "RISK",
    "supervisor: Box war 125 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T13:59:30",
+   "RISK",
+   "BLOCK CHOO: Insider-Netzwerke (≤50 Wallets) 12.0 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T13:59:32",
+   "SCAN",
+   "Runde: 118 Tokens, 117 mit Paar, Vorfilter ok 1, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 13 s"
+  ],
+  [
+   "2026-11-04T14:00:30",
+   "RISK",
+   "BLOCK CHOO: Insider-Netzwerke (≤50 Wallets) 12.0 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T14:00:31",
+   "SCAN",
+   "Runde: 120 Tokens, 116 mit Paar, Vorfilter ok 1, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
+  ],
+  [
+   "2026-11-04T14:01:30",
+   "RISK",
+   "BLOCK CHOO: Insider-Netzwerke (≤50 Wallets) 12.0 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T14:01:32",
+   "SCAN",
+   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 1, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 13 s"
+  ],
+  [
+   "2026-11-04T14:02:30",
+   "SCAN",
+   "Runde: 118 Tokens, 117 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T14:03:30",
+   "SCAN",
+   "Runde: 118 Tokens, 116 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T14:04+01",
+   "LOSS",
+   "meme-scan verkauft 5062.44 RICO: -0,53 €"
+  ],
+  [
+   "2026-11-04T14:04:30",
+   "RISK",
+   "BLOCK CHOO: Insider-Netzwerke (≤50 Wallets) 12.0 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T14:04:31",
+   "SCAN",
+   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
+  ],
+  [
+   "2026-11-04T14:05:29",
+   "RISK",
+   "BLOCK CHOO: Insider-Netzwerke (≤50 Wallets) 12.0 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T14:05:30",
+   "SCAN",
+   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T14:06:29",
+   "RISK",
+   "BLOCK CHOO: Insider-Netzwerke (≤50 Wallets) 12.0 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T14:06:30",
+   "SCAN",
+   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T14:07:29",
+   "SCAN",
+   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T14:10:03",
+   "RISK",
+   "supervisor: Box war 88 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T14:10:05",
+   "SCAN",
+   "Runde: 103 Tokens, 102 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 22 s"
+  ],
+  [
+   "2026-11-04T14:10:53",
+   "RISK",
+   "BLOCK CHOO: Insider-Netzwerke (≤50 Wallets) 12.0 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T14:10:54",
+   "SCAN",
+   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
   ]
  ],
  "trefferquote": {
   "w": 0,
-  "l": 2
+  "l": 3
  },
  "bester_trade": {
   "coin": "fone",
@@ -3941,5 +3994,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T13:59:19+01:00"
+ "daten_neuest": "2026-11-04T14:10:54+01:00"
 }

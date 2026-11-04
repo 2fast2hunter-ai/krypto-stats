@@ -1,5 +1,5 @@
 {
- "stand_daten": "04.11.2026 05:09",
+ "stand_daten": "04.11.2026 07:09",
  "depot": {
   "wert": 49.47,
   "budget": 50.0,
@@ -2504,9 +2504,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-04 07:00",
+   "coin": "WASTED",
+   "ca": "-",
+   "posts_1h": "24h -52.6% (BLOCK)",
+   "trend_pct": " kein Template-Check",
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-04.md",
    "titel": "News-Scans 04.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **Dringend (unbestätigt, Einzelquelle): Irans IRGC sagt, vier Tanker seien südlich der Straße von Hormuz nach Minentreffern zerstört, vier stünden noch in Flammen, zwei weitere Schiffe festgesetzt (FirstSquawk 04:37). Richtung bärisch (Öl, Risk-off), Dringlichkeit hoch, Unsicherheit mittel.**\n- Midterms: Laut FirstSquawk werden die Demokraten Haus, Senat und Gouverneursposten gewinnen (04:49; Prognose, nicht amtlich). Talarico (D) schlägt Paxton in Texas laut DDHQ/NBC (04:15/04:53), Acton (D) gewinnt Ohio-Gouverneur (04:32), Demokraten gewinnen den Sitz in North Carolina (Cointelegraph 04:27: 45 Senatssitze, 51 nötig, Auszählung läuft). Byron Donalds (R, pro Krypto) gewinnt Florida-Gouverneur (04:20). Trump will das Ergebnis „absolut akzeptieren“ und mit Demokraten arbeiten (03:51–03:53), hatte aber vorher Vetos angekündigt. WSJ: Druck auf US-Aktien und Dollar (05:02). Leicht bärisch für Krypto-Gesetzgebung, mittel, mittel.\n- Iran (Nachtrag aus der Lücke): Trump sagt der FT, es gebe keinen unmittelbaren Angriffsplan gegen Iran (00:36–01:02).\n- Binance: Laut Lookonchain wäscht der Hacker weiter SOL über THORChain in BTC (WuBlockchain 04:57). PoR-Snapshot: keine Meldung.\n- Lücke 23:00–01:17: teilweise nachgeholt (00:00–01:12 Berlin). SEC-Staff: unabhängige Token-Inhaber in dezentraler Governance gelten in der Regel nicht als „central party“ (Cointelegraph 00:20). 23:00–00:00 und 02:00–04:15 nicht vollständig, weil die Suche nur 25 Posts pro Abfrage liefert.\n- Marktreaktion: B"
+   "text": "- **Hormus: weder bestätigt noch dementiert.** Reuters (05:00), AFP und Iran International berichten nur die IRGC-Erklärung aus iranischen Staatsmedien (vier Tanker durch Minen zerstört, zwei Schiffe gestoppt, laut IRGC zusätzlich eine US-Drohne MQ-9 abgeschossen). Iran International: „could not be independently verified“. CENTCOM, UKMTO, Reedereien oder Schiffsnamen: nichts gefunden. Ölpreis nicht geprüft. Der Markt reagiert nicht mit Risk-off: BTC seit 05:05 +1,6 %. Laut AFP soll Trump am Vortag Angriffe auf Iran gemeldet haben, nach Berichten über einen Angriff auf Qeshm. Das widerspricht der FT-Aussage von 00:36 und ist ungeklärt. Bärisch, mittel, mittel.\n- KAUF_PAUSE (Panzaeron 05:10) ist aktiv, Re-Check im 9-Uhr-Scan.\n- Midterms: AP meldet, die Demokraten gewinnen die Senatsmehrheit nach Turek in Iowa (Cointelegraph 05:51). Laut CNN-Projektion schlägt Jackson (D) Collins in Maine (06:20). Polymarket zeigt einen Sweep beider Kammern (WuBlockchain 06:14). Trump: akzeptiert das Ergebnis, offen für Zusammenarbeit, Veto gegen „insane“ Vorschläge. Laut WSJ sieht er den Iran-Krieg als einen Grund für die Verluste. Leicht bärisch für den CLARITY Act, mittel, niedrig.\n- Binance: CZ meldet 2,8 Mrd $ Netto-Zufluss in 24h (06:12). CZ: „A hack of this scale means serious security failures occurred“ (06:09). PoR-Snapshot: keine Meldung. Der Mercado-Bitcoin-Hacker tauscht Altcoins in 7.988 ETH (Lookonchain 06:12).\n- Sonstiges: Silber +3 % auf 51,38 $ (07:03). Nasdaq-Futures −0,75 % (0"
   },
   {
    "zeitpunkt": "2026-11-04 01:58",
@@ -2614,6 +2628,42 @@
    "quelle": "WuBlockchain/Lookonchain",
    "titel": "Hacker wäscht SOL über THORChain",
    "text": "Binance-Hacker tauscht laut Lookonchain weiter SOL über THORChain in BTC",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04 05:00",
+   "coin": "BTC",
+   "signal": "bärisch",
+   "quelle": "Reuters/AFP/Iran International",
+   "titel": "Hormus: IRGC-Behauptung nur weitergemeldet",
+   "text": "Reuters, AFP und Iran International melden die IRGC-Aussage (4 Tanker zerstört, MQ-9 abgeschossen); nicht unabhängig verifiziert, keine Bestätigung durch CENTCOM/UKMTO",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04 05:51",
+   "coin": "BTC",
+   "signal": "leicht bärisch",
+   "quelle": "Cointelegraph (AP)",
+   "titel": "Demokraten gewinnen Senat",
+   "text": "Laut AP gewinnen die Demokraten nach Tureks Sieg in Iowa die Senatsmehrheit",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04 06:12",
+   "coin": "BNB",
+   "signal": "neutral",
+   "quelle": "cz_binance",
+   "titel": "Binance 2,8 Mrd $ Netto-Zufluss",
+   "text": "CZ: 2,8 Mrd $ Netto-Zufluss in 24h laut öffentlichen Daten",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04 06:12",
+   "coin": "ETH",
+   "signal": "neutral",
+   "quelle": "lookonchain",
+   "titel": "Mercado-Bitcoin-Hacker kauft ETH",
+   "text": "Mercado-Bitcoin-Hacker tauscht PEPE, AAVE, UNI u. a. in 7.988 ETH (18,19 Mio $)",
    "datei": "2026-11-04.csv"
   },
   {
@@ -3567,19 +3617,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 06:59:04",
-   "tokens": 117,
-   "paar": 116,
+   "t": "2026-11-04 07:11:20",
+   "tokens": 125,
+   "paar": 124,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 87,
-   "tokens": 11213,
-   "paar": 11066,
+   "runden": 97,
+   "tokens": 12425,
+   "paar": 12254,
    "vor": 5,
-   "kandidaten_zeilen": 893,
+   "kandidaten_zeilen": 929,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -3588,11 +3638,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    545
+    576
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    239
+    241
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -3600,7 +3650,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    18
+    20
    ],
    [
     "Insider-Netzwerke (≤# Wallets) # % ≥ # %",
@@ -3637,7 +3687,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-04.csv",
-   "zeit": "2026-11-04T05:08:36+01:00"
+   "zeit": "2026-11-04T07:09:19+01:00"
   },
   {
    "name": "Kadabra",
@@ -3669,7 +3719,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-04T06:59:04+01:00"
+   "zeit": "2026-11-04T07:11:20+01:00"
   },
   {
    "name": "Magnayen",
@@ -3681,66 +3731,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T04:02:53",
-   "RISK",
-   "supervisor: Box war 2250 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T04:03:04",
-   "SCAN",
-   "Runde: 128 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T04:04:03",
-   "SCAN",
-   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T04:05:03",
-   "SCAN",
-   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T05:00:45",
-   "RISK",
-   "BLOCK FLOAT: Insider-Netzwerke (≤50 Wallets) 5.5 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-04T05:00:46",
-   "SCAN",
-   "Runde: 131 Tokens, 130 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
-  ],
-  [
-   "2026-11-04T05:00:54",
-   "RISK",
-   "supervisor: Box war 3301 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T05:01:44",
-   "RISK",
-   "BLOCK FLOAT: Insider-Netzwerke (≤50 Wallets) 5.5 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-04T05:01:45",
-   "SCAN",
-   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T05:02:44",
-   "RISK",
-   "BLOCK FLOAT: Insider-Netzwerke (≤50 Wallets) 5.5 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-04T05:02:45",
-   "SCAN",
-   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T05:03:44",
-   "RISK",
-   "BLOCK FLOAT: Insider-Netzwerke (≤50 Wallets) 5.5 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
   [
    "2026-11-04T05:03:45",
    "SCAN",
@@ -3980,6 +3970,66 @@
    "2026-11-04T06:59:04",
    "SCAN",
    "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:00:05",
+   "SCAN",
+   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:01:05",
+   "SCAN",
+   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:03:21",
+   "RISK",
+   "supervisor: Box war 110 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T07:03:35",
+   "SCAN",
+   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:04:35",
+   "SCAN",
+   "Runde: 110 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:05:35",
+   "SCAN",
+   "Runde: 106 Tokens, 104 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:06:47",
+   "SCAN",
+   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 22 s"
+  ],
+  [
+   "2026-11-04T07:07:47",
+   "RISK",
+   "supervisor: Box war 66 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T07:08:20",
+   "SCAN",
+   "Runde: 123 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:09:20",
+   "SCAN",
+   "Runde: 122 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:10:20",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:11:20",
+   "SCAN",
+   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -3997,5 +4047,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T06:59:04+01:00"
+ "daten_neuest": "2026-11-04T07:11:20+01:00"
 }

@@ -1,5 +1,5 @@
 {
- "stand_daten": "04.11.2026 15:06",
+ "stand_daten": "04.11.2026 16:14",
  "depot": {
   "wert": 48.93,
   "budget": 50.0,
@@ -2302,9 +2302,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-04T16:00+01:00",
+   "coin": "RICO",
+   "ca": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump",
+   "posts_1h": "Template 23 Posts (RICO 15 GATO 7 USELESS 2)",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-04.md",
    "titel": "News-Scans 04.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **ADP Oktober: +86k (Prognose 67k, vorher 90k)**, Dienstleistungen +82k, Güter +4k (DeItaone 14:16). Kaum Marktreaktion: BTC lag im Bereich 78.290–78.497 (5m, 14:15–14:35), Gold kaum verändert (FirstSquawk 14:18). Neutral, niedrig, niedrig.\n- US-Handelsbilanz September: −105 Mrd $ (Schätzung −107,9 Mrd $). Das Treasury setzt das Quartals-Refunding auf 125 Mrd $ fest, wie erwartet.\n- **Hormus: unverändert, nicht unabhängig bestätigt, kein Dementi.** Öl: WTI −3 % auf 93,25 $ (15:04). Brent und WTI liegen jeweils mehr als 2 $ im Minus (14:39), es gibt also keine Risikoprämie für Hormus. Pakistan meldet Fortschritte in der Iran-Diplomatie (DeItaone 14:58). Neu und unbestätigt: Ein Houthi-Sprecher behauptet einen ballistischen Raketenangriff auf den Flughafen Khalid in Riad (FirstSquawk 15:03), Einzelquelle.\n- Binance PoR: keine Meldung.\n- Krypto: Riot Platforms hat im dritten Quartal 10.599 BTC verkauft, die Bestände sinken gegenüber Ende Juni um fast 79 % (WuBlockchain 14:29, Cointelegraph 15:01). Leicht bärisch, ist aber Q3-Vergangenheit. BTC-ETFs laut Lookonchain am 1. Tag −859 BTC (−67,3 Mio $), über 7 Tage −12.641 BTC (−991 Mio $). Schroders bringt eine EM-Bond-Strategie über Centrifuge auf Solana (CoinDesk 14:39).\n- Vorschau: ISM Services 16:00 (Prognose 54,8, vorher 54,9), EIA 16:30.\n- Kurse ~15:05: BTC 78.321 (+1,5 %), ETH 2.317,33 (+1,7 %), SOL 92,83 (−0,2 %), BNB 700,79 (+0,7 %). 1h-Range 14–15 Uhr: BTC 0,31 %, ETH 0,34 %, SOL 0,58 %, BNB 0,33 %.\n- **RICO** (CA 8kuQg3"
+   "text": "- **ISM Services Oktober: 54,5 (Prognose 54,8, vorher 54,9)**, laut PRNewswire/ISM. Business Activity 53,8, New Orders 55,9, Employment 51,4. Davor (15:45) das finale S&P Global Services PMI mit 56,1 (Flash/Schätzung 57,9), Composite 55,9. Beide schwächer als erwartet.\n- **Starke Marktbewegung:** BTC steigt von 78.321 (15:05) auf 80.706 (16:12), also +3,0 %. 5m-Kerze 16:00–16:05: 79.347 → 80.152. ETH +6,1 % in 24h, 1h-Range 5,7 %. Eine eindeutige Ursache lässt sich aus den Quellen nicht belegen. Zeitlich passt der Anstieg zu den schwachen PMIs, also zu niedrigeren Zinserwartungen. Dazu kommen der VIX auf einem Wochentief (16,97, DeItaone 16:09), eine Rally der Hyperscaler-Aktien (Amazon +7 %, Microsoft +5,7 %) und Silber +5 % auf 52,26 $.\n- Riot Platforms schließt einen 15-jährigen Rechenzentrums-Mietvertrag über 910 MW mit einem KI-Entwickler im Wert von rund 28 Mrd $ ab (FirstSquawk 15:51). CertiK: Der CLARITY Act ist nach dem Sieg der Demokraten „likely dead“ (Cointelegraph 15:40).\n- **Hormus: unverändert, nicht unabhängig bestätigt, kein Dementi.** Die VAE prüfen eine dritte Ölpipeline, um Hormus zu umgehen (FirstSquawk/DeItaone 15:27).\n- **Houthi/Riad: nicht bestätigt.** Es gibt weiter nur die Sprecher-Behauptung (FirstSquawk 15:03), keine saudische Bestätigung, kein AP/Reuters. Reuters (15:30): Die Türkei ratifiziert einen Verteidigungspakt mit Saudi-Arabien und Pakistan, „as Houthi attacks mount“.\n- Binance PoR: keine Meldung.\n- EIA 16:30 (Rohöllager): Prognosewert ohn"
   },
   {
    "zeitpunkt": "2026-11-04T01:58+01:00",
@@ -2664,6 +2678,60 @@
    "quelle": "X Template-Check",
    "titel": "RICO-Vote-Bots",
    "text": "9 Template-Posts zu $RICO (CA 8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump) seit 13:57; Bot-Verdacht",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T16:00+01:00",
+   "coin": "BTC",
+   "signal": "leicht bullisch",
+   "quelle": "PRNewswire (ISM)",
+   "titel": "ISM Services Okt 54,5 unter Prognose",
+   "text": "ISM Services 54,5 (Prognose 54,8, vorher 54,9); Business Activity 53,8, Employment 51,4",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T15:45+01:00",
+   "coin": "BTC",
+   "signal": "leicht bullisch",
+   "quelle": "DeItaone/FirstSquawk",
+   "titel": "S&P Services PMI final 56,1",
+   "text": "Finales S&P Global Services PMI 56,1 (Flash 57,9); Composite 55,9",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T16:12+01:00",
+   "coin": "BTC",
+   "signal": "bullisch",
+   "quelle": "Binance (Kurse)",
+   "titel": "BTC +3 % in einer Stunde",
+   "text": "BTC steigt von 78.321 auf 80.706; ETH-1h-Range 5,7 %; eindeutige Ursache nicht belegt",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T15:51+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "FirstSquawk",
+   "titel": "Riot: 28-Mrd-$-KI-Rechenzentrumsvertrag",
+   "text": "Riot unterschreibt einen 15-jährigen Mietvertrag über 910 MW mit einem KI-Entwickler, rund 28 Mrd $",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T15:40+01:00",
+   "coin": "BTC",
+   "signal": "leicht bärisch",
+   "quelle": "Cointelegraph",
+   "titel": "CertiK: CLARITY Act wohl tot",
+   "text": "CertiK: Nach dem Sieg der Demokraten ist der CLARITY Act wahrscheinlich tot",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T15:27+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "FirstSquawk/DeItaone",
+   "titel": "VAE prüfen Hormus-Umgehungspipeline",
+   "text": "VAE prüfen eine dritte Rohöl-Pipeline, um die Straße von Hormus zu umgehen",
    "datei": "2026-11-04.csv"
   },
   {
@@ -3617,44 +3685,44 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 15:55:26",
-   "tokens": 108,
-   "paar": 106,
-   "vor": 0,
+   "t": "2026-11-04 16:14:52",
+   "tokens": 120,
+   "paar": 119,
+   "vor": 1,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 367,
-   "tokens": 44100,
-   "paar": 43357,
-   "vor": 16,
-   "kandidaten_zeilen": 2476,
+   "runden": 374,
+   "tokens": 44939,
+   "paar": 44186,
+   "vor": 20,
+   "kandidaten_zeilen": 2504,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
-   "block": 15
+   "block": 19
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1480
+    1499
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    721
+    722
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    172
+    173
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    65
+    68
    ],
    [
     "Insider-Netzwerke (≤# Wallets) # % ≥ # %",
-    14
+    18
    ]
   ]
  },
@@ -3692,8 +3760,8 @@
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/2026-11-04.csv",
-   "zeit": "2026-11-04T15:06:43+01:00"
+   "letzte_datei": "krypto/news/2026-11-04.md",
+   "zeit": "2026-11-04T16:14:16+01:00"
   },
   {
    "name": "Kadabra",
@@ -3724,8 +3792,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-04T15:58:49+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-04T16:14:52+01:00"
   },
   {
    "name": "Magnayen",
@@ -3737,66 +3805,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T14:42:34",
-   "RISK",
-   "supervisor: Box war 112 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T14:44:00",
-   "RISK",
-   "supervisor: Box war 86 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T14:44:02",
-   "SCAN",
-   "Runde: 117 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 22 s"
-  ],
-  [
-   "2026-11-04T14:44:50",
-   "SCAN",
-   "Runde: 106 Tokens, 104 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:45:50",
-   "SCAN",
-   "Runde: 117 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:46:50",
-   "SCAN",
-   "Runde: 115 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:47:50",
-   "SCAN",
-   "Runde: 119 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:48:50",
-   "SCAN",
-   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:49:50",
-   "SCAN",
-   "Runde: 118 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:50:50",
-   "SCAN",
-   "Runde: 117 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:51:50",
-   "SCAN",
-   "Runde: 120 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:52:50",
-   "SCAN",
-   "Runde: 119 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-04T14:53:50",
    "SCAN",
@@ -4036,6 +4044,66 @@
    "2026-11-04T15:58:49",
    "RISK",
    "supervisor: Box war 184 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T15:58:59",
+   "SCAN",
+   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T15:59:59",
+   "SCAN",
+   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T16:01:00",
+   "SCAN",
+   "Runde: 121 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T16:12:01",
+   "RISK",
+   "supervisor: Box war 612 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T16:12:03",
+   "RISK",
+   "BLOCK DOPE: Insider-Netzwerke (≤50 Wallets) 10.4 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T16:12:05",
+   "SCAN",
+   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 24 s"
+  ],
+  [
+   "2026-11-04T16:12:51",
+   "RISK",
+   "BLOCK DOPE: Insider-Netzwerke (≤50 Wallets) 10.4 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T16:12:52",
+   "SCAN",
+   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T16:13:50",
+   "RISK",
+   "BLOCK DOPE: Insider-Netzwerke (≤50 Wallets) 10.4 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T16:13:52",
+   "SCAN",
+   "Runde: 107 Tokens, 106 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T16:14:50",
+   "RISK",
+   "BLOCK DOPE: Insider-Netzwerke (≤50 Wallets) 10.4 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-04T16:14:52",
+   "SCAN",
+   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -4053,5 +4121,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T15:58:49+01:00"
+ "daten_neuest": "2026-11-04T16:14:52+01:00"
 }

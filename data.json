@@ -3617,19 +3617,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 15:34:00",
-   "tokens": 121,
-   "paar": 117,
+   "t": "2026-11-04 15:55:26",
+   "tokens": 108,
+   "paar": 106,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 362,
-   "tokens": 43534,
-   "paar": 42806,
+   "runden": 367,
+   "tokens": 44100,
+   "paar": 43357,
    "vor": 16,
-   "kandidaten_zeilen": 2403,
+   "kandidaten_zeilen": 2476,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
@@ -3638,19 +3638,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1444
+    1480
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    698
+    721
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    161
+    172
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    63
+    65
    ],
    [
     "Insider-Netzwerke (≤# Wallets) # % ≥ # %",
@@ -3724,8 +3724,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-04T15:34:00+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-04T15:58:49+01:00"
   },
   {
    "name": "Magnayen",
@@ -3737,46 +3737,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T14:33:25",
-   "SCAN",
-   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:34:25",
-   "SCAN",
-   "Runde: 116 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:35:25",
-   "SCAN",
-   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:36:25",
-   "SCAN",
-   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:37:25",
-   "SCAN",
-   "Runde: 117 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:38:25",
-   "SCAN",
-   "Runde: 116 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T14:39:29",
-   "SCAN",
-   "Runde: 117 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 14 s"
-  ],
-  [
-   "2026-11-04T14:40:25",
-   "SCAN",
-   "Runde: 118 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-04T14:42:34",
    "RISK",
@@ -4036,6 +3996,46 @@
    "2026-11-04T15:34:00",
    "SCAN",
    "Runde: 121 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T15:34:59",
+   "SCAN",
+   "Runde: 120 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T15:37:47",
+   "RISK",
+   "supervisor: Box war 157 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T15:37:56",
+   "SCAN",
+   "Runde: 120 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T15:52:45",
+   "RISK",
+   "supervisor: Box war 898 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T15:53:26",
+   "SCAN",
+   "Runde: 114 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T15:54:26",
+   "SCAN",
+   "Runde: 104 Tokens, 102 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T15:55:26",
+   "SCAN",
+   "Runde: 108 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T15:58:49",
+   "RISK",
+   "supervisor: Box war 184 s eingefroren – neue Frist 180 s"
   ]
  ],
  "trefferquote": {
@@ -4053,5 +4053,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T15:34:00+01:00"
+ "daten_neuest": "2026-11-04T15:58:49+01:00"
 }

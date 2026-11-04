@@ -1,5 +1,5 @@
 {
- "stand_daten": "04.11.2026 19:04",
+ "stand_daten": "04.11.2026 19:45",
  "depot": {
   "wert": 48.93,
   "budget": 50.0,
@@ -47,6 +47,11 @@
     "t": "2026-11-04T19:04+01:00",
     "cash": 46.4335,
     "wert": 48.93
+   },
+   {
+    "t": "2026-11-04T19:45+01:00",
+    "cash": 43.9335,
+    "wert": 48.93
    }
   ]
  },
@@ -60,7 +65,7 @@
   "max_pos": 3.0,
   "max_trades_tag": 5.0,
   "ampel": "gruen",
-  "offene_positionen": 1
+  "offene_positionen": 2
  },
  "offen": [
   {
@@ -71,6 +76,15 @@
    "preis_eur": "0.004936265607",
    "einsatz": 2.5001,
    "notiz": "Volumen-Spike+Momentum, rugcheck FREIGABE; Slippage 1.50 %; CA GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump"
+  },
+  {
+   "zeitpunkt": "2026-11-04T19:45+01:00",
+   "strategie": "meme-scan",
+   "coin": "JOB",
+   "menge": 738.785371,
+   "preis_eur": "0.003311178179",
+   "einsatz": 2.5001,
+   "notiz": "Volumen-Spike+Momentum, rugcheck FREIGABE; Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
   }
  ],
  "geschlossen": [
@@ -3850,32 +3864,32 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 19:42:01",
-   "tokens": 121,
-   "paar": 121,
+   "t": "2026-11-04 19:59:34",
+   "tokens": 132,
+   "paar": 132,
    "vor": 0,
-   "offen": 1,
+   "offen": 2,
    "schatten": 0
   },
   "heute": {
-   "runden": 488,
-   "tokens": 59084,
-   "paar": 58098,
-   "vor": 30,
-   "kandidaten_zeilen": 3218,
-   "nach_checks": 2,
-   "gekauft": 2,
+   "runden": 493,
+   "tokens": 59724,
+   "paar": 58736,
+   "vor": 31,
+   "kandidaten_zeilen": 3228,
+   "nach_checks": 3,
+   "gekauft": 3,
    "schatten": 0,
    "block": 28
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1919
+    1927
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    908
+    909
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -3950,7 +3964,7 @@
    "farbe": "#10B981",
    "form": "square",
    "letzte_datei": "krypto/paper-trades.csv",
-   "zeit": "2026-11-04T19:04:17+01:00"
+   "zeit": "2026-11-04T19:45:16+01:00"
   },
   {
    "name": "Scanner",
@@ -3958,7 +3972,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-04T19:42:02+01:00"
+   "zeit": "2026-11-04T19:59:35+01:00"
   },
   {
    "name": "Magnayen",
@@ -3970,46 +3984,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T17:32:15",
-   "SCAN",
-   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T17:33:15",
-   "SCAN",
-   "Runde: 129 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T17:35:49",
-   "RISK",
-   "supervisor: Box war 164 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T18:02:59",
-   "RISK",
-   "supervisor: Box war 1630 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T18:03:12",
-   "SCAN",
-   "Runde: 130 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 33 s"
-  ],
-  [
-   "2026-11-04T18:03:49",
-   "SCAN",
-   "Runde: 117 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T18:04:49",
-   "SCAN",
-   "Runde: 131 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T18:05:50",
-   "SCAN",
-   "Runde: 129 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
   [
    "2026-11-04T18:06:49",
    "SCAN",
@@ -4269,6 +4243,46 @@
    "2026-11-04T19:42:01",
    "SCAN",
    "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T19:43:01",
+   "SCAN",
+   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T19:44:01",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T19:45+01",
+   "BUY",
+   "meme-scan kauft 738.785371 JOB für 2,45 €"
+  ],
+  [
+   "2026-11-04T19:45:16",
+   "SCAN",
+   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 1, offen 2, Schatten 0, nach Checks 1, gekauft 1, Dauer 26 s"
+  ],
+  [
+   "2026-11-04T19:46:01",
+   "SCAN",
+   "Runde: 131 Tokens, 131 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T19:48:02",
+   "RISK",
+   "supervisor: Box war 132 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T19:59:33",
+   "RISK",
+   "supervisor: Box war 691 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T19:59:34",
+   "SCAN",
+   "Runde: 132 Tokens, 132 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 28 s"
   ]
  ],
  "trefferquote": {
@@ -4286,5 +4300,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T19:42:02+01:00"
+ "daten_neuest": "2026-11-04T19:59:35+01:00"
 }

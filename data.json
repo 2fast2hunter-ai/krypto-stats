@@ -1,5 +1,5 @@
 {
- "stand_daten": "04.11.2026 10:04",
+ "stand_daten": "04.11.2026 11:04",
  "depot": {
   "wert": 49.47,
   "budget": 50.0,
@@ -2211,12 +2211,26 @@
    "datei": "x-stimmung.csv"
   },
   {
-   "datei": "2026-11-04.md",
-   "titel": "News-Scans 04.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **Hormus: weiter unbestätigt, kein Dementi.** Reuters hat um 09:10 die IRGC-Meldung wiederholt, die Formulierung ist weiter „IRGC says“. Von CENTCOM, UKMTO oder Reedereien gibt es nichts Neues.\n- Binance PoR: keine Meldung.\n- Markt und Makro: Nasdaq-Futures haben ein Minus von bis zu 2,4 % ausgeglichen, S&P-Futures stehen wieder im Plus (FirstSquawk 09:07–09:09). Services-PMIs: Deutschland 52,5 (vorläufig 51,7), Frankreich 46,2 (vorläufig 48,4), Italien 52. Ramaswamy räumt die Niederlage in Ohio ein, Paxton in Texas. Reuters (09:35): Trump will 4 Mrd $ Hilfe an Israel stoppen.\n- Kurse ~10:03: BTC 78.408 (+2,2 %), ETH 2.319,33 (+2,7 %), SOL 93,11 (+1,2 %), BNB 701,48 (+1,0 %). 1h-Range 09–10 Uhr: BTC 0,48 %, ETH 1,11 %, SOL 0,60 %, BNB 0,57 %.\n- BLOCK-Schwellen: keine gerissen. GATO 24h −22,4 % / 1h −5,1 %, Liq. 338.591 (über der Referenz). JEANPHIL −5,8 %, FONE −4,6 %, HELL +12,8 %. Gesperrt: WASTED −41,6 %, DESSA −31,3 %.\n- X-Counts (CA-Paket): 07–08 Uhr 16, 08–09 Uhr 8, 09–10 Uhr 13. Ruhig.\n- Template-Check 07:45–10:00: 5 Posts von 5 Autoren ($GATO 2×, $HELL 1×, $NEET 1×, USELESS 1×). Der Bot-Buzz nimmt ab, keine neuen Coins.\n- kandidaten.csv seit 09:00: keine Kandidaten.\n- **Hormus: weiter unbestätigt, kein Dementi.** BBC (Tasnim) und Rudaw: von der BBC nicht verifiziert, keine Schiffsnamen oder Flaggen. Neu ist eine UKMTO-Meldung: ein Tanker wurde 14 sm nordöstlich von Lima (Oman) am Dienstag von zwei unbekannten Projektilen im Maschinenraum getroffen, ohne Verletzte un"
+   "zeit": "2026-11-04 11:00",
+   "coin": "-",
+   "ca": "-",
+   "posts_1h": "Counts 13/14 pro h; Template 0 Posts",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 01:58",
+   "datei": "2026-11-04.md",
+   "titel": "News-Scans 04.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
+   "text": "- **Hormus: unverändert, weder bestätigt noch dementiert.** Seit 10:00 nichts von Reuters, AP, CENTCOM oder UKMTO. Reuters (10:45): Die indische MRPL kauft mehr „delivered“ Öl ein, weil der Iran-Krieg das Schiffsrisiko erhöht. Das ist Kontext, keine Bestätigung.\n- Binance PoR: keine Meldung.\n- Krypto: Morgan Stanley bestätigt, dass es zu den ersten Banken gehört, die den Tokenisierungsdienst der DTCC nutzen, für US-Aktien und Treasuries (CoinDesk 11:01, Cointelegraph 10:45). Strukturell bullisch, kurzfristig gering. James Wynn wurde vollständig liquidiert (Lookonchain 10:36).\n- Makro: Eurozone-CPI laut FirstSquawk 4,0 % (vorher 3,8 %, wie erwartet; die Post bezeichnet es als „core“, laut Kalender ist es die Gesamtrate). Gold +3 %, weil Dollar und Renditen nach dem Sieg der Demokraten fallen (FirstSquawk 10:18). Ford (D) gewinnt die Gouverneurswahl in Nevada (AP).\n- Kurse ~11:03: BTC 78.396 (+1,7 %), ETH 2.321,78 (+2,3 %), SOL 93,08 (+0,7 %), BNB 701,83 (+0,5 %). 1h-Range 10–11 Uhr: BTC 0,32 %, ETH 0,40 %, SOL 0,47 %, BNB 0,31 %.\n- BLOCK-Schwellen: keine gerissen. GATO −19,5 %, GIGA −10,7 %, FONE −10,0 %, JEANPHIL −8,5 %, TROLL −2,8 % (1h −3,8 %), HELL +27,7 % (1h +6,0 %). Die Liquidität ist stabil (TROLL 2,29 Mio gegen 2,36 Mio Referenz, −3 %). Gesperrt: WASTED −37,1 %, DESSA −37,6 %.\n- X-Counts (CA-Paket): 09–10 Uhr 13, 10–11 Uhr 14. Template-Check seit 09:55: 0 Posts.\n- kandidaten.csv seit 10:00: keine Kandidaten.\n- **Hormus: weiter unbestätigt, kein Dementi.** Reuters hat "
+  },
+  {
+   "zeitpunkt": "2026-11-04T01:58+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "DeItaone",
@@ -2225,7 +2239,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 01:20",
+   "zeitpunkt": "2026-11-04T01:20+01:00",
    "coin": "BTC",
    "signal": "neutral",
    "quelle": "DeItaone/FirstSquawk (DDHQ)",
@@ -2234,7 +2248,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 01:49",
+   "zeitpunkt": "2026-11-04T01:49+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "Cointelegraph",
@@ -2243,7 +2257,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 01:37",
+   "zeitpunkt": "2026-11-04T01:37+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "FirstSquawk",
@@ -2252,7 +2266,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 01:54",
+   "zeitpunkt": "2026-11-04T01:54+01:00",
    "coin": "BTC",
    "signal": "neutral",
    "quelle": "FirstSquawk",
@@ -2261,7 +2275,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 04:37",
+   "zeitpunkt": "2026-11-04T04:37+01:00",
    "coin": "BTC",
    "signal": "bärisch",
    "quelle": "FirstSquawk (IRGC)",
@@ -2270,7 +2284,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 04:49",
+   "zeitpunkt": "2026-11-04T04:49+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "FirstSquawk",
@@ -2279,7 +2293,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 04:15",
+   "zeitpunkt": "2026-11-04T04:15+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "FirstSquawk (DDHQ/NBC)",
@@ -2288,7 +2302,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 04:20",
+   "zeitpunkt": "2026-11-04T04:20+01:00",
    "coin": "BTC",
    "signal": "neutral",
    "quelle": "Cointelegraph",
@@ -2297,7 +2311,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 00:36",
+   "zeitpunkt": "2026-11-04T00:36+01:00",
    "coin": "BTC",
    "signal": "leicht bullisch",
    "quelle": "DeItaone/FirstSquawk (FT)",
@@ -2306,7 +2320,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 00:20",
+   "zeitpunkt": "2026-11-04T00:20+01:00",
    "coin": "BTC",
    "signal": "neutral",
    "quelle": "Cointelegraph",
@@ -2315,7 +2329,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 04:57",
+   "zeitpunkt": "2026-11-04T04:57+01:00",
    "coin": "SOL",
    "signal": "neutral",
    "quelle": "WuBlockchain/Lookonchain",
@@ -2324,7 +2338,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 05:00",
+   "zeitpunkt": "2026-11-04T05:00+01:00",
    "coin": "BTC",
    "signal": "bärisch",
    "quelle": "Reuters/AFP/Iran International",
@@ -2333,7 +2347,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 05:51",
+   "zeitpunkt": "2026-11-04T05:51+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "Cointelegraph (AP)",
@@ -2342,7 +2356,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 06:12",
+   "zeitpunkt": "2026-11-04T06:12+01:00",
    "coin": "BNB",
    "signal": "neutral",
    "quelle": "cz_binance",
@@ -2351,7 +2365,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 06:12",
+   "zeitpunkt": "2026-11-04T06:12+01:00",
    "coin": "ETH",
    "signal": "neutral",
    "quelle": "lookonchain",
@@ -2360,7 +2374,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 07:15",
+   "zeitpunkt": "2026-11-04T07:15+01:00",
    "coin": "BTC",
    "signal": "neutral/bärisch",
    "quelle": "OilPrice.com/investinglive",
@@ -2369,7 +2383,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 07:56",
+   "zeitpunkt": "2026-11-04T07:56+01:00",
    "coin": "BNB",
    "signal": "neutral",
    "quelle": "Cointelegraph",
@@ -2378,7 +2392,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 07:30",
+   "zeitpunkt": "2026-11-04T07:30+01:00",
    "coin": "BTC",
    "signal": "bullisch (kurzfristig)",
    "quelle": "lookonchain",
@@ -2387,7 +2401,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 07:45",
+   "zeitpunkt": "2026-11-04T07:45+01:00",
    "coin": "GATO",
    "signal": "unsicher",
    "quelle": "X Template-Check",
@@ -2396,7 +2410,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 08:50",
+   "zeitpunkt": "2026-11-04T08:50+01:00",
    "coin": "BTC",
    "signal": "neutral",
    "quelle": "BBC/Rudaw (UKMTO)",
@@ -2405,7 +2419,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 08:50",
+   "zeitpunkt": "2026-11-04T08:50+01:00",
    "coin": "BTC",
    "signal": "bärisch (Risiko)",
    "quelle": "BBC/NYT via Rudaw",
@@ -2414,7 +2428,7 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 08:40",
+   "zeitpunkt": "2026-11-04T08:40+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "WuBlockchain",
@@ -2423,12 +2437,30 @@
    "datei": "2026-11-04.csv"
   },
   {
-   "zeitpunkt": "2026-11-04 09:09",
+   "zeitpunkt": "2026-11-04T09:09+01:00",
    "coin": "BTC",
    "signal": "leicht bullisch",
    "quelle": "FirstSquawk",
    "titel": "US-Futures erholen sich",
    "text": "Nasdaq-100-Futures gleichen Minus von bis zu 2,4 % aus, S&P-500-Futures wieder positiv",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T10:45+01:00",
+   "coin": "ETH",
+   "signal": "leicht bullisch",
+   "quelle": "Cointelegraph/CoinDesk",
+   "titel": "Morgan Stanley nutzt DTCC-Tokenisierung",
+   "text": "Morgan Stanley gehört zu den ersten Banken, die US-Aktien und Treasuries über den DTCC-Tokenisierungsdienst tokenisieren",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T10:18+01:00",
+   "coin": "BTC",
+   "signal": "leicht bullisch",
+   "quelle": "FirstSquawk",
+   "titel": "Gold +3 %, Dollar fällt",
+   "text": "Gold steigt um 3 %, weil Dollar und Renditen nach dem Sieg der Demokraten fallen",
    "datei": "2026-11-04.csv"
   },
   {
@@ -2626,7 +2658,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 16:00",
+   "zeitpunkt": "2026-11-03T16:00+01:00",
    "coin": "BTC",
    "signal": "neutral",
    "quelle": "FirstSquawk",
@@ -2635,7 +2667,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 15:36",
+   "zeitpunkt": "2026-11-03T15:36+01:00",
    "coin": "BNB",
    "signal": "neutral",
    "quelle": "Teng/Binance",
@@ -2644,7 +2676,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 15:27",
+   "zeitpunkt": "2026-11-03T15:27+01:00",
    "coin": "BTC",
    "signal": "neutral",
    "quelle": "CoinDesk",
@@ -2653,7 +2685,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 16:32",
+   "zeitpunkt": "2026-11-03T16:32+01:00",
    "coin": "BNB",
    "signal": "neutral",
    "quelle": "heyibinance/Cointelegraph",
@@ -2662,7 +2694,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 16:40",
+   "zeitpunkt": "2026-11-03T16:40+01:00",
    "coin": "BNB",
    "signal": "neutral",
    "quelle": "CoinDesk",
@@ -2671,7 +2703,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 17:01",
+   "zeitpunkt": "2026-11-03T17:01+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "Cointelegraph/DeItaone",
@@ -2680,7 +2712,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 16:15",
+   "zeitpunkt": "2026-11-03T16:15+01:00",
    "coin": "WLFI",
    "signal": "neutral",
    "quelle": "Cointelegraph",
@@ -2689,7 +2721,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 17:10",
+   "zeitpunkt": "2026-11-03T17:10+01:00",
    "coin": "BNB",
    "signal": "neutral",
    "quelle": "Cointelegraph",
@@ -2698,7 +2730,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 17:23",
+   "zeitpunkt": "2026-11-03T17:23+01:00",
    "coin": "BTC",
    "signal": "neutral",
    "quelle": "FirstSquawk",
@@ -2707,7 +2739,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 18:50",
+   "zeitpunkt": "2026-11-03T18:50+01:00",
    "coin": "SOL",
    "signal": "neutral",
    "quelle": "Cointelegraph/Onchain Lens",
@@ -2716,7 +2748,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 18:53",
+   "zeitpunkt": "2026-11-03T18:53+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "DeItaone/FirstSquawk (NYT)",
@@ -2725,7 +2757,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 18:04",
+   "zeitpunkt": "2026-11-03T18:04+01:00",
    "coin": "BNB",
    "signal": "neutral",
    "quelle": "WuBlockchain",
@@ -2734,7 +2766,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 19:33",
+   "zeitpunkt": "2026-11-03T19:33+01:00",
    "coin": "SOL",
    "signal": "neutral",
    "quelle": "WuBlockchain",
@@ -2743,7 +2775,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 19:40",
+   "zeitpunkt": "2026-11-03T19:40+01:00",
    "coin": "ETH",
    "signal": "neutral",
    "quelle": "Cointelegraph",
@@ -2752,7 +2784,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 19:00",
+   "zeitpunkt": "2026-11-03T19:00+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "DeItaone/FirstSquawk",
@@ -2761,7 +2793,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 19:19",
+   "zeitpunkt": "2026-11-03T19:19+01:00",
    "coin": "BTC",
    "signal": "neutral",
    "quelle": "Cointelegraph",
@@ -2770,7 +2802,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 21:05",
+   "zeitpunkt": "2026-11-03T21:05+01:00",
    "coin": "WASTED",
    "signal": "beobachten",
    "quelle": "DexScreener",
@@ -2779,7 +2811,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 20:20",
+   "zeitpunkt": "2026-11-03T20:20+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "Cointelegraph",
@@ -2788,7 +2820,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 21:30",
+   "zeitpunkt": "2026-11-03T21:30+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "Cointelegraph",
@@ -2797,7 +2829,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 21:46",
+   "zeitpunkt": "2026-11-03T21:46+01:00",
    "coin": "BTC",
    "signal": "neutral",
    "quelle": "Cointelegraph",
@@ -2806,7 +2838,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 21:53",
+   "zeitpunkt": "2026-11-03T21:53+01:00",
    "coin": "BTC",
    "signal": "leicht bärisch",
    "quelle": "FirstSquawk (UKMTO)",
@@ -2815,7 +2847,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 22:30",
+   "zeitpunkt": "2026-11-03T22:30+01:00",
    "coin": "BTC",
    "signal": "neutral",
    "quelle": "Cointelegraph",
@@ -2824,7 +2856,7 @@
    "datei": "2026-11-03.csv"
   },
   {
-   "zeitpunkt": "2026-11-03 22:51",
+   "zeitpunkt": "2026-11-03T22:51+01:00",
    "coin": "ETH",
    "signal": "neutral",
    "quelle": "Cointelegraph",
@@ -3382,19 +3414,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 11:02:12",
-   "tokens": 105,
-   "paar": 104,
+   "t": "2026-11-04 11:09:12",
+   "tokens": 124,
+   "paar": 122,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 199,
-   "tokens": 24588,
-   "paar": 24255,
+   "runden": 206,
+   "tokens": 25415,
+   "paar": 25067,
    "vor": 6,
-   "kandidaten_zeilen": 1565,
+   "kandidaten_zeilen": 1631,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -3403,15 +3435,15 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    965
+    996
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    422
+    454
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    117
+    120
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -3452,7 +3484,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-04.csv",
-   "zeit": "2026-11-04T10:04:52+01:00"
+   "zeit": "2026-11-04T11:04:48+01:00"
   },
   {
    "name": "Kadabra",
@@ -3483,8 +3515,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-04T11:02:12+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-04T11:15:16+01:00"
   },
   {
    "name": "Magnayen",
@@ -3496,46 +3528,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T09:01:45",
-   "SCAN",
-   "Runde: 120 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T09:02:45",
-   "SCAN",
-   "Runde: 120 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T09:03:46",
-   "SCAN",
-   "Runde: 116 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T09:04:46",
-   "SCAN",
-   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T09:05:45",
-   "SCAN",
-   "Runde: 118 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T09:06:46",
-   "SCAN",
-   "Runde: 115 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T09:07:46",
-   "SCAN",
-   "Runde: 118 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T09:08:45",
-   "SCAN",
-   "Runde: 105 Tokens, 104 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-04T09:09:47",
    "SCAN",
@@ -3795,6 +3787,46 @@
    "2026-11-04T11:02:12",
    "SCAN",
    "Runde: 105 Tokens, 104 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T11:03:15",
+   "SCAN",
+   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 13 s"
+  ],
+  [
+   "2026-11-04T11:04:12",
+   "SCAN",
+   "Runde: 112 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T11:05:12",
+   "SCAN",
+   "Runde: 111 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T11:06:12",
+   "SCAN",
+   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T11:07:12",
+   "SCAN",
+   "Runde: 119 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T11:08:12",
+   "SCAN",
+   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T11:09:12",
+   "SCAN",
+   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T11:15:16",
+   "RISK",
+   "supervisor: Box war 322 s eingefroren – neue Frist 180 s"
   ]
  ],
  "trefferquote": {
@@ -3812,5 +3844,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T11:02:12+01:00"
+ "daten_neuest": "2026-11-04T11:15:16+01:00"
 }

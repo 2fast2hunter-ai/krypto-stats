@@ -4035,19 +4035,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 23:08:35",
-   "tokens": 125,
+   "t": "2026-11-04 23:12:35",
+   "tokens": 127,
    "paar": 123,
    "vor": 0,
    "offen": 1,
    "schatten": 0
   },
   "heute": {
-   "runden": 564,
-   "tokens": 68568,
-   "paar": 67484,
+   "runden": 568,
+   "tokens": 69044,
+   "paar": 67948,
    "vor": 35,
-   "kandidaten_zeilen": 3723,
+   "kandidaten_zeilen": 3782,
    "nach_checks": 3,
    "gekauft": 3,
    "schatten": 0,
@@ -4056,15 +4056,15 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    2213
+    2241
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    1055
+    1082
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    284
+    288
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -4155,7 +4155,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-04T23:08:35+01:00"
+   "zeit": "2026-11-04T23:12:35+01:00"
   },
   {
    "name": "Magnayen",
@@ -4167,26 +4167,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T21:03:28",
-   "SCAN",
-   "Runde: 123 Tokens, 119 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T21:04:28",
-   "SCAN",
-   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T21:05:28",
-   "SCAN",
-   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T21:06:28",
-   "SCAN",
-   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
   [
    "2026-11-04T21:07:28",
    "SCAN",
@@ -4466,6 +4446,26 @@
    "2026-11-04T23:08:35",
    "SCAN",
    "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T23:09:35",
+   "SCAN",
+   "Runde: 112 Tokens, 111 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T23:10:35",
+   "SCAN",
+   "Runde: 109 Tokens, 108 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T23:11:35",
+   "SCAN",
+   "Runde: 128 Tokens, 122 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T23:12:35",
+   "SCAN",
+   "Runde: 127 Tokens, 123 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -4483,5 +4483,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-04T23:08:35+01:00"
+ "daten_neuest": "2026-11-04T23:12:35+01:00"
 }

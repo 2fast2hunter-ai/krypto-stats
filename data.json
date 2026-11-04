@@ -1,5 +1,5 @@
 {
- "stand_daten": "04.11.2026 07:09",
+ "stand_daten": "04.11.2026 07:16",
  "depot": {
   "wert": 49.47,
   "budget": 50.0,
@@ -80,402 +80,49 @@
   }
  },
  "scout": {
-  "datei": "scout-2026-11-03.md",
-  "quelle": "CoinGecko, DexScreener, RugCheck (tools/rugcheck.py), Jupiter, Solana-RPC, alternative.me, X-News; Abruf 03.11.2026 08:58–09:05 Berlin",
+  "datei": "scout-2026-11-04.md",
+  "quelle": "CoinGecko, DexScreener, RugCheck (tools/rugcheck.py), Jupiter, alternative.me, Web-News; Abruf 04.11.2026 07:13–07:20 Berlin",
   "majors": [
    [
     "Coin",
     "Preis $",
     "24h",
-    "7d",
-    "Vol 24h $",
-    "MCap $"
+    "7d"
    ],
    [
     "BTC",
-    "76.766",
-    "−1,69 %",
-    "−4,25 %",
-    "26,50 Mrd",
-    "1.543 Mrd"
+    "77.746",
+    "+1,80 %",
+    "−3,94 %"
    ],
    [
     "ETH",
-    "2.256,26",
-    "−1,23 %",
-    "−3,04 %",
-    "9,77 Mrd",
-    "275,7 Mrd"
+    "2.288,30",
+    "+2,09 %",
+    "−2,57 %"
    ],
    [
     "SOL",
-    "92,04",
-    "−2,36 %",
-    "−8,62 %",
-    "2,45 Mrd",
-    "54,3 Mrd"
+    "92,70",
+    "+1,38 %",
+    "−9,03 %"
    ]
   ],
-  "kandidaten": [
-   {
-    "Contract": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
-    "Preis $": "0,01342",
-    "Vol 24h $": "49.152",
-    "Liq $ (DexScreener)": "1.333.334",
-    "Liq RugCheck": "2.185.504",
-    "MCap/FDV $": "13,4 Mio",
-    "Pair-Alter": "753 d",
-    "24h": "−1,7 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "−2,2 % / 49,4→49,4 % / −2,1 %",
-    "3 LP": "etabliert",
-    "5 Top10/Top1": "49,4/7,0 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,14 %",
-    "Insider (kleine Netze) / Dev": "1,08 % / 0 %",
-    "Skript": "FREIGABE bis 04.11. 08:58",
-    "Rote Flagge": "Top10 49,4 % knapp an 50 %, Vol nur 49k",
-    "Link": "https://dexscreener.com/solana/9tb2ohu5p16bpbarqd3n27wnkf51ukfs8z1gzzldxvzw",
-    "name": "GOAT"
-   },
-   {
-    "Contract": "CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump",
-    "Preis $": "0,001784",
-    "Vol 24h $": "195.085",
-    "Liq $ (DexScreener)": "304.115",
-    "Liq RugCheck": "413.821 (<180 d)",
-    "MCap/FDV $": "1,77 Mio",
-    "Pair-Alter": "68 d",
-    "24h": "−8,0 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "−5,1 % / 21,6→22,1 % / −8,1 %",
-    "3 LP": "100 %",
-    "5 Top10/Top1": "22,1/3,8 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,00 %",
-    "Insider (kleine Netze) / Dev": "3,32 % / 0 %",
-    "Skript": "FREIGABE",
-    "Rote Flagge": "−8 % Kurs, Paper-Trade lief",
-    "Link": "https://dexscreener.com/solana/3dcwhqjp6jbtjpq8ga335hwgsqvs7uqmdmex7igjmnpj",
-    "name": "FONE"
-   },
-   {
-    "Contract": "GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump",
-    "Preis $": "0,003963",
-    "Vol 24h $": "307.433",
-    "Liq $ (DexScreener)": "301.720",
-    "Liq RugCheck": "468.163 (<180 d)",
-    "MCap/FDV $": "3,84 Mio",
-    "Pair-Alter": "45 d",
-    "24h": "+9,9 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "+3,7 % / 19,2→19,5 % / +9,5 %",
-    "3 LP": "100 %",
-    "5 Top10/Top1": "19,5/3,5 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,09 %",
-    "Insider (kleine Netze) / Dev": "5,36 % / 0 %",
-    "Skript": "FREIGABE",
-    "Rote Flagge": "Insider 5,4 % (≥30 d → Grenze 10 %, ok)",
-    "Link": "https://dexscreener.com/solana/4r8cimnjwdnoes3fqi1ccpfjygpxazahawphrn3rzenj",
-    "name": "JEANPHIL"
-   },
-   {
-    "Contract": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
-    "Preis $": "0,1150",
-    "Vol 24h $": "245.642",
-    "Liq $ (DexScreener)": "6.299.156",
-    "Liq RugCheck": "7.794.484",
-    "MCap/FDV $": "115,0 Mio",
-    "Pair-Alter": "746 d",
-    "24h": "−4,1 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "−3,6 % / 34,7→34,8 % / −4,7 %",
-    "3 LP": "etabliert",
-    "5 Top10/Top1": "34,8/9,4 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,01 %",
-    "Insider (kleine Netze) / Dev": "0 % / 0 %",
-    "Skript": "FREIGABE",
-    "Rote Flagge": "–",
-    "Link": "https://dexscreener.com/solana/bzc9nzfmqkxr6fz1dbph7bdf9broyef6pnzesp7v5iiw",
-    "name": "FARTCOIN"
-   },
-   {
-    "Contract": "Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk",
-    "Preis $": "0,1201",
-    "Vol 24h $": "944.605",
-    "Liq $ (DexScreener)": "3.379.465",
-    "Liq RugCheck": "5.428.341",
-    "MCap/FDV $": "120,1 Mio",
-    "Pair-Alter": "542 d",
-    "24h": "−4,7 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "−3,4 % / 37,1→37,2 % / −4,6 %",
-    "3 LP": "etabliert",
-    "5 Top10/Top1": "37,2/9,0 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,10 %",
-    "Insider (kleine Netze) / Dev": "1,36 % / 0 %",
-    "Skript": "FREIGABE",
-    "Rote Flagge": "–",
-    "Link": "https://dexscreener.com/solana/q2sphpduwfmg7m7wwrqklrn619caucfrsmhvjffodsp",
-    "name": "USELESS"
-   },
-   {
-    "Contract": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
-    "Preis $": "0,03854",
-    "Vol 24h $": "143.378",
-    "Liq $ (DexScreener)": "3.080.647",
-    "Liq RugCheck": "3.870.337",
-    "MCap/FDV $": "37,8 Mio",
-    "Pair-Alter": "1057 d",
-    "24h": "−3,2 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "−2,7 % / 41,9→41,6 % / −3,2 %",
-    "3 LP": "etabliert",
-    "5 Top10/Top1": "41,6/8,4 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,25 %",
-    "Insider (kleine Netze) / Dev": "0 % / –",
-    "Skript": "FREIGABE",
-    "Rote Flagge": "–",
-    "Link": "https://dexscreener.com/solana/frhb8l7y9qq41qzxyltc2nw8an1rjfllxrf2x9rwllmo",
-    "name": "POPCAT"
-   },
-   {
-    "Contract": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
-    "Preis $": "0,006849",
-    "Vol 24h $": "189.638",
-    "Liq $ (DexScreener)": "3.100.324",
-    "Liq RugCheck": "7.601.114",
-    "MCap/FDV $": "430,6 / 608,8 Mio",
-    "Pair-Alter": "686 d",
-    "24h": "−4,7 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "−3,8 % / 40,8→40,4 % / −4,7 %",
-    "3 LP": "etabliert (0 %)",
-    "5 Top10/Top1": "40,4/9,4 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,10 %",
-    "Insider (kleine Netze) / Dev": "0,01 % / 6,52 %",
-    "Skript": "FREIGABE",
-    "Rote Flagge": "Dev 6,5 %",
-    "Link": "https://dexscreener.com/solana/faqh648xeeatql7du49sztp9nfj5pjrqrfvamccyd9cz",
-    "name": "PENGU"
-   },
-   {
-    "Contract": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9",
-    "Preis $": "0,001772",
-    "Vol 24h $": "238.153",
-    "Liq $ (DexScreener)": "1.404.631",
-    "Liq RugCheck": "1.724.716",
-    "MCap/FDV $": "17,0 Mio",
-    "Pair-Alter": "1033 d",
-    "24h": "−13,9 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "−8,2 % / 37,4→37,8 % / −13,9 %",
-    "3 LP": "etabliert",
-    "5 Top10/Top1": "37,8/11,8 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,11 %",
-    "Insider (kleine Netze) / Dev": "0 % / –",
-    "Skript": "FREIGABE",
-    "Rote Flagge": "−13,9 %/24h",
-    "Link": "https://dexscreener.com/solana/4xxm4cdb6mescxm52xvyqknbzvdewwspdzrbctqvguar",
-    "name": "GIGA"
-   },
-   {
-    "Contract": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
-    "Preis $": "0,006846",
-    "Vol 24h $": "237.851",
-    "Liq $ (DexScreener)": "1.388.444",
-    "Liq RugCheck": "1.398.318",
-    "MCap/FDV $": "6,85 Mio",
-    "Pair-Alter": "649 d",
-    "24h": "−9,3 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "−5,9 % / 42,0→41,8 % / −9,4 %",
-    "3 LP": "etabliert",
-    "5 Top10/Top1": "41,8/12,9 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,60 %",
-    "Insider (kleine Netze) / Dev": "0,26 % / 4,96 %",
-    "Skript": "FREIGABE",
-    "Rote Flagge": "−9,3 %/24h",
-    "Link": "https://dexscreener.com/solana/58fzjmbx5patnfjpqwwsqkvfprkptkbb5r2vcw4qq3z9",
-    "name": "VINE"
-   },
-   {
-    "Contract": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
-    "Preis $": "0,02738",
-    "Vol 24h $": "194.004",
-    "Liq $ (DexScreener)": "2.323.433",
-    "Liq RugCheck": "2.509.913",
-    "MCap/FDV $": "27,3 Mio",
-    "Pair-Alter": "562 d",
-    "24h": "−4,0 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "−3,4 % / 27,1→27,2 % / −4,5 %",
-    "3 LP": "etabliert",
-    "5 Top10/Top1": "27,2/5,3 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,10 %",
-    "Insider (kleine Netze) / Dev": "0 % / 0 %",
-    "Skript": "FREIGABE",
-    "Rote Flagge": "–",
-    "Link": "https://dexscreener.com/solana/4w2cysotx6czaugmmwg13hdpy4qemg2czekyeqyk9ama",
-    "name": "TROLL"
-   },
-   {
-    "Contract": "Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
-    "Preis $": "0,02606",
-    "Vol 24h $": "271.789",
-    "Liq $ (DexScreener)": "1.566.830",
-    "Liq RugCheck": "1.881.796",
-    "MCap/FDV $": "26,1 Mio",
-    "Pair-Alter": "555 d",
-    "24h": "−6,1 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "−3,9 % / 17,4→17,4 % / −5,7 %",
-    "3 LP": "etabliert",
-    "5 Top10/Top1": "17,4/5,8 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,00 %",
-    "Insider (kleine Netze) / Dev": "0 % / 0 %",
-    "Skript": "FREIGABE",
-    "Rote Flagge": "–",
-    "Link": "https://dexscreener.com/solana/5wnu5qhdprgrl37ffcd6tmmqzugqgxwafgz477rshthy",
-    "name": "NEET"
-   },
-   {
-    "Contract": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
-    "Preis $": "0,01280",
-    "Vol 24h $": "3.274.265",
-    "Liq $ (DexScreener)": "362.990",
-    "Liq RugCheck": "448.818 (<180 d)",
-    "MCap/FDV $": "12,6 Mio",
-    "Pair-Alter": "70 d",
-    "24h": "+40,6 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "+19,6 % / 10,7→10,7 % / +40,4 %",
-    "3 LP": "100 %",
-    "5 Top10/Top1": "10,7/2,1 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,18 %",
-    "Insider (kleine Netze) / Dev": "3,12 % / 0 %",
-    "Skript": "FREIGABE",
-    "Rote Flagge": "+40 % in 24h, Pump, Liq <500k",
-    "Link": "https://dexscreener.com/solana/5e3dxlxgwmtdcoka51wyyakttjfzbwqcoyuhbui5gt2m",
-    "name": "GATO (GTA6CAT)"
-   },
-   {
-    "Contract": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump",
-    "Preis $": "0,002480",
-    "Vol 24h $": "123.278",
-    "Liq $ (DexScreener)": "129.594",
-    "Liq RugCheck": "136.845 (<180 d)",
-    "MCap/FDV $": "2,37 Mio",
-    "Pair-Alter": "21 d",
-    "24h": "−18,0 %",
-    "Δ Liq / Top10 / Kurs seit 02.11.": "−12,9 % / 18,6→18,7 % / −17,2 %",
-    "3 LP": "100 %",
-    "5 Top10/Top1": "18,7/2,1 %",
-    "7 RugCheck Score": "1",
-    "8 Honeypot": "✓",
-    "8b Jupiter-Impact": "0,00 %",
-    "Insider (kleine Netze) / Dev": "0 % / 0 %",
-    "Skript": "FREIGABE",
-    "Rote Flagge": "Boost (bezahlt), −18 %/24h, Liq −13 %, Liq <500k",
-    "Link": "https://dexscreener.com/solana/ewsyhiuznynqh5f65ypfsoqblq2kyetuvhm5un7wsfdg",
-    "name": "HELL"
-   }
-  ],
+  "kandidaten": [],
   "ausschluss": [
    {
-    "coin": "GLITCH 8Xg89xT8Ve34sKiYqYuMs46mycREsCA2F362UscRpump",
-    "grund": "BLOCK bleibt (Insider): Skript FREIGABE, aber insiderNetworks 4 kleine Netze = 6,80 % bei 17,7 d (<30 d → Grenze 5 %). Liq 165.444 $, 24h −12 %."
-   },
-   {
-    "coin": "WIF EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
-    "grund": "BLOCK bleibt: Top1 15,4 % (>15 %), Top10 44,3 %; Liq 4.947.920 $ (RugCheck 12.407.567 $)."
-   },
-   {
-    "coin": "CHILLGUY Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump",
-    "grund": "BLOCK bleibt: Top10 50,0 % (Grenze ≤50 % knapp gerissen laut Skript)."
-   },
-   {
-    "coin": "BONK DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
-    "grund": "BLOCK: RugCheck Score 7 „Mutable metadata“ (warn); Haupt-Pair Liq nur 277k $."
-   },
-   {
-    "coin": "TRUMP 6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-    "grund": "BLOCK: Top10 88,6 %/Top1 71,8 %, Score 58."
-   },
-   {
-    "coin": "MELANIA FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
-    "grund": "BLOCK: Top10 80,6 %/Top1 30 %, Score 59."
-   },
-   {
-    "coin": "PNUT 2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
-    "grund": "BLOCK: Top10 68,8 %/Top1 31 %, Score 38."
-   },
-   {
-    "coin": "MOODENG ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
-    "grund": "BLOCK: Top10 56,2 %, Score 22."
-   },
-   {
-    "coin": "ZEREBRO 8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
-    "grund": "BLOCK: Top10 76 %/Top1 48,1 %, Score 53."
-   },
-   {
-    "coin": "BAN 9PR7nCP9DpcUotnDPVLUBUZKu5WAYkwrCUx9wDnSpump",
-    "grund": "BLOCK: Top1 51,6 %, Score 43."
-   },
-   {
-    "coin": "MEW MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
-    "grund": "BLOCK: Top10 77 %/Top1 38 %, Score 40."
-   },
-   {
-    "coin": "PONKE 5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC",
-    "grund": "BLOCK: Top10 52,9 %/Top1 17,7 %."
-   },
-   {
-    "coin": "BOME ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
-    "grund": "BLOCK: Top10 69,4 %/Top1 28,9 %, Score 38."
-   },
-   {
-    "coin": "ACT GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
-    "grund": "BLOCK: Top10 84,5 %/Top1 41,1 %, Score 52."
-   },
-   {
-    "coin": "FWOG A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
-    "grund": "BLOCK: Top1 15,7 % (>15 %)."
-   },
-   {
-    "coin": "Anakin ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump",
-    "grund": "BLOCK (Panzaeron-Lauf 00:46): −64,4 %/24h."
-   },
-   {
-    "coin": "JOB, CBUCKS, GTA 6 Coin, BIRB, PUMP, NEARKAT",
+    "coin": "GLITCH, WIF, CHILLGUY, JOB, CBUCKS, GTA 6 Coin, BIRB, PUMP, NEARKAT, TRUMP, BONK, MELANIA, PNUT, MOODENG, ZEREBRO, BAN, MEW, PONKE, BOME, ACT, FWOG, Anakin",
     "grund": "BLOCK aus Vortagen, heute nicht erneut geprüft. SI276 weiter AUSGESETZT."
    },
    {
-    "coin": "Boost-Liste frisch (< 24 h, Punkt 6) oder Liq < 50k $: SPHERE (0,2 d, +1063 %), RICO (0,6 d), 1WIN (0,5 d, Liq 1,1 Mio), 豆助 (−91 %), MAMESUKE (0,9 d, +3038 %), Wanted (0,3 d, +3212 %), DIGS, Bitsan, TURKEY, ARNOLD, GIVING, VICE, SC, Slingoor (−51 %), FEAR (−69 %), GTA (−78 %), TRENCHER (−94 %), TrumpWars",
-    "grund": "Vorfilter."
-   },
-   {
-    "coin": "CoinGecko: ZCAT −35,2 %/24h (früher BLOCK), ALLINU −21 %, DACITYCOIN +72,6 % (Mini-Cap)",
-    "grund": "nicht geprüft."
+    "coin": "Neue Kandidaten (kurz): CoinGecko solana-meme-coins Top 25 nach Volumen enthält nur bekannte/geblockte Coins (DACITY +20 % Mini-Cap, nicht geprüft). Trending mit Solana-Bezug: PENGU, TRUMP. DexScreener-Boosts: 8 unbekannte pump-CAs (z. B. 8muc9D…pump, nxPqZ4…pump)",
+    "grund": "nicht geprüft, keine Freigabe."
    }
   ],
   "stimmung": [
-   "Fear & Greed (alternative.me, 03.11. 01:00 Berlin): 26 „Fear“ (02.11.: 37).",
-   "X-News ([SOL fällt auf 92 $](https://x.com/i/trending/2117354880574857599), aktualisiert 02.11. 21:47 Berlin): SOL −23 % in einem Monat, Lager gespalten zwischen „Kaufchance“ und gebrochenen Chartmarken. KI-Zusammenfassung von X-Posts, keine Fakten-Quelle.",
-   "X-News ([Solana Stablecoin-Kartenzahlungen Rekord](https://x.com/i/trending/2117516031472353405), 03.11. 08:20): 141 Mio $ im Oktober (laut Zusammenfassung, nicht geprüft). ([Solana 1.000 Tage ohne Ausfall](https://x.com/i/trending/2117273527091159276), 02.11. 18:42).",
-   "X-News ([$ANSEM −90 % vom Hoch](https://x.com/i/trending/2116847631045456014), 03.11. 07:13): Solana-Meme von ~450 auf ~46 Mio $ MCap – Warnsignal für Influencer-Memes.",
-   "CoinGecko /search/trending (08:58): Solana-Bezug nur SOL und PENGU.",
-   "Xatu: keine News-Dateien seit 30.10. unter /workspace/krypto/news/."
+   "Fear & Greed 34 „Fear“.",
+   "**Hormus – GERÜCHT/unbestätigt:** IRGC behauptet laut iranischen Staatsmedien, 4 Tanker seien durch Minen südlich der Straße von Hormus zerstört worden ([Iran International, 04.11. 04:52 Berlin](https://www.iranintl.com/en/202611045349), [investinglive](https://investinglive.com/commodities/iran-s-irgc-says-four-tankers-destroyed-by-mines-south-of-hormuz-two-vessels-detained/)). Einzige Quelle ist die IRGC selbst; Schiffe nicht benannt, keine unabhängige Bestätigung. Separat meldete UKMTO am 03.11. einen Projektiltreffer auf einen Tanker vor Oman (ohne Verletzte, [Rudaw](https://rudaw.net/english/categories/middleeast/1080011)). Risk-off-Risiko, aber kein Faktum zur IRGC-Behauptung.",
+   "Xatu: News-Datei /workspace/krypto/news/2026-11-04.md liegt vor (nicht ausgewertet in diesem Lauf)."
   ]
  },
  "backtest": {
@@ -3617,19 +3264,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 07:11:20",
-   "tokens": 125,
-   "paar": 124,
+   "t": "2026-11-04 07:21:20",
+   "tokens": 126,
+   "paar": 125,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 97,
-   "tokens": 12425,
-   "paar": 12254,
+   "runden": 107,
+   "tokens": 13645,
+   "paar": 13462,
    "vor": 5,
-   "kandidaten_zeilen": 929,
+   "kandidaten_zeilen": 953,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -3638,11 +3285,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    576
+    597
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    241
+    242
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -3650,7 +3297,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    20
+    21
    ],
    [
     "Insider-Netzwerke (≤# Wallets) # % ≥ # %",
@@ -3678,8 +3325,8 @@
    "rolle": "Scout",
    "farbe": "#3B82F6",
    "form": "circle",
-   "letzte_datei": "krypto/scout-2026-11-03.md",
-   "zeit": "2026-11-03T09:04:06+01:00"
+   "letzte_datei": "wissen/krypto/scans/2026-11-04.md",
+   "zeit": "2026-11-04T07:15:56+01:00"
   },
   {
    "name": "Xatu",
@@ -3703,7 +3350,7 @@
    "farbe": "#F59E0B",
    "form": "shield",
    "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-11-04T05:09:19+01:00"
+   "zeit": "2026-11-04T07:16:48+01:00"
   },
   {
    "name": "Mauzi",
@@ -3719,7 +3366,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-04T07:11:20+01:00"
+   "zeit": "2026-11-04T07:21:20+01:00"
   },
   {
    "name": "Magnayen",
@@ -3731,56 +3378,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T05:03:45",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T05:06:19",
-   "RISK",
-   "supervisor: Box war 145 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T05:06:49",
-   "RISK",
-   "BLOCK FLOAT: Insider-Netzwerke (≤50 Wallets) 5.5 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-04T05:06:50",
-   "SCAN",
-   "Runde: 129 Tokens, 123 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
-  ],
-  [
-   "2026-11-04T05:07:49",
-   "SCAN",
-   "Runde: 128 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T05:08:49",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T05:09:49",
-   "SCAN",
-   "Runde: 130 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T05:10:49",
-   "SCAN",
-   "Runde: 125 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T05:11:49",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T05:12:49",
-   "SCAN",
-   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-04T05:13:49",
    "SCAN",
@@ -4030,6 +3627,56 @@
    "2026-11-04T07:11:20",
    "SCAN",
    "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:12:20",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:13:20",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:14:20",
+   "SCAN",
+   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:15:20",
+   "SCAN",
+   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:16:20",
+   "SCAN",
+   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:17:20",
+   "SCAN",
+   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:18:20",
+   "SCAN",
+   "Runde: 112 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:19:20",
+   "SCAN",
+   "Runde: 110 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:20:20",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T07:21:20",
+   "SCAN",
+   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -4047,5 +3694,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T07:11:20+01:00"
+ "daten_neuest": "2026-11-04T07:21:20+01:00"
 }

@@ -1,5 +1,5 @@
 {
- "stand_daten": "04.11.2026 17:03",
+ "stand_daten": "04.11.2026 18:03",
  "depot": {
   "wert": 48.93,
   "budget": 50.0,
@@ -2330,9 +2330,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-04T18:00+01:00",
+   "coin": "RICO",
+   "ca": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump",
+   "posts_1h": "Template 15 Posts (RICO 9 GATO 5 HELL 2)",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-04.md",
    "titel": "News-Scans 04.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **Ursache des BTC-Anstiegs, jetzt mit Quellen:** WuBlockchain (16:58) und CoinDesk (16:43) nennen die US-Midterms, also den Erfolg der Demokraten, als Auslöser. Laut WuBlockchain wurden in einer Stunde Short-Positionen über 269 Mio $ liquidiert. Cointelegraph (16:17): BTC bei 80.000, 415 Mio $ Liquidationen in einer Stunde, davon 330 Mio $ Shorts. Diese Zuordnung kommt von Medien, ein kausaler Beleg ist sie nicht. Begleitend: Brent fällt erstmals seit dem 07.10. unter 100 $ (FirstSquawk 16:57). Die Rendite 10-jähriger französischer Staatsanleihen sinkt um 12,5 Bp. Die US-Börse gewinnt zur Eröffnung 900 Mrd $ Marktkapitalisierung (Cointelegraph).\n- **Verlauf:** Hoch 81.196 (16:15–16:30), danach leichter Rücksetzer und Seitwärtsbewegung um 80.300. Die 1h-Range ab 17:00 liegt bei 0,25 %.\n- **EIA (16:30):** Rohöl −865k Barrel (Schätzung −377,5k, vorher −1,892 Mio), laut FirstSquawk. Die US-Diesel-Vorräte liegen unter 100 Mio Barrel, so niedrig wie seit 2003 nicht mehr (DeItaone/FirstSquawk 16:43).\n- **Hormus:** unverändert, nicht unabhängig bestätigt, kein Dementi von CENTCOM oder UKMTO. Vance (16:41/16:50): Der Iran-Krieg sei ein Grund für die Niederlage der Republikaner.\n- **Houthi/Riad:** weiter unbestätigt, nur die Houthi-Behauptung. Keine saudische Bestätigung, kein Reuters/AP.\n- Binance PoR: keine Meldung.\n- Kurse ~17:03: BTC 80.340 (+3,4 %), ETH 2.429,03 (+5,7 %), SOL 96,87 (+3,5 %), BNB 716,21 (+2,3 %). 1h-Range 16 Uhr: BTC 2,37 %, ETH 5,88 %, SOL 3,16 %, BNB 1,67 %.\n- "
+   "text": "- **BTC hält 80k:** Zwischen 17:00 und 18:05 bewegt sich BTC zwischen 80.296 und 80.752, jetzt 80.427. Die 1h-Range 17 Uhr liegt bei 0,57 %, die Lage hat sich nach dem Anstieg beruhigt.\n- **Ursache, jetzt auch von Reuters (17:45):** „Crypto tracks stocks higher after Democrat midterm wins“. Der Dow steigt um 2,95 % auf ein Zwei-Monats-Hoch (DeItaone 18:00).\n- **Öl fällt stark:** US-Rohöl-Futures um mehr als 5 $, Brent um mehr als 7 $; US-Rohöl nähert sich 90 $ (FirstSquawk 17:38/17:39). Schumer: „We will end the war, some Republicans have joined us“ (FirstSquawk 17:35). Trump fragt Berater, ob Hegseth gehen soll (CBS laut FirstSquawk 17:43). Das ist eine Medienmeldung mit Bezug auf Quellen, nicht bestätigt.\n- **Hormus:** unverändert, nicht unabhängig bestätigt, kein Dementi von CENTCOM oder UKMTO.\n- **Houthi/Riad:** weiter unbestätigt.\n- Binance PoR: keine Meldung.\n- CoinDesk (17:43): Circle Q3 865 Mio $ Umsatz; ohne den einmaligen ARC-Presale (182 Mio $) fiel der zugrunde liegende Umsatz um 8 % gegenüber dem Vorjahr. Damit ist die frühere Abweichung (864,9 vs. 778 Mio $) erklärt.\n- Kurse ~18:05: BTC 80.427 (+3,5 %), ETH 2.428 (+5,7 %), SOL 96,36 (+3,0 %), BNB 718,02 (+2,9 %). 1h-Range 17 Uhr: BTC 0,57 %, ETH 0,84 %, SOL 0,91 %, BNB 0,62 %.\n- BLOCK-Schwellen: keine gerissen. HELL 24h +13,4 %, Liq. 150.218 (−4,6 % gegen Referenz). GATO 24h −6,8 %, Liq. 364.286. RICO (CA 8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump): 0,000577, Liq. 66.573, 24h +17,8 %; die Position ist geschlos"
   },
   {
    "zeitpunkt": "2026-11-04T01:58+01:00",
@@ -2791,6 +2805,42 @@
    "quelle": "FirstSquawk",
    "titel": "Brent unter 100 $",
    "text": "Brent fällt erstmals seit dem 07.10. unter 100 $",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T17:45+01:00",
+   "coin": "BTC",
+   "signal": "bullisch",
+   "quelle": "Reuters",
+   "titel": "Crypto tracks stocks higher after Democrat midterm wins",
+   "text": "Reuters: Krypto steigt nach den Midterm-Siegen der Demokraten mit den Aktien",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T17:38+01:00",
+   "coin": "BTC",
+   "signal": "leicht bullisch",
+   "quelle": "FirstSquawk/DeItaone",
+   "titel": "Öl-Futures stark gefallen",
+   "text": "US-Rohöl mehr als −5 $, Brent mehr als −7 $; US-Rohöl nahe 90 $",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T17:35+01:00",
+   "coin": "BTC",
+   "signal": "leicht bullisch",
+   "quelle": "FirstSquawk",
+   "titel": "Schumer: Krieg beenden",
+   "text": "Schumer: We will end the war, some Republicans have joined us",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T17:43+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "CoinDesk",
+   "titel": "Circle Q3: Kernumsatz −8 % gegenüber Vorjahr",
+   "text": "Circle 865 Mio $ Umsatz inkl. 182 Mio $ einmaligem ARC-Presale; zugrunde liegender Umsatz −8 % gegenüber Vorjahr",
    "datei": "2026-11-04.csv"
   },
   {
@@ -3744,19 +3794,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 17:31:15",
-   "tokens": 127,
-   "paar": 125,
+   "t": "2026-11-04 18:04:49",
+   "tokens": 131,
+   "paar": 128,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 440,
-   "tokens": 52977,
-   "paar": 52134,
+   "runden": 445,
+   "tokens": 53611,
+   "paar": 52754,
    "vor": 29,
-   "kandidaten_zeilen": 2828,
+   "kandidaten_zeilen": 2924,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
@@ -3765,19 +3815,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1692
+    1748
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    792
+    822
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    206
+    215
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    78
+    79
    ],
    [
     "Insider-Netzwerke (≤# Wallets) # % ≥ # %",
@@ -3820,7 +3870,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-04.csv",
-   "zeit": "2026-11-04T17:03:37+01:00"
+   "zeit": "2026-11-04T18:03:44+01:00"
   },
   {
    "name": "Kadabra",
@@ -3852,7 +3902,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-04T17:31:16+01:00"
+   "zeit": "2026-11-04T18:04:50+01:00"
   },
   {
    "name": "Magnayen",
@@ -3864,41 +3914,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T16:37:41",
-   "SCAN",
-   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T16:38:41",
-   "SCAN",
-   "Runde: 112 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T16:39:41",
-   "SCAN",
-   "Runde: 125 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T16:40:41",
-   "SCAN",
-   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T16:41:41",
-   "SCAN",
-   "Runde: 108 Tokens, 107 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T16:42:41",
-   "SCAN",
-   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T16:43:41",
-   "SCAN",
-   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-04T16:44:41",
    "SCAN",
@@ -4163,6 +4178,41 @@
    "2026-11-04T17:31:15",
    "SCAN",
    "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T17:32:15",
+   "SCAN",
+   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T17:33:15",
+   "SCAN",
+   "Runde: 129 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T17:35:49",
+   "RISK",
+   "supervisor: Box war 164 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T18:02:59",
+   "RISK",
+   "supervisor: Box war 1630 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-04T18:03:12",
+   "SCAN",
+   "Runde: 130 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 33 s"
+  ],
+  [
+   "2026-11-04T18:03:49",
+   "SCAN",
+   "Runde: 117 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-04T18:04:49",
+   "SCAN",
+   "Runde: 131 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -4180,5 +4230,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T17:31:16+01:00"
+ "daten_neuest": "2026-11-04T18:04:50+01:00"
 }

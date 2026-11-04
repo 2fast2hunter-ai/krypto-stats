@@ -1,5 +1,5 @@
 {
- "stand_daten": "04.11.2026 19:45",
+ "stand_daten": "04.11.2026 20:07",
  "depot": {
   "wert": 48.93,
   "budget": 50.0,
@@ -2387,9 +2387,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-04T20:00+01:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "Template 18 Posts (GATO 9 JEANPHIL 4 RICO 4)",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-04.md",
    "titel": "News-Scans 04.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **BTC hält 80k:** Zwischen 18:00 und 19:05 lag BTC zwischen 80.236 und 80.604, jetzt 80.604 (+3,8 %). Die 1h-Range 18 Uhr liegt bei 0,43 %, der Markt ist ruhig.\n- **Kriegsende-Signale:** Schumer kündigt an, den Iran-Krieg mit der neuen Kongressmehrheit zu beenden (DeItaone 18:55). Das ist eine politische Absichtserklärung, kein Beschluss. Trump behält sein Vetorecht (Cointelegraph 18:50). Jeffries (18:31): Er hat noch nichts von Trump gehört. Brent ist um 10 % auf rund 93 $ gefallen, den tiefsten Stand seit zwei Monaten (FirstSquawk 18:52). Laut CBS wird DeSantis als möglicher Nachfolger von Hegseth gehandelt (FirstSquawk 18:40); das ist unbestätigt.\n- **Hormus:** unverändert, nicht unabhängig bestätigt, kein Dementi von CENTCOM oder UKMTO.\n- **Houthi/Riad:** weiter unbestätigt.\n- Binance PoR: keine Meldung. Arkéa beziffert die Verluste aus dem Cyberangriff (Reuters 18:30, ohne Zahl).\n- Kurse ~19:05: BTC 80.604 (+3,8 %), ETH 2.430 (+5,8 %), SOL 96,01 (+2,8 %), BNB 717,66 (+3,0 %). 1h-Range 18 Uhr: BTC 0,43 %, ETH 0,63 %, SOL 1,28 %, BNB 0,62 %.\n- BLOCK-Schwellen: keine gerissen. HELL 24h +19,2 %, Liq. 152.465 (−3,1 % gegen Referenz). GATO 24h −2,8 %, Liq. 360.398. JEANPHIL (CA GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump): 24h +45,2 %, 1h −1,6 %, Liq. 357.426 (über Referenz 287.156). RICO (CA 8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump): 1h −14,8 %, 0,0004937, Liq. 61.150, 24h +5,4 %; die Position ist geschlossen. Gesperrt: DESSA +76 %, WASTED −12,9 %.\n- X-Template seit 18"
+   "text": "- **BTC:** hält knapp 80k. Hoch 80.720 (19:00), danach leicht abwärts, jetzt 80.264 (+3,5 %). Die 1h-Range liegt bei 0,52 %, der Markt ist ruhig. Die Aktien legen weiter zu: S&P 500 +1,84 %, Nasdaq +2,1 % (DeItaone 19:29). Reuters: Big-Tech-Rally über 750 Mrd $.\n- **Iran/Kriegsende:** Trump (19:10/19:13): Die Wahlniederlage sei „largely“ eine Folge des Iran-Kriegs, aber „it was worth it“. Das ist kein Signal für ein Kriegsende. Al-Jadeed meldet unter Berufung auf arabische Diplomaten, die US-iranischen Verhandlungen hätten „significant progress“ gemacht und würden am Freitag klarer (FirstSquawk 19:24). Das ist eine einzelne, unbestätigte Meldung. Die USA verhängen Sanktionen gegen indische und türkische Firmen, die Iran unterstützen (Reuters 19:20); Bessent kündigt weitere an. Trump: Hegseth wird nicht ersetzt (19:23).\n- **Hormus:** unverändert, nicht unabhängig bestätigt, kein Dementi von CENTCOM oder UKMTO.\n- **Houthi/Riad:** weiter unbestätigt. Reuters (19:35) spricht allgemein von zunehmenden Houthi-Angriffen.\n- Binance PoR: keine Meldung. WuBlockchain (19:54): Die House-Demokraten beraten ein neues Marktstruktur-Gesetz mit erweiterter SEC-Aufsicht.\n- Kurse ~20:06: BTC 80.264 (+3,5 %), ETH 2.419,99 (+5,7 %), SOL 95,09 (+1,8 %), BNB 716,14 (+2,7 %).\n- BLOCK-Schwellen: keine gerissen. HELL 1h +18,5 %, 24h +13,0 %, Liq. 155.288. GATO 1h −5,7 %, 24h −9,0 %, Liq. 347.950 (über Referenz). JEANPHIL 24h +58,4 %, Liq. 372.140. RICO (CA 8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump)"
   },
   {
    "zeitpunkt": "2026-11-04T01:58+01:00",
@@ -2911,6 +2925,42 @@
    "quelle": "CoinDesk",
    "titel": "Saylor: Bitcoin wird überparteilich",
    "text": "Saylor: Bitcoin wird überparteilich, mit Verweis auf Wahlsiege in Florida und Texas",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T19:24+01:00",
+   "coin": "BTC",
+   "signal": "unbestätigt",
+   "quelle": "FirstSquawk (Al-Jadeed)",
+   "titel": "US-Iran-Verhandlungen: significant progress (unbestätigt)",
+   "text": "Al-Jadeed meldet unter Berufung auf arabische Diplomaten deutliche Fortschritte; Klarheit am Freitag; Einzelquelle",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T19:10+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "DeItaone/FirstSquawk",
+   "titel": "Trump: Iran-Krieg war es wert",
+   "text": "Trump: Die Wahlniederlage sei weitgehend dem Iran-Krieg geschuldet, aber it was worth it",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T19:20+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "Reuters",
+   "titel": "US-Sanktionen gegen Iran-Unterstützer",
+   "text": "USA verhängen Sanktionen gegen indische und türkische Firmen, die Iran unterstützen",
+   "datei": "2026-11-04.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-04T19:54+01:00",
+   "coin": "BTC",
+   "signal": "leicht bärisch",
+   "quelle": "WuBlockchain",
+   "titel": "House-Demokraten: Marktstruktur-Gesetz mit mehr SEC-Aufsicht",
+   "text": "House-Demokraten beraten ein neues Krypto-Marktstruktur-Gesetz mit erweiterter SEC-Aufsicht",
    "datei": "2026-11-04.csv"
   },
   {
@@ -3864,19 +3914,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-04 19:59:34",
-   "tokens": 132,
-   "paar": 132,
+   "t": "2026-11-04 20:09:17",
+   "tokens": 126,
+   "paar": 126,
    "vor": 0,
    "offen": 2,
    "schatten": 0
   },
   "heute": {
-   "runden": 493,
-   "tokens": 59724,
-   "paar": 58736,
+   "runden": 503,
+   "tokens": 60966,
+   "paar": 59974,
    "vor": 31,
-   "kandidaten_zeilen": 3228,
+   "kandidaten_zeilen": 3251,
    "nach_checks": 3,
    "gekauft": 3,
    "schatten": 0,
@@ -3885,19 +3935,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1927
+    1944
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    909
+    911
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    241
+    242
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    85
+    87
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -3940,7 +3990,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-04.csv",
-   "zeit": "2026-11-04T19:02:10+01:00"
+   "zeit": "2026-11-04T20:07:23+01:00"
   },
   {
    "name": "Kadabra",
@@ -3956,7 +4006,7 @@
    "farbe": "#F59E0B",
    "form": "shield",
    "letzte_datei": "krypto/tools/rugcheck.py",
-   "zeit": "2026-11-04T10:47:44+01:00"
+   "zeit": "2026-11-04T20:01:31+01:00"
   },
   {
    "name": "Mauzi",
@@ -3971,8 +4021,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-04T19:59:35+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-04T20:09:17+01:00"
   },
   {
    "name": "Magnayen",
@@ -3984,56 +4034,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T18:06:49",
-   "SCAN",
-   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T18:07:49",
-   "SCAN",
-   "Runde: 128 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T18:08:49",
-   "SCAN",
-   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T18:09:49",
-   "SCAN",
-   "Runde: 132 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T18:10:49",
-   "SCAN",
-   "Runde: 124 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T18:11:50",
-   "SCAN",
-   "Runde: 134 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T18:12:49",
-   "SCAN",
-   "Runde: 134 Tokens, 132 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T18:13:49",
-   "SCAN",
-   "Runde: 134 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T18:14:49",
-   "SCAN",
-   "Runde: 134 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-04T18:15:49",
-   "SCAN",
-   "Runde: 133 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-04T18:16:49",
    "SCAN",
@@ -4283,6 +4283,56 @@
    "2026-11-04T19:59:34",
    "SCAN",
    "Runde: 132 Tokens, 132 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 28 s"
+  ],
+  [
+   "2026-11-04T20:00:17",
+   "SCAN",
+   "Runde: 130 Tokens, 130 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T20:01:17",
+   "SCAN",
+   "Runde: 117 Tokens, 117 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T20:02:17",
+   "SCAN",
+   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T20:03:17",
+   "SCAN",
+   "Runde: 119 Tokens, 119 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T20:04:17",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T20:05:17",
+   "SCAN",
+   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T20:06:17",
+   "SCAN",
+   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T20:07:17",
+   "SCAN",
+   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T20:08:17",
+   "SCAN",
+   "Runde: 131 Tokens, 130 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-04T20:09:17",
+   "SCAN",
+   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -4300,5 +4350,5 @@
   "ergebnis": -0.0617,
   "notiz": "Zeit-Stop 6 h (+1.9 %); Slippage 1.50 %; CA CTPoyCwkjMvoJwU4xvZZqoD8tiYk6yDchySiN5gGpump"
  },
- "daten_neuest": "2026-11-04T19:59:35+01:00"
+ "daten_neuest": "2026-11-04T20:09:17+01:00"
 }

@@ -4439,40 +4439,40 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-05 13:39:56",
-   "tokens": 119,
-   "paar": 114,
-   "vor": 0,
+   "t": "2026-11-05 13:53:52",
+   "tokens": 110,
+   "paar": 105,
+   "vor": 1,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 311,
-   "tokens": 39215,
-   "paar": 38650,
-   "vor": 7,
-   "kandidaten_zeilen": 2163,
+   "runden": 323,
+   "tokens": 40616,
+   "paar": 39981,
+   "vor": 8,
+   "kandidaten_zeilen": 2241,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
-   "block": 6
+   "block": 7
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1223
+    1262
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    691
+    717
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    161
+    171
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    44
+    46
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -4565,7 +4565,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-05T13:39:56+01:00"
+   "zeit": "2026-11-05T13:53:52+01:00"
   },
   {
    "name": "Magnayen",
@@ -4577,81 +4577,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-05T12:41:34",
-   "RISK",
-   "BLOCK CARDS: rugcheck.py: rt ≤50/≤15) ✗ (72.7 %/54.8 %); 7 RugCheck ✗ (Score 54 ['Top 10 holders high ownership', 'Single holder owne"
-  ],
-  [
-   "2026-11-05T12:41:44",
-   "SCAN",
-   "Runde: 122 Tokens, 117 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 1, gekauft 0, Dauer 21 s"
-  ],
-  [
-   "2026-11-05T12:42:34",
-   "RISK",
-   "BLOCK CARDS: rugcheck.py: rt ≤50/≤15) ✗ (72.7 %/54.8 %); 7 RugCheck ✗ (Score 54 ['Top 10 holders high ownership', 'Single holder owne"
-  ],
-  [
-   "2026-11-05T12:42:40",
-   "SCAN",
-   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 1, gekauft 0, Dauer 16 s"
-  ],
-  [
-   "2026-11-05T12:44:17",
-   "RISK",
-   "supervisor: Box war 93 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-05T12:44:27",
-   "RISK",
-   "BLOCK CARDS: rugcheck.py: rt ≤50/≤15) ✗ (72.7 %/54.8 %); 7 RugCheck ✗ (Score 54 ['Top 10 holders high ownership', 'Single holder owne"
-  ],
-  [
-   "2026-11-05T12:44:34",
-   "SCAN",
-   "Runde: 111 Tokens, 108 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 1, gekauft 0, Dauer 18 s"
-  ],
-  [
-   "2026-11-05T12:46:08",
-   "RISK",
-   "supervisor: Box war 111 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-05T12:46:44",
-   "SCAN",
-   "Runde: 130 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T12:47:44",
-   "SCAN",
-   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T12:48:44",
-   "SCAN",
-   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T12:49:44",
-   "SCAN",
-   "Runde: 131 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T12:50:44",
-   "SCAN",
-   "Runde: 123 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T12:51:44",
-   "RISK",
-   "BLOCK CARDS: rugcheck.py: rt ≤50/≤15) ✗ (72.7 %/54.8 %); 7 RugCheck ✗ (Score 54 ['Top 10 holders high ownership', 'Single holder owne"
-  ],
-  [
-   "2026-11-05T12:51:52",
-   "SCAN",
-   "Runde: 130 Tokens, 127 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 1, gekauft 0, Dauer 18 s"
-  ],
   [
    "2026-11-05T12:52:44",
    "SCAN",
@@ -4876,6 +4801,81 @@
    "2026-11-05T13:39:56",
    "SCAN",
    "Runde: 119 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T13:40:56",
+   "SCAN",
+   "Runde: 118 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T13:41:56",
+   "SCAN",
+   "Runde: 128 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T13:42:56",
+   "SCAN",
+   "Runde: 124 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T13:43:56",
+   "SCAN",
+   "Runde: 129 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T13:44:56",
+   "SCAN",
+   "Runde: 108 Tokens, 101 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T13:45:56",
+   "SCAN",
+   "Runde: 109 Tokens, 102 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T13:46:56",
+   "SCAN",
+   "Runde: 118 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T13:47:56",
+   "SCAN",
+   "Runde: 115 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T13:48:56",
+   "SCAN",
+   "Runde: 114 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T13:49:56",
+   "SCAN",
+   "Runde: 121 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T13:51:06",
+   "RISK",
+   "supervisor: Box war 70 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T13:51:16",
+   "SCAN",
+   "Runde: 107 Tokens, 102 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T13:53:14",
+   "RISK",
+   "supervisor: Box war 128 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T13:53:50",
+   "RISK",
+   "BLOCK PIRATE: Insider-Netzwerke (≤50 Wallets) 13.5 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-05T13:53:52",
+   "SCAN",
+   "Runde: 110 Tokens, 105 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
   ]
  ],
  "trefferquote": {
@@ -4893,5 +4893,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-05T13:39:56+01:00"
+ "daten_neuest": "2026-11-05T13:53:52+01:00"
 }

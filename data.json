@@ -1,5 +1,5 @@
 {
- "stand_daten": "05.11.2026 21:07",
+ "stand_daten": "05.11.2026 22:00",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -2727,9 +2727,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-05T22:00+01:00",
+   "coin": "BTC",
+   "ca": "",
+   "posts_1h": "kein CENTCOM/UKMTO; Markt ruhig ~76",
+   "trend_pct": "2k; Lage geo nicht entspannt; KAUF_PAUSE; nichts Neues",
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-05.md",
    "titel": "News-Scans 05.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **CENTCOM/UKMTO Hormus:** **kein Sach-Update.** CENTCOM: F-35-Patrouille ME + Adm.-Cooper-Zitat (20:37/20:56) — **kein** Tanker-/Hormus-Statement. **UKMTO:** keine Posts. Reuters 20:45 erneut gleicher Artikel „Tankers hit in Hormuz“ (kein neuer Inhalt).\n- **Lage entspannt? Nein.** Squawk/DeItaone ~20:41–20:43: iranischer Official an Reuters — Nuklearvorschlag via Katar, Diskussion **erst nach** US-Erfüllung der sieben Forderungen (Hormus-Haltung unverändert). Brent Settle +3,9 % / WTI +2,7 % (Squawk) — Spannung im Ölpreis.\n- **Markt ruhig: ja.** BTC ~76.086 → ~76.296 (+0,3 %); Range ab 20:00 ≈ **0,9 %**. **KAUF_PAUSE hält.**\n- **Kein neuer Blocker.** RICO unverändert (Sperre bis 08.11. 13:08; Liq ~23,2k / −57 % vs Scout). Scout: JOB Liq +11 % (Erholung); HELL/TROLL ~−8 %. DESSA man. bis 06.11. 09:00; WASTED bis 07.11. 07:00; Freigaben bis 06.11. 09:05.\n- Kurse ~21:07: BTC 76.296 (−4,8 %), ETH 2.254,82 (−6,5 %), SOL 90,02 (−4,9 %), BNB 692,82 (−3,1 %).\n- Keine neuen Paper-Trades (KAUF_PAUSE).\n- **CENTCOM/UKMTO:** **keine Posts** seit 19:01. Hormus-Stand unverändert (Reuters 16:40; JMIC 111; Rezaei-Bedingungen). Kein Dementi, keine De-escalation.\n- **Lage entspannt? Nein** (geopolitisch unverändert). **Markt ruhig: ja** — BTC ~75.821 → ~76.086 (+0,3 %); 5m-Range ab 19:00 ≈ **0,8 %** (&lt;3 %). Leichte Erholung, kein Schock.\n- **KAUF_PAUSE hält** (Panzaeron 19:02 / Datei: gesetzt 16:05, bestätigt 17:04). Keine Aufhebung.\n- Sonst: Equity weiter schwach (S&amp;P −4 % / NDX −5–6 "
+   "text": "- **CENTCOM/UKMTO:** **keine Posts** seit 21:07. Kein Hormus-Sachupdate. Stand unverändert (Reuters 16:40; JMIC 111; 7 Bedingungen).\n- **Lage entspannt? Nein.** Keine De-escalation-/Ceasefire-Meldung in Squawk/Reuters/AP/DeItaone im Fenster.\n- **Markt ruhig: ja.** BTC ~76.296 → ~76.207 (−0,1 %); Range ab 21:05 ≈ **0,6 %**. **KAUF_PAUSE hält.**\n- **Kein neuer Blocker.** RICO unverändert (Sperre bis 08.11. 13:08; Liq ~24,0k / −55 % vs Scout). Sonstige Scout-Freigaben ohne −30 %/ −50 %-Schwelle. DESSA man. bis 06.11. 09:00; WASTED bis 07.11. 07:00; Freigaben bis 06.11. 09:05.\n- Kurse ~22:00: BTC 76.207 (−4,9 %), ETH 2.250,30 (−7,0 %), SOL 90,00 (−5,1 %), BNB 692,13 (−3,4 %).\n- Keine neuen Paper-Trades (KAUF_PAUSE).\n- **CENTCOM/UKMTO Hormus:** **kein Sach-Update.** CENTCOM: F-35-Patrouille ME + Adm.-Cooper-Zitat (20:37/20:56) — **kein** Tanker-/Hormus-Statement. **UKMTO:** keine Posts. Reuters 20:45 erneut gleicher Artikel „Tankers hit in Hormuz“ (kein neuer Inhalt).\n- **Lage entspannt? Nein.** Squawk/DeItaone ~20:41–20:43: iranischer Official an Reuters — Nuklearvorschlag via Katar, Diskussion **erst nach** US-Erfüllung der sieben Forderungen (Hormus-Haltung unverändert). Brent Settle +3,9 % / WTI +2,7 % (Squawk) — Spannung im Ölpreis.\n- **Markt ruhig: ja.** BTC ~76.086 → ~76.296 (+0,3 %); Range ab 20:00 ≈ **0,9 %**. **KAUF_PAUSE hält.**\n- **Kein neuer Blocker.** RICO unverändert (Sperre bis 08.11. 13:08; Liq ~23,2k / −57 % vs Scout). Scout: JOB Liq +11 % (Erholung); HELL/TROLL "
   },
   {
    "zeitpunkt": "2026-11-05T01:34+01:00",
@@ -3179,6 +3193,24 @@
    "quelle": "Binance",
    "titel": "Markt ruhig: BTC ~76.296",
    "text": "Range ~0,9 %; KAUF_PAUSE hält; kein neuer Blocker",
+   "datei": "2026-11-05.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-05T22:00+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "CENTCOM/UK_MTO",
+   "titel": "Kein CENTCOM/UKMTO; Lage nicht entspannt",
+   "text": "Hormus-Stand unverändert; KAUF_PAUSE hält",
+   "datei": "2026-11-05.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-05T22:00+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "Binance",
+   "titel": "Markt ruhig: BTC ~76.207",
+   "text": "vs 76.296 −0,1 %; Range ~0,6 %; kein neuer Blocker",
    "datei": "2026-11-05.csv"
   },
   {
@@ -4749,19 +4781,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-05 21:40:05",
+   "t": "2026-11-05 22:02:33",
    "tokens": 125,
-   "paar": 122,
+   "paar": 123,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 545,
-   "tokens": 67846,
-   "paar": 66593,
+   "runden": 549,
+   "tokens": 68351,
+   "paar": 67090,
    "vor": 15,
-   "kandidaten_zeilen": 3704,
+   "kandidaten_zeilen": 3736,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -4770,19 +4802,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    2109
+    2130
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    1112
+    1120
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    320
+    322
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    80
+    81
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -4843,7 +4875,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-05.csv",
-   "zeit": "2026-11-05T21:07:43+01:00"
+   "zeit": "2026-11-05T22:00:06+01:00"
   },
   {
    "name": "Kadabra",
@@ -4874,8 +4906,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-05T21:40:06+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-05T22:02:33+01:00"
   },
   {
    "name": "Magnayen",
@@ -4887,31 +4919,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-05T19:54:35",
-   "SCAN",
-   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 24 s"
-  ],
-  [
-   "2026-11-05T19:55:21",
-   "SCAN",
-   "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T19:56:21",
-   "SCAN",
-   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T19:57:21",
-   "SCAN",
-   "Runde: 124 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T20:00:30",
-   "RISK",
-   "supervisor: Box war 156 s eingefroren – neue Frist 180 s"
-  ],
   [
    "2026-11-05T20:00:40",
    "SCAN",
@@ -5186,6 +5193,31 @@
    "2026-11-05T21:40:05",
    "SCAN",
    "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T21:41:27",
+   "SCAN",
+   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T21:59:48",
+   "RISK",
+   "supervisor: Box war 1111 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T22:00:33",
+   "SCAN",
+   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T22:01:33",
+   "SCAN",
+   "Runde: 129 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T22:02:33",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -5203,5 +5235,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-05T21:40:06+01:00"
+ "daten_neuest": "2026-11-05T22:02:33+01:00"
 }

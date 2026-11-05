@@ -4708,19 +4708,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-05 20:10:34",
-   "tokens": 120,
-   "paar": 120,
+   "t": "2026-11-05 20:12:34",
+   "tokens": 112,
+   "paar": 112,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 513,
-   "tokens": 64059,
-   "paar": 62851,
+   "runden": 515,
+   "tokens": 64287,
+   "paar": 63077,
    "vor": 15,
-   "kandidaten_zeilen": 3438,
+   "kandidaten_zeilen": 3446,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -4729,7 +4729,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1955
+    1963
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -4834,7 +4834,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-05T20:10:34+01:00"
+   "zeit": "2026-11-05T20:12:34+01:00"
   },
   {
    "name": "Magnayen",
@@ -4846,16 +4846,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-05T18:18:22",
-   "SCAN",
-   "Runde: 127 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 25 s"
-  ],
-  [
-   "2026-11-05T18:19:07",
-   "SCAN",
-   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-05T18:20:07",
    "SCAN",
@@ -5145,6 +5135,16 @@
    "2026-11-05T20:10:34",
    "SCAN",
    "Runde: 120 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T20:11:45",
+   "SCAN",
+   "Runde: 116 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 21 s"
+  ],
+  [
+   "2026-11-05T20:12:34",
+   "SCAN",
+   "Runde: 112 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -5162,5 +5162,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-05T20:10:34+01:00"
+ "daten_neuest": "2026-11-05T20:12:34+01:00"
 }

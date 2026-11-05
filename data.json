@@ -1,5 +1,5 @@
 {
- "stand_daten": "05.11.2026 09:59",
+ "stand_daten": "05.11.2026 11:03",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -2573,9 +2573,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-05T11:00+01:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "Template 15 Posts (GATO 6 JOB 3 JEANPHIL 3 HELL 2)",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-05.md",
    "titel": "News-Scans 05.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **Scout 05.11. da** (`scout-2026-11-05.md`, Abruf 09:05–09:18, gültig bis **06.11. 09:05**): 15 Coins Skript-FREIGABE + Handprüfung (GOAT, FONE, JEANPHIL, FARTCOIN, USELESS, POPCAT, PENGU, GIGA, VINE, TROLL, NEET, GATO, HELL, JOB, RICO). Keine KAUF_PAUSE. **DESSA:** man. Block in manuelle-blocks.json bis **06.11. 09:00** (Panzaeron 09:25: Zusatzbedingung verletzt). **WASTED:** Crash bis **07.11. 07:00**. CATE BLOCK (Insider).\n- **Hormus:** IRGC-Brände weiter **unbestätigt**. UKMTO 09:19: Warning 196-26 (nur Link, **kein Text** zur IRGC-Meldung in dem Post) — keine Bestätigung/kein Dementi ablesbar. Kein CENTCOM.\n- Binance PoR: keine. Iran/Israel: Reuters 09:40 europäische Rechte distanziert sich von Trump, Iran-Krieg als Midterm-Grund — kein Alarm-Update.\n- **Makro:** BoE 13:00 noch offen. ECB Schnabel/Moulin (Rede, 09:12–09:14).\n- Kurse ~09:59: BTC 80.468 (+2,6 %; 1h 80.359–80.643), ETH 2.418,84 (+4,2 %), SOL 96,71 (+3,7 %), BNB 714,84 (+1,8 %).\n- BLOCK-Schwellen vs. Scout-Liq 09:17: keine gerissen. RICO 58.232 = **−7,0 %** gegen Einstieg 62.642 / über Scout 53.527. HELL 148.776 (+4,2 % vs Scout), GATO 341.403 (+0,9 %), JOB 189.196 (−4,8 %). Keine neuen Paper-Trades.\n- X-Template seit 09:03: 15 Posts von 8 Autoren ($GATO 7×, $JOB 4×, $HELL 2×, $JEANPHIL 1×). Bot-Buzz.\n- **Makro DE Auftragseingänge Sep (FirstSquawk 08:03):** MoM **+4,4 %** (Prognose 4,5 %, vorher −10,6 %), YoY +3,3 % (Prognose 3,3 %).\n- **Hormus:** IRGC-Brände weiter **unbestätigt**, kein CENTCOM/UKMTO, kei"
+   "text": "- **UKMTO Warning 196-26 (Text jetzt lesbar):** Tanker von zwei unidentifizierten Projektilen getroffen, **50 NM nördlich von Madinat ash Shamal, Katar**, 04.11. 23:20 UTC. Crew/Schaden/Umwelt unbestätigt. **Das ist nicht die Straße von Hormus und keine Bestätigung der IRGC-Brand-Behauptung** (zwei Tanker + Schlepper). IRGC-Hormus weiter nur IRGC, kein CENTCOM/UKMTO dazu.\n- **Makro EZ PPI Sep (FirstSquawk 11:01):** YoY **11,1 %** (Prognose 10,6 %, vorher 8,2 %), MoM +2,5 % (Prognose 2,5 %). BoE 13:00 noch offen.\n- Binance PoR: keine. Iran/Israel: Reuters wiederholt IRGC-Hormus-Claim (10:40); Emirates-Gewinn bricht ein wegen Iran-Krieg (10:45). Saudi: Warnung vor Gefahr in Yanbu (FirstSquawk 10:25) — getrennt von Hormus.\n- Scout-Freigaben unverändert (bis 06.11. 09:05). DESSA man. Block bis 06.11. 09:00; WASTED bis 07.11. 07:00.\n- Kurse ~11:02: BTC 80.372 (+2,5 %; 1h 80.261–80.496), ETH 2.416,12 (+4,0 %), SOL 96,73 (+3,9 %), BNB 715,41 (+1,9 %).\n- BLOCK-Schwellen vs. Scout: keine. RICO Liq. 52.869 = **−15,6 %** gegen 62.642. HELL 141.876 (−0,7 % vs Scout 142.807). GATO 344.075 (+1,7 %). JOB 183.484 (−7,7 %). Keine neuen Paper-Trades.\n- X-Template seit 09:59: 15 Posts von 9 Autoren ($GATO 6×, $JOB 3×, $JEANPHIL 3×, $HELL 2×). Bot-Buzz.\n- **Scout 05.11. da** (`scout-2026-11-05.md`, Abruf 09:05–09:18, gültig bis **06.11. 09:05**): 15 Coins Skript-FREIGABE + Handprüfung (GOAT, FONE, JEANPHIL, FARTCOIN, USELESS, POPCAT, PENGU, GIGA, VINE, TROLL, NEET, GATO, HELL, JOB, RICO). Keine "
   },
   {
    "zeitpunkt": "2026-11-05T01:34+01:00",
@@ -2746,6 +2760,33 @@
    "quelle": "Scout Fiffyen",
    "titel": "15 Freigaben bis 06.11. 09:05",
    "text": "scout-2026-11-05.md: 15 Paper-Freigaben inkl. JOB/RICO; DESSA/WASTED/CATE nicht freigabefähig",
+   "datei": "2026-11-05.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-05T09:19+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "UKMTO PDF 196-26",
+   "titel": "UKMTO: Tanker-Angriff vor Katar, nicht Hormus",
+   "text": "Tanker von zwei unidentifizierten Projektilen getroffen, 50 NM nördlich Madinat ash Shamal (Katar), 04.11. 23:20 UTC; keine Bestätigung der IRGC-Hormus-Brände",
+   "datei": "2026-11-05.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-05T11:01+01:00",
+   "coin": "BTC",
+   "signal": "leicht bärisch",
+   "quelle": "FirstSquawk",
+   "titel": "EZ PPI Sep YoY 11,1 % über Prognose",
+   "text": "Eurozone PPI YoY 11,1 % (Prognose 10,6 %, vorher 8,2 %); MoM +2,5 %",
+   "datei": "2026-11-05.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-05T10:45+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "Reuters",
+   "titel": "Emirates-Gewinn bricht wegen Iran-Krieg ein",
+   "text": "Emirates profit plunges as Iran war rattles Middle East aviation",
    "datei": "2026-11-05.csv"
   },
   {
@@ -4316,32 +4357,32 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-05 10:41:22",
-   "tokens": 121,
-   "paar": 118,
+   "t": "2026-11-05 11:03:40",
+   "tokens": 127,
+   "paar": 124,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 203,
-   "tokens": 25992,
-   "paar": 25819,
-   "vor": 1,
-   "kandidaten_zeilen": 1633,
+   "runden": 207,
+   "tokens": 26495,
+   "paar": 26306,
+   "vor": 2,
+   "kandidaten_zeilen": 1645,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
-   "block": 1
+   "block": 2
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    926
+    934
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    529
+    532
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -4410,7 +4451,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-05.csv",
-   "zeit": "2026-11-05T09:59:45+01:00"
+   "zeit": "2026-11-05T11:03:11+01:00"
   },
   {
    "name": "Kadabra",
@@ -4442,7 +4483,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-05T10:41:23+01:00"
+   "zeit": "2026-11-05T11:03:41+01:00"
   },
   {
    "name": "Magnayen",
@@ -4454,41 +4495,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-05T08:40:09",
-   "RISK",
-   "supervisor: Box war 77 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-05T08:48:23",
-   "RISK",
-   "supervisor: Box war 494 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-05T08:48:24",
-   "SCAN",
-   "Runde: 132 Tokens, 132 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 26 s"
-  ],
-  [
-   "2026-11-05T08:49:08",
-   "SCAN",
-   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T08:50:08",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T08:51:08",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T08:53:04",
-   "RISK",
-   "supervisor: Box war 101 s eingefroren – neue Frist 180 s"
-  ],
   [
    "2026-11-05T09:02:52",
    "RISK",
@@ -4753,6 +4759,41 @@
    "2026-11-05T10:41:22",
    "SCAN",
    "Runde: 121 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T10:42:22",
+   "SCAN",
+   "Runde: 129 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T10:44:48",
+   "RISK",
+   "supervisor: Box war 130 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T10:44:58",
+   "SCAN",
+   "Runde: 121 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T11:01:55",
+   "RISK",
+   "supervisor: Box war 1027 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T11:02:40",
+   "RISK",
+   "BLOCK baton: Insider-Netzwerke (≤50 Wallets) 20.4 % ≥ 10 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-05T11:02:42",
+   "SCAN",
+   "Runde: 126 Tokens, 120 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
+  ],
+  [
+   "2026-11-05T11:03:40",
+   "SCAN",
+   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -4770,5 +4811,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-05T10:41:23+01:00"
+ "daten_neuest": "2026-11-05T11:03:41+01:00"
 }

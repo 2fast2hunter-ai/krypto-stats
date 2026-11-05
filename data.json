@@ -1,11 +1,11 @@
 {
- "stand_daten": "04.11.2026 23:04",
+ "stand_daten": "05.11.2026 01:04",
  "depot": {
-  "wert": 49.2,
+  "wert": 49.01,
   "budget": 50.0,
-  "gesamt_pl": -0.8,
-  "tag_pl": 0,
-  "woche_pl": -0.8,
+  "gesamt_pl": -0.99,
+  "tag_pl": -0.19,
+  "woche_pl": -0.99,
   "stand": "29.10.2026 20:50 (Berlin)",
   "verlauf": [
    {
@@ -62,6 +62,11 @@
     "t": "2026-11-04T23:03+01:00",
     "cash": 46.7042,
     "wert": 49.2
+   },
+   {
+    "t": "2026-11-05T01:04+01:00",
+    "cash": 49.01,
+    "wert": 49.01
    }
   ]
  },
@@ -75,19 +80,9 @@
   "max_pos": 3.0,
   "max_trades_tag": 5.0,
   "ampel": "gruen",
-  "offene_positionen": 1
+  "offene_positionen": 0
  },
- "offen": [
-  {
-   "zeitpunkt": "2026-11-04T19:04+01:00",
-   "strategie": "meme-scan",
-   "coin": "JEANPHIL",
-   "menge": 495.566932,
-   "preis_eur": "0.004936265607",
-   "einsatz": 2.5001,
-   "notiz": "Volumen-Spike+Momentum, rugcheck FREIGABE; Slippage 1.50 %; CA GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump"
-  }
- ],
+ "offen": [],
  "geschlossen": [
   {
    "coin": "fone",
@@ -143,6 +138,17 @@
    "einsatz": 1.25,
    "ergebnis": -0.0571,
    "notiz": "Trailing-Stop 20 % vom Hoch (+0.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
+  },
+  {
+   "coin": "JEANPHIL",
+   "strategie": "meme-scan",
+   "kauf": "2026-11-04T19:04+01:00",
+   "verkauf": "2026-11-05T01:04+01:00",
+   "menge": 495.566932,
+   "teil": false,
+   "einsatz": 2.5001,
+   "ergebnis": -0.1944,
+   "notiz": "Zeit-Stop 6 h (-3.7 %); Slippage 1.50 %; CA GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump"
   }
  ],
  "warnungen": [
@@ -150,8 +156,8 @@
  ],
  "pl_strategie": {
   "meme-scan": {
-   "pl": -0.8,
-   "trades": 5
+   "pl": -0.99,
+   "trades": 6
   }
  },
  "scout": {
@@ -4014,8 +4020,8 @@
   },
   "meme-scan": {
    "meme": true,
-   "pl": -0.7961000000000003,
-   "trades": 5
+   "pl": -0.9905000000000003,
+   "trades": 6
   },
   "news-signale": {
    "meme": false,
@@ -4035,19 +4041,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-05 01:01:45",
-   "tokens": 126,
-   "paar": 126,
+   "t": "2026-11-05 01:29:25",
+   "tokens": 129,
+   "paar": 128,
    "vor": 0,
-   "offen": 1,
+   "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 18,
-   "tokens": 2236,
-   "paar": 2220,
+   "runden": 26,
+   "tokens": 3250,
+   "paar": 3216,
    "vor": 0,
-   "kandidaten_zeilen": 180,
+   "kandidaten_zeilen": 263,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -4056,23 +4062,23 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    99
+    139
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    56
+    87
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    18
+    27
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
-    5
+    7
    ],
    [
-    "Vorfilter: #h +# % > +# % (Pump hinterher)",
-    1
+    "Vorfilter: Momentum #m +# % außerhalb +#+# %",
+    2
    ]
   ]
  },
@@ -4106,6 +4112,12 @@
    "pl": -0.7961,
    "trade": -0.0571,
    "coin": "JOB"
+  },
+  {
+   "t": "2026-11-05T01:04+01:00",
+   "pl": -0.9905,
+   "trade": -0.1944,
+   "coin": "JEANPHIL"
   }
  ],
  "agenten": [
@@ -4147,15 +4159,15 @@
    "farbe": "#10B981",
    "form": "square",
    "letzte_datei": "krypto/paper-trades.csv",
-   "zeit": "2026-11-04T23:03:25+01:00"
+   "zeit": "2026-11-05T01:04:17+01:00"
   },
   {
    "name": "Scanner",
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-05T01:01:46+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-05T01:58:53+01:00"
   },
   {
    "name": "Magnayen",
@@ -4167,66 +4179,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-04T22:15:36",
-   "RISK",
-   "supervisor: Box war 129 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T22:15:37",
-   "RISK",
-   "BLOCK Dacity: Insider-Netzwerke (≤50 Wallets) 32.4 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-04T22:15:38",
-   "SCAN",
-   "Runde: 113 Tokens, 112 mit Paar, Vorfilter ok 1, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 26 s"
-  ],
-  [
-   "2026-11-04T22:16:23",
-   "RISK",
-   "BLOCK Dacity: Insider-Netzwerke (≤50 Wallets) 32.4 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-04T22:16:24",
-   "SCAN",
-   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 1, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 12 s"
-  ],
-  [
-   "2026-11-04T22:17:24",
-   "SCAN",
-   "Runde: 124 Tokens, 124 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T22:18:23",
-   "SCAN",
-   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T22:20:43",
-   "RISK",
-   "supervisor: Box war 126 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T22:36:47",
-   "RISK",
-   "supervisor: Box war 964 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-04T22:36:56",
-   "SCAN",
-   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 34 s"
-  ],
-  [
-   "2026-11-04T22:37:33",
-   "SCAN",
-   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-04T22:38:33",
-   "SCAN",
-   "Runde: 131 Tokens, 130 mit Paar, Vorfilter ok 0, offen 2, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
   [
    "2026-11-04T22:39:33",
    "SCAN",
@@ -4466,11 +4418,71 @@
    "2026-11-05T01:01:45",
    "SCAN",
    "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 30 s"
+  ],
+  [
+   "2026-11-05T01:02:27",
+   "SCAN",
+   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-05T01:03:27",
+   "SCAN",
+   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-05T01:04+01",
+   "LOSS",
+   "meme-scan verkauft 495.567 JEANPHIL: -0,19 €"
+  ],
+  [
+   "2026-11-05T01:04:27",
+   "SCAN",
+   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-05T01:22:30",
+   "RISK",
+   "supervisor: Box war 1003 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T01:22:32",
+   "SCAN",
+   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 26 s"
+  ],
+  [
+   "2026-11-05T01:23:16",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T01:24:16",
+   "SCAN",
+   "Runde: 129 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T01:25:16",
+   "SCAN",
+   "Runde: 127 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T01:29:15",
+   "RISK",
+   "supervisor: Box war 225 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T01:29:25",
+   "SCAN",
+   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T01:58:53",
+   "RISK",
+   "supervisor: Box war 1778 s eingefroren – neue Frist 180 s"
   ]
  ],
  "trefferquote": {
   "w": 1,
-  "l": 4
+  "l": 5
  },
  "bester_trade": {
   "coin": "JOB",
@@ -4483,5 +4495,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-05T01:01:46+01:00"
+ "daten_neuest": "2026-11-05T01:58:53+01:00"
 }

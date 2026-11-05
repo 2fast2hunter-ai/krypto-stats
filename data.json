@@ -1,5 +1,5 @@
 {
- "stand_daten": "05.11.2026 09:03",
+ "stand_daten": "05.11.2026 09:21",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -161,53 +161,68 @@
   }
  },
  "scout": {
-  "datei": "scout-2026-11-04.md",
-  "quelle": "CoinGecko, DexScreener, RugCheck (tools/rugcheck.py), Jupiter, alternative.me, Web-News; Abruf 04.11.2026 07:13–07:20 Berlin",
+  "datei": "scout-2026-11-05.md",
+  "quelle": "CoinGecko, DexScreener, RugCheck (tools/rugcheck.py), Jupiter, alternative.me, Solana-RPC, Xatu news/2026-11-05.md + x-stimmung.csv; Abruf 05.11.2026 09:05–09:18 Berlin",
   "majors": [
    [
     "Coin",
     "Preis $",
     "24h",
-    "7d"
+    "7d",
+    "Vol 24h $",
+    "MCap $"
    ],
    [
     "BTC",
-    "77.746",
-    "+1,80 %",
-    "−3,94 %"
+    "80.345",
+    "+2,72 %",
+    "+0,50 %",
+    "35,08 Mrd",
+    "1.615,6 Mrd"
    ],
    [
     "ETH",
-    "2.288,30",
-    "+2,09 %",
-    "−2,57 %"
+    "2.416,29",
+    "+4,78 %",
+    "+4,45 %",
+    "15,27 Mrd",
+    "295,3 Mrd"
    ],
    [
     "SOL",
-    "92,70",
-    "+1,38 %",
-    "−9,03 %"
+    "95,73",
+    "+2,82 %",
+    "−4,20 %",
+    "3,83 Mrd",
+    "56,5 Mrd"
    ]
   ],
   "kandidaten": [],
   "ausschluss": [
    {
-    "coin": "GLITCH, WIF, CHILLGUY, JOB, CBUCKS, GTA 6 Coin, BIRB, PUMP, NEARKAT, TRUMP, BONK, MELANIA, PNUT, MOODENG, ZEREBRO, BAN, MEW, PONKE, BOME, ACT, FWOG, Anakin",
-    "grund": "BLOCK aus Vortagen, heute nicht erneut geprüft. SI276 weiter AUSGESETZT."
+    "coin": "**DESSA** npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
+    "grund": "Skript FREIGABE (Liq 445.414 $, Top10 2,6 %, Dev-Wallet 24.10.2026, Insider 0 %), Crash-Sperre lief 05.11. 09:00 ab. **Nicht freigabefähig nach Panzaerons Bedingung** (03.11.): „kein neuer Tag mit mehr als 30 % Minus“ – am 04.11. 09:00 −35,8 %/24h (checks/2026-11-04.md). Heute +134 %/24h (Pump). Entscheidung Panzaeron."
    },
    {
-    "coin": "Neue Kandidaten (kurz): CoinGecko solana-meme-coins Top 25 nach Volumen enthält nur bekannte/geblockte Coins (DACITY +20 % Mini-Cap, nicht geprüft). Trending mit Solana-Bezug: PENGU, TRUMP. DexScreener-Boosts: 8 unbekannte pump-CAs (z. B. 8muc9D…pump, nxPqZ4…pump)",
-    "grund": "nicht geprüft, keine Freigabe."
+    "coin": "**CATE** Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump (neu, Scanner)",
+    "grund": "Skript FREIGABE, aber **Insider kleine Netze 12,74 %** (8 Netze, Coin 101,7 d → Grenze 10 %) → BLOCK von Hand. Liq 2.194.274 $, Preis 0,03917 $, MCap 37,8 Mio, [DexScreener](https://dexscreener.com/solana/hmzvseemtzhhvznw9uwbag85hctmfnkbhzux16cy7ca3)."
+   },
+   {
+    "coin": "**WASTED** GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump",
+    "grund": "BLOCK, Crash-Sperre bis 07.11. 07:00; Liq 76.588 $ (−11 %), 24h −28,6 %."
+   },
+   {
+    "coin": "Nicht geprüft (Vorfilter): DexScreener-Boosts GTA (7F8Bkf…pump), GAVELDROP (9mWrj7…pump), Democat (9Y1F6d…pump), GHOST, MINTED, nuLL, PREFIRE, tism",
+    "grund": "alle < 24 h (Punkt 6) bzw. teils −81/−87 %; CATPAD, $Gatto, 5STAR, VICE, Suica, NONUT, Raul, MEMECOIN, SAFEMOON – Liq < 50k $. AMD (DDmGnu…pump) 1,4 d, −41 %. SI276 (Boost) weiter AUSGESETZT."
    }
   ],
   "stimmung": [
-   "Fear & Greed 34 „Fear“.",
-   "**Hormus – GERÜCHT/unbestätigt:** IRGC behauptet laut iranischen Staatsmedien, 4 Tanker seien durch Minen südlich der Straße von Hormus zerstört worden ([Iran International, 04.11. 04:52 Berlin](https://www.iranintl.com/en/202611045349), [investinglive](https://investinglive.com/commodities/iran-s-irgc-says-four-tankers-destroyed-by-mines-south-of-hormuz-two-vessels-detained/)). Einzige Quelle ist die IRGC selbst; Schiffe nicht benannt, keine unabhängige Bestätigung. Separat meldete UKMTO am 03.11. einen Projektiltreffer auf einen Tanker vor Oman (ohne Verletzte, [Rudaw](https://rudaw.net/english/categories/middleeast/1080011)). Risk-off-Risiko, aber kein Faktum zur IRGC-Behauptung.",
-   "Xatu: News-Datei /workspace/krypto/news/2026-11-04.md liegt vor (nicht ausgewertet in diesem Lauf).",
-   "Majors (CoinGecko /coins/markets, last_updated 08:58 Berlin): BTC 77.997 $ (+1,66 % 24h, −3,57 % 7d, Vol 30,5 Mrd, MCap 1,568 Bio), ETH 2.300,44 $ (+2,00 % / −2,33 %, Vol 10,5 Mrd, MCap 281,1 Mrd), SOL 92,88 $ (+0,99 % / −8,64 %, Vol 2,66 Mrd, MCap 54,8 Mrd). Fear & Greed weiter 34 „Fear“ (alternative.me).",
-   "Freigaben vom 07:13-Lauf gelten bis 05.11. 07:13; kein erneuter Skriptlauf. Xatu-Scan 08:00 (news/2026-11-04.md): keine BLOCK-Schwelle gerissen, Liq aller Freigaben ±3 % zur Scout-Referenz; GATO −17,5 %/24h, HELL +16,5 %, USELESS +18,0 %; WASTED −51,2 %/24h (damit −50-%-Grenze gerissen, Xatu führt ihn als BLOCK), DESSA −32,0 %.",
-   "KAUF_PAUSE: Datei in wissen/krypto/checks um 07:16 in „KAUF_PAUSE-aufgehoben-2026-11-04.txt“ umbenannt (Inhalt unverändert); Entscheidung liegt bei Panzaeron.",
-   "Hormus (IRGC-Tanker-Meldung) laut Xatu 08:00 weiter unbestätigt – GERÜCHT; Brent 103,60 $ (OilPrice, 07:15). Heute Makro: ADP 14:15, ISM Services 16:00 (Zeiten laut Xatu unsicher)."
+   "Fear & Greed 50 „Neutral“ (alternative.me, 05.11. 01:00).",
+   "Spot-BTC-ETFs +74,57 Mio $ Netto-Zufluss am 04.11. (US-Zeit), Ether-ETFs +53,02 Mio $ (WuBlockchain 07:32 lt. Xatu).",
+   "**Hormus – GERÜCHT/unbestätigt:** IRGC meldet Brände auf zwei Tankern und einem Schlepper (Reuters/FirstSquawk 05:08–06:30); kein CENTCOM/UKMTO, kein Dementi (Xatu 09:00). FirstSquawk 08:49 „Saudi Civil Defence: danger has passed“ ohne Ortsangabe – unklar.",
+   "Binance: laut Yi He (FirstSquawk 04:49) ab 05.11. weitere Abhebungen; weiter kein Proof-of-Reserves.",
+   "Makro heute: BoE-Zins 13:00, US-Erstanträge 14:30; Freitag NFP 14:30. DE Auftragseingänge Sep +4,4 % MoM.",
+   "X (Xatu x-stimmung.csv): anhaltender Template-/Bot-Buzz bei $GATO, $HELL, $JOB, $RICO (17 Posts von 8 Autoren seit 07:59) – Shill-Warnsignal, kein BLOCK-Grund."
   ]
  },
  "backtest": {
@@ -4260,19 +4275,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-05 09:12:34",
-   "tokens": 130,
-   "paar": 130,
+   "t": "2026-11-05 09:22:34",
+   "tokens": 129,
+   "paar": 128,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 166,
-   "tokens": 21388,
-   "paar": 21265,
+   "runden": 176,
+   "tokens": 22641,
+   "paar": 22509,
    "vor": 0,
-   "kandidaten_zeilen": 1388,
+   "kandidaten_zeilen": 1407,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -4281,11 +4296,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    777
+    791
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    454
+    456
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -4293,7 +4308,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    20
+    23
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -4345,8 +4360,8 @@
    "rolle": "Scout",
    "farbe": "#3B82F6",
    "form": "circle",
-   "letzte_datei": "krypto/scout-2026-11-04.md",
-   "zeit": "2026-11-04T09:00:16+01:00"
+   "letzte_datei": "wissen/krypto/scans/2026-11-05.md",
+   "zeit": "2026-11-05T09:19:31+01:00"
   },
   {
    "name": "Xatu",
@@ -4369,8 +4384,8 @@
    "rolle": "Risiko",
    "farbe": "#F59E0B",
    "form": "shield",
-   "letzte_datei": "krypto/tools/rugcheck.py",
-   "zeit": "2026-11-04T20:01:31+01:00"
+   "letzte_datei": "krypto/tools/manuelle-blocks.json",
+   "zeit": "2026-11-05T09:21:39+01:00"
   },
   {
    "name": "Mauzi",
@@ -4385,8 +4400,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-05T09:12:35+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-05T09:22:34+01:00"
   },
   {
    "name": "Magnayen",
@@ -4398,56 +4413,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-05T07:57:00",
-   "SCAN",
-   "Runde: 133 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 26 s"
-  ],
-  [
-   "2026-11-05T07:57:45",
-   "SCAN",
-   "Runde: 131 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T07:58:45",
-   "SCAN",
-   "Runde: 135 Tokens, 134 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T07:59:45",
-   "SCAN",
-   "Runde: 131 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T08:00:45",
-   "SCAN",
-   "Runde: 133 Tokens, 133 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T08:01:45",
-   "SCAN",
-   "Runde: 135 Tokens, 135 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T08:02:45",
-   "SCAN",
-   "Runde: 135 Tokens, 135 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T08:03:45",
-   "SCAN",
-   "Runde: 134 Tokens, 134 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T08:04:45",
-   "SCAN",
-   "Runde: 132 Tokens, 132 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T08:05:45",
-   "SCAN",
-   "Runde: 133 Tokens, 133 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-05T08:06:45",
    "SCAN",
@@ -4697,6 +4662,56 @@
    "2026-11-05T09:12:34",
    "SCAN",
    "Runde: 130 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T09:13:34",
+   "SCAN",
+   "Runde: 133 Tokens, 133 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T09:14:34",
+   "SCAN",
+   "Runde: 133 Tokens, 132 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T09:15:34",
+   "SCAN",
+   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T09:16:34",
+   "SCAN",
+   "Runde: 130 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T09:17:34",
+   "SCAN",
+   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T09:18:34",
+   "SCAN",
+   "Runde: 116 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T09:19:34",
+   "SCAN",
+   "Runde: 120 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T09:20:34",
+   "SCAN",
+   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T09:21:34",
+   "SCAN",
+   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T09:22:34",
+   "SCAN",
+   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -4714,5 +4729,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-05T09:12:35+01:00"
+ "daten_neuest": "2026-11-05T09:22:34+01:00"
 }

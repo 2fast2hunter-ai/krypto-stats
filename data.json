@@ -1,5 +1,5 @@
 {
- "stand_daten": "05.11.2026 18:09",
+ "stand_daten": "05.11.2026 19:01",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -2685,9 +2685,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-05T19:00+01:00",
+   "coin": "BTC",
+   "ca": "",
+   "posts_1h": "kein CENTCOM/UKMTO; Markt ruhig BTC ~75",
+   "trend_pct": "8k; KAUF_PAUSE; nichts Neues Hormus",
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-05.md",
    "titel": "News-Scans 05.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **CENTCOM/UKMTO zu Hormus (neu vs. Reuters 16:40): nichts Neues.**\n- **Markt ruhig? Ja (relativ).** BTC seit ~17:02 ~76.100 → Bounce auf ~77.006 (17:20) → Rücklauf ~76.182 (~18:09). 1h-Range ab 17:00 ≈ **1,8 %** (&lt;3 %-Kriterium); vs. Referenz 76.100 ≈ **+0,1 %**. Kein erneuter &gt;3 %/1h-Schock. **KAUF_PAUSE bleibt** (Reuters-Bestätigung Hormus + Rezaei-Haltung; Aufhebung nicht erfüllt).\n- **Kein neuer Blocker.** RICO unverändert (Sperre bis 08.11. 13:08; Liq ~29,5k / −45 % vs Scout). Scout sonst: USELESS/PENGU/TROLL/JOB ~−8–9 % Liq, unter −30 %. DESSA man. bis 06.11. 09:00; WASTED bis 07.11. 07:00; Freigaben bis 06.11. 09:05.\n- Kurse ~18:09: BTC 76.182 (−5,4 %), ETH 2.257 (−7,2 %), SOL 90,06 (−6,6 %), BNB 692,81 (−3,5 %).\n- Keine Template-Bot-Auswertung nötig für Panzaeron-Kritisch; keine neuen Paper-Trades (KAUF_PAUSE).\n- **Hormus-STATUS: BESTÄTIGT (Reuters) — kein Dementi.**\n- Markt **nicht ruhig:** BTC 16:00 ~77.840 → Tief ~75.568 (16:50) → 17:00 ~76.085; 24h **−5,3 %**. NDX −6 %, Mag7 −1,1 Bio. $, VIX +48 % (DeItaone). Majors >3 %/1h-Bewegung weiter erfüllt.\n- Binance PoR: **keine**; CoinDesk nur Insight PoR-Limits / Gate PoSEC nach Hack.\n- **Kein neuer Blocker.** RICO unverändert (Sperre bis 08.11. 13:08; Liq ~25,2k / −53 % vs Scout). Scout-Freigaben flächig −5 bis −12 % Liq (Risk-off), keine neue −30 %-Schwelle außer RICO. DESSA man. bis 06.11. 09:00; WASTED bis 07.11. 07:00; Freigaben bis 06.11. 09:05.\n- Kurse ~17:02: BTC 76.107 (−5,3 %), ETH 2.253 (−7,3 %), SOL "
+   "text": "- **CENTCOM/UKMTO:** **keine Posts** seit 18:09. Hormus-Stand unverändert (Reuters 16:40 bestätigt; JMIC 111; kein Dementi).\n- **Markt ruhig: ja.** BTC ~76.180 → ~75.821 (−0,5 %); 5m-Range ab 18:05 ≈ **0,6 %** (&lt;3 %). Leichtes Nachgeben, kein Schock.\n- Sonst: AP/Squawk — US hielt geheime Deportations-Gespräche mit Iran (älterer Kontext); Khamenei zu US-Macht (DeItaone); Binance-Hack-Geld-Bewegung (Cointelegraph/Chainalysis) — **kein PoR**. Equity weiter schwach (S&amp;P −4 %, DeItaone).\n- **Kein neuer Blocker.** RICO unverändert (Sperre bis 08.11. 13:08; Liq ~28,1k / −48 % vs Scout). Scout: JOB −11 %, JEANPHIL/USELESS/PENGU/TROLL/FARTCOIN ~−9 % Liq — unter −30 %. DESSA man. bis 06.11. 09:00; WASTED bis 07.11. 07:00; Freigaben bis 06.11. 09:05. **KAUF_PAUSE bleibt.**\n- Kurse ~19:01: BTC 75.821 (−5,9 %), ETH 2.250,82 (−7,4 %), SOL 89,02 (−7,3 %), BNB 690,86 (−3,7 %).\n- Keine neuen Paper-Trades (KAUF_PAUSE).\n- **CENTCOM/UKMTO zu Hormus (neu vs. Reuters 16:40): nichts Neues.**\n- **Markt ruhig? Ja (relativ).** BTC seit ~17:02 ~76.100 → Bounce auf ~77.006 (17:20) → Rücklauf ~76.182 (~18:09). 1h-Range ab 17:00 ≈ **1,8 %** (&lt;3 %-Kriterium); vs. Referenz 76.100 ≈ **+0,1 %**. Kein erneuter &gt;3 %/1h-Schock. **KAUF_PAUSE bleibt** (Reuters-Bestätigung Hormus + Rezaei-Haltung; Aufhebung nicht erfüllt).\n- **Kein neuer Blocker.** RICO unverändert (Sperre bis 08.11. 13:08; Liq ~29,5k / −45 % vs Scout). Scout sonst: USELESS/PENGU/TROLL/JOB ~−8–9 % Liq, unter −30 %. DESSA man. bis 06.11"
   },
   {
    "zeitpunkt": "2026-11-05T01:34+01:00",
@@ -3074,6 +3088,24 @@
    "quelle": "Binance",
    "titel": "Markt relativ ruhig: BTC ≈76.182",
    "text": "1h-Range ~1,8 %; vs 76.100 +0,1 %; KAUF_PAUSE bleibt; kein neuer Blocker",
+   "datei": "2026-11-05.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-05T19:00+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "CENTCOM/UK_MTO",
+   "titel": "Kein neues CENTCOM/UKMTO",
+   "text": "Hormus-Stand unverändert; KAUF_PAUSE bleibt",
+   "datei": "2026-11-05.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-05T19:01+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "Binance",
+   "titel": "Markt ruhig: BTC ~75.821",
+   "text": "vs 76.180 −0,5 %; Range ~0,6 %; kein neuer Blocker",
    "datei": "2026-11-05.csv"
   },
   {
@@ -4644,19 +4676,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-05 18:42:48",
-   "tokens": 125,
-   "paar": 121,
+   "t": "2026-11-05 19:17:07",
+   "tokens": 114,
+   "paar": 112,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 479,
-   "tokens": 59892,
-   "paar": 58742,
+   "runden": 488,
+   "tokens": 60972,
+   "paar": 59795,
    "vor": 15,
-   "kandidaten_zeilen": 3199,
+   "kandidaten_zeilen": 3286,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -4665,23 +4697,23 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1810
+    1856
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    965
+    994
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    277
+    287
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    73
+    74
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
-    29
+    30
    ]
   ]
  },
@@ -4738,7 +4770,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-05.csv",
-   "zeit": "2026-11-05T18:09:50+01:00"
+   "zeit": "2026-11-05T19:01:45+01:00"
   },
   {
    "name": "Kadabra",
@@ -4769,8 +4801,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-05T18:59:06+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-05T19:17:08+01:00"
   },
   {
    "name": "Magnayen",
@@ -4782,61 +4814,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-05T16:49:32",
-   "SCAN",
-   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T17:01:48",
-   "RISK",
-   "supervisor: Box war 746 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-05T17:02:23",
-   "SCAN",
-   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T17:03:23",
-   "SCAN",
-   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T17:04:23",
-   "SCAN",
-   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T17:05:23",
-   "SCAN",
-   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T17:06:23",
-   "SCAN",
-   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T17:07:23",
-   "SCAN",
-   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T17:08:23",
-   "SCAN",
-   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T17:09:23",
-   "SCAN",
-   "Runde: 128 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T17:14:00",
-   "RISK",
-   "WARN gt-trending: Runde > 150 s abgebrochen"
-  ],
   [
    "2026-11-05T17:14:00",
    "RISK",
@@ -5081,6 +5058,61 @@
    "2026-11-05T18:59:06",
    "RISK",
    "supervisor: Box war 988 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T18:59:49",
+   "SCAN",
+   "Runde: 116 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T19:00:49",
+   "SCAN",
+   "Runde: 130 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T19:01:49",
+   "SCAN",
+   "Runde: 113 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T19:02:49",
+   "SCAN",
+   "Runde: 129 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T19:03:49",
+   "SCAN",
+   "Runde: 112 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T19:04:49",
+   "SCAN",
+   "Runde: 122 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T19:05:49",
+   "SCAN",
+   "Runde: 120 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T19:06:49",
+   "SCAN",
+   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T19:08:55",
+   "RISK",
+   "supervisor: Box war 109 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T19:17:06",
+   "RISK",
+   "supervisor: Box war 491 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T19:17:07",
+   "SCAN",
+   "Runde: 114 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 23 s"
   ]
  ],
  "trefferquote": {
@@ -5098,5 +5130,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-05T18:59:06+01:00"
+ "daten_neuest": "2026-11-05T19:17:08+01:00"
 }

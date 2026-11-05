@@ -4676,19 +4676,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-05 19:17:07",
-   "tokens": 114,
-   "paar": 112,
+   "t": "2026-11-05 19:18:54",
+   "tokens": 131,
+   "paar": 129,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 488,
-   "tokens": 60972,
-   "paar": 59795,
+   "runden": 490,
+   "tokens": 61231,
+   "paar": 60049,
    "vor": 15,
-   "kandidaten_zeilen": 3286,
+   "kandidaten_zeilen": 3296,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -4697,7 +4697,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1856
+    1865
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -4709,7 +4709,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    74
+    75
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -4802,7 +4802,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-05T19:17:08+01:00"
+   "zeit": "2026-11-05T19:18:54+01:00"
   },
   {
    "name": "Magnayen",
@@ -4814,16 +4814,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-05T17:14:00",
-   "RISK",
-   "supervisor: Box war 232 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-05T17:14:04",
-   "SCAN",
-   "Runde: 108 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 231 s"
-  ],
   [
    "2026-11-05T17:14:34",
    "SCAN",
@@ -5113,6 +5103,16 @@
    "2026-11-05T19:17:07",
    "SCAN",
    "Runde: 114 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 23 s"
+  ],
+  [
+   "2026-11-05T19:17:54",
+   "SCAN",
+   "Runde: 128 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T19:18:54",
+   "SCAN",
+   "Runde: 131 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -5130,5 +5130,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-05T19:17:08+01:00"
+ "daten_neuest": "2026-11-05T19:18:54+01:00"
 }

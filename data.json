@@ -1,5 +1,5 @@
 {
- "stand_daten": "05.11.2026 15:01",
+ "stand_daten": "05.11.2026 16:03",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -2643,9 +2643,23 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-05T16:00+01:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "Template 17 Posts (GATO 8 RICO 7); Hormus Tanker IRIB unbestätigt; BTC risk-off",
+   "trend_pct": null,
+   "top_engagement": null,
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-05.md",
    "titel": "News-Scans 05.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **US Initial Jobless Claims (FirstSquawk/DeItaone 14:30):** **189k** (EST 196k / Prev 194k; DeItaone: −6k vs Vorwoche, Survey 197k). Continuing Claims +23k auf **1.718.000**. WuBlockchain: nahe 57-Jahres-Tief (wie Mitte Juli). **Produktivität:** in den geprüften Quellen (FirstSquawk/DeItaone/Reuters) seit 14:25 **kein Print** gefunden.\n- Marktreaktion BTC 5m: 14:25 79.662 → 14:30 79.704 → 14:45 79.830 → 15:00 ~79.640 — praktisch flach, leichter Spike dann Rücklauf.\n- Hormus: keine Bestätigung/kein Dementi. Binance PoR: keine (nur Community Earn-Kampagne).\n- **Kein neuer Blocker / RICO-Status unverändert** (crash-sperre bis 08.11. 13:08; Liq ~36,5k / −32 % vs Scout, 24h ~−80 %). Sonstige Scout-Freigaben: GATO −5,3 % Liq / 24h −23 %; JOB −7,4 % Liq; Rest unkritisch. DESSA man. bis 06.11. 09:00; WASTED bis 07.11. 07:00; Freigaben bis 06.11. 09:05.\n- Kurse ~15:01: BTC 79.640 (+1,7 %), ETH 2.387,60 (+3,0 %), SOL 95,36 (+2,6 %), BNB 711,36 (+1,5 %).\n- X-Template seit 14:09: 12 Posts / 8 Autoren ($RICO 6×, $GATO 5×, $HELL 1×). Bot-Buzz. Keine neuen Paper-Trades.\n- **US Claims/Produktivität 14:30:** noch offen (Scan ~14:09).\n- **BoE-Nachwirkung:** Bailey (FirstSquawk ~13:42–13:53): Impact des Iran-Konflikts begrenzen; CPI-Peak &lt;5 % bei guten News; last 48h relevant. Dez-Hike-Chance auf ~50 % (Squawk). ECB: mögliche dritte Raise seit Iran-Kriegsbeginn im Dezember (Squawk 14:03). BTC seit 13:07 ~80.170 → ~79.620 (−0,7 %).\n- Hormus: keine Bestätigung/kein Dementi seit 13:08; IRGC w"
+   "text": "- **Hormus (FirstSquawk 15:22):** Iran/IRIB — **zwei Tanker im/östlich der Straße von Hormus in Brand nach Minentreffer**. Nur Squawk/IRIB; **kein** UKMTO-/CENTCOM-/Reuters-Dementi oder Bestätigung in diesem Fenster. Weiter unbestätigt (iranische Angabe).\n- Risk-off: NVDA −5,6 %, TSLA −10 %, NDX −3 % (Squawk); BTC 15:00 ~79.640 → 16:00 ~77.700 (−2,4 % in 1 h, Beschleunigung ab ~15:35). Claims/BoE-Nachwirkung von Equity-Selloff überlagert.\n- Binance: Reuters — US-Regulatoren prüften Bankensysteme nach Binance-Hack (älterer Kontext, Quellen); **kein PoR**. Mercado Bitcoin Hack-Update CoinDesk (48,6 Mio $, nicht Binance).\n- Iran sonst: Russland rät Bürgern von Iran-Reisen ab (IFX/Squawk). Israel: nichts Neues in Fenster.\n- **Kein neuer Blocker.** RICO Status unverändert (Sperre bis 08.11. 13:08; Liq ~34,8k / −35 % vs Scout). Scout sonst: JOB −10,5 % Liq, HELL −8,5 %, GATO −7,6 %, JEANPHIL −5,5 % — unter −30 %. DESSA man. bis 06.11. 09:00; WASTED bis 07.11. 07:00; Freigaben bis 06.11. 09:05.\n- Kurse ~16:02: BTC 77.699 (−2,3 %), ETH 2.321 (−3,5 %), SOL 92,36 (−3,4 %), BNB 699,02 (−1,8 %).\n- X-Template seit 15:01: 17 Posts / 8 Autoren ($GATO 8×, $RICO 7×, $JEANPHIL/$HELL). Bot-Buzz. Keine neuen Paper-Trades.\n- **US Initial Jobless Claims (FirstSquawk/DeItaone 14:30):** **189k** (EST 196k / Prev 194k; DeItaone: −6k vs Vorwoche, Survey 197k). Continuing Claims +23k auf **1.718.000**. WuBlockchain: nahe 57-Jahres-Tief (wie Mitte Juli). **Produktivität:** in den geprüften Quellen (Firs"
   },
   {
    "zeitpunkt": "2026-11-05T01:34+01:00",
@@ -2951,6 +2965,33 @@
    "quelle": "DexScreener",
    "titel": "Kein neuer Blocker; RICO Status unverändert",
    "text": "GATO −5,3 % Liq; JOB −7,4 %; Hormus/PoR nichts",
+   "datei": "2026-11-05.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-05T15:22+01:00",
+   "coin": "MACRO",
+   "signal": "bearish",
+   "quelle": "FirstSquawk/IRIB",
+   "titel": "Iran: zwei Tanker Hormus in Brand nach Minen",
+   "text": "Nur IRIB/Squawk; kein UKMTO/CENTCOM/Reuters-Confirm in Fenster",
+   "datei": "2026-11-05.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-05T16:00+01:00",
+   "coin": "BTC",
+   "signal": "bearish",
+   "quelle": "Binance",
+   "titel": "Risk-off: BTC −2,4 %/1h mit Equity-Selloff",
+   "text": "NVDA −5,6 % TSLA −10 % NDX −3 %; BTC ~77.700",
+   "datei": "2026-11-05.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-05T16:00+01:00",
+   "coin": "SCOUT",
+   "signal": "neutral",
+   "quelle": "DexScreener",
+   "titel": "Kein neuer Blocker; RICO unverändert",
+   "text": "JOB −10,5 % Liq; HELL −8,5 %; GATO −7,6 %; kein PoR",
    "datei": "2026-11-05.csv"
   },
   {
@@ -4521,19 +4562,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-05 15:49:38",
-   "tokens": 125,
-   "paar": 123,
+   "t": "2026-11-05 16:03:27",
+   "tokens": 123,
+   "paar": 121,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 388,
-   "tokens": 48825,
-   "paar": 47840,
+   "runden": 399,
+   "tokens": 50162,
+   "paar": 49152,
    "vor": 15,
-   "kandidaten_zeilen": 2616,
+   "kandidaten_zeilen": 2635,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -4542,11 +4583,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1495
+    1511
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    804
+    805
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -4554,7 +4595,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    58
+    60
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -4615,7 +4656,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-05.csv",
-   "zeit": "2026-11-05T15:01:38+01:00"
+   "zeit": "2026-11-05T16:02:41+01:00"
   },
   {
    "name": "Kadabra",
@@ -4631,7 +4672,7 @@
    "farbe": "#F59E0B",
    "form": "shield",
    "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-11-05T13:08:57+01:00"
+   "zeit": "2026-11-05T16:03:23+01:00"
   },
   {
    "name": "Mauzi",
@@ -4647,7 +4688,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-05T15:49:38+01:00"
+   "zeit": "2026-11-05T16:03:27+01:00"
   },
   {
    "name": "Magnayen",
@@ -4659,66 +4700,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-05T14:11:02",
-   "SCAN",
-   "Runde: 125 Tokens, 119 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 1, gekauft 0, Dauer 22 s"
-  ],
-  [
-   "2026-11-05T14:11:50",
-   "RISK",
-   "BLOCK DESSA: rugcheck.py: BLOCK – 9c Manueller BLOCK ✗ (Panzaeron 05.11. 09:25: nach Crash-Sperre Zusatzbedingung verletzt (04.11. −3"
-  ],
-  [
-   "2026-11-05T14:11:58",
-   "SCAN",
-   "Runde: 125 Tokens, 120 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 1, gekauft 0, Dauer 18 s"
-  ],
-  [
-   "2026-11-05T14:12:50",
-   "RISK",
-   "BLOCK DESSA: rugcheck.py: BLOCK – 9c Manueller BLOCK ✗ (Panzaeron 05.11. 09:25: nach Crash-Sperre Zusatzbedingung verletzt (04.11. −3"
-  ],
-  [
-   "2026-11-05T14:13:08",
-   "SCAN",
-   "Runde: 124 Tokens, 119 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 1, gekauft 0, Dauer 27 s"
-  ],
-  [
-   "2026-11-05T14:13:50",
-   "SCAN",
-   "Runde: 127 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:14:50",
-   "SCAN",
-   "Runde: 128 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:15:50",
-   "RISK",
-   "BLOCK DESSA: rugcheck.py: BLOCK – 9c Manueller BLOCK ✗ (Panzaeron 05.11. 09:25: nach Crash-Sperre Zusatzbedingung verletzt (04.11. −3"
-  ],
-  [
-   "2026-11-05T14:16:07",
-   "SCAN",
-   "Runde: 128 Tokens, 120 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 1, gekauft 0, Dauer 27 s"
-  ],
-  [
-   "2026-11-05T14:16:50",
-   "SCAN",
-   "Runde: 128 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:17:50",
-   "SCAN",
-   "Runde: 115 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:18:50",
-   "SCAN",
-   "Runde: 130 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-05T14:19:50",
    "SCAN",
@@ -4958,6 +4939,66 @@
    "2026-11-05T15:49:38",
    "SCAN",
    "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:50:38",
+   "SCAN",
+   "Runde: 123 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:51:38",
+   "SCAN",
+   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:52:38",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:53:38",
+   "SCAN",
+   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:54:38",
+   "SCAN",
+   "Runde: 115 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:58:17",
+   "RISK",
+   "supervisor: Box war 198 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T15:58:27",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:59:26",
+   "SCAN",
+   "Runde: 106 Tokens, 104 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T16:00:27",
+   "SCAN",
+   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T16:01:27",
+   "SCAN",
+   "Runde: 122 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T16:02:27",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-05T16:03:27",
+   "SCAN",
+   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -4975,5 +5016,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-05T15:49:38+01:00"
+ "daten_neuest": "2026-11-05T16:03:27+01:00"
 }

@@ -4521,19 +4521,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-05 15:24:11",
-   "tokens": 129,
-   "paar": 122,
+   "t": "2026-11-05 15:49:38",
+   "tokens": 125,
+   "paar": 123,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 378,
-   "tokens": 47555,
-   "paar": 46608,
+   "runden": 388,
+   "tokens": 48825,
+   "paar": 47840,
    "vor": 15,
-   "kandidaten_zeilen": 2520,
+   "kandidaten_zeilen": 2616,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -4542,23 +4542,23 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1438
+    1495
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    780
+    804
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    189
+    198
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    56
+    58
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
-    19
+    21
    ]
   ]
  },
@@ -4646,8 +4646,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-05T15:24:11+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-05T15:49:38+01:00"
   },
   {
    "name": "Magnayen",
@@ -4659,76 +4659,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-05T13:57:50",
-   "SCAN",
-   "Runde: 124 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T13:58:50",
-   "SCAN",
-   "Runde: 121 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T13:59:50",
-   "SCAN",
-   "Runde: 124 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:00:50",
-   "SCAN",
-   "Runde: 128 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:01:50",
-   "SCAN",
-   "Runde: 129 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:02:50",
-   "SCAN",
-   "Runde: 129 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:03:50",
-   "SCAN",
-   "Runde: 127 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:04:50",
-   "SCAN",
-   "Runde: 123 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:05:50",
-   "SCAN",
-   "Runde: 125 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:06:50",
-   "SCAN",
-   "Runde: 126 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:07:50",
-   "SCAN",
-   "Runde: 127 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:08:50",
-   "SCAN",
-   "Runde: 127 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:09:50",
-   "SCAN",
-   "Runde: 129 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T14:10:50",
-   "RISK",
-   "BLOCK DESSA: rugcheck.py: BLOCK – 9c Manueller BLOCK ✗ (Panzaeron 05.11. 09:25: nach Crash-Sperre Zusatzbedingung verletzt (04.11. −3"
-  ],
   [
    "2026-11-05T14:11:02",
    "SCAN",
@@ -4958,6 +4888,76 @@
    "2026-11-05T15:24:11",
    "SCAN",
    "Runde: 129 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:25:10",
+   "SCAN",
+   "Runde: 129 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:26:10",
+   "SCAN",
+   "Runde: 129 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:27:10",
+   "SCAN",
+   "Runde: 129 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:28:10",
+   "SCAN",
+   "Runde: 129 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:35:06",
+   "RISK",
+   "supervisor: Box war 405 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T15:35:16",
+   "SCAN",
+   "Runde: 123 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:38:15",
+   "RISK",
+   "supervisor: Box war 189 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T15:38:58",
+   "SCAN",
+   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:39:58",
+   "SCAN",
+   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:40:58",
+   "SCAN",
+   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:45:36",
+   "RISK",
+   "supervisor: Box war 241 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T15:45:46",
+   "SCAN",
+   "Runde: 127 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-05T15:48:59",
+   "RISK",
+   "supervisor: Box war 203 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-05T15:49:38",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -4975,5 +4975,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-05T15:24:11+01:00"
+ "daten_neuest": "2026-11-05T15:49:38+01:00"
 }

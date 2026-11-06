@@ -1,5 +1,5 @@
 {
- "stand_daten": "06.11.2026 02:08",
+ "stand_daten": "06.11.2026 05:10",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -2769,9 +2769,79 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-06T05:07+01:00",
+   "coin": "JOB",
+   "ca": "9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump",
+   "posts_1h": "2",
+   "trend_pct": "-78",
+   "top_engagement": "L4/R1 (@Yoshikogreat01)",
+   "grosse_accounts": "keine (>50k)",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "3",
+   "quelle_links": "https://x.com/Yoshikogreat01/status/2118551943932956707",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-11-06T05:07+01:00",
+   "coin": "GATO",
+   "ca": "HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump",
+   "posts_1h": "5",
+   "trend_pct": "+50",
+   "top_engagement": "L11/R3 (@Dexconer)",
+   "grosse_accounts": "@Dexconer ~155k",
+   "stimmung": "leicht positiv",
+   "shill_verdacht": "teilweise: Template/Airdrop-Accounts",
+   "score_0_10": "4",
+   "quelle_links": "https://x.com/Dexconer/status/2118526257633661382",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-11-06T05:07+01:00",
+   "coin": "HELL",
+   "ca": "A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump",
+   "posts_1h": "0",
+   "trend_pct": "-100",
+   "top_engagement": "L0 (Template)",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja: Airdrop/Template-Bots",
+   "score_0_10": "2",
+   "quelle_links": "https://x.com/MainnetSageX/status/2118537491934589356",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-11-06T05:07+01:00",
+   "coin": "RICO",
+   "ca": "8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump",
+   "posts_1h": "0",
+   "trend_pct": "-100",
+   "top_engagement": "L1 (@PGX_69)",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "nein",
+   "score_0_10": "2",
+   "quelle_links": "https://x.com/PGX_69/status/2118550421824495710",
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "zeit": "2026-11-06T05:07+01:00",
+   "coin": "JEANPHIL",
+   "ca": "GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump",
+   "posts_1h": "0",
+   "trend_pct": "n/a",
+   "top_engagement": "L1",
+   "grosse_accounts": "keine",
+   "stimmung": "neutral",
+   "shill_verdacht": "ja: Template/Airdrop",
+   "score_0_10": "2",
+   "quelle_links": "https://x.com/MainnetSageX/status/2118539934596514125",
+   "datei": "x-stimmung.csv"
+  },
+  {
    "datei": "2026-11-06.md",
    "titel": "News-Scans 06.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
-   "text": "- **CENTCOM/UKMTO:** **keine Posts** seit 05.11. 23:05. Kein Hormus-Sachupdate. Stand unverändert (Reuters 16:40; JMIC 111; 7 Bedingungen).\n- **Lage entspannt? Nein.** Reuters/Squawk ~01:50–01:55: Iran Nuklearvorschlag via Katar an Washington (Wiederholung/Bestätigung des gestrigen Offizielle-Statements) — Hormus weiter an Bedingungen gebunden. Keine Ceasefire-/De-escalation-Meldung.\n- **Markt ruhig: ja (mit Dip).** BTC seit ~76.004 → Tief ~75.208 (00:00–00:15) → Erholung ~76.377. Overnight 1h-Ranges max **1,2 %** (00:00); sonst &lt;0,7 %. Kein &gt;3 %/1h. **KAUF_PAUSE hält** (Aufhebung: ruhig über mehrere Stunden **und** klare Lage-Entspannung — geo-Teil fehlt).\n- **Makro heute:** US NFP **14:30** noch offen.\n- **Scout:** Freigaben aus scout-2026-11-05 laufen **06.11. 09:05** ab; DESSA man. bis **06.11. 09:00**; WASTED bis 07.11. 07:00.\n- **Kein neuer Blocker.** RICO unverändert (Sperre bis 08.11. 13:08; Liq ~24,8k / −54 % vs Scout). HELL −11 %, NEET/TROLL ~−8 % Liq — unter −30 %.\n- Kurse ~02:08: BTC 76.377 (−5,2 %), ETH 2.247,74 (−7,1 %), SOL 90,50 (−5,5 %), BNB 694,80 (−3,1 %).\n- Keine neuen Paper-Trades (KAUF_PAUSE)."
+   "text": "- **CENTCOM/UKMTO Hormus:** **keine Posts** seit 02:08. Kein Sachupdate, kein Dementi, kein Ceasefire.\n- **Reuters/Hormus seit 02:08:** **nichts Neues** zu Tankern/Hormus (Hormus-Suchfenster leer). Stand unverändert: Reuters 05.11. 16:40 „Tankers hit in Hormuz“; Rezaei 7 Bedingungen; UKMTO 196-26 = Katar ≠ Hormus.\n- **Lage entspannt? Nein.** Zusätzlich: Brent >100 $/bbl (FirstSquawk ~04:40) — Ölspannung, keine Entspannung.\n- **Markt ruhig: ja.** BTC ~76.377 → ~75.724 (−0,9 %); 1h-Ranges 02–05 Uhr max **0,7 %**. **KAUF_PAUSE hält** (geo-Aufhebung fehlt).\n- **Makro:** US NFP **14:30** weiter offen.\n- **Scout:** `scout-2026-11-06.md` **existiert nicht**. Freigaben weiter aus scout-2026-11-05.md, Ablauf **09:05**. DESSA man. bis **09:00**. WASTED bis 07.11. 07:00. RICO Crash bis 08.11. 13:08.\n- **Kein neuer Blocker** unter gültigen Freigaben. RICO Status unverändert (−55 % Liq / −80 % 24h, bereits gesperrt). Sonstige Freigaben Liq −5 bis −10 % (TROLL −10 %). GATO Liq +6 % / 24h +10 %. HELL/JEANPHIL Jupiter-Impact (0,1 SOL) ≪1 %.\n- **X (CA-only, seit 02:08 UTC≈03:08 Berlin):** JOB 11 Posts (9→2/h, Trend −), GATO 13 (8→2→3), HELL 6, RICO 3, JEANPHIL 2. Auffällig: GATO ein Account >50k (@Dexconer ~155k, L11); sonst Template/Airdrop-Buzz (Shill). Kandidaten 2h: nur aussortiert, keine Schatten.\n- Kurse ~05:08: BTC 75.724 (−5,9 %), ETH 2.229,99 (−7,9 %), SOL 89,48 (−6,9 %), BNB 693,01 (−3,0 %).\n- Keine Listings/Solana-Öko-Kaufsignale. Cointelegraph: BNB Reth-Client Flaw limited impact."
   },
   {
    "zeitpunkt": "2026-11-06T02:00+01:00",
@@ -2798,6 +2868,33 @@
    "quelle": "Binance",
    "titel": "Markt ruhig mit Dip: BTC ~76.377",
    "text": "Overnight Tief ~75.208; max 1h-Range 1,2 %; kein neuer Blocker; Scout-Freigaben bis 09:05",
+   "datei": "2026-11-06.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-06T05:07+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "CENTCOM/UK_MTO/Reuters",
+   "titel": "Kein Hormus-Update seit 02:08; Lage nicht entspannt",
+   "text": "CENTCOM/UKMTO still; Reuters Hormus-Fenster leer; Brent >100 Squawk; KAUF_PAUSE hält",
+   "datei": "2026-11-06.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-06T05:08+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "Binance",
+   "titel": "Markt ruhig: BTC ~75.724",
+   "text": "vs 76.377 −0,9 %; 1h-Ranges ≤0,7 %; NFP 14:30 offen",
+   "datei": "2026-11-06.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-06T05:08+01:00",
+   "coin": "SCOUT",
+   "signal": "neutral",
+   "quelle": "DexScreener",
+   "titel": "Kein neuer Blocker; scout-06 fehlt",
+   "text": "Freigaben scout-05 bis 09:05; RICO unverändert gesperrt; TROLL Liq −10 %",
    "datei": "2026-11-06.csv"
   },
   {
@@ -4859,19 +4956,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-06 04:04:53",
-   "tokens": 118,
-   "paar": 118,
+   "t": "2026-11-06 05:13:29",
+   "tokens": 112,
+   "paar": 112,
    "vor": 0,
    "offen": 0,
    "schatten": 1
   },
   "heute": {
-   "runden": 53,
-   "tokens": 6279,
-   "paar": 6206,
+   "runden": 64,
+   "tokens": 7579,
+   "paar": 7505,
    "vor": 4,
-   "kandidaten_zeilen": 517,
+   "kandidaten_zeilen": 601,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -4880,15 +4977,15 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    305
+    354
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    149
+    176
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    40
+    47
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -4952,8 +5049,8 @@
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/x-stimmung.csv",
-   "zeit": "2026-11-06T02:08:21+01:00"
+   "letzte_datei": "krypto/news/2026-11-06.csv",
+   "zeit": "2026-11-06T05:10:10+01:00"
   },
   {
    "name": "Kadabra",
@@ -4984,8 +5081,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-06T04:59:13+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-06T05:13:30+01:00"
   },
   {
    "name": "Magnayen",
@@ -4997,66 +5094,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-06T00:17:41",
-   "RISK",
-   "supervisor: Box war 63 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-06T00:42:17",
-   "RISK",
-   "supervisor: Box war 1476 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-06T00:42:20",
-   "RISK",
-   "BLOCK AMD: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Insider-Netzwerke (≤50 Wallets) 20.4 % ≥ 5 %; Dev-Konto leer (W"
-  ],
-  [
-   "2026-11-06T00:42:22",
-   "SCAN",
-   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 27 s"
-  ],
-  [
-   "2026-11-06T00:43:06",
-   "RISK",
-   "BLOCK AMD: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Insider-Netzwerke (≤50 Wallets) 20.4 % ≥ 5 %; Dev-Konto leer (W"
-  ],
-  [
-   "2026-11-06T00:43:07",
-   "SCAN",
-   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-06T00:44:06",
-   "RISK",
-   "BLOCK AMD: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Insider-Netzwerke (≤50 Wallets) 20.4 % ≥ 5 %; Dev-Konto leer (W"
-  ],
-  [
-   "2026-11-06T00:44:07",
-   "SCAN",
-   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-06T00:45:06",
-   "SCAN",
-   "Runde: 122 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-06T00:47:54",
-   "RISK",
-   "supervisor: Box war 157 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-06T00:48:04",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-06T01:07:54",
-   "RISK",
-   "supervisor: Box war 1200 s eingefroren – neue Frist 180 s"
-  ],
   [
    "2026-11-06T01:08:39",
    "SCAN",
@@ -5296,6 +5333,66 @@
    "2026-11-06T04:59:13",
    "RISK",
    "supervisor: Box war 3230 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-06T04:59:24",
+   "SCAN",
+   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
+  ],
+  [
+   "2026-11-06T05:00:23",
+   "SCAN",
+   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T05:01:23",
+   "SCAN",
+   "Runde: 124 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T05:03:00",
+   "SCAN",
+   "Runde: 124 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 48 s"
+  ],
+  [
+   "2026-11-06T05:07:18",
+   "RISK",
+   "supervisor: Box war 259 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-06T05:07:29",
+   "SCAN",
+   "Runde: 108 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T05:08:29",
+   "SCAN",
+   "Runde: 108 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T05:09:29",
+   "SCAN",
+   "Runde: 112 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T05:10:30",
+   "SCAN",
+   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T05:11:30",
+   "SCAN",
+   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T05:12:29",
+   "SCAN",
+   "Runde: 114 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T05:13:29",
+   "SCAN",
+   "Runde: 112 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -5313,5 +5410,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-06T04:59:13+01:00"
+ "daten_neuest": "2026-11-06T05:13:30+01:00"
 }

@@ -5145,32 +5145,32 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-06 20:49:14",
-   "tokens": 105,
-   "paar": 102,
-   "vor": 0,
+   "t": "2026-11-06 20:59:16",
+   "tokens": 109,
+   "paar": 108,
+   "vor": 1,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 599,
-   "tokens": 70666,
-   "paar": 69691,
-   "vor": 11,
-   "kandidaten_zeilen": 3160,
+   "runden": 609,
+   "tokens": 71842,
+   "paar": 70841,
+   "vor": 14,
+   "kandidaten_zeilen": 3185,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
-   "block": 6
+   "block": 9
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1926
+    1946
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    850
+    851
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -5271,7 +5271,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-06T20:49:15+01:00"
+   "zeit": "2026-11-06T20:59:16+01:00"
   },
   {
    "name": "Magnayen",
@@ -5283,71 +5283,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-06T19:40:55",
-   "SCAN",
-   "Runde: 126 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-06T19:41:54",
-   "SCAN",
-   "Runde: 126 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-06T19:42:55",
-   "SCAN",
-   "Runde: 128 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-06T19:43:54",
-   "SCAN",
-   "Runde: 126 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-06T19:45:08",
-   "SCAN",
-   "Runde: 128 Tokens, 125 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 24 s"
-  ],
-  [
-   "2026-11-06T19:45:55",
-   "SCAN",
-   "Runde: 127 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-06T19:46:54",
-   "SCAN",
-   "Runde: 127 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-06T19:47:55",
-   "SCAN",
-   "Runde: 126 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-06T19:48:55",
-   "SCAN",
-   "Runde: 122 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-06T19:49:54",
-   "SCAN",
-   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-06T19:50:54",
-   "SCAN",
-   "Runde: 111 Tokens, 107 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-06T19:51:55",
-   "SCAN",
-   "Runde: 126 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-06T19:52:55",
-   "SCAN",
-   "Runde: 125 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-06T19:53:54",
    "SCAN",
@@ -5582,6 +5517,71 @@
    "2026-11-06T20:49:14",
    "SCAN",
    "Runde: 105 Tokens, 102 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-06T20:50:16",
+   "SCAN",
+   "Runde: 125 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
+  ],
+  [
+   "2026-11-06T20:51:15",
+   "SCAN",
+   "Runde: 113 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T20:52:14",
+   "SCAN",
+   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-06T20:53:14",
+   "SCAN",
+   "Runde: 105 Tokens, 103 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-06T20:54:15",
+   "SCAN",
+   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T20:55:14",
+   "SCAN",
+   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-06T20:56:17",
+   "SCAN",
+   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 13 s"
+  ],
+  [
+   "2026-11-06T20:57:14",
+   "RISK",
+   "BLOCK Rocco: Insider-Netzwerke (≤50 Wallets) 16.6 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-06T20:57:16",
+   "SCAN",
+   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
+  ],
+  [
+   "2026-11-06T20:58:14",
+   "RISK",
+   "BLOCK Rocco: Insider-Netzwerke (≤50 Wallets) 16.6 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-06T20:58:15",
+   "SCAN",
+   "Runde: 109 Tokens, 108 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T20:59:14",
+   "RISK",
+   "BLOCK Rocco: Insider-Netzwerke (≤50 Wallets) 16.6 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-06T20:59:16",
+   "SCAN",
+   "Runde: 109 Tokens, 108 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
   ]
  ],
  "trefferquote": {
@@ -5599,5 +5599,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-06T20:49:15+01:00"
+ "daten_neuest": "2026-11-06T20:59:16+01:00"
 }

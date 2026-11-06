@@ -1,5 +1,5 @@
 {
- "stand_daten": "06.11.2026 01:24",
+ "stand_daten": "06.11.2026 02:08",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -2755,6 +2755,52 @@
    "datei": "x-stimmung.csv"
   },
   {
+   "zeit": "2026-11-06T02:00+01:00",
+   "coin": "BTC",
+   "ca": "",
+   "posts_1h": "kein CENTCOM/UKMTO; Markt ruhig ~76",
+   "trend_pct": "4k (Dip ~75",
+   "top_engagement": "2k); Lage geo nicht entspannt; KAUF_PAUSE; NFP 14:30 offen",
+   "grosse_accounts": null,
+   "stimmung": null,
+   "shill_verdacht": null,
+   "score_0_10": null,
+   "quelle_links": null,
+   "datei": "x-stimmung.csv"
+  },
+  {
+   "datei": "2026-11-06.md",
+   "titel": "News-Scans 06.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
+   "text": "- **CENTCOM/UKMTO:** **keine Posts** seit 05.11. 23:05. Kein Hormus-Sachupdate. Stand unverändert (Reuters 16:40; JMIC 111; 7 Bedingungen).\n- **Lage entspannt? Nein.** Reuters/Squawk ~01:50–01:55: Iran Nuklearvorschlag via Katar an Washington (Wiederholung/Bestätigung des gestrigen Offizielle-Statements) — Hormus weiter an Bedingungen gebunden. Keine Ceasefire-/De-escalation-Meldung.\n- **Markt ruhig: ja (mit Dip).** BTC seit ~76.004 → Tief ~75.208 (00:00–00:15) → Erholung ~76.377. Overnight 1h-Ranges max **1,2 %** (00:00); sonst &lt;0,7 %. Kein &gt;3 %/1h. **KAUF_PAUSE hält** (Aufhebung: ruhig über mehrere Stunden **und** klare Lage-Entspannung — geo-Teil fehlt).\n- **Makro heute:** US NFP **14:30** noch offen.\n- **Scout:** Freigaben aus scout-2026-11-05 laufen **06.11. 09:05** ab; DESSA man. bis **06.11. 09:00**; WASTED bis 07.11. 07:00.\n- **Kein neuer Blocker.** RICO unverändert (Sperre bis 08.11. 13:08; Liq ~24,8k / −54 % vs Scout). HELL −11 %, NEET/TROLL ~−8 % Liq — unter −30 %.\n- Kurse ~02:08: BTC 76.377 (−5,2 %), ETH 2.247,74 (−7,1 %), SOL 90,50 (−5,5 %), BNB 694,80 (−3,1 %).\n- Keine neuen Paper-Trades (KAUF_PAUSE)."
+  },
+  {
+   "zeitpunkt": "2026-11-06T02:00+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "CENTCOM/UK_MTO",
+   "titel": "Kein CENTCOM/UKMTO seit 23:05; Lage nicht entspannt",
+   "text": "Hormus-Stand unverändert; Iran-Vorschlag via Katar wiederholt; KAUF_PAUSE hält",
+   "datei": "2026-11-06.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-06T02:00+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "Kalender",
+   "titel": "US NFP 14:30 noch offen",
+   "text": "Tagesfokus Makro",
+   "datei": "2026-11-06.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-06T02:08+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "Binance",
+   "titel": "Markt ruhig mit Dip: BTC ~76.377",
+   "text": "Overnight Tief ~75.208; max 1h-Range 1,2 %; kein neuer Blocker; Scout-Freigaben bis 09:05",
+   "datei": "2026-11-06.csv"
+  },
+  {
    "datei": "2026-11-05.md",
    "titel": "News-Scans 05.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
    "text": "- **CENTCOM/UKMTO Hormus:** **kein Sachupdate.** CENTCOM 22:01: Foto USS Ross / MH-60R Arabian Sea — **kein** Tanker-/Hormus-Statement. **UKMTO:** keine Posts.\n- **Lage entspannt? Nein.** Keine De-escalation; Hormus-Stand unverändert (Reuters 16:40; JMIC 111; 7 Bedingungen).\n- **Markt ruhig: ja.** BTC ~76.207 → ~76.004 (−0,3 %); Range ab 22:00 ≈ **0,6 %**. **KAUF_PAUSE hält.**\n- **Kein neuer Blocker.** RICO unverändert (Sperre bis 08.11. 13:08; Liq ~25,7k / −52 % vs Scout). HELL −11 % Liq, PENGU/TROLL ~−8 % — unter −30 %. DESSA man. bis 06.11. 09:00; WASTED bis 07.11. 07:00; Freigaben bis 06.11. 09:05.\n- Kurse ~23:05: BTC 76.004 (−5,3 %), ETH 2.236,26 (−7,6 %), SOL 90,02 (−5,2 %), BNB 689,25 (−4,1 %).\n- Keine neuen Paper-Trades (KAUF_PAUSE).\n- **CENTCOM/UKMTO:** **keine Posts** seit 21:07. Kein Hormus-Sachupdate. Stand unverändert (Reuters 16:40; JMIC 111; 7 Bedingungen).\n- **Lage entspannt? Nein.** Keine De-escalation-/Ceasefire-Meldung in Squawk/Reuters/AP/DeItaone im Fenster.\n- **Markt ruhig: ja.** BTC ~76.296 → ~76.207 (−0,1 %); Range ab 21:05 ≈ **0,6 %**. **KAUF_PAUSE hält.**\n- **Kein neuer Blocker.** RICO unverändert (Sperre bis 08.11. 13:08; Liq ~24,0k / −55 % vs Scout). Sonstige Scout-Freigaben ohne −30 %/ −50 %-Schwelle. DESSA man. bis 06.11. 09:00; WASTED bis 07.11. 07:00; Freigaben bis 06.11. 09:05.\n- Kurse ~22:00: BTC 76.207 (−4,9 %), ETH 2.250,30 (−7,0 %), SOL 90,00 (−5,1 %), BNB 692,13 (−3,4 %).\n- Keine neuen Paper-Trades (KAUF_PAUSE).\n- **CENTCOM/UKMTO Hormus:*"
@@ -4813,19 +4859,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-06 01:33:56",
-   "tokens": 113,
-   "paar": 112,
+   "t": "2026-11-06 02:11:09",
+   "tokens": 122,
+   "paar": 121,
    "vor": 0,
    "offen": 0,
-   "schatten": 0
+   "schatten": 1
   },
   "heute": {
-   "runden": 27,
-   "tokens": 3253,
-   "paar": 3191,
-   "vor": 3,
-   "kandidaten_zeilen": 261,
+   "runden": 37,
+   "tokens": 4440,
+   "paar": 4371,
+   "vor": 4,
+   "kandidaten_zeilen": 338,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -4834,22 +4880,22 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    157
+    197
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    71
+    99
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    20
-   ],
-   [
-    "Vorfilter: Momentum #m -# % außerhalb +#+# %",
-    4
+    26
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
+    6
+   ],
+   [
+    "Vorfilter: Momentum #m -# % außerhalb +#+# %",
     4
    ]
   ]
@@ -4906,8 +4952,8 @@
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/2026-11-05.csv",
-   "zeit": "2026-11-05T23:05:14+01:00"
+   "letzte_datei": "krypto/news/x-stimmung.csv",
+   "zeit": "2026-11-06T02:08:21+01:00"
   },
   {
    "name": "Kadabra",
@@ -4938,8 +4984,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-06T02:01:24+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-06T02:11:10+01:00"
   },
   {
    "name": "Magnayen",
@@ -4951,61 +4997,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-05T22:12:03",
-   "SCAN",
-   "Runde: 126 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T22:13:03",
-   "SCAN",
-   "Runde: 113 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T22:14:03",
-   "SCAN",
-   "Runde: 112 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T22:17:18",
-   "RISK",
-   "supervisor: Box war 173 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-05T23:02:46",
-   "RISK",
-   "supervisor: Box war 2728 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-05T23:02:48",
-   "SCAN",
-   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 26 s"
-  ],
-  [
-   "2026-11-05T23:03:32",
-   "SCAN",
-   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T23:04:32",
-   "SCAN",
-   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T23:05:32",
-   "SCAN",
-   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T23:06:32",
-   "SCAN",
-   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-05T23:07:32",
-   "SCAN",
-   "Runde: 124 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-05T23:08:32",
    "SCAN",
@@ -5250,6 +5241,61 @@
    "2026-11-06T02:01:24",
    "RISK",
    "supervisor: Box war 1658 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-06T02:02:08",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-06T02:03:08",
+   "SCAN",
+   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-06T02:04:16",
+   "SKIP",
+   "SCHATTEN KAUF CARDS CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp @ 0.2628"
+  ],
+  [
+   "2026-11-06T02:04:16",
+   "SCAN",
+   "Runde: 103 Tokens, 102 mit Paar, Vorfilter ok 1, offen 0, Schatten 1, nach Checks 1, gekauft 0, KAUF_PAUSE aktiv, Dauer 18 s"
+  ],
+  [
+   "2026-11-06T02:05:09",
+   "SCAN",
+   "Runde: 115 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T02:06:09",
+   "SCAN",
+   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T02:07:09",
+   "SCAN",
+   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T02:08:09",
+   "SCAN",
+   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T02:09:09",
+   "SCAN",
+   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T02:10:09",
+   "SCAN",
+   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-06T02:11:09",
+   "SCAN",
+   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -5267,5 +5313,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-06T02:01:24+01:00"
+ "daten_neuest": "2026-11-06T02:11:10+01:00"
 }

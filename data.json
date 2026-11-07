@@ -5145,32 +5145,32 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-07 06:31:28",
-   "tokens": 122,
-   "paar": 120,
+   "t": "2026-11-07 06:41:28",
+   "tokens": 125,
+   "paar": 123,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 47,
-   "tokens": 5815,
-   "paar": 5696,
-   "vor": 3,
-   "kandidaten_zeilen": 467,
+   "runden": 57,
+   "tokens": 7050,
+   "paar": 6905,
+   "vor": 6,
+   "kandidaten_zeilen": 491,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
-   "block": 2
+   "block": 5
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    260
+    275
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    155
+    158
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -5178,7 +5178,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    8
+    10
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -5271,7 +5271,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-07T06:31:28+01:00"
+   "zeit": "2026-11-07T06:41:28+01:00"
   },
   {
    "name": "Magnayen",
@@ -5283,71 +5283,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-06T23:39:41",
-   "RISK",
-   "BLACKLIST Dev WLHv2UAZm6z4KyaaELi5pjdbJh6RESMva1Rnn8pJVVh (FI): Kurs 6.06e-05 vs 0.0004147 / Liq 50995 $"
-  ],
-  [
-   "2026-11-06T23:40:40",
-   "SCAN",
-   "Runde: 129 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-07T00:21:27",
-   "RISK",
-   "supervisor: Box war 2412 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-07T00:21:37",
-   "RISK",
-   "BLOCK COGE: Dev-Wallet jünger als 7 Tage (älteste Tx vor 32.9 h, 34 Tx); Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-07T00:21:40",
-   "SCAN",
-   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 14 s"
-  ],
-  [
-   "2026-11-07T00:22:37",
-   "RISK",
-   "BLOCK COGE: Dev-Wallet jünger als 7 Tage (älteste Tx vor 32.9 h, 34 Tx); Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-07T00:22:41",
-   "SCAN",
-   "Runde: 124 Tokens, 119 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 14 s"
-  ],
-  [
-   "2026-11-07T00:23:37",
-   "SCAN",
-   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-07T00:24:37",
-   "SCAN",
-   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-07T00:25:36",
-   "SCAN",
-   "Runde: 113 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-07T00:26:37",
-   "SCAN",
-   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-07T00:27:37",
-   "SCAN",
-   "Runde: 113 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-07T00:28:37",
-   "SCAN",
-   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-07T00:43:57",
    "RISK",
@@ -5582,6 +5517,71 @@
    "2026-11-07T06:31:28",
    "SCAN",
    "Runde: 122 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-07T06:32:28",
+   "SCAN",
+   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-07T06:33:28",
+   "SCAN",
+   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-07T06:34:28",
+   "SCAN",
+   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-07T06:35:28",
+   "SCAN",
+   "Runde: 126 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-07T06:36:29",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-07T06:37:28",
+   "SCAN",
+   "Runde: 121 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-07T06:38:28",
+   "RISK",
+   "BLOCK NETWORK: Insider-Netzwerke (≤50 Wallets) 6.3 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-07T06:38:31",
+   "SCAN",
+   "Runde: 123 Tokens, 118 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
+  ],
+  [
+   "2026-11-07T06:39:28",
+   "RISK",
+   "BLOCK NETWORK: Insider-Netzwerke (≤50 Wallets) 6.3 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-07T06:39:29",
+   "SCAN",
+   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-07T06:40:28",
+   "RISK",
+   "BLOCK NETWORK: Insider-Netzwerke (≤50 Wallets) 6.3 % ≥ 5 %; Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-07T06:40:30",
+   "SCAN",
+   "Runde: 122 Tokens, 120 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-07T06:41:28",
+   "SCAN",
+   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -5599,5 +5599,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-07T06:31:28+01:00"
+ "daten_neuest": "2026-11-07T06:41:28+01:00"
 }

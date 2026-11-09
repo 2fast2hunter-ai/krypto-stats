@@ -1,5 +1,5 @@
 {
- "stand_daten": "08.11.2026 09:16",
+ "stand_daten": "09.11.2026 09:14",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -161,8 +161,8 @@
   }
  },
  "scout": {
-  "datei": "scout-2026-11-08.md",
-  "quelle": "CoinGecko, DexScreener, RugCheck (tools/rugcheck.py), Jupiter, alternative.me, Solana-RPC, Binance 1h-Klines, Xatu news/2026-11-06.md + x-stimmung.csv (07.11.- und 08.11.-News fehlen); X search_news (Hormus, ergänzend); Abruf 08.11.2026 09:04–09:12 Berlin",
+  "datei": "scout-2026-11-09.md",
+  "quelle": "CoinGecko, DexScreener, RugCheck (tools/rugcheck.py), Jupiter, alternative.me, Binance 1h-Klines (data-api.binance.vision), X search_news (Krypto-Crash, Hormus); Xatu-News 07.–09.11. fehlen; Abruf 09.11.2026 09:04–09:12 Berlin",
   "majors": [
    [
     "Coin",
@@ -174,64 +174,67 @@
    ],
    [
     "BTC",
-    "75.872",
-    "−0,23 %",
-    "−2,67 %",
-    "10,44 Mrd",
-    "1.525,8 Mrd"
+    "73.725",
+    "−2,84 %",
+    "−5,55 %",
+    "24,20 Mrd",
+    "1.482,6 Mrd"
    ],
    [
     "ETH",
-    "2.237,75",
-    "−0,32 %",
-    "−1,29 %",
-    "4,05 Mrd",
-    "273,5 Mrd"
+    "2.090,33",
+    "−6,58 %",
+    "−8,46 %",
+    "12,21 Mrd",
+    "255,4 Mrd"
    ],
    [
     "SOL",
-    "89,20",
-    "−1,05 %",
-    "−6,59 %",
-    "0,86 Mrd",
-    "52,7 Mrd"
+    "85,47",
+    "−4,13 %",
+    "−9,46 %",
+    "2,42 Mrd",
+    "50,5 Mrd"
    ]
   ],
   "kandidaten": [],
   "ausschluss": [
    {
+    "coin": "**HELL** A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump",
+    "grund": "**Skript BLOCK** (09:05): Jupiter-Impact **4,01 % > 2 %** (gestern 0,00 %). Nur Pair HELL/AMD, Liq 125.984 $ (−9,7 %), 24h −17,7 %, Preis 0,002442 $. Link: https://dexscreener.com/solana/ewsyhiuznynqh5f65ypfsoqblq2kyetuvhm5un7wsfdg"
+   },
+   {
     "coin": "**WASTED** GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump",
-    "grund": "**Skript BLOCK** (09:06): Jupiter-Impact **2,08 % > 2 %**. Liq 90.887 $ (gestern 72.855 $, **+24,7 %** – fällt nicht weiter; auch über ~77 k am 05.11. und ~86 k am Crash). Preis 0,0008722 $, 24h **+57,8 %**, Top10 24,8/3,1 %, Insider 0 %, Creator 23.01.2026, nicht auf Blacklist. Crash-Zusatzbedingungen (Liq nicht fallend, kein neuer Tag ≤ −30 %) wären erfüllt, der Jupiter-Test nicht. Liq <100k → 3 % Slippage. Link: https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn"
+    "grund": "**Re-Check 09.11.**: Skript FREIGABE (09:05), Impact 1,69 % (gestern 2,08 %), Top10 25,3/3,1 %, Insider 0 %, Score 1. Aber: **Liq 85.087 $ vs 90.887 $ gestern (−6,4 %) → Crash-Zusatz „Liq nicht weiter fallend“ verletzt**; 24h −8,9 % (Rückgabe nach +57,8 %), Impact >1 % (kein meme-fast), Liq <100k → 3 % Slippage. Fiffyen-Empfehlung: nicht frei. Manueller Block lief 09.11. 09:00 ab – **Entscheidung Panzaeron**. Link: https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn"
+   },
+   {
+    "coin": "**MANIFEST** BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump",
+    "grund": "Skript FREIGABE (09:08), aber **Insider kleine Netze 82,66 %** (10 Transfer-Netze à 18–31 Wallets, größtes 24,3 %; Alter 176 d, Grenze 10 %) → BLOCK von Hand. Preis 0,003861 $, Vol 46.311 $, Liq 289.124 $, MCap 3,48 Mio, 24h −11,3 %. Link: https://dexscreener.com/solana/2dvbu5h8jcd37gaxajuz4t77hsjjw22lldutzk7gsa43"
    },
    {
     "coin": "**TRIPLET** J8PSdNP3QewKq2Z1JJJFDMaqF7KcaiJhR7gbr5KZpump",
-    "grund": "Skript FREIGABE (09:09), aber **Insider kleine Netze 10,41 %** (Alter 257 d, Grenze 10 %) → BLOCK von Hand. Liq 405.260 $, Preis 0,003621 $, 24h +16,2 %, MCap 3,62 Mio."
+    "grund": "manuell bis 15.11.; Insider weiter 10,41 %; Liq 346.584 $ (−14,5 %), 24h −24,9 %."
    },
    {
     "coin": "**DOPE** 33jENUQnjoitkMFpvNJcSHyLAHFWJuHwT6E3E8CNpump",
-    "grund": "Skript FREIGABE (09:10), aber **Insider 10,45 %** bei Alter 27,8 d (Grenze 5 %) → BLOCK von Hand. Zusätzlich 24h −36,1 %; Dev-Wallet-Alter per RPC nicht eindeutig (1000-Tx-Seite, älteste sichtbare Signatur 03.11. 10:08). Liq 131.346 $, Preis 0,001052 $, MCap 1,04 Mio."
+    "grund": "manuell bis 15.11.; Insider 10,45 % (28,8 d, Grenze 5 %); Liq 110.528 $ (−15,9 %), 24h −26,2 %."
    },
    {
     "coin": "**CATE** Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
-    "grund": "nicht erneut im Skript (manuell bis 14.11. 09:00). Insider heute erneut 12,74 % (Alter 105 d, Grenze 10 %) → BLOCK bleibt. Liq 1.917.459 $, Preis 0,03207 $, 24h −5,7 %, MCap 30,9 Mio."
+    "grund": "manuell bis 14.11.; Insider 12,74 %; Liq 1.807.489 $, 24h −7,0 %."
    },
    {
     "coin": "**RICO** 8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump",
-    "grund": "BLOCK: Crash-Sperre bis 10.11. 09:04 + manuell bis 05.12. 21:07 + Creator g2kai8M6… auf Blacklist + Liq 22.470 $ <50k. 24h +227 % (Tote-Katze nach gestern −70 %), Liq gestern 11.476 $ → heute 22.470 $."
-   },
-   {
-    "coin": "Nicht geprüft (Vorfilter): DexScreener-Boosts",
-    "grund": "Alice/GIGAHUG BWh8q5etuPwekJ2JEDkbMxMQWy4FysoJ8LEwE3rFpump Alter 0,48 d / +1974 %; JobCoin FevRmdX2AdU5227ihMKCi8YLQgeaEEmyrcUk3FUEpump Liq 2,3 k / −94 % / 0,30 d; Respect HxAyQ3CH4fpYE3gRAvaaDvbx4b1XyX87MyAGwgdipump Liq 49,3 k <50k / 0,31 d / +825 %; HOPE 4HqpRjsRS8pjdWa2B3mBAmNNxTXUeJ9L6AfFnRgipump Liq 22 k / 0,77 d. COGE 8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump steht seit 08.11. 00:49 auf der Dev-Blacklist. GREAT (TheTrumpToken, CG thetrumptoken) ohne Solana-Pair. 4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz bleibt der **andere** Token, nicht GATO."
+    "grund": "Crash-Sperre bis 10.11. 09:04 + manuell bis 05.12.; Creator auf Blacklist, Score 59 („Creator history of rugged tokens“), Liq 15.776 $ <50k, 24h −46,0 %."
    }
   ],
   "stimmung": [
-   "Fear & Greed **28 „Fear“** (alternative.me, 08.11. 01:00 Berlin; Vortag 25 „Extreme Fear“).",
-   "**KAUF_PAUSE aktiv** (Hormus bestätigt Reuters 05.11. 16:40). Aufhebung erst nach ruhigem Markt **und** klarer Lage-Entspannung – nur durch Panzaeron.",
-   "Markt-Teil der Aufhebung: letzte 12 h ruhig (Binance 1h-Range BTC max 0,26 %, ETH 0,45 %, SOL 0,73 %; Abruf 09:12 Berlin). Geo-Teil **fehlt**.",
-   "**News 07.11. und 08.11.: Xatu-Dateien fehlen** (Routine pausiert; neueste Datei news/2026-11-06.md / x-stimmung.csv Stand 06.11. 08:06). Keine Doppelrecherche der Xatu-Inhalte vom 06.11.",
-   "Ergänzend X search_news 08.11. ~09:08 Berlin (Zusammenfassungen, verifizieren): Hormus/Tanker weiter Thema; Story „UAE Rescues 22 from Burning Cargo Ship“ Update 08.11. 07:53 Berlin mit widersprüchlichen Angaben (Iran: Minen nahe Hormus vs. CENTCOM: US-Kräfte hätten das Schiff deaktiviert). Weitere Stories zu Transit-Ausnahmen und Kabel-Sorgen im Golf, Updates überwiegend 06.–07.11. **Kein Dementi, keine klare Entspannung.** Als Gerücht/unbestätigt zu behandeln, soweit nicht von Reuters/CENTCOM/UKMTO gedeckt.",
-   "Xatu 06.11. (unverändert gültiger letzter Scan): kein CENTCOM/UKMTO-Update/Dementi; FT-Verhandlungsstück **Gerücht**.",
-   "CoinGecko /search/trending (09:05): einzige Solana-Meme PENGU; daneben BTC, KNTQ, PEARL, NEAR, HYPE, ZEC, AERO, BEAM, QTC, PONS, INJ, UNI, AAVE."
+   "Fear & Greed **29 „Fear“** (alternative.me, 09.11. 01:00 Berlin; Vortag 28).",
+   "**KAUF_PAUSE aktiv** (Hormus). Markt-Teil **verletzt** (Binance 1h-Spannen letzte 12 h: BTC 3,10 %, ETH 8,17 %, SOL 4,94 % – alle in der Kerze 08.11. 22:00 Berlin; Abruf 09:06). Geo-Teil **fehlt**.",
+   "X search_news 09.11. ~09:10 Berlin (X-Zusammenfassungen, **verifizieren**): „Bitcoin Flash Crash Liquidates $1 Billion in 10 Minutes“ (Update 09:04 Berlin) – Auslöser laut Posts Abverkauf bei Tech/AI-Aktien, BTC kurz ~74 k, ETH <2.125; Longs ~913 Mio $ liquidiert, dünne Wochenend-Liquidität. ETF-Abflüsse ETH ~365 Mio $ (Gerücht/unbestätigt). Binance stellt weitere Netzwerke nach dem Hack wieder her (HYPE/APT).",
+   "Hormus (X search_news, Updates 08.11.–09.11. 09:04 Berlin): IRGC meldet drei brennende Tanker am 08.11.; CENTCOM soll am 07.11. einen Tanker wegen Blockadebruch außer Gefecht gesetzt haben; Berichte über US-Schläge auf Qeshm und Drohnenangriff auf Khor-Mor-Gasfeld (Irak). Trump im Interview: Krieg mit Iran „unwahrscheinlich“, Gespräche laufen. **Keine Entspannung**, Details unbestätigt (nicht durch Reuters/UKMTO geprüft).",
+   "Meme-Risiko (X, 08.11.): KOL „Slingoorio“ dumpte 62,6 % von „Big Titty Coin“ in 42 s – Beispiel für KOL-Rug-Risiko bei pump.fun-Coins (nicht in unserer Liste).",
+   "**Xatu-News 07.–09.11. fehlen** (neueste news/2026-11-06.md; x-stimmung.csv Stand 06.11.)."
   ]
  },
  "backtest": {
@@ -5154,19 +5157,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-09 09:08:24",
-   "tokens": 118,
-   "paar": 118,
+   "t": "2026-11-09 09:18:24",
+   "tokens": 102,
+   "paar": 102,
    "vor": 0,
    "offen": 0,
    "schatten": 2
   },
   "heute": {
-   "runden": 141,
-   "tokens": 16407,
-   "paar": 16006,
+   "runden": 151,
+   "tokens": 17546,
+   "paar": 17145,
    "vor": 4,
-   "kandidaten_zeilen": 972,
+   "kandidaten_zeilen": 987,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5175,19 +5178,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    545
+    555
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    333
+    334
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    52
+    53
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    30
+    33
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -5239,8 +5242,8 @@
    "rolle": "Scout",
    "farbe": "#3B82F6",
    "form": "circle",
-   "letzte_datei": "krypto/scout-2026-11-08.md",
-   "zeit": "2026-11-08T09:14:05+01:00"
+   "letzte_datei": "wissen/krypto/scans/2026-11-09.md",
+   "zeit": "2026-11-09T09:12:49+01:00"
   },
   {
    "name": "Xatu",
@@ -5264,7 +5267,7 @@
    "farbe": "#F59E0B",
    "form": "shield",
    "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-11-08T09:16:46+01:00"
+   "zeit": "2026-11-09T09:14:50+01:00"
   },
   {
    "name": "Mauzi",
@@ -5279,8 +5282,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-09T09:08:25+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-09T09:18:24+01:00"
   },
   {
    "name": "Magnayen",
@@ -5292,56 +5295,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-09T07:32:35",
-   "SCAN",
-   "Runde: 120 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T07:33:35",
-   "SCAN",
-   "Runde: 105 Tokens, 103 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T07:34:35",
-   "SCAN",
-   "Runde: 114 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T07:35:35",
-   "SCAN",
-   "Runde: 111 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T07:36:35",
-   "SCAN",
-   "Runde: 113 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T07:37:35",
-   "SCAN",
-   "Runde: 111 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T07:38:35",
-   "SCAN",
-   "Runde: 114 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T07:39:35",
-   "SCAN",
-   "Runde: 119 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T07:40:36",
-   "SCAN",
-   "Runde: 121 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T07:41:42",
-   "SKIP",
-   "SCHATTEN KAUF ANSEM 9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump @ 0.0552"
-  ],
   [
    "2026-11-09T07:41:42",
    "SCAN",
@@ -5591,6 +5544,56 @@
    "2026-11-09T09:08:24",
    "SCAN",
    "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T09:09:24",
+   "SCAN",
+   "Runde: 111 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T09:10:24",
+   "SCAN",
+   "Runde: 117 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T09:11:24",
+   "SCAN",
+   "Runde: 113 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T09:12:24",
+   "SCAN",
+   "Runde: 119 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T09:13:24",
+   "SCAN",
+   "Runde: 119 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T09:14:24",
+   "SCAN",
+   "Runde: 101 Tokens, 101 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T09:15:24",
+   "SCAN",
+   "Runde: 120 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T09:16:24",
+   "SCAN",
+   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T09:17:24",
+   "SCAN",
+   "Runde: 116 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T09:18:24",
+   "SCAN",
+   "Runde: 102 Tokens, 102 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -5608,5 +5611,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-09T09:08:25+01:00"
+ "daten_neuest": "2026-11-09T09:18:24+01:00"
 }

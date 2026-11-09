@@ -5157,19 +5157,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-09 18:05:02",
-   "tokens": 111,
-   "paar": 108,
+   "t": "2026-11-09 18:37:04",
+   "tokens": 115,
+   "paar": 107,
    "vor": 0,
    "offen": 0,
-   "schatten": 2
+   "schatten": 1
   },
   "heute": {
-   "runden": 543,
-   "tokens": 60514,
-   "paar": 59187,
+   "runden": 553,
+   "tokens": 61587,
+   "paar": 60201,
    "vor": 27,
-   "kandidaten_zeilen": 2669,
+   "kandidaten_zeilen": 2752,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5178,19 +5178,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1531
+    1570
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    825
+    857
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    132
+    138
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    123
+    127
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -5283,7 +5283,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-09T18:05:03+01:00"
+   "zeit": "2026-11-09T18:37:05+01:00"
   },
   {
    "name": "Magnayen",
@@ -5295,81 +5295,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-09T16:49:00",
-   "SCAN",
-   "Runde: 103 Tokens, 100 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T16:50:00",
-   "SCAN",
-   "Runde: 112 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T16:51:00",
-   "SCAN",
-   "Runde: 113 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T16:52:00",
-   "SCAN",
-   "Runde: 115 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T16:52:57",
-   "RISK",
-   "WARN gt-new: HTTP Error 403: Forbidden"
-  ],
-  [
-   "2026-11-09T16:52:59",
-   "RISK",
-   "WARN gt-new: HTTP Error 403: Forbidden"
-  ],
-  [
-   "2026-11-09T16:53:00",
-   "SCAN",
-   "Runde: 75 Tokens, 75 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-09T16:53:52",
-   "RISK",
-   "WARN gt-trending: HTTP Error 403: Forbidden"
-  ],
-  [
-   "2026-11-09T16:53:54",
-   "RISK",
-   "WARN gt-trending: HTTP Error 403: Forbidden"
-  ],
-  [
-   "2026-11-09T16:53:57",
-   "RISK",
-   "WARN gt-new: HTTP Error 403: Forbidden"
-  ],
-  [
-   "2026-11-09T16:53:59",
-   "RISK",
-   "WARN gt-new: HTTP Error 403: Forbidden"
-  ],
-  [
-   "2026-11-09T16:53:59",
-   "SCAN",
-   "Runde: 40 Tokens, 40 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-09T16:54:52",
-   "RISK",
-   "WARN gt-trending: HTTP Error 403: Forbidden"
-  ],
-  [
-   "2026-11-09T16:54:54",
-   "RISK",
-   "WARN gt-trending: HTTP Error 403: Forbidden"
-  ],
-  [
-   "2026-11-09T16:54:57",
-   "RISK",
-   "WARN gt-new: HTTP Error 403: Forbidden"
-  ],
   [
    "2026-11-09T16:54:59",
    "RISK",
@@ -5594,6 +5519,81 @@
    "2026-11-09T18:05:02",
    "SCAN",
    "Runde: 111 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T18:06:03",
+   "SCAN",
+   "Runde: 117 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T18:24:11",
+   "RISK",
+   "supervisor: Box war 1080 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-09T18:24:27",
+   "SKIP",
+   "SCHATTEN EXIT Macca Zeit-Stop 6 h (-11.0 %) netto -14.5 %"
+  ],
+  [
+   "2026-11-09T18:24:38",
+   "SCAN",
+   "Runde: 114 Tokens, 107 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T18:25:38",
+   "SCAN",
+   "Runde: 114 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T18:28:48",
+   "RISK",
+   "supervisor: Box war 137 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-09T18:28:51",
+   "SCAN",
+   "Runde: 105 Tokens, 100 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 26 s"
+  ],
+  [
+   "2026-11-09T18:29:37",
+   "SCAN",
+   "Runde: 105 Tokens, 100 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T18:30:37",
+   "SCAN",
+   "Runde: 110 Tokens, 105 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T18:32:18",
+   "RISK",
+   "supervisor: Box war 90 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-09T18:32:47",
+   "SCAN",
+   "Runde: 100 Tokens, 96 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T18:33:47",
+   "SCAN",
+   "Runde: 97 Tokens, 94 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-09T18:35:53",
+   "RISK",
+   "supervisor: Box war 95 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-09T18:36:10",
+   "SCAN",
+   "Runde: 96 Tokens, 90 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 17 s"
+  ],
+  [
+   "2026-11-09T18:37:04",
+   "SCAN",
+   "Runde: 115 Tokens, 107 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -5611,5 +5611,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-09T18:05:03+01:00"
+ "daten_neuest": "2026-11-09T18:37:05+01:00"
 }

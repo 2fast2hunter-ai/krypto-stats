@@ -1,5 +1,5 @@
 {
- "stand_daten": "10.11.2026 09:12",
+ "stand_daten": "11.11.2026 09:12",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -161,8 +161,8 @@
   }
  },
  "scout": {
-  "datei": "scout-2026-11-10.md",
-  "quelle": "CoinGecko, DexScreener, RugCheck (tools/rugcheck.py + Handabfrage insiderNetworks/creator), Jupiter, alternative.me, Binance 1h-Klines (data-api.binance.vision), Websuche (UKMTO/JMIC, Gulf News, Khaleej Times, Coin Edition); Xatu-News fehlen (pausiert seit 06.11.); Abruf 10.11.2026 09:05–09:15 Berlin",
+  "datei": "scout-2026-11-11.md",
+  "quelle": "CoinGecko, DexScreener, RugCheck (tools/rugcheck.py + Handabfrage insiderNetworks/creator), Jupiter, alternative.me, Binance 1h-Klines (data-api.binance.vision), Websuche (Reuters via Yahoo/Arab News/The Hindu/Khaleej Times, UKMTO/JMIC, CENTCOM via Reuters, Crypto Times, crypto.news); Xatu-News fehlen (pausiert seit 06.11.); Abruf 11.11.2026 09:00–09:12 Berlin",
   "majors": [
    [
     "Coin",
@@ -174,53 +174,55 @@
    ],
    [
     "BTC",
-    "74.796",
-    "+1,43 %",
-    "−2,19 %",
-    "25,56 Mrd",
-    "1.504,2 Mrd"
+    "74.013",
+    "−0,97 %",
+    "−5,00 %",
+    "33,43 Mrd",
+    "1.488,4 Mrd"
    ],
    [
     "ETH",
-    "2.114,91",
-    "+1,15 %",
-    "−5,66 %",
-    "10,37 Mrd",
-    "258,5 Mrd"
+    "2.067,52",
+    "−2,15 %",
+    "−9,90 %",
+    "14,37 Mrd",
+    "252,7 Mrd"
    ],
    [
     "SOL",
-    "86,05",
-    "+0,62 %",
-    "−5,87 %",
-    "2,06 Mrd",
-    "50,9 Mrd"
+    "83,26",
+    "−3,13 %",
+    "−10,37 %",
+    "3,11 Mrd",
+    "49,2 Mrd"
    ]
   ],
   "kandidaten": [],
   "ausschluss": [
    {
+    "coin": "**WASTED** GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump",
+    "grund": "Hand-Block (Pump-Regel) lief **11.11. 09:10** ab. Status beim Scan-Start 09:00: **nicht frei**. Neuprüfung 09:10: Skript FREIGABE, Liq 106.430 $ (−3,4 % ggü. 110.164 $), 24h −3,9 % (kein Pump mehr), Top10 26,1/3,1 %, Impact 0,00 %, Insider 0 %, Vol 249 k $, Alter 11,6 d. **Vorschlag: technisch frei, Freigabe nur nach Entscheidung Panzaeron** (innerhalb 7 d nach Crash-Sperre-Ende 07.11. → Pump-Regel weiter bis 14.11. beobachten). Nicht in der Freigabe-Zählung. Link: https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn"
+   },
+   {
     "coin": "**DESSA** npz2FhoufQ7pKqhGpaipYWacrAkidyW2yDpVWSvpump",
-    "grund": "**Skript BLOCK**: 24h **−53,0 %** (gestern +66,5 %), Preis 0,01923 $, Liq 414.835 $ (−30,3 % ggü. 595.018 $), Vol 3,65 Mio $; neue Crash-Sperre bis 13.11. 09:05. Link: https://dexscreener.com/solana/dextcer4k9dwbxtmu8znvvwgevvmvhmb183pf2xxzwvh"
+    "grund": "**Skript BLOCK**: 2. Crash-Tag **−53,8 %/24h**, Preis 0,008532 $, Liq 280.205 $ (DS-Haupt-Pair; −32 % ggü. 414.835 $), Vol 1,84 Mio $; **neue Crash-Sperre 11.11. 09:10 bis 14.11. 09:10** (vom Skript gesetzt). **Creator CWpPwPQqCW1rkpBV1pgQqFR7FzfuwfMf9XNLtmTwLSH5 seit 11.11. 03:25 auf dev-blacklist.csv** (Kurs −82 %). Link: https://dexscreener.com/solana/dextcer4k9dwbxtmu8znvvwgevvmvhmb183pf2xxzwvh"
    },
    {
     "coin": "**HELL** A75Xx6SeftAmWduv9KGwb2GCjXUAhxozcCUCys9jpump",
-    "grund": "**Skript BLOCK**: 24h **−86 %**, Liq 51.671 $ (−59 %), Jupiter-Impact 4,77 %; Crash-Sperre bis 13.11. 09:05. Link: https://dexscreener.com/solana/ewsyhiuznynqh5f65ypfsoqblq2kyetuvhm5un7wsfdg"
+    "grund": "Crash-Sperre bis 13.11. 09:05; 24h −2,0 %, Liq 55.506 $ (Haupt-Pair HELL/AMD). Link: https://dexscreener.com/solana/ewsyhiuznynqh5f65ypfsoqblq2kyetuvhm5un7wsfdg"
    },
    {
-    "coin": "**WASTED** GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump",
-    "grund": "Skript FREIGABE (09:05), Impact 1,91 %, Top10 25,5/3,1 %, Insider 0 %, Liq 110.164 $ (+29,5 %), aber **24h +63,8 %** → **Pump-Regel** (Crash-Sperre endete 07.11., <7 d) → keine Freigabe, frühestens 11.11. neu prüfen. Von Hand in manuelle-blocks.json bis 11.11. 09:10 gesetzt (Fiffyen, Entscheidung Panzaeron). Link: https://dexscreener.com/solana/tt7dks9yjjzj1fwmgopmkbmdrezzymamrhodcgdfwqn"
-   },
-   {
-    "coin": "**MANIFEST** BCdwQBAn8dYB5YjTsoB6TdHAWokxv28k2oZUodERpump",
-    "grund": "Insider 82,66 %, manueller Block bis 09.12.; Liq 285.946 $, 24h −2,9 %."
+    "coin": "**WEN** WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
+    "grund": "Skript FREIGABE, aber **Datenfehler → keine Freigabe**: Skript wählte Pair WEN/JUP (Orca 7vWRTPPBq3aNaJZsrfterTz1BSjht4YSHBXJwnbuV6SC) mit absurdem Preis 0,02628 $ (+486.668 %), Liq 1,36 Mio $, MCap 19 Mrd $ – echtes SOL-Haupt-Pair (Meteora): Preis 0,000005295 $, Liq 52.569 $, 24h −1,4 %. Ohne Fehl-Pool keine Stufe etabliert → Top10 34,1 % >30 % = BLOCK; Vol <20 k. Wie USELESS/MM (05.11.). In manuelle-blocks.json bis 18.11. 09:00 eingetragen."
    }
   ],
   "stimmung": [
-   "Fear & Greed **32 „Fear“** (alternative.me, 10.11. 01:00 Berlin; Vortag 29).",
-   "Markt (Coin Edition 10.11.): 24h-Liquidationen 1,187 Mrd $ (Longs 1,042 Mrd $, CoinGlass-Angabe, Quelle Coin Edition); Schwab Crypto startet SOL/AVAX/LINK-Handel; Coinbase OCC-Trust-Charter. Altcoin-Trend: Dacity Coin +60 % (blockiert).",
-   "Hormus (Websuche 10.11., Gulf News/UKMTO, JMIC-Update 08.11., Khaleej Times/Reuters-Interview, Conflict Tracker): UKMTO zählt 170 ausgehende/155 einlaufende Transits, ca. 65 % unter Vorkriegsniveau; JMIC Bedrohung **„severe“** (Hormus), mind. 11 Schiffe in der Woche bis 06.11. angegriffen; CENTCOM bestätigt Blockade, am 07.11. Frachter „Huda“ im Golf von Oman lahmgelegt; IRGC meldet 3 brennende Tanker am 08.11. (Iran-Angabe, **unbestätigt**) und Nachtfahrverbot ab 09.11.; Trump (Reuters-Interview): vorerst keine neuen Schläge, Blockade bleibt. **Keine Entspannung.**",
-   "**Xatu-News fehlen** (neueste news/2026-11-06.md; Xatus News-Scan auf Fabian-Noels Entscheidung pausiert, kein Fehler)."
+   "Fear & Greed **29 „Fear“** (alternative.me, 11.11. 01:00 Berlin; Vortag 32).",
+   "Markt: Heißer US-CPI (Okt.); Liquidationen 723,7 Mio $ in 24 h bis 11.11. 05:20 Berlin, 78,9 % Longs, ETH 258,9 Mio $, BTC 203,6 Mio $, SOL ~38 Mio $ (CoinGlass via Crypto Times, 11.11.). BTC unter 50-Wochen-Linie (~76,1 k $) (TradingView/cryptonews). Spot-BTC-ETFs erste Novemberwoche ~1,28 Mrd $ Abflüsse (Farside via crypto.news). Risk-off.",
+   "**Hormus – Fakten (bestätigt):**",
+   "**Hormus – Behauptungen/unbestätigt:** IRGC-Marine: zwei Tanker nach Minentreffern auf „unautorisierter Route“ in Brand (Iran-Angabe, Reuters 10./11.11.). Oman-Plan mit freiwilligen Gebühren (anonyme Quellen; Iran ohne Antwort; Reuters 10.11.). Irans Sicherheitschef Rezaei: keine Gespräche mit den USA (Al-Mayadeen-Interview, Reuters 11.11. 08:19 Berlin). Trump spielt neue Großangriffe herunter, lehnt iranischen Waffenruhe-Plan ab.",
+   "Bewertung: **keine Entspannung**, KAUF_PAUSE-Grund besteht weiter.",
+   "**Xatu-News fehlen** (Xatus News-Scan auf Fabian-Noels Entscheidung pausiert, kein Fehler)."
   ]
  },
  "backtest": {
@@ -5143,32 +5145,32 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-11 09:03:11",
-   "tokens": 127,
-   "paar": 127,
+   "t": "2026-11-11 09:13:11",
+   "tokens": 123,
+   "paar": 123,
    "vor": 0,
    "offen": 0,
    "schatten": 1
   },
   "heute": {
-   "runden": 107,
-   "tokens": 12938,
-   "paar": 12872,
-   "vor": 4,
-   "kandidaten_zeilen": 794,
+   "runden": 117,
+   "tokens": 14165,
+   "paar": 14097,
+   "vor": 6,
+   "kandidaten_zeilen": 822,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
-   "block": 4
+   "block": 6
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    390
+    412
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    304
+    306
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -5176,7 +5178,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    25
+    27
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -5228,8 +5230,8 @@
    "rolle": "Scout",
    "farbe": "#3B82F6",
    "form": "circle",
-   "letzte_datei": "wissen/krypto/scans/2026-11-10.md",
-   "zeit": "2026-11-10T09:11:13+01:00"
+   "letzte_datei": "wissen/krypto/scans/2026-11-11.md",
+   "zeit": "2026-11-11T09:13:05+01:00"
   },
   {
    "name": "Xatu",
@@ -5252,8 +5254,8 @@
    "rolle": "Risiko",
    "farbe": "#F59E0B",
    "form": "shield",
-   "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-11-10T09:12:19+01:00"
+   "letzte_datei": "krypto/tools/crash-sperren.json",
+   "zeit": "2026-11-11T09:13:33+01:00"
   },
   {
    "name": "Mauzi",
@@ -5269,7 +5271,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-11T09:03:11+01:00"
+   "zeit": "2026-11-11T09:13:11+01:00"
   },
   {
    "name": "Magnayen",
@@ -5281,66 +5283,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-11T06:50:43",
-   "SCAN",
-   "Runde: 124 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-11T06:51:48",
-   "SCAN",
-   "Runde: 125 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
-  ],
-  [
-   "2026-11-11T06:52:43",
-   "SCAN",
-   "Runde: 124 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-11T06:53:43",
-   "SCAN",
-   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-11T06:54:43",
-   "SCAN",
-   "Runde: 118 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-11T06:55:43",
-   "SCAN",
-   "Runde: 115 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-11T07:02:40",
-   "RISK",
-   "supervisor: Box war 406 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-11T07:03:05",
-   "SCAN",
-   "Runde: 111 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-11T07:04:05",
-   "SCAN",
-   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-11T07:05:05",
-   "SCAN",
-   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-11T07:06:04",
-   "SCAN",
-   "Runde: 110 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-11T07:07:05",
-   "SCAN",
-   "Runde: 122 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
   [
    "2026-11-11T07:08:05",
    "SCAN",
@@ -5580,6 +5522,66 @@
    "2026-11-11T09:03:11",
    "SCAN",
    "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-11T09:04:11",
+   "SCAN",
+   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-11T09:05:11",
+   "SCAN",
+   "Runde: 128 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-11T09:06:10",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-11T09:07:11",
+   "SCAN",
+   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-11T09:08:10",
+   "SCAN",
+   "Runde: 122 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-11T09:09:10",
+   "SCAN",
+   "Runde: 108 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-11T09:10:11",
+   "RISK",
+   "BLOCK DESSA: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-11T09:10:13",
+   "SCAN",
+   "Runde: 125 Tokens, 124 mit Paar, Vorfilter ok 1, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 13 s"
+  ],
+  [
+   "2026-11-11T09:11:11",
+   "SCAN",
+   "Runde: 125 Tokens, 125 mit Paar, Vorfilter ok 1, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
+  ],
+  [
+   "2026-11-11T09:11:11",
+   "RISK",
+   "BLOCK DESSA: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Dev-Konto leer (Warnung)"
+  ],
+  [
+   "2026-11-11T09:12:11",
+   "SCAN",
+   "Runde: 125 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-11T09:13:11",
+   "SCAN",
+   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -5597,5 +5599,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-11T09:03:11+01:00"
+ "daten_neuest": "2026-11-11T09:13:33+01:00"
 }

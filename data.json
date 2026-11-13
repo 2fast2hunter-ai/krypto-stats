@@ -5157,39 +5157,43 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-13 00:30:22",
-   "tokens": 128,
-   "paar": 124,
-   "vor": 0,
+   "t": "2026-11-13 01:27:38",
+   "tokens": 133,
+   "paar": 132,
+   "vor": 1,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 7,
-   "tokens": 890,
-   "paar": 871,
-   "vor": 0,
-   "kandidaten_zeilen": 84,
+   "runden": 17,
+   "tokens": 2193,
+   "paar": 2140,
+   "vor": 3,
+   "kandidaten_zeilen": 177,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
-   "block": 0
+   "block": 2
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    47
+    102
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    32
+    60
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    3
+    8
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
+    4
+   ],
+   [
+    "Dev auf eigener Blacklist (früherer Coin −# %/Liq weg)",
     2
    ]
   ]
@@ -5279,7 +5283,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-13T00:30:23+01:00"
+   "zeit": "2026-11-13T01:27:39+01:00"
   },
   {
    "name": "Magnayen",
@@ -5291,86 +5295,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-12T22:04:59",
-   "SCAN",
-   "Runde: 127 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-12T22:05:59",
-   "SCAN",
-   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-12T22:06:59",
-   "SCAN",
-   "Runde: 125 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-12T22:07:59",
-   "SCAN",
-   "Runde: 125 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-12T22:10:06",
-   "RISK",
-   "supervisor: Box war 96 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-12T22:10:16",
-   "SCAN",
-   "Runde: 128 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-12T22:36:16",
-   "RISK",
-   "supervisor: Box war 1570 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-12T22:37:02",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-12T22:38:02",
-   "SCAN",
-   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-12T22:40:17",
-   "RISK",
-   "supervisor: Box war 80 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-12T22:40:20",
-   "SCAN",
-   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 23 s"
-  ],
-  [
-   "2026-11-12T22:41:07",
-   "SCAN",
-   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-12T22:42:07",
-   "SCAN",
-   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-12T23:06:39",
-   "RISK",
-   "supervisor: Box war 1417 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-12T23:06:40",
-   "RISK",
-   "BLOCK Dacity: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Insider-Netzwerke (≤50 Wallets) 43.5 % ≥ 10 %; Dev-Konto leer ("
-  ],
-  [
-   "2026-11-12T23:06:42",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 25 s"
-  ],
   [
    "2026-11-12T23:07:27",
    "SCAN",
@@ -5590,6 +5514,86 @@
    "2026-11-13T00:30:22",
    "SCAN",
    "Runde: 128 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T00:31:22",
+   "SCAN",
+   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T00:32:38",
+   "RISK",
+   "supervisor: Box war 62 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-13T00:40:38",
+   "RISK",
+   "supervisor: Box war 480 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-13T00:40:48",
+   "SCAN",
+   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 33 s"
+  ],
+  [
+   "2026-11-13T00:41:35",
+   "SCAN",
+   "Runde: 129 Tokens, 114 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 20 s"
+  ],
+  [
+   "2026-11-13T00:42:25",
+   "SCAN",
+   "Runde: 130 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T00:45:10",
+   "RISK",
+   "supervisor: Box war 151 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-13T00:45:20",
+   "SCAN",
+   "Runde: 131 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T01:22:52",
+   "RISK",
+   "supervisor: Box war 2262 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-13T01:23:37",
+   "SCAN",
+   "Runde: 133 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T01:24:37",
+   "SCAN",
+   "Runde: 132 Tokens, 132 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T01:25:37",
+   "SCAN",
+   "Runde: 133 Tokens, 133 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T01:26:37",
+   "RISK",
+   "BLOCK AMD: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Insider-Netzwerke (≤50 Wallets) 31.3 % ≥ 5 %; Dev-Konto leer (W"
+  ],
+  [
+   "2026-11-13T01:26:38",
+   "SCAN",
+   "Runde: 132 Tokens, 125 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
+  ],
+  [
+   "2026-11-13T01:27:37",
+   "RISK",
+   "BLOCK AMD: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Insider-Netzwerke (≤50 Wallets) 31.3 % ≥ 5 %; Dev-Konto leer (W"
+  ],
+  [
+   "2026-11-13T01:27:38",
+   "SCAN",
+   "Runde: 133 Tokens, 132 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -5607,5 +5611,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-13T00:30:23+01:00"
+ "daten_neuest": "2026-11-13T01:27:39+01:00"
 }

@@ -5157,19 +5157,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-13 09:06:49",
-   "tokens": 134,
-   "paar": 134,
+   "t": "2026-11-13 09:17:49",
+   "tokens": 129,
+   "paar": 129,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 109,
-   "tokens": 14034,
-   "paar": 13847,
+   "runden": 120,
+   "tokens": 15473,
+   "paar": 15276,
    "vor": 5,
-   "kandidaten_zeilen": 886,
+   "kandidaten_zeilen": 914,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5178,11 +5178,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    528
+    550
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    271
+    274
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -5190,7 +5190,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    24
+    27
    ],
    [
     "Vorfilter: keine Socials/Website auf DexScreener",
@@ -5266,8 +5266,8 @@
    "rolle": "Risiko",
    "farbe": "#F59E0B",
    "form": "shield",
-   "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-11-12T09:25:38+01:00"
+   "letzte_datei": "krypto/tools/crash-sperren.json",
+   "zeit": "2026-11-13T09:16:07+01:00"
   },
   {
    "name": "Mauzi",
@@ -5283,7 +5283,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-13T09:06:49+01:00"
+   "zeit": "2026-11-13T09:17:49+01:00"
   },
   {
    "name": "Magnayen",
@@ -5295,66 +5295,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-13T07:13:33",
-   "SCAN",
-   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-13T07:14:33",
-   "SCAN",
-   "Runde: 127 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-13T07:16:42",
-   "RISK",
-   "supervisor: Box war 118 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-13T07:17:07",
-   "SCAN",
-   "Runde: 129 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-13T07:18:07",
-   "SCAN",
-   "Runde: 117 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-13T07:23:22",
-   "RISK",
-   "supervisor: Box war 279 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-13T07:23:32",
-   "SCAN",
-   "Runde: 131 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-13T07:24:32",
-   "SCAN",
-   "Runde: 134 Tokens, 134 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-13T07:25:32",
-   "SCAN",
-   "Runde: 133 Tokens, 132 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-13T07:34:32",
-   "RISK",
-   "supervisor: Box war 530 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-13T07:35:02",
-   "SCAN",
-   "Runde: 125 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-13T07:36:02",
-   "SCAN",
-   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-13T07:38:12",
    "SCAN",
@@ -5594,6 +5534,66 @@
    "2026-11-13T09:06:49",
    "SCAN",
    "Runde: 134 Tokens, 134 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T09:07:49",
+   "SCAN",
+   "Runde: 133 Tokens, 133 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T09:08:49",
+   "SCAN",
+   "Runde: 131 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T09:09:49",
+   "SCAN",
+   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T09:09:50",
+   "RISK",
+   "BLACKLIST Dev 4cEy2Dy9bYT9u54h7S7oodJBe4nUTVcZ2mWdXPtgozer (Max): Kurs 0.00174 vs 0.009712 / Liq 172187 $"
+  ],
+  [
+   "2026-11-13T09:10:49",
+   "SCAN",
+   "Runde: 132 Tokens, 132 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T09:11:49",
+   "SCAN",
+   "Runde: 133 Tokens, 133 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T09:12:49",
+   "SCAN",
+   "Runde: 132 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T09:13:49",
+   "SCAN",
+   "Runde: 130 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T09:14:49",
+   "SCAN",
+   "Runde: 129 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T09:15:49",
+   "SCAN",
+   "Runde: 132 Tokens, 131 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T09:16:49",
+   "SCAN",
+   "Runde: 130 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-13T09:17:49",
+   "SCAN",
+   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -5611,5 +5611,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-13T09:06:49+01:00"
+ "daten_neuest": "2026-11-13T09:17:49+01:00"
 }

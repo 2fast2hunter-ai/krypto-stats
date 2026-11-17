@@ -5129,19 +5129,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-17 01:27:16",
-   "tokens": 116,
-   "paar": 114,
+   "t": "2026-11-17 03:23:09",
+   "tokens": 135,
+   "paar": 135,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 18,
-   "tokens": 2294,
-   "paar": 2267,
+   "runden": 29,
+   "tokens": 3759,
+   "paar": 3700,
    "vor": 0,
-   "kandidaten_zeilen": 193,
+   "kandidaten_zeilen": 442,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5150,19 +5150,23 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    113
+    244
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    61
+    150
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    16
+    41
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    3
+    5
+   ],
+   [
+    "Vorfilter: keine Socials/Website auf DexScreener",
+    1
    ]
   ]
  },
@@ -5251,7 +5255,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-17T01:27:18+01:00"
+   "zeit": "2026-11-17T03:23:10+01:00"
   },
   {
    "name": "Magnayen",
@@ -5263,81 +5267,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-16T20:57:29",
-   "SCAN",
-   "Runde: 117 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-16T20:58:29",
-   "SCAN",
-   "Runde: 117 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-16T20:59:34",
-   "SCAN",
-   "Runde: 117 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
-  ],
-  [
-   "2026-11-16T21:00:30",
-   "SCAN",
-   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-16T21:27:37",
-   "RISK",
-   "supervisor: Box war 1617 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-16T21:28:06",
-   "SCAN",
-   "Runde: 125 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-16T21:29:06",
-   "SCAN",
-   "Runde: 116 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-16T22:14:26",
-   "RISK",
-   "supervisor: Box war 2689 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-16T22:14:36",
-   "SCAN",
-   "Runde: 110 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-16T22:15:35",
-   "SCAN",
-   "Runde: 119 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-16T22:16:35",
-   "SCAN",
-   "Runde: 125 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-16T22:18:33",
-   "RISK",
-   "supervisor: Box war 107 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-16T22:19:05",
-   "SCAN",
-   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
-  ],
-  [
-   "2026-11-16T22:20:00",
-   "SCAN",
-   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-16T22:47:53",
-   "SCAN",
-   "Runde: 126 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 19 s"
-  ],
   [
    "2026-11-16T22:47:58",
    "RISK",
@@ -5562,6 +5491,81 @@
    "2026-11-17T01:27:16",
    "SCAN",
    "Runde: 116 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T01:28:17",
+   "SCAN",
+   "Runde: 131 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T01:53:06",
+   "RISK",
+   "supervisor: Box war 1454 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-17T01:53:12",
+   "SCAN",
+   "Runde: 131 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-17T01:54:12",
+   "SCAN",
+   "Runde: 131 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T01:55:12",
+   "SCAN",
+   "Runde: 132 Tokens, 130 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T02:19:23",
+   "RISK",
+   "supervisor: Box war 1437 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-17T02:19:53",
+   "SCAN",
+   "Runde: 130 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
+  ],
+  [
+   "2026-11-17T02:20:48",
+   "SCAN",
+   "Runde: 134 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T02:52:46",
+   "RISK",
+   "supervisor: Box war 1883 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-17T02:52:56",
+   "SCAN",
+   "Runde: 135 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T02:53:56",
+   "SCAN",
+   "Runde: 135 Tokens, 132 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T02:54:56",
+   "SCAN",
+   "Runde: 135 Tokens, 133 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T03:21:39",
+   "RISK",
+   "supervisor: Box war 1593 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-17T03:22:09",
+   "SCAN",
+   "Runde: 136 Tokens, 136 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T03:23:09",
+   "SCAN",
+   "Runde: 135 Tokens, 135 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -5579,5 +5583,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-17T01:27:18+01:00"
+ "daten_neuest": "2026-11-17T03:23:10+01:00"
 }

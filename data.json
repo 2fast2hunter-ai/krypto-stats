@@ -1,5 +1,5 @@
 {
- "stand_daten": "16.11.2026 09:27",
+ "stand_daten": "17.11.2026 09:38",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -161,52 +161,57 @@
   }
  },
  "scout": {
-  "datei": "scout-2026-11-16.md",
-  "quelle": "CoinGecko (/coins/markets 09:21 Berlin, last_updated 09:19:59 UTC+1 = 08:19:59Z; /search/trending; category solana-meme-coins; /coins/list), alternative.me (F&G Abruf 09:22), DexScreener (/tokens/v1/solana 09:2x, Search), RugCheck (tools/rugcheck.py Batches ≤10, 09:21–09:25; Voll-Reports für Pool-Anteile), Jupiter (im Skript), UKMTO/JMIC 15.11., Iran International, Arab News/Reuters, Seatrade 16.11., FXStreet/Investing.com 16.11.; Xatu-News pausiert (kein Fehler)",
+  "datei": "scout-2026-11-17.md",
+  "quelle": "CoinGecko (/coins/markets Abruf 09:23 Berlin, last_updated 09:22:55 Berlin = 08:22:55Z; /search/trending; category solana-meme-coins; /coins/{id}), alternative.me (F&G Abruf 09:23), DexScreener (/tokens/v1/solana 09:24 und 09:27, /token-boosts/top, /token-profiles/latest), RugCheck (tools/rugcheck.py Batches ≤10, 09:23–09:27; Voll-Reports /report 09:28–09:29 für Pool-Anteile und Insider), Jupiter (im Skript), Solana-RPC (Dev-Alter, 09:31–09:36, 429), UKMTO 207-26/208-26, JMIC Update 114 (15.11.), Reuters/Arab News, Al Jazeera, Anadolu 17.11., Coindaro/Moneycontrol/crypto.news 17.11.; Xatu-News pausiert (kein Fehler)",
   "majors": [
    [
     "Coin",
     "Preis $",
+    "1h",
     "24h",
     "7d",
     "Vol 24h $",
     "MCap $",
-    "Δ ggü. 15.11. 09:16"
+    "Δ ggü. 16.11. 09:21"
    ],
    [
     "BTC",
-    "64.550",
-    "+1,01 %",
-    "−12,48 %",
-    "30,75 Mrd",
-    "1.298,4 Mrd",
-    "+1,0 % (63.891 →)"
+    "64.567",
+    "+0,23 %",
+    "−0,04 %",
+    "−13,28 %",
+    "32,65 Mrd",
+    "1.298,5 Mrd",
+    "±0,0 % (64.550 →)"
    ],
    [
     "ETH",
-    "1.805,94",
-    "+1,53 %",
-    "−13,74 %",
-    "11,21 Mrd",
-    "220,8 Mrd",
-    "+1,5 % (1.779,20 →)"
+    "1.830,17",
+    "+0,28 %",
+    "+1,27 %",
+    "−13,49 %",
+    "10,95 Mrd",
+    "223,7 Mrd",
+    "+1,3 % (1.805,94 →)"
    ],
    [
     "SOL",
-    "70,71",
-    "+1,13 %",
-    "−16,97 %",
-    "3,05 Mrd",
-    "41,8 Mrd",
-    "+1,2 % (69,87 →)"
+    "72,66",
+    "+0,38 %",
+    "+2,58 %",
+    "−15,29 %",
+    "2,73 Mrd",
+    "43,0 Mrd",
+    "+2,8 % (70,71 →)"
    ]
   ],
   "kandidaten": [],
   "ausschluss": [],
   "stimmung": [
-   "**Belegt:** UKMTO: Tanker am 16.11. 05:58 UTC auf Ausfahrt durch Hormus von unbekanntem Projektil getroffen, Maschinenraumbrand, keine Verletzten (Iran International 07:40 UTC, Arab News/Reuters 16.11.). UKMTO 205-26: Tanker am 15.11. im Arabischen Golf angegriffen (Seatrade); JMIC-Advisory 15.11.: Bedrohung SEVERE, ~28 US-begleitete Transits/Tag, ~150 Schiffe durch Blockade umgeleitet (Stand 11.11. CENTCOM-Zahl).",
-   "**Behauptung (nicht unabhängig bestätigt):** IRGC: zwei Tanker auf Minen, ein VLCC gesunken; Video ohne erkennbares Schiff (Seatrade).",
-   "**Markt (belegt):** BTC ~64,6–65,2k, 6. Wochenverlust in Folge, Spot-BTC-ETFs −1,07 Mrd $ Woche bis 13.11. (SoSoValue via Investing.com/FXStreet 16.11.), Hintergrund laut Medien: Zinserhöhungserwartung Fed Dezember, US-Midterms; Liquidationen ~290 Mio $/24h (Delta Exchange 16.11.). Bewertung: keine Entspannung, KAUF_PAUSE-Grund besteht."
+   "**Belegt (UKMTO):** 207-26: Tanker am 16.11. 05:58 UTC (06:58 Berlin) auf Ausfahrt von unbekanntem Projektil getroffen, Maschinenraumbrand, keine Verletzten. 208-26: Tanker am 16.11. 19:00 UTC (20:00 Berlin) 7 sm nördlich Khasab (Oman) angegriffen und manövrierunfähig, Maschinenraumbrand, Crew sicher (ukmto.org, Reuters via Arab News 17.11. 00:51 Ortszeit, Anadolu 17.11.).",
+   "**JMIC Update 114 (15.11.):** Hormus Bedrohung **SEVERE**, weitere Angriffe „highly likely“ (v. a. Musandam); ~28 US-begleitete Transits/Tag; CENTCOM-Zahl 11.11.: ~150 Schiffe umgeleitet, 5 Schiffe außer Gefecht. CENTCOM: keine neue öffentliche Stellungnahme zu 16.11. gefunden.",
+   "**Behauptung (nicht unabhängig bestätigt):** IRGC-Marine: zwei Tanker auf Minen im Südkorridor, reguläre iranische Marine: weiterer Tanker östlich der Straße (Al Jazeera/Reuters 17.11.). IMO: 136 Vorfälle 01.03.–11.11.",
+   "**Markt (belegt):** BTC ~64,5–64,8k, Nachtspanne 64.315–65.476 $ (Coinbase, Coindaro 17.11. 05:45 UTC); Spot-BTC-ETFs 7 Sessions in Folge Abflüsse 05.–13.11. ≈ −1,91 Mrd $ (Farside), 16.11. teils −68,6 Mio (IBIT fehlt); Fed-Protokoll 18.11. 20:00 Berlin, Nvidia-Zahlen 17.11. 23:00 Berlin. Bewertung: keine Entspannung, KAUF_PAUSE-Grund besteht."
   ]
  },
  "backtest": {
@@ -5129,19 +5134,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-17 09:29:31",
-   "tokens": 114,
-   "paar": 114,
+   "t": "2026-11-17 09:38:31",
+   "tokens": 118,
+   "paar": 118,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 141,
-   "tokens": 17887,
-   "paar": 17706,
+   "runden": 150,
+   "tokens": 19019,
+   "paar": 18837,
    "vor": 4,
-   "kandidaten_zeilen": 1309,
+   "kandidaten_zeilen": 1326,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5150,19 +5155,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    736
+    748
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    430
+    433
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    104
+    105
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    26
+    27
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -5214,8 +5219,8 @@
    "rolle": "Scout",
    "farbe": "#3B82F6",
    "form": "circle",
-   "letzte_datei": "wissen/krypto/scans/2026-11-16.md",
-   "zeit": "2026-11-16T09:26:03+01:00"
+   "letzte_datei": "krypto/scout-2026-11-17.md",
+   "zeit": "2026-11-17T09:38:47+01:00"
   },
   {
    "name": "Xatu",
@@ -5254,8 +5259,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-17T09:29:31+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-17T09:38:32+01:00"
   },
   {
    "name": "Magnayen",
@@ -5267,51 +5272,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-17T08:09:23",
-   "RISK",
-   "supervisor: Box war 1292 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-17T08:10:09",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-17T08:11:09",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-17T08:12:09",
-   "SCAN",
-   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-17T08:13:09",
-   "SCAN",
-   "Runde: 130 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-17T08:14:09",
-   "SCAN",
-   "Runde: 128 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-17T08:15:09",
-   "SCAN",
-   "Runde: 129 Tokens, 126 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-17T08:16:09",
-   "SCAN",
-   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-17T08:17:09",
-   "SCAN",
-   "Runde: 127 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-17T08:18:19",
    "SCAN",
@@ -5566,6 +5526,51 @@
    "2026-11-17T09:29:31",
    "SCAN",
    "Runde: 114 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T09:30:32",
+   "SCAN",
+   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T09:31:32",
+   "SCAN",
+   "Runde: 124 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T09:32:32",
+   "SCAN",
+   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T09:33:32",
+   "SCAN",
+   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T09:34:32",
+   "SCAN",
+   "Runde: 129 Tokens, 129 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T09:35:32",
+   "SCAN",
+   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T09:36:32",
+   "SCAN",
+   "Runde: 127 Tokens, 127 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T09:37:32",
+   "SCAN",
+   "Runde: 128 Tokens, 128 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-17T09:38:31",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -5583,5 +5588,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-17T09:29:31+01:00"
+ "daten_neuest": "2026-11-17T09:38:47+01:00"
 }

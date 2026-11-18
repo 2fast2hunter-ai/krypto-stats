@@ -5134,19 +5134,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-18 16:37:52",
-   "tokens": 123,
-   "paar": 123,
+   "t": "2026-11-18 16:47:50",
+   "tokens": 122,
+   "paar": 119,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 299,
-   "tokens": 36558,
-   "paar": 36156,
+   "runden": 309,
+   "tokens": 37740,
+   "paar": 37320,
    "vor": 4,
-   "kandidaten_zeilen": 2415,
+   "kandidaten_zeilen": 2449,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5155,11 +5155,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1477
+    1504
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    665
+    667
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -5167,7 +5167,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    45
+    49
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -5260,7 +5260,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-18T16:37:52+01:00"
+   "zeit": "2026-11-18T16:53:42+01:00"
   },
   {
    "name": "Magnayen",
@@ -5272,66 +5272,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-18T14:57:38",
-   "SCAN",
-   "Runde: 119 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 241 s"
-  ],
-  [
-   "2026-11-18T15:11:46",
-   "RISK",
-   "supervisor: Box war 856 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-18T15:11:56",
-   "SCAN",
-   "Runde: 100 Tokens, 100 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-18T15:12:56",
-   "SCAN",
-   "Runde: 116 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-18T15:13:55",
-   "SCAN",
-   "Runde: 103 Tokens, 102 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-18T15:14:55",
-   "RISK",
-   "BLOCK BLOB: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-18T15:14:57",
-   "SCAN",
-   "Runde: 120 Tokens, 108 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
-  ],
-  [
-   "2026-11-18T15:15:56",
-   "SCAN",
-   "Runde: 119 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-18T15:16:55",
-   "SCAN",
-   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-18T15:17:55",
-   "SCAN",
-   "Runde: 110 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-18T15:18:55",
-   "SCAN",
-   "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-18T15:20:55",
-   "RISK",
-   "supervisor: Box war 109 s eingefroren – neue Frist 180 s"
-  ],
   [
    "2026-11-18T15:21:05",
    "SCAN",
@@ -5571,6 +5511,66 @@
    "2026-11-18T16:37:52",
    "SCAN",
    "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
+  ],
+  [
+   "2026-11-18T16:38:49",
+   "SCAN",
+   "Runde: 105 Tokens, 105 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T16:39:49",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T16:40:55",
+   "SCAN",
+   "Runde: 117 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
+  ],
+  [
+   "2026-11-18T16:41:50",
+   "SCAN",
+   "Runde: 124 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T16:42:50",
+   "SCAN",
+   "Runde: 125 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T16:43:50",
+   "SCAN",
+   "Runde: 124 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T16:44:49",
+   "SCAN",
+   "Runde: 114 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T16:45:49",
+   "SCAN",
+   "Runde: 119 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T16:46:49",
+   "SCAN",
+   "Runde: 114 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T16:47:50",
+   "SCAN",
+   "Runde: 122 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T16:53:42",
+   "RISK",
+   "supervisor: Box war 367 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-18T16:53:42",
+   "RISK",
+   "FEHLER Hänger: Runde > 150 s abgebrochen | ~~~~~~~~~~~~~~^^^^ |   File \"/workspace/krypto/scanner/scanner.py\", line 70, in kand_nachtragen |     fcntl.flock(lk, fcntl.LOCK_EX); rows = list(csv.DictReader(open(KAND))); ch = 0 |                                            ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File \"/usr/lib/python3.13/csv.py\", line 178, in __next__ |     row = next(self.reader) |   File \"/workspace/krypto/scanner/scanner.py\", line 18, in _alarm |     def _alarm(sig, frm): raise Haenger(\"Runde > 150 s abgebrochen\") |                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ | Haenger: Runde > 150 s abgebrochen | "
   ]
  ],
  "trefferquote": {
@@ -5588,5 +5588,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-18T16:37:52+01:00"
+ "daten_neuest": "2026-11-18T16:53:42+01:00"
 }

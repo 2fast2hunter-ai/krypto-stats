@@ -5134,19 +5134,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-18 17:45:01",
+   "t": "2026-11-18 17:55:01",
    "tokens": 121,
-   "paar": 115,
+   "paar": 120,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 359,
-   "tokens": 43865,
-   "paar": 43375,
+   "runden": 369,
+   "tokens": 45088,
+   "paar": 44597,
    "vor": 9,
-   "kandidaten_zeilen": 2680,
+   "kandidaten_zeilen": 2697,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5155,7 +5155,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1645
+    1659
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -5167,7 +5167,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    57
+    60
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -5260,7 +5260,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-18T17:45:02+01:00"
+   "zeit": "2026-11-18T17:55:02+01:00"
   },
   {
    "name": "Magnayen",
@@ -5272,56 +5272,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-18T16:53:42",
-   "RISK",
-   "FEHLER Hänger: Runde > 150 s abgebrochen | ~~~~~~~~~~~~~~^^^^ |   File \"/workspace/krypto/scanner/scanner.py\", line 70, in kand_nachtragen |     fcntl.flock(lk, fcntl.LOCK_EX); rows = list(csv.DictReader(open(KAND))); ch = 0 |                                            ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^ |   File \"/usr/lib/python3.13/csv.py\", line 178, in __next__ |     row = next(self.reader) |   File \"/workspace/krypto/scanner/scanner.py\", line 18, in _alarm |     def _alarm(sig, frm): raise Haenger(\"Runde > 150 s abgebrochen\") |                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ | Haenger: Runde > 150 s abgebrochen | "
-  ],
-  [
-   "2026-11-18T16:54:12",
-   "RISK",
-   "BLOCK BAWSAQ: Insider-Netzwerke (≤50 Wallets) 5.3 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-18T16:54:14",
-   "SCAN",
-   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-18T16:55:12",
-   "RISK",
-   "BLOCK BAWSAQ: Insider-Netzwerke (≤50 Wallets) 5.3 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-18T16:55:13",
-   "SCAN",
-   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-18T16:56:17",
-   "RISK",
-   "BLOCK BAWSAQ: Insider-Netzwerke (≤50 Wallets) 5.3 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-18T16:56:18",
-   "SCAN",
-   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
-  ],
-  [
-   "2026-11-18T16:57:12",
-   "SCAN",
-   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-18T16:58:12",
-   "SCAN",
-   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-18T16:59:12",
-   "SCAN",
-   "Runde: 124 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-18T17:00:12",
    "SCAN",
@@ -5571,6 +5521,56 @@
    "2026-11-18T17:45:01",
    "SCAN",
    "Runde: 121 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T17:46:01",
+   "SCAN",
+   "Runde: 124 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T17:47:06",
+   "SCAN",
+   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
+  ],
+  [
+   "2026-11-18T17:48:01",
+   "SCAN",
+   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T17:49:01",
+   "SCAN",
+   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T17:50:01",
+   "SCAN",
+   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T17:51:01",
+   "SCAN",
+   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T17:52:01",
+   "SCAN",
+   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T17:53:01",
+   "SCAN",
+   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T17:54:01",
+   "SCAN",
+   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-18T17:55:01",
+   "SCAN",
+   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -5588,5 +5588,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-18T17:45:02+01:00"
+ "daten_neuest": "2026-11-18T17:55:02+01:00"
 }

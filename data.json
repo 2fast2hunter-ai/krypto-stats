@@ -1,5 +1,5 @@
 {
- "stand_daten": "18.11.2026 09:37",
+ "stand_daten": "19.11.2026 09:25",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -161,8 +161,8 @@
   }
  },
  "scout": {
-  "datei": "scout-2026-11-18.md",
-  "quelle": "CoinGecko (/coins/markets Abruf 09:25 Berlin, last_updated 09:23:59 Berlin = 08:23:59Z; category solana-meme-coins 09:25; /search/trending; /coins/{id}), alternative.me (F&G Abruf 09:25), DexScreener (/tokens/v1/solana, token-boosts/top, token-profiles/latest, search; Abruf 09:29–09:31), RugCheck (tools/rugcheck.py Batches ≤10, 09:25–09:33; Voll-Reports /report 09:29–09:31), Jupiter (im Skript), Solana-RPC (Dev-Alter 09:32, teils 429), UKMTO 207-26, JMIC Update 114 (15.11.), ABC News/Reuters/Straits Times/Al Jazeera 17./18.11., Coindaro/FXStreet/Crypto.com/Investing.com 18.11.; Xatu-News pausiert (kein Fehler)",
+  "datei": "scout-2026-11-19.md",
+  "quelle": "CoinGecko (/coins/markets Abruf 09:19 Berlin, last_updated 09:17:54 Berlin; category solana-meme-coins, /search/trending), alternative.me (F&G Abruf 09:19), DexScreener (tokens/v1/solana 09:30), RugCheck (tools/rugcheck.py Batches ≤10, 09:20–09:30), UKMTO 211-26 / JMIC Update 114 / Anadolu / Arab News (Websuche 19.11.); Xatu-News pausiert (kein Fehler)",
   "majors": [
    [
     "Coin",
@@ -171,48 +171,39 @@
     "24h",
     "7d",
     "Vol 24h $",
-    "MCap $",
-    "Δ ggü. 17.11. 09:23"
+    "MCap $"
    ],
    [
     "BTC",
-    "64.630",
-    "+0,43 %",
-    "+0,18 %",
-    "−11,85 %",
-    "32,41 Mrd",
-    "1.300,1 Mrd",
-    "+0,1 % (64.567 →)"
+    "63.764",
+    "+0,16 %",
+    "−1,18 %",
+    "−13,25 %",
+    "32,47 Mrd",
+    "1.282,5 Mrd"
    ],
    [
     "ETH",
-    "1.809,36",
-    "+0,45 %",
-    "−1,04 %",
-    "−11,57 %",
-    "12,01 Mrd",
-    "221,2 Mrd",
-    "−1,1 % (1.830,17 →)"
+    "1.804,28",
+    "+0,02 %",
+    "−0,11 %",
+    "−11,67 %",
+    "10,53 Mrd",
+    "220,5 Mrd"
    ],
    [
     "SOL",
-    "74,85",
-    "+0,64 %",
-    "+3,10 %",
-    "−8,99 %",
-    "2,96 Mrd",
-    "44,3 Mrd",
-    "+3,0 % (72,66 →)"
+    "74,67",
+    "−0,13 %",
+    "−0,09 %",
+    "−9,34 %",
+    "2,14 Mrd",
+    "44,2 Mrd"
    ]
   ],
   "kandidaten": [],
   "ausschluss": [],
-  "stimmung": [
-   "**Belegt (UKMTO):** 207-26: Tanker 16.11. 05:58 UTC outbound von Projektil getroffen, Maschinenraumbrand (ukmto.org). 16.11. ~19:00 UTC Tanker 7 sm nördlich Khasab angegriffen, manövrierunfähig; **17.11. UKMTO-Update: derselbe Tanker ein zweites Mal getroffen, Brand, Besatzung unaccounted for** (ABC News 17.11. 15:00 EST = 21:00 Berlin, gCaptain 16.11.). **Reuters 18.11. (Straits Times, 15:45 SGT = 08:45 Berlin):** ADNOC L&S: ein Besatzungsmitglied vermisst, 11 verletzt, Besatzung evakuiert (LPG-Tanker, laut Sicherheitsquellen von Projektil getroffen); Hormus laut Reuters weiter von Iran blockiert, „Anstieg der Tankerangriffe in diesem Monat“.",
-   "**JMIC Update 114 (15.11.):** Bedrohung **SEVERE**, weitere Angriffe „highly likely“ (v. a. Musandam); ~28 US-begleitete Transits/Tag; CENTCOM 11.11.: ~150 Schiffe umgeleitet, 5 außer Gefecht. gCaptain/JMIC: ~227 Schiffe stationär vor Fujairah, Khor Fakkan, Sohar, Musandam; fünf Angriffe vor Musandam seit 01.11. CENTCOM: letzte genannte Aktion 07.11. (Huda); keine neue Stellungnahme zu 16./17.11. gefunden. ABC News-Liveblog: Überschrift „US conducts airstrikes on Qeshm Island, US military official says“ (Detail nicht geprüft → unbestätigt).",
-   "**Behauptung (nicht unabhängig bestätigt):** IRGC-Marine 17.11.: Supertanker (>2 Mio Barrel) und LPG-Tanker auf Minen, Marine: vierter Tanker auf Mine östlich der Straße (Reuters via Geo.tv; „Reuters konnte nicht unabhängig prüfen“). Iran: Straße „geschlossen“, Passage nur mit Koordination.",
-   "**Markt (belegt):** BTC ~64.600–65.000 $, Nachthoch 65.199 $ nach Nvidia-Zahlen (Umsatz 115,8 Mrd, Guidance ~130 Mrd), danach zurück auf ~64.300 (Coindaro 18.11. 05:51 UTC, cryptowatchdesk 04:46 UTC); Spot-BTC-ETFs 17.11. −239,9 Mio $ (IBIT −209,5 Mio; Farside); CME FedWatch ~92 % für +25 bp am 09.12. (Crypto.com), 10J-Rendite ~5,09 % (FXStreet); Fed-Protokoll heute 20:00 Berlin; BTC sechster Wochenverlust in Folge (Crypto.com). Bewertung: keine Entspannung, KAUF_PAUSE-Grund besteht."
-  ]
+  "stimmung": []
  },
  "backtest": {
   "datei": "ergebnisse-2026-10-29.csv",
@@ -5134,19 +5125,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-19 09:13:31",
-   "tokens": 111,
-   "paar": 111,
+   "t": "2026-11-19 09:24:45",
+   "tokens": 118,
+   "paar": 118,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 334,
-   "tokens": 39307,
-   "paar": 38863,
+   "runden": 344,
+   "tokens": 40471,
+   "paar": 40009,
    "vor": 10,
-   "kandidaten_zeilen": 1662,
+   "kandidaten_zeilen": 1750,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5155,15 +5146,15 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1091
+    1144
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    375
+    401
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    103
+    110
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -5171,7 +5162,7 @@
    ],
    [
     "Vorfilter: keine Socials/Website auf DexScreener",
-    10
+    11
    ]
   ]
  },
@@ -5219,8 +5210,8 @@
    "rolle": "Scout",
    "farbe": "#3B82F6",
    "form": "circle",
-   "letzte_datei": "wissen/krypto/scans/2026-11-18.md",
-   "zeit": "2026-11-18T09:35:23+01:00"
+   "letzte_datei": "wissen/krypto/scans/2026-11-19.md",
+   "zeit": "2026-11-19T09:24:16+01:00"
   },
   {
    "name": "Xatu",
@@ -5244,7 +5235,7 @@
    "farbe": "#F59E0B",
    "form": "shield",
    "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-11-18T09:37:38+01:00"
+   "zeit": "2026-11-19T09:25:25+01:00"
   },
   {
    "name": "Mauzi",
@@ -5260,7 +5251,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-19T09:13:30+01:00"
+   "zeit": "2026-11-19T09:24:45+01:00"
   },
   {
    "name": "Magnayen",
@@ -5272,61 +5263,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-19T07:25:31",
-   "RISK",
-   "supervisor: Box war 449 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-19T07:26:21",
-   "SCAN",
-   "Runde: 114 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-19T07:27:21",
-   "SCAN",
-   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-19T07:29:46",
-   "RISK",
-   "supervisor: Box war 115 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-19T07:29:55",
-   "SCAN",
-   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-19T07:30:55",
-   "SCAN",
-   "Runde: 114 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-19T07:36:20",
-   "SCAN",
-   "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 17 s"
-  ],
-  [
-   "2026-11-19T07:36:23",
-   "RISK",
-   "supervisor: Box war 264 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-19T07:37:12",
-   "SCAN",
-   "Runde: 118 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-19T07:38:12",
-   "SCAN",
-   "Runde: 100 Tokens, 100 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-19T07:39:12",
-   "SCAN",
-   "Runde: 110 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-19T07:40:12",
    "SCAN",
@@ -5571,6 +5507,61 @@
    "2026-11-19T09:13:31",
    "SCAN",
    "Runde: 111 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
+  ],
+  [
+   "2026-11-19T09:14:25",
+   "SCAN",
+   "Runde: 112 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-19T09:15:25",
+   "SCAN",
+   "Runde: 110 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-19T09:16:25",
+   "SCAN",
+   "Runde: 105 Tokens, 104 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-19T09:18:35",
+   "RISK",
+   "supervisor: Box war 99 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-19T09:18:45",
+   "SCAN",
+   "Runde: 120 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-19T09:19:50",
+   "SCAN",
+   "Runde: 120 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
+  ],
+  [
+   "2026-11-19T09:20:45",
+   "SCAN",
+   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-19T09:21:45",
+   "SCAN",
+   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-19T09:22:45",
+   "SCAN",
+   "Runde: 120 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-19T09:23:45",
+   "SCAN",
+   "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-19T09:24:45",
+   "SCAN",
+   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -5588,5 +5579,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-19T09:13:30+01:00"
+ "daten_neuest": "2026-11-19T09:25:25+01:00"
 }

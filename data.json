@@ -5137,7 +5137,7 @@
    "tokens": 3593,
    "paar": 3548,
    "vor": 0,
-   "kandidaten_zeilen": 273,
+   "kandidaten_zeilen": 336,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5146,15 +5146,15 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    162
+    194
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    83
+    106
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    20
+    27
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -5250,8 +5250,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-20T02:19:59+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-20T02:47:24+01:00"
   },
   {
    "name": "Magnayen",
@@ -5263,11 +5263,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-19T22:19:19",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-19T22:20:19",
    "SCAN",
@@ -5562,6 +5557,11 @@
    "2026-11-20T02:19:57",
    "SCAN",
    "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-20T02:47:23",
+   "RISK",
+   "supervisor: Box war 1582 s eingefroren – neue Frist 180 s"
   ]
  ],
  "trefferquote": {
@@ -5579,5 +5579,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-20T02:19:59+01:00"
+ "daten_neuest": "2026-11-20T02:47:24+01:00"
 }

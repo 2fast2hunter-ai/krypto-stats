@@ -1,5 +1,5 @@
 {
- "stand_daten": "20.11.2026 09:25",
+ "stand_daten": "21.11.2026 09:31",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -161,8 +161,8 @@
   }
  },
  "scout": {
-  "datei": "scout-2026-11-20.md",
-  "quelle": "CoinGecko (/coins/markets + category solana-meme-coins Top60 + /search/trending, Abruf 09:17–09:18 Berlin, last_updated 09:15:45 Berlin), alternative.me (F&G Abruf 09:17), DexScreener (tokens/latest + tokens/v1, 09:17–09:20), RugCheck (tools/rugcheck.py Batches ≤10, 09:17–09:25 + eigene Report-Abrufe 09:17), Solana-RPC (Dev-Alter, 429), UKMTO 212-26 / JMIC Update 115 / Anadolu / Reuters via Investing.com / CoinDesk / Investing.com (Websuche 20.11.); Xatu-News pausiert (kein Fehler)",
+  "datei": "scout-2026-11-21.md",
+  "quelle": "CoinGecko (/coins/markets Majors Abruf 09:19, last_updated 09:18:57 Berlin; category solana-meme-coins Top60 + /search/trending + /coins/{id} für Contracts, Abruf 09:25), alternative.me (F&G Abruf 09:20), DexScreener (tokens/latest, 09:24–09:27), RugCheck (tools/rugcheck.py Batches ≤10, 09:20–09:27 + eigene Report-Abrufe 09:24–09:27), Solana-RPC (Dev-Alter, HTTP 429), UKMTO 214-26 / JMIC Update 115 / Reuters via Arab News + Al Arabiya / Iran International (Websuche 21.11. ~09:28); Xatu-News pausiert (kein Fehler)",
   "majors": [
    [
     "Coin",
@@ -175,30 +175,30 @@
    ],
    [
     "BTC",
-    "61.827",
-    "−0,28 %",
-    "−3,08 %",
-    "−10,50 %",
-    "37,56 Mrd",
-    "1.243,6 Mrd"
+    "57.825",
+    "−0,05 %",
+    "−6,44 %",
+    "−14,01 %",
+    "69,04 Mrd",
+    "1.163,5 Mrd"
    ],
    [
     "ETH",
-    "1.753,83",
-    "+0,17 %",
-    "−2,87 %",
-    "−9,68 %",
-    "12,63 Mrd",
-    "214,4 Mrd"
+    "1.626,80",
+    "−0,60 %",
+    "−7,15 %",
+    "−14,49 %",
+    "25,33 Mrd",
+    "198,9 Mrd"
    ],
    [
     "SOL",
-    "72,54",
-    "−0,25 %",
-    "−2,89 %",
-    "−9,36 %",
-    "2,56 Mrd",
-    "42,9 Mrd"
+    "67,31",
+    "−1,18 %",
+    "−7,18 %",
+    "−10,96 %",
+    "4,63 Mrd",
+    "39,9 Mrd"
    ]
   ],
   "kandidaten": [],
@@ -5125,19 +5125,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-21 09:26:27",
-   "tokens": 117,
-   "paar": 117,
+   "t": "2026-11-21 09:36:27",
+   "tokens": 112,
+   "paar": 111,
    "vor": 0,
    "offen": 0,
    "schatten": 1
   },
   "heute": {
-   "runden": 164,
-   "tokens": 19952,
-   "paar": 19710,
+   "runden": 174,
+   "tokens": 21101,
+   "paar": 20854,
    "vor": 6,
-   "kandidaten_zeilen": 1283,
+   "kandidaten_zeilen": 1303,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5146,11 +5146,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    750
+    767
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    414
+    415
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -5158,7 +5158,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    28
+    30
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -5210,8 +5210,8 @@
    "rolle": "Scout",
    "farbe": "#3B82F6",
    "form": "circle",
-   "letzte_datei": "wissen/krypto/scans/2026-11-20.md",
-   "zeit": "2026-11-20T09:23:21+01:00"
+   "letzte_datei": "krypto/scout-2026-11-21.md",
+   "zeit": "2026-11-21T09:28:52+01:00"
   },
   {
    "name": "Xatu",
@@ -5234,8 +5234,8 @@
    "rolle": "Risiko",
    "farbe": "#F59E0B",
    "form": "shield",
-   "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-11-20T09:25:23+01:00"
+   "letzte_datei": "krypto/tools/manuelle-blocks.json",
+   "zeit": "2026-11-21T09:31:16+01:00"
   },
   {
    "name": "Mauzi",
@@ -5250,8 +5250,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-21T09:26:27+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-21T09:36:28+01:00"
   },
   {
    "name": "Magnayen",
@@ -5263,61 +5263,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-21T08:21:06",
-   "SCAN",
-   "Runde: 114 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-21T08:22:06",
-   "SCAN",
-   "Runde: 119 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-21T08:23:06",
-   "SCAN",
-   "Runde: 106 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-21T08:24:06",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-21T08:25:10",
-   "SCAN",
-   "Runde: 125 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
-  ],
-  [
-   "2026-11-21T08:26:50",
-   "RISK",
-   "supervisor: Box war 104 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-21T08:27:28",
-   "SCAN",
-   "Runde: 118 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-21T08:28:28",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-21T08:29:33",
-   "SCAN",
-   "Runde: 113 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
-  ],
-  [
-   "2026-11-21T08:30:28",
-   "SCAN",
-   "Runde: 126 Tokens, 124 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
-  ],
-  [
-   "2026-11-21T08:31:33",
-   "SCAN",
-   "Runde: 126 Tokens, 125 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
-  ],
   [
    "2026-11-21T08:32:33",
    "SCAN",
@@ -5562,6 +5507,61 @@
    "2026-11-21T09:26:27",
    "SCAN",
    "Runde: 117 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-21T09:27:27",
+   "SCAN",
+   "Runde: 121 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-21T09:28:27",
+   "SCAN",
+   "Runde: 114 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-21T09:29:27",
+   "SCAN",
+   "Runde: 111 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-21T09:30:27",
+   "SCAN",
+   "Runde: 116 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-21T09:31:27",
+   "SCAN",
+   "Runde: 118 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-21T09:32:54",
+   "RISK",
+   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
+  ],
+  [
+   "2026-11-21T09:32:55",
+   "SCAN",
+   "Runde: 105 Tokens, 105 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 39 s"
+  ],
+  [
+   "2026-11-21T09:33:32",
+   "SCAN",
+   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
+  ],
+  [
+   "2026-11-21T09:34:37",
+   "SCAN",
+   "Runde: 115 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 21 s"
+  ],
+  [
+   "2026-11-21T09:35:32",
+   "SCAN",
+   "Runde: 114 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
+  ],
+  [
+   "2026-11-21T09:36:27",
+   "SCAN",
+   "Runde: 112 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
   ]
  ],
  "trefferquote": {
@@ -5579,5 +5579,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-21T09:26:27+01:00"
+ "daten_neuest": "2026-11-21T09:36:28+01:00"
 }

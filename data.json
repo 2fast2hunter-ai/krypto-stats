@@ -1,11 +1,11 @@
 {
- "stand_daten": "22.11.2026 12:56",
+ "stand_daten": "22.11.2026 13:07",
  "depot": {
-  "wert": 49.01,
+  "wert": 48.73,
   "budget": 50.0,
-  "gesamt_pl": -0.99,
-  "tag_pl": 0,
-  "woche_pl": 0,
+  "gesamt_pl": -1.27,
+  "tag_pl": -0.28,
+  "woche_pl": -0.28,
   "stand": "22.11.2026 04:29 (Berlin)",
   "verlauf": [
    {
@@ -72,6 +72,11 @@
     "t": "2026-11-22T12:56+01:00",
     "cash": 46.51,
     "wert": 49.01
+   },
+   {
+    "t": "2026-11-22T13:07+01:00",
+    "cash": 48.7323,
+    "wert": 48.73
    }
   ]
  },
@@ -85,19 +90,9 @@
   "max_pos": 3.0,
   "max_trades_tag": 5.0,
   "ampel": "gruen",
-  "offene_positionen": 1
+  "offene_positionen": 0
  },
- "offen": [
-  {
-   "zeitpunkt": "2026-11-22T12:56+01:00",
-   "strategie": "meme-scan",
-   "coin": "JEANPHIL",
-   "menge": 1043.637956,
-   "preis_eur": "0.002343964194",
-   "einsatz": 2.5001,
-   "notiz": "Volumen-Spike+Momentum, rugcheck FREIGABE; Slippage 1.50 %; CA GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump"
-  }
- ],
+ "offen": [],
  "geschlossen": [
   {
    "coin": "fone",
@@ -164,6 +159,17 @@
    "einsatz": 2.5001,
    "ergebnis": -0.1944,
    "notiz": "Zeit-Stop 6 h (-3.7 %); Slippage 1.50 %; CA GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump"
+  },
+  {
+   "coin": "JEANPHIL",
+   "strategie": "meme-scan",
+   "kauf": "2026-11-22T12:56+01:00",
+   "verkauf": "2026-11-22T13:07+01:00",
+   "menge": 1043.637956,
+   "teil": false,
+   "einsatz": 2.5001,
+   "ergebnis": -0.2778,
+   "notiz": "Panzaeron-Block (-7.0 %); Slippage 1.64 %; CA GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump"
   }
  ],
  "warnungen": [
@@ -171,8 +177,8 @@
  ],
  "pl_strategie": {
   "meme-scan": {
-   "pl": -0.99,
-   "trades": 6
+   "pl": -1.27,
+   "trades": 7
   }
  },
  "scout": {
@@ -3302,6 +3308,70 @@
    "datei": "2026-11-22.csv"
   },
   {
+   "zeitpunkt": "2026-11-22T13:00+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "UK_MTO/CENTCOM",
+   "titel": "Kein UKMTO/CENTCOM seit 216-26",
+   "text": "Letzter UKMTO-Post 21.11. 09:14:59 Berlin (Abruf bis 13:02:34). Lage nicht entspannt; KAUF_PAUSE nur für echtes Geld. https://x.com/UK_MTO/status/2124053952446730711",
+   "datei": "2026-11-22.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-22T13:00:52+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "CoinGecko",
+   "titel": "BTC 61011 vs 12:02 +0",
+   "text": "37 %",
+   "null": [
+    "ETH 1706",
+    "85; SOL 70",
+    "59; 1h BTC +0",
+    "28 %. F&G 11. Bounce hält unter 24h-Hoch 61196"
+   ],
+   "datei": "2026-11-22.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-22T13:03+01:00",
+   "coin": "SCOUT",
+   "signal": "neutral",
+   "quelle": "DexScreener",
+   "titel": "Kein Crash/Delisting/Hack der Freigabe-Coins",
+   "text": "Liq vs 12:03 −0",
+   "null": [
+    "8 bis +0",
+    "6 %. Buttcoin 24h −15",
+    "3 %",
+    " Rest ohne 50 %-Verlust"
+   ],
+   "datei": "2026-11-22.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-22T12:56+01:00",
+   "coin": "JEANPHIL",
+   "signal": "neutral",
+   "quelle": "paper-trades.csv",
+   "titel": "Mauzi eröffnet JEANPHIL-Long (kein news-Ausstieg)",
+   "text": "Kauf 12:56 meme-scan 1043",
+   "null": [
+    "64 @ 0",
+    "002344 EUR (Wert 2",
+    "45 EUR",
+    " Cash 46",
+    "51 €). CA GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump. Nicht auf Freigabeliste 22.11. DexScreener 13:03: 0",
+    "002516 $ (ca. −2",
+    "3 % vs Einstieg)",
+    " 1h +16",
+    "8 %",
+    " 24h +72",
+    "3 %",
+    " Liq 216k. rugcheck Score 1",
+    " LP locked ~87 %",
+    " keine Hack/Delist-News"
+   ],
+   "datei": "2026-11-22.csv"
+  },
+  {
    "datei": "2026-11-06.md",
    "titel": "News-Scans 06.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
    "text": "- **CENTCOM/UKMTO Hormus:** **keine Posts** seit 07:08. Reuters-Hormus-Suche leer. FT-Verhandlungsstück weiter **nicht** durch Reuters/CENTCOM/UKMTO gedeckt. Lage **nicht** entspannt. Stand unverändert (Reuters 05.11. 16:40; Rezaei 7 Bedingungen; UKMTO 196-26 = Katar).\n- **Markt ruhig: ja.** BTC ~75.515 → ~75.425 (−0,1 %); 1h-Ranges ≤0,4 %. **KAUF_PAUSE hält.**\n- **Makro:** DE Industrieproduktion Sep +0,7 % MoM (Squawk 08:02, Est −0,1 %). NFP **14:30** offen. ETF: BTC −430 Mio / ETH −100 Mio Nettoabfluss 05.11. (Wu).\n- **Scout:** `scout-2026-11-06.md` **noch nicht da.** Freigaben scout-05 bis **09:05** (~1 h). DESSA man. bis **09:00**. WASTED bis 07.11. 07:00. RICO Crash bis 08.11. 13:08.\n- **Kein neuer Blocker** (JEANPHIL −13,5 % Liq / −21 % 24h; TROLL −10 %; RICO unverändert gesperrt). Jupiter HELL/JEANPHIL Impact ≪1 %.\n- **Prüfwürdig (Prozess):** kandidaten.csv **07:09** `schatten` **DESSA** (CA npz2FhoufQ7p…pump) trotz Eintrag in manuelle-blocks.json bis 06.11. 09:00. (CARDS schatten_exit 07:50, Stop −15 %.)\n- **X CA-only:** JOB 43 Posts (~06:08–07:00) dann 0; GATO 11; HELL 1; JEANPHIL 0. Kein >50k in Sample.\n- Kurse ~08:07: BTC 75.425 (−6,6 %), ETH 2.221,17 (−8,7 %), SOL 89,39 (−7,3 %), BNB 688,16 (−3,8 %).\n- Keine Listings/Hormus-Entspannung. Keine neuen Käufe empfohlen (KAUF_PAUSE).\n- **CENTCOM/UKMTO Hormus:** **keine Posts** seit 05:08. Kein Sachupdate/Dementi/Ceasefire.\n- **Reuters Hormus-Suche:** leer seit 05:08. Stand unverändert (05.11. 16:40 „Tankers hit…“; Rezae"
@@ -5461,8 +5531,8 @@
   },
   "meme-scan": {
    "meme": true,
-   "pl": -0.9905000000000003,
-   "trades": 6
+   "pl": -1.2683000000000002,
+   "trades": 7
   },
   "meme-smartwallet": {
    "meme": true,
@@ -5487,19 +5557,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-22 12:58:52",
-   "tokens": 109,
-   "paar": 108,
+   "t": "2026-11-22 13:09:01",
+   "tokens": 112,
+   "paar": 110,
    "vor": 0,
-   "offen": 1,
+   "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 400,
-   "tokens": 46461,
-   "paar": 45877,
+   "runden": 410,
+   "tokens": 47591,
+   "paar": 46965,
    "vor": 32,
-   "kandidaten_zeilen": 2425,
+   "kandidaten_zeilen": 2488,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
@@ -5508,15 +5578,15 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1485
+    1516
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    748
+    777
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    71
+    74
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -5564,6 +5634,12 @@
    "pl": -0.9905,
    "trade": -0.1944,
    "coin": "JEANPHIL"
+  },
+  {
+   "t": "2026-11-22T13:07+01:00",
+   "pl": -1.2683,
+   "trade": -0.2778,
+   "coin": "JEANPHIL"
   }
  ],
  "agenten": [
@@ -5581,7 +5657,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-22.csv",
-   "zeit": "2026-11-22T12:04:18+01:00"
+   "zeit": "2026-11-22T13:04:18+01:00"
   },
   {
    "name": "Kadabra",
@@ -5596,8 +5672,8 @@
    "rolle": "Risiko",
    "farbe": "#F59E0B",
    "form": "shield",
-   "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-11-22T10:09:36+01:00"
+   "letzte_datei": "krypto/tools/freigabeliste.json",
+   "zeit": "2026-11-22T13:07:21+01:00"
   },
   {
    "name": "Mauzi",
@@ -5605,7 +5681,7 @@
    "farbe": "#10B981",
    "form": "square",
    "letzte_datei": "krypto/paper-trades.csv",
-   "zeit": "2026-11-22T12:56:37+01:00"
+   "zeit": "2026-11-22T13:07:51+01:00"
   },
   {
    "name": "Scanner",
@@ -5613,7 +5689,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-22T12:58:53+01:00"
+   "zeit": "2026-11-22T13:09:02+01:00"
   },
   {
    "name": "Magnayen",
@@ -5625,86 +5701,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-22T12:18:44",
-   "SCAN",
-   "Runde: 115 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 23 s"
-  ],
-  [
-   "2026-11-22T12:18:48",
-   "RISK",
-   "supervisor: Box war 83 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-22T12:19:31",
-   "SCAN",
-   "Runde: 107 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:20:31",
-   "SCAN",
-   "Runde: 110 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:24:09",
-   "RISK",
-   "supervisor: Box war 200 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-22T12:24:28",
-   "RISK",
-   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-11-22T12:24:36",
-   "SCAN",
-   "Runde: 115 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 15 s"
-  ],
-  [
-   "2026-11-22T12:25:31",
-   "SCAN",
-   "Runde: 115 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:26:31",
-   "SCAN",
-   "Runde: 115 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:27:31",
-   "SCAN",
-   "Runde: 114 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:28:31",
-   "SCAN",
-   "Runde: 115 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:29:31",
-   "SCAN",
-   "Runde: 114 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:30:31",
-   "SCAN",
-   "Runde: 114 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:31:28",
-   "RISK",
-   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-11-22T12:31:33",
-   "RISK",
-   "HTTP 429 geckoterminal (Versuch 2/3) https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-11-22T12:31:46",
-   "SCAN",
-   "Runde: 113 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 25 s"
-  ],
   [
    "2026-11-22T12:33:07",
    "SCAN",
@@ -5924,11 +5920,91 @@
    "2026-11-22T12:58:52",
    "SCAN",
    "Runde: 109 Tokens, 108 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 31 s"
+  ],
+  [
+   "2026-11-22T12:59:28",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
+  ],
+  [
+   "2026-11-22T12:59:37",
+   "SCAN",
+   "Runde: 110 Tokens, 109 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 16 s"
+  ],
+  [
+   "2026-11-22T13:00:32",
+   "SCAN",
+   "Runde: 113 Tokens, 102 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-22T13:01:32",
+   "SCAN",
+   "Runde: 115 Tokens, 107 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-22T13:02:24",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
+  ],
+  [
+   "2026-11-22T13:02:37",
+   "SCAN",
+   "Runde: 113 Tokens, 112 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 16 s"
+  ],
+  [
+   "2026-11-22T13:03:32",
+   "SCAN",
+   "Runde: 112 Tokens, 106 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-22T13:04:32",
+   "SCAN",
+   "Runde: 111 Tokens, 110 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-22T13:05:32",
+   "SCAN",
+   "Runde: 115 Tokens, 107 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
+  ],
+  [
+   "2026-11-22T13:06:24",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
+  ],
+  [
+   "2026-11-22T13:06:37",
+   "SCAN",
+   "Runde: 115 Tokens, 113 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
+  ],
+  [
+   "2026-11-22T13:07+01",
+   "LOSS",
+   "meme-scan verkauft 1043.64 JEANPHIL: -0,28 €"
+  ],
+  [
+   "2026-11-22T13:07:36",
+   "RISK",
+   "supervisor: scanner beendet (rc 143), Neustart in 15 s"
+  ],
+  [
+   "2026-11-22T13:07:51",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet) pid 3551301"
+  ],
+  [
+   "2026-11-22T13:08:02",
+   "SCAN",
+   "Runde: 114 Tokens, 112 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-22T13:09:01",
+   "SCAN",
+   "Runde: 112 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
   "w": 1,
-  "l": 5
+  "l": 6
  },
  "bester_trade": {
   "coin": "JOB",
@@ -5941,5 +6017,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-22T12:58:53+01:00"
+ "daten_neuest": "2026-11-22T13:09:02+01:00"
 }

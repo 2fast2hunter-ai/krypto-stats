@@ -1,5 +1,5 @@
 {
- "stand_daten": "22.11.2026 12:04",
+ "stand_daten": "22.11.2026 12:56",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -67,6 +67,11 @@
     "t": "2026-11-05T01:04+01:00",
     "cash": 49.01,
     "wert": 49.01
+   },
+   {
+    "t": "2026-11-22T12:56+01:00",
+    "cash": 46.51,
+    "wert": 49.01
    }
   ]
  },
@@ -80,9 +85,19 @@
   "max_pos": 3.0,
   "max_trades_tag": 5.0,
   "ampel": "gruen",
-  "offene_positionen": 0
+  "offene_positionen": 1
  },
- "offen": [],
+ "offen": [
+  {
+   "zeitpunkt": "2026-11-22T12:56+01:00",
+   "strategie": "meme-scan",
+   "coin": "JEANPHIL",
+   "menge": 1043.637956,
+   "preis_eur": "0.002343964194",
+   "einsatz": 2.5001,
+   "notiz": "Volumen-Spike+Momentum, rugcheck FREIGABE; Slippage 1.50 %; CA GTBxUiw6wJdmmkCGZgRHLyYxqu1vG4KtRpeox6yDpump"
+  }
+ ],
  "geschlossen": [
   {
    "coin": "fone",
@@ -5472,32 +5487,32 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-22 12:48:35",
-   "tokens": 107,
-   "paar": 106,
+   "t": "2026-11-22 12:58:52",
+   "tokens": 109,
+   "paar": 108,
    "vor": 0,
-   "offen": 0,
+   "offen": 1,
    "schatten": 0
   },
   "heute": {
-   "runden": 390,
-   "tokens": 45325,
-   "paar": 44777,
-   "vor": 30,
-   "kandidaten_zeilen": 2392,
-   "nach_checks": 0,
-   "gekauft": 0,
+   "runden": 400,
+   "tokens": 46461,
+   "paar": 45877,
+   "vor": 32,
+   "kandidaten_zeilen": 2425,
+   "nach_checks": 1,
+   "gekauft": 1,
    "schatten": 0,
-   "block": 26
+   "block": 27
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1455
+    1485
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    747
+    748
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -5589,8 +5604,8 @@
    "rolle": "Trader",
    "farbe": "#10B981",
    "form": "square",
-   "letzte_datei": "krypto/depot.md",
-   "zeit": "2026-11-22T04:29:53+01:00"
+   "letzte_datei": "krypto/paper-trades.csv",
+   "zeit": "2026-11-22T12:56:37+01:00"
   },
   {
    "name": "Scanner",
@@ -5598,7 +5613,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-22T12:48:37+01:00"
+   "zeit": "2026-11-22T12:58:53+01:00"
   },
   {
    "name": "Magnayen",
@@ -5610,86 +5625,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-22T12:03:24",
-   "RISK",
-   "supervisor: Box war 105 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-22T12:03:34",
-   "SCAN",
-   "Runde: 116 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 11 s"
-  ],
-  [
-   "2026-11-22T12:04:33",
-   "SCAN",
-   "Runde: 117 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:05:33",
-   "SCAN",
-   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:06:47",
-   "SCAN",
-   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:07:47",
-   "SCAN",
-   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:08:47",
-   "SCAN",
-   "Runde: 116 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:09:47",
-   "SCAN",
-   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:10:41",
-   "RISK",
-   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
-  ],
-  [
-   "2026-11-22T12:10:52",
-   "SCAN",
-   "Runde: 117 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 15 s"
-  ],
-  [
-   "2026-11-22T12:11:47",
-   "SCAN",
-   "Runde: 114 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:12:47",
-   "SCAN",
-   "Runde: 113 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:13:47",
-   "SCAN",
-   "Runde: 116 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:14:45",
-   "RISK",
-   "supervisor: Box war 64 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-22T12:15:28",
-   "SCAN",
-   "Runde: 115 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T12:16:28",
-   "SCAN",
-   "Runde: 115 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
-  ],
   [
    "2026-11-22T12:18:44",
    "SCAN",
@@ -5909,6 +5844,86 @@
    "2026-11-22T12:48:35",
    "SCAN",
    "Runde: 107 Tokens, 106 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 15 s"
+  ],
+  [
+   "2026-11-22T12:49:31",
+   "SCAN",
+   "Runde: 114 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T12:50:29",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=2"
+  ],
+  [
+   "2026-11-22T12:50:36",
+   "SCAN",
+   "Runde: 115 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 15 s"
+  ],
+  [
+   "2026-11-22T12:51:30",
+   "SCAN",
+   "Runde: 115 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T12:52:30",
+   "SCAN",
+   "Runde: 114 Tokens, 107 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T12:53:30",
+   "SCAN",
+   "Runde: 115 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T12:54:31",
+   "SCAN",
+   "Runde: 115 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T12:55:30",
+   "SCAN",
+   "Runde: 115 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T12:56+01",
+   "BUY",
+   "meme-scan kauft 1043.637956 JEANPHIL für 2,45 €"
+  ],
+  [
+   "2026-11-22T12:56:37",
+   "SCAN",
+   "Runde: 113 Tokens, 111 mit Paar, Vorfilter ok 1, offen 1, Schatten 0, nach Checks 1, gekauft 1, Dauer 16 s"
+  ],
+  [
+   "2026-11-22T12:57:32",
+   "RISK",
+   "BLOCK VINE: Dev hält 5.0 % > 3 %"
+  ],
+  [
+   "2026-11-22T12:57:34",
+   "SCAN",
+   "Runde: 111 Tokens, 109 mit Paar, Vorfilter ok 1, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 13 s"
+  ],
+  [
+   "2026-11-22T12:58:24",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
+  ],
+  [
+   "2026-11-22T12:58:31",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
+  ],
+  [
+   "2026-11-22T12:58:36",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 2/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
+  ],
+  [
+   "2026-11-22T12:58:52",
+   "SCAN",
+   "Runde: 109 Tokens, 108 mit Paar, Vorfilter ok 0, offen 1, Schatten 0, nach Checks 0, gekauft 0, Dauer 31 s"
   ]
  ],
  "trefferquote": {
@@ -5926,5 +5941,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-22T12:48:37+01:00"
+ "daten_neuest": "2026-11-22T12:58:53+01:00"
 }

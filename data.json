@@ -5858,19 +5858,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-22 18:06:44",
-   "tokens": 103,
-   "paar": 100,
+   "t": "2026-11-22 18:15:28",
+   "tokens": 115,
+   "paar": 114,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 625,
-   "tokens": 71120,
-   "paar": 70088,
+   "runden": 629,
+   "tokens": 71551,
+   "paar": 70509,
    "vor": 41,
-   "kandidaten_zeilen": 3528,
+   "kandidaten_zeilen": 3538,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
@@ -5879,7 +5879,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    2130
+    2140
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -5990,7 +5990,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-22T18:06:45+01:00"
+   "zeit": "2026-11-22T18:15:30+01:00"
   },
   {
    "name": "Magnayen",
@@ -6002,31 +6002,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-22T17:14:07",
-   "SCAN",
-   "Runde: 109 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T17:15:07",
-   "SCAN",
-   "Runde: 106 Tokens, 105 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T17:16:07",
-   "SCAN",
-   "Runde: 113 Tokens, 111 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T17:17:07",
-   "RISK",
-   "BLOCK FIONA: Insider-Netzwerke (≤50 Wallets) 27.1 % ≥ 5 %; Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-22T17:17:09",
-   "SCAN",
-   "Runde: 113 Tokens, 111 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
-  ],
   [
    "2026-11-22T17:18:07",
    "SCAN",
@@ -6301,6 +6276,31 @@
    "2026-11-22T18:06:44",
    "SCAN",
    "Runde: 103 Tokens, 100 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T18:07:44",
+   "SCAN",
+   "Runde: 102 Tokens, 100 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T18:08:44",
+   "SCAN",
+   "Runde: 104 Tokens, 100 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T18:09:44",
+   "SCAN",
+   "Runde: 110 Tokens, 107 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T18:15:28",
+   "RISK",
+   "supervisor: Box war 276 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-22T18:15:28",
+   "SCAN",
+   "Runde: 115 Tokens, 114 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 21 s"
   ]
  ],
  "trefferquote": {
@@ -6318,5 +6318,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-22T18:06:45+01:00"
+ "daten_neuest": "2026-11-22T18:15:30+01:00"
 }

@@ -1,5 +1,5 @@
 {
- "stand_daten": "22.11.2026 04:29",
+ "stand_daten": "22.11.2026 04:31",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -5125,19 +5125,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-22 04:29:36",
-   "tokens": 105,
-   "paar": 105,
+   "t": "2026-11-22 04:31:36",
+   "tokens": 123,
+   "paar": 121,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 86,
-   "tokens": 10249,
-   "paar": 10065,
+   "runden": 88,
+   "tokens": 10482,
+   "paar": 10286,
    "vor": 4,
-   "kandidaten_zeilen": 765,
+   "kandidaten_zeilen": 767,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5146,7 +5146,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    464
+    466
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -5226,16 +5226,16 @@
    "rolle": "Strategie",
    "farbe": "#A855F7",
    "form": "hex",
-   "letzte_datei": "krypto/strategien/README.md",
-   "zeit": "2026-11-22T04:29:35+01:00"
+   "letzte_datei": "krypto/strategien/memecoin-filter-checkliste.md",
+   "zeit": "2026-11-22T04:31:56+01:00"
   },
   {
    "name": "Panzaeron",
    "rolle": "Risiko",
    "farbe": "#F59E0B",
    "form": "shield",
-   "letzte_datei": "krypto/tools/manuelle-blocks.json",
-   "zeit": "2026-11-21T09:31:16+01:00"
+   "letzte_datei": "krypto/risiko-regeln.md",
+   "zeit": "2026-11-22T04:31:56+01:00"
   },
   {
    "name": "Mauzi",
@@ -5251,7 +5251,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-22T04:29:37+01:00"
+   "zeit": "2026-11-22T04:31:37+01:00"
   },
   {
    "name": "Magnayen",
@@ -5263,16 +5263,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-22T02:05:51",
-   "SCAN",
-   "Runde: 123 Tokens, 110 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T02:06:51",
-   "SCAN",
-   "Runde: 123 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-22T02:23:16",
    "RISK",
@@ -5562,6 +5552,16 @@
    "2026-11-22T04:29:36",
    "SCAN",
    "Runde: 105 Tokens, 105 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T04:30:41",
+   "SCAN",
+   "Runde: 110 Tokens, 100 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
+  ],
+  [
+   "2026-11-22T04:31:36",
+   "SCAN",
+   "Runde: 123 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -5579,5 +5579,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-22T04:29:53+01:00"
+ "daten_neuest": "2026-11-22T04:31:56+01:00"
 }

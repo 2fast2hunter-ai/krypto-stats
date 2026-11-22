@@ -1,5 +1,5 @@
 {
- "stand_daten": "22.11.2026 09:04",
+ "stand_daten": "22.11.2026 09:26",
  "depot": {
   "wert": 49.01,
   "budget": 50.0,
@@ -161,8 +161,8 @@
   }
  },
  "scout": {
-  "datei": "scout-2026-11-21.md",
-  "quelle": "CoinGecko (/coins/markets Majors Abruf 09:19, last_updated 09:18:57 Berlin; category solana-meme-coins Top60 + /search/trending + /coins/{id} für Contracts, Abruf 09:25), alternative.me (F&G Abruf 09:20), DexScreener (tokens/latest, 09:24–09:27), RugCheck (tools/rugcheck.py Batches ≤10, 09:20–09:27 + eigene Report-Abrufe 09:24–09:27), Solana-RPC (Dev-Alter, HTTP 429), UKMTO 214-26 / JMIC Update 115 / Reuters via Arab News + Al Arabiya / Iran International (Websuche 21.11. ~09:28); Xatu-News pausiert (kein Fehler)",
+  "datei": "scout-2026-11-22.md",
+  "quelle": "CoinGecko (/coins/markets Majors Abruf 09:19, last_updated 09:18:54 Berlin; solana-meme-coins Top60 + /search/trending + /coins/{id} Contracts, 09:21–09:22), alternative.me (F&G 09:19), DexScreener (tokens/search, 09:20–09:22), RugCheck (tools/rugcheck.py Batches ≤10, 09:19–09:22 + eigene Report-Abrufe 09:20), Solana-RPC (1 Testabruf 09:21 OK, kein Dev-Alter-Lauf), UKMTO 215-26/216-26 / CNBC / AFP via Arab News (Websuche 22.11. ~09:22); Xatu-News 8/14/20 Uhr (Projekt läuft wieder, heute noch kein Post gelesen)",
   "majors": [
    [
     "Coin",
@@ -175,30 +175,30 @@
    ],
    [
     "BTC",
-    "57.825",
-    "−0,05 %",
-    "−6,44 %",
-    "−14,01 %",
-    "69,04 Mrd",
-    "1.163,5 Mrd"
+    "59.250",
+    "+0,00 %",
+    "+2,51 %",
+    "−8,35 %",
+    "36,18 Mrd",
+    "1.191,9 Mrd"
    ],
    [
     "ETH",
-    "1.626,80",
-    "−0,60 %",
+    "1.671,91",
+    "+0,23 %",
+    "+2,81 %",
     "−7,15 %",
-    "−14,49 %",
-    "25,33 Mrd",
-    "198,9 Mrd"
+    "10,38 Mrd",
+    "204,4 Mrd"
    ],
    [
     "SOL",
-    "67,31",
-    "−1,18 %",
-    "−7,18 %",
-    "−10,96 %",
-    "4,63 Mrd",
-    "39,9 Mrd"
+    "69,42",
+    "+0,07 %",
+    "+3,17 %",
+    "−1,90 %",
+    "2,24 Mrd",
+    "41,1 Mrd"
    ]
   ],
   "kandidaten": [],
@@ -5329,19 +5329,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-22 09:15:13",
-   "tokens": 110,
-   "paar": 109,
-   "vor": 0,
+   "t": "2026-11-22 09:28:58",
+   "tokens": 119,
+   "paar": 118,
+   "vor": 1,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 240,
-   "tokens": 28288,
-   "paar": 27990,
-   "vor": 22,
-   "kandidaten_zeilen": 1693,
+   "runden": 251,
+   "tokens": 29582,
+   "paar": 29267,
+   "vor": 23,
+   "kandidaten_zeilen": 1725,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5350,19 +5350,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1025
+    1053
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    541
+    542
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    51
+    52
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    33
+    34
    ],
    [
     "Dev auf eigener Blacklist (früherer Coin −# %/Liq weg)",
@@ -5414,8 +5414,8 @@
    "rolle": "Scout",
    "farbe": "#3B82F6",
    "form": "circle",
-   "letzte_datei": "krypto/scout-2026-11-21.md",
-   "zeit": "2026-11-21T09:28:52+01:00"
+   "letzte_datei": "wissen/krypto/scans/2026-11-22.md",
+   "zeit": "2026-11-22T09:23:59+01:00"
   },
   {
    "name": "Xatu",
@@ -5430,8 +5430,8 @@
    "rolle": "Strategie",
    "farbe": "#A855F7",
    "form": "hex",
-   "letzte_datei": "krypto/strategien/README.md",
-   "zeit": "2026-11-22T04:52:50+01:00"
+   "letzte_datei": "krypto/strategien/meme-smartwallet.md",
+   "zeit": "2026-11-22T09:28:36+01:00"
   },
   {
    "name": "Panzaeron",
@@ -5439,7 +5439,7 @@
    "farbe": "#F59E0B",
    "form": "shield",
    "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-11-22T04:55:55+01:00"
+   "zeit": "2026-11-22T09:26:45+01:00"
   },
   {
    "name": "Mauzi",
@@ -5455,7 +5455,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-22T09:19:05+01:00"
+   "zeit": "2026-11-22T09:28:58+01:00"
   },
   {
    "name": "Magnayen",
@@ -5467,66 +5467,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-22T08:15:41",
-   "SCAN",
-   "Runde: 120 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T08:16:41",
-   "SCAN",
-   "Runde: 120 Tokens, 120 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T08:17:41",
-   "SCAN",
-   "Runde: 122 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T08:18:42",
-   "SCAN",
-   "Runde: 122 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T08:19:41",
-   "SCAN",
-   "Runde: 119 Tokens, 119 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T08:20:46",
-   "SCAN",
-   "Runde: 122 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
-  ],
-  [
-   "2026-11-22T08:21:41",
-   "SCAN",
-   "Runde: 122 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T08:22:41",
-   "SCAN",
-   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T08:23:41",
-   "SCAN",
-   "Runde: 120 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T08:24:41",
-   "RISK",
-   "BLOCK BLOB: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-22T08:24:43",
-   "SCAN",
-   "Runde: 121 Tokens, 117 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
-  ],
-  [
-   "2026-11-22T08:25:46",
-   "RISK",
-   "BLOCK BLOB: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Dev-Konto leer (Warnung)"
-  ],
   [
    "2026-11-22T08:25:47",
    "SCAN",
@@ -5766,6 +5706,66 @@
    "2026-11-22T09:15:13",
    "SCAN",
    "Runde: 110 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:19:05",
+   "SCAN",
+   "Runde: 120 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 18 s"
+  ],
+  [
+   "2026-11-22T09:19:07",
+   "RISK",
+   "supervisor: Box war 183 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-22T09:19:56",
+   "SCAN",
+   "Runde: 119 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:20:56",
+   "SCAN",
+   "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:21:56",
+   "SCAN",
+   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:22:56",
+   "SCAN",
+   "Runde: 108 Tokens, 107 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:23:56",
+   "SCAN",
+   "Runde: 119 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:24:56",
+   "SCAN",
+   "Runde: 118 Tokens, 117 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:25:56",
+   "SCAN",
+   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:26:56",
+   "SCAN",
+   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:28:01",
+   "SCAN",
+   "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
+  ],
+  [
+   "2026-11-22T09:28:58",
+   "SCAN",
+   "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
   ]
  ],
  "trefferquote": {
@@ -5783,5 +5783,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-22T09:19:05+01:00"
+ "daten_neuest": "2026-11-22T09:28:58+01:00"
 }

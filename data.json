@@ -5329,19 +5329,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-22 09:28:58",
-   "tokens": 119,
-   "paar": 118,
-   "vor": 1,
+   "t": "2026-11-22 09:56:40",
+   "tokens": 110,
+   "paar": 108,
+   "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 251,
-   "tokens": 29582,
-   "paar": 29267,
-   "vor": 23,
-   "kandidaten_zeilen": 1725,
+   "runden": 261,
+   "tokens": 30641,
+   "paar": 30312,
+   "vor": 25,
+   "kandidaten_zeilen": 1808,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -5350,15 +5350,15 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1053
+    1094
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    542
+    578
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    52
+    55
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -5431,7 +5431,7 @@
    "farbe": "#A855F7",
    "form": "hex",
    "letzte_datei": "krypto/strategien/meme-smartwallet.md",
-   "zeit": "2026-11-22T09:28:36+01:00"
+   "zeit": "2026-11-22T09:31:57+01:00"
   },
   {
    "name": "Panzaeron",
@@ -5454,8 +5454,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-22T09:28:58+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-22T09:56:41+01:00"
   },
   {
    "name": "Magnayen",
@@ -5467,96 +5467,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-22T08:25:47",
-   "SCAN",
-   "Runde: 121 Tokens, 119 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
-  ],
-  [
-   "2026-11-22T08:26:51",
-   "RISK",
-   "BLOCK BLOB: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-22T08:27:07",
-   "SCAN",
-   "Runde: 115 Tokens, 114 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 36 s"
-  ],
-  [
-   "2026-11-22T08:27:46",
-   "RISK",
-   "BLOCK BLOB: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-22T08:27:47",
-   "SCAN",
-   "Runde: 117 Tokens, 116 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
-  ],
-  [
-   "2026-11-22T08:29:11",
-   "RISK",
-   "BLOCK BLOB: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-22T08:29:13",
-   "SCAN",
-   "Runde: 116 Tokens, 115 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 42 s"
-  ],
-  [
-   "2026-11-22T08:30:06",
-   "RISK",
-   "WARN gt-trending: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
-  ],
-  [
-   "2026-11-22T08:30:17",
-   "RISK",
-   "BLOCK BLOB: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-22T08:30:18",
-   "SCAN",
-   "Runde: 100 Tokens, 99 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 44 s"
-  ],
-  [
-   "2026-11-22T08:30:59",
-   "RISK",
-   "BLOCK BLOB: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-22T08:31:00",
-   "SCAN",
-   "Runde: 121 Tokens, 121 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 21 s"
-  ],
-  [
-   "2026-11-22T08:31:54",
-   "RISK",
-   "BLOCK BLOB: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-22T08:31:55",
-   "SCAN",
-   "Runde: 116 Tokens, 116 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
-  ],
-  [
-   "2026-11-22T08:32:49",
-   "SCAN",
-   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T08:33:49",
-   "SCAN",
-   "Runde: 123 Tokens, 123 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T08:34:54",
-   "SCAN",
-   "Runde: 123 Tokens, 122 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
-  ],
-  [
-   "2026-11-22T08:35:49",
-   "SCAN",
-   "Runde: 122 Tokens, 121 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-22T08:48:05",
    "RISK",
@@ -5766,6 +5676,96 @@
    "2026-11-22T09:28:58",
    "SCAN",
    "Runde: 119 Tokens, 118 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 12 s"
+  ],
+  [
+   "2026-11-22T09:29:47",
+   "RISK",
+   "supervisor: scanner beendet (rc 143), Neustart in 15 s"
+  ],
+  [
+   "2026-11-22T09:30:02",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet) pid 3375132"
+  ],
+  [
+   "2026-11-22T09:30:13",
+   "SCAN",
+   "Runde: 99 Tokens, 98 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-22T09:31:13",
+   "SCAN",
+   "Runde: 104 Tokens, 103 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 11 s"
+  ],
+  [
+   "2026-11-22T09:32:12",
+   "SCAN",
+   "Runde: 106 Tokens, 105 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:33:12",
+   "SCAN",
+   "Runde: 104 Tokens, 103 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:34:06",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
+  ],
+  [
+   "2026-11-22T09:34:12",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 2/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
+  ],
+  [
+   "2026-11-22T09:34:27",
+   "SCAN",
+   "Runde: 98 Tokens, 97 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 25 s"
+  ],
+  [
+   "2026-11-22T09:35:11",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=2"
+  ],
+  [
+   "2026-11-22T09:35:16",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 2/3) https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=2"
+  ],
+  [
+   "2026-11-22T09:35:27",
+   "SCAN",
+   "Runde: 99 Tokens, 98 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 25 s"
+  ],
+  [
+   "2026-11-22T09:36:12",
+   "SCAN",
+   "Runde: 116 Tokens, 115 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:37:39",
+   "RISK",
+   "supervisor: Box war 77 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-22T09:54:50",
+   "SCAN",
+   "Runde: 118 Tokens, 116 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 20 s"
+  ],
+  [
+   "2026-11-22T09:54:50",
+   "RISK",
+   "supervisor: Box war 1031 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-22T09:55:40",
+   "SCAN",
+   "Runde: 105 Tokens, 102 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T09:56:40",
+   "SCAN",
+   "Runde: 110 Tokens, 108 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -5783,5 +5783,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-22T09:28:58+01:00"
+ "daten_neuest": "2026-11-22T09:56:41+01:00"
 }

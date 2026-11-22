@@ -1,5 +1,5 @@
 {
- "stand_daten": "22.11.2026 15:05",
+ "stand_daten": "22.11.2026 16:08",
  "depot": {
   "wert": 48.73,
   "budget": 50.0,
@@ -3438,6 +3438,77 @@
    "datei": "2026-11-22.csv"
   },
   {
+   "zeitpunkt": "2026-11-22T16:00+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "UK_MTO/CENTCOM",
+   "titel": "Kein UKMTO/CENTCOM seit 216-26",
+   "text": "Letzter UKMTO-Post 21.11. 09:14:59 Berlin (Abruf bis 16:06:58). Kein neues Reuters-Warnung. Lage nicht entspannt; KAUF_PAUSE nur für echtes Geld. Dringlichkeit niedrig",
+   "null": [
+    " Unsicherheit niedrig. https://x.com/UK_MTO/status/2124053952446730711"
+   ],
+   "datei": "2026-11-22.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-22T16:06:50+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "CoinGecko",
+   "titel": "BTC 60937 vs 15:00 +0",
+   "text": "40 %",
+   "null": [
+    "ETH 1711",
+    "99; SOL 70",
+    "25; 1h BTC +0",
+    "42 %. F&G 11. Unter 24h-Hoch 61447",
+    " kein Schock. Dringlichkeit niedrig",
+    " Unsicherheit niedrig"
+   ],
+   "datei": "2026-11-22.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-22T16:07+01:00",
+   "coin": "SCOUT",
+   "signal": "neutral",
+   "quelle": "DexScreener",
+   "titel": "Kein Crash/Delisting/Hack der Freigabe-Coins",
+   "text": "Liq vs 15:04 −0",
+   "null": [
+    "3 bis +1",
+    "2 %. neet +2",
+    "0 % vs 15:04 ohne News-Anlass; Buttcoin 24h −15",
+    "8 %. Kein 50 %-Verlust. Dringlichkeit niedrig",
+    " Unsicherheit niedrig"
+   ],
+   "datei": "2026-11-22.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-22T16:00+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "paper-trades.csv",
+   "titel": "Keine neuen Käufe seit 15:00; Depot leer",
+   "text": "Cash 48",
+   "null": [
+    "73 €",
+    " mtime 13:07. Kein Off-List-Kauf in diesem Fenster. Dringlichkeit niedrig",
+    " Unsicherheit niedrig"
+   ],
+   "datei": "2026-11-22.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-22T15:00+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "CoinDesk",
+   "titel": "Quantum-Hintergrundstück",
+   "text": " kein Kurssignal",
+   "null": [
+    "Veröffentlicht 22.11. 15:00 Berlin (9:00 EST). Migration/Bridges/Custodians, kein kurzfristiger Katalysator. Dringlichkeit niedrig, Unsicherheit niedrig. https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins"
+   ],
+   "datei": "2026-11-22.csv"
+  },
+  {
    "datei": "2026-11-06.md",
    "titel": "News-Scans 06.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
    "text": "- **CENTCOM/UKMTO Hormus:** **keine Posts** seit 07:08. Reuters-Hormus-Suche leer. FT-Verhandlungsstück weiter **nicht** durch Reuters/CENTCOM/UKMTO gedeckt. Lage **nicht** entspannt. Stand unverändert (Reuters 05.11. 16:40; Rezaei 7 Bedingungen; UKMTO 196-26 = Katar).\n- **Markt ruhig: ja.** BTC ~75.515 → ~75.425 (−0,1 %); 1h-Ranges ≤0,4 %. **KAUF_PAUSE hält.**\n- **Makro:** DE Industrieproduktion Sep +0,7 % MoM (Squawk 08:02, Est −0,1 %). NFP **14:30** offen. ETF: BTC −430 Mio / ETH −100 Mio Nettoabfluss 05.11. (Wu).\n- **Scout:** `scout-2026-11-06.md` **noch nicht da.** Freigaben scout-05 bis **09:05** (~1 h). DESSA man. bis **09:00**. WASTED bis 07.11. 07:00. RICO Crash bis 08.11. 13:08.\n- **Kein neuer Blocker** (JEANPHIL −13,5 % Liq / −21 % 24h; TROLL −10 %; RICO unverändert gesperrt). Jupiter HELL/JEANPHIL Impact ≪1 %.\n- **Prüfwürdig (Prozess):** kandidaten.csv **07:09** `schatten` **DESSA** (CA npz2FhoufQ7p…pump) trotz Eintrag in manuelle-blocks.json bis 06.11. 09:00. (CARDS schatten_exit 07:50, Stop −15 %.)\n- **X CA-only:** JOB 43 Posts (~06:08–07:00) dann 0; GATO 11; HELL 1; JEANPHIL 0. Kein >50k in Sample.\n- Kurse ~08:07: BTC 75.425 (−6,6 %), ETH 2.221,17 (−8,7 %), SOL 89,39 (−7,3 %), BNB 688,16 (−3,8 %).\n- Keine Listings/Hormus-Entspannung. Keine neuen Käufe empfohlen (KAUF_PAUSE).\n- **CENTCOM/UKMTO Hormus:** **keine Posts** seit 05:08. Kein Sachupdate/Dementi/Ceasefire.\n- **Reuters Hormus-Suche:** leer seit 05:08. Stand unverändert (05.11. 16:40 „Tankers hit…“; Rezae"
@@ -5623,19 +5694,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-22 16:06:06",
-   "tokens": 94,
-   "paar": 93,
+   "t": "2026-11-22 16:10:49",
+   "tokens": 111,
+   "paar": 109,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 524,
-   "tokens": 60045,
-   "paar": 59243,
+   "runden": 528,
+   "tokens": 60479,
+   "paar": 59666,
    "vor": 40,
-   "kandidaten_zeilen": 3051,
+   "kandidaten_zeilen": 3062,
    "nach_checks": 1,
    "gekauft": 1,
    "schatten": 0,
@@ -5644,7 +5715,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1840
+    1850
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -5660,7 +5731,7 @@
    ],
    [
     "Vorfilter: keine Socials/Website auf DexScreener",
-    30
+    31
    ]
   ]
  },
@@ -5723,7 +5794,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-22.csv",
-   "zeit": "2026-11-22T15:05:26+01:00"
+   "zeit": "2026-11-22T16:08:12+01:00"
   },
   {
    "name": "Kadabra",
@@ -5754,8 +5825,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-22T16:07:10+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-22T16:10:51+01:00"
   },
   {
    "name": "Magnayen",
@@ -5767,31 +5838,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-22T14:54:35",
-   "SCAN",
-   "Runde: 103 Tokens, 102 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T14:55:35",
-   "SCAN",
-   "Runde: 113 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-22T15:04:07",
-   "RISK",
-   "supervisor: Box war 465 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-22T15:04:11",
-   "SCAN",
-   "Runde: 101 Tokens, 100 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 20 s"
-  ],
-  [
-   "2026-11-22T15:05:00",
-   "SCAN",
-   "Runde: 113 Tokens, 113 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
   [
    "2026-11-22T15:06:00",
    "SCAN",
@@ -6066,6 +6112,31 @@
    "2026-11-22T16:07:10",
    "RISK",
    "supervisor: Box war 74 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-22T16:07:44",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=2"
+  ],
+  [
+   "2026-11-22T16:07:54",
+   "SCAN",
+   "Runde: 106 Tokens, 104 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 15 s"
+  ],
+  [
+   "2026-11-22T16:08:49",
+   "SCAN",
+   "Runde: 106 Tokens, 103 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T16:09:49",
+   "SCAN",
+   "Runde: 111 Tokens, 107 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
+  ],
+  [
+   "2026-11-22T16:10:49",
+   "SCAN",
+   "Runde: 111 Tokens, 109 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
   ]
  ],
  "trefferquote": {
@@ -6083,5 +6154,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-22T16:07:10+01:00"
+ "daten_neuest": "2026-11-22T16:10:51+01:00"
 }

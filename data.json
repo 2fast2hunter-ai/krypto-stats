@@ -1,5 +1,5 @@
 {
- "stand_daten": "23.11.2026 05:09",
+ "stand_daten": "23.11.2026 06:45",
  "depot": {
   "wert": 48.73,
   "budget": 50.0,
@@ -6213,19 +6213,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-23 06:37:58",
-   "tokens": 84,
-   "paar": 84,
+   "t": "2026-11-23 06:45:31",
+   "tokens": 85,
+   "paar": 85,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 142,
-   "tokens": 8575,
-   "paar": 8465,
+   "runden": 149,
+   "tokens": 8970,
+   "paar": 8860,
    "vor": 0,
-   "kandidaten_zeilen": 667,
+   "kandidaten_zeilen": 670,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -6234,7 +6234,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    334
+    337
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -6329,7 +6329,7 @@
    "farbe": "#F59E0B",
    "form": "shield",
    "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-11-22T21:28:55+01:00"
+   "zeit": "2026-11-23T06:45:39+01:00"
   },
   {
    "name": "Mauzi",
@@ -6345,7 +6345,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-23T06:37:58+01:00"
+   "zeit": "2026-11-23T06:45:31+01:00"
   },
   {
    "name": "Magnayen",
@@ -6357,41 +6357,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-23T04:24:53",
-   "SCAN",
-   "Runde: 88 Tokens, 84 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
-  [
-   "2026-11-23T04:25:51",
-   "SCAN",
-   "Runde: 48 Tokens, 48 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-23T04:26:58",
-   "SCAN",
-   "Runde: 47 Tokens, 47 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-23T04:35:55",
-   "RISK",
-   "supervisor: Box war 540 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-23T04:36:40",
-   "SCAN",
-   "Runde: 85 Tokens, 83 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
-  [
-   "2026-11-23T04:37:38",
-   "SCAN",
-   "Runde: 46 Tokens, 46 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-23T04:38:38",
-   "SCAN",
-   "Runde: 46 Tokens, 46 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
   [
    "2026-11-23T04:39:38",
    "SCAN",
@@ -6656,6 +6621,41 @@
    "2026-11-23T06:37:58",
    "SCAN",
    "Runde: 84 Tokens, 84 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-23T06:38:55",
+   "SCAN",
+   "Runde: 45 Tokens, 45 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T06:40:29",
+   "SCAN",
+   "Runde: 45 Tokens, 45 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T06:41:31",
+   "SCAN",
+   "Runde: 85 Tokens, 85 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-23T06:42:29",
+   "SCAN",
+   "Runde: 45 Tokens, 45 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T06:43:29",
+   "SCAN",
+   "Runde: 45 Tokens, 45 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T06:44:29",
+   "SCAN",
+   "Runde: 45 Tokens, 45 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T06:45:31",
+   "SCAN",
+   "Runde: 85 Tokens, 85 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
   ]
  ],
  "trefferquote": {
@@ -6673,5 +6673,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-23T06:37:58+01:00"
+ "daten_neuest": "2026-11-23T06:45:39+01:00"
 }

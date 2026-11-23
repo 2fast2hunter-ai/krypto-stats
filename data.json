@@ -6873,36 +6873,36 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-23 16:14:20",
-   "tokens": 42,
-   "paar": 42,
+   "t": "2026-11-23 16:18:20",
+   "tokens": 43,
+   "paar": 43,
    "vor": 0,
    "offen": 0,
    "schatten": 1
   },
   "heute": {
-   "runden": 548,
-   "tokens": 30598,
-   "paar": 30259,
-   "vor": 11,
-   "kandidaten_zeilen": 1756,
+   "runden": 552,
+   "tokens": 30805,
+   "paar": 30466,
+   "vor": 12,
+   "kandidaten_zeilen": 1782,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
-   "block": 5
+   "block": 6
   },
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    923
+    934
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    660
+    669
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    98
+    103
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -7004,8 +7004,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-23T16:14:20+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-23T16:18:22+01:00"
   },
   {
    "name": "Magnayen",
@@ -7017,31 +7017,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-23T15:04:45",
-   "SCAN",
-   "Runde: 75 Tokens, 75 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 7 s"
-  ],
-  [
-   "2026-11-23T15:05:40",
-   "SCAN",
-   "Runde: 37 Tokens, 37 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-23T15:06:40",
-   "SCAN",
-   "Runde: 37 Tokens, 37 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-23T15:07:43",
-   "RISK",
-   "BLOCK PUMP: Honeypot-Check (Fee 0 %, Extensions/Freeze); Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-23T15:07:45",
-   "SCAN",
-   "Runde: 74 Tokens, 74 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 8 s"
-  ],
   [
    "2026-11-23T15:08:40",
    "SCAN",
@@ -7316,6 +7291,31 @@
    "2026-11-23T16:14:20",
    "SCAN",
    "Runde: 42 Tokens, 42 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T16:15:20",
+   "SCAN",
+   "Runde: 43 Tokens, 43 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T16:16:22",
+   "RISK",
+   "BLOCK MCAT: Dev auf eigener Blacklist (früherer Coin −80 %/Liq weg); Insider-Netzwerke (≤50 Wallets) 5.7 % ≥ 5 %; Dev-Konto leer (Wa"
+  ],
+  [
+   "2026-11-23T16:16:24",
+   "SCAN",
+   "Runde: 78 Tokens, 78 mit Paar, Vorfilter ok 1, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 8 s"
+  ],
+  [
+   "2026-11-23T16:17:20",
+   "SCAN",
+   "Runde: 43 Tokens, 43 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T16:18:20",
+   "SCAN",
+   "Runde: 43 Tokens, 43 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
   ]
  ],
  "trefferquote": {
@@ -7333,5 +7333,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-23T16:14:20+01:00"
+ "daten_neuest": "2026-11-23T16:18:22+01:00"
 }

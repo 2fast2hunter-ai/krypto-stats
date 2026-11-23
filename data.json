@@ -1,5 +1,5 @@
 {
- "stand_daten": "23.11.2026 15:06",
+ "stand_daten": "23.11.2026 16:10",
  "depot": {
   "wert": 48.73,
   "budget": 50.0,
@@ -3777,6 +3777,78 @@
    "datei": "2026-11-23.csv"
   },
   {
+   "zeitpunkt": "2026-11-23T15:05+01:00",
+   "coin": "MACRO",
+   "signal": "bullish",
+   "quelle": "Reuters / BBC / The Verge",
+   "titel": "Nvidia setzt Jensen Huang wieder als CEO ein, Wall Street öffnet S&P +4,59 %, Nasdaq +7,30 %",
+   "text": "Reuters 09:05 ET. NVDA Yahoo 16:09 165,17 $ (+31,6 %). Open Reuters 15:37 Berlin: Dow 49239,91 (+2,27 %), S&P 7227,41, Nasdaq 24269,75. ES 7241 (+4,41 %), NQ 26775,5 (+6,56 %) Yahoo 15:59. BTC seit 15:04 −0,36 % (63221), kein Mitziehen; Krypto-Sprung begann schon vor der Meldung. Dringlichkeit mittel, Unsicherheit niedrig (Fakt) / mittel (Kausalität Krypto). https://www.investing.com/news/stock-market-news/nvidia-reinstates-jensen-huang-as-ceo-5045809",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T15:45+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "S&P Global",
+   "titel": "US-Flash-PMI Nov.: Composite 54,6 (Okt. 55,9), Services 54,7 (Prognose ~55,7, verfehlt), Manufacturing 54,5 (Prognose 54,5–54,6)",
+   "text": "4-Monats-Tief Composite/Services, weiter expansiv. Preisindizes etwas niedriger, aber weiter erhöht. Q4-BIP ≈ 3 % (Williamson). Kein Schock, tendenziell leicht entlastend für Fed-Erwartung. Dringlichkeit niedrig, Unsicherheit niedrig. https://www.pmi.spglobal.com/Public/Home/PressRelease/18abd879261e464fbcc1bc22d4ea64eb",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T16:06:51+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "CoinGecko",
+   "titel": "BTC 63221 (1h −0,56 %, 24h-Hoch 64446), ETH 1786,52, SOL 76,69 (1h +1,13 %)",
+   "text": "Vs 15:03:55: BTC −0,36 %, ETH −0,87 %, SOL +0,79 %. 24h: BTC +3,59 %, ETH +4,17 %, SOL +8,88 %. Kein Crash. Fear & Greed 11 Extreme Fear. Dringlichkeit niedrig, Unsicherheit niedrig",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T14:40+01:00",
+   "coin": "HACK",
+   "signal": "bearish",
+   "quelle": "CryptoSlate / The Block",
+   "titel": "Chainflip (FLIP) Hack ~12 Mio $ (21.11.): Bounty-Frist 19:38 Berlin, kein Freigabe-Coin",
+   "text": "122,86 BTC, 520,22 ETH, 3,25 Mio USDC, 758k USDT. Gründer zuversichtlich auf Neustart, FLIP ~−37 %. ACE/Fusionist: Bithumb Handel ausgesetzt, Gate ACE-Perps Settlement 24.11. 05:00 Berlin. Dringlichkeit niedrig, Unsicherheit niedrig. https://cryptoslate.com/chainflip-founder-admits-heavy-losses-after-second-hack-in-10-weeks-drains-12-million/",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T16:02+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "X-News (Zusammenfassung)",
+   "titel": "EZB: tokenisierte Assets als Sicherheiten ab Juni 2027; Südkorea Digital Asset Basic Act-Entwurf am 24.11.",
+   "text": "Nur X-Story-Zusammenfassung, Primärquelle nicht geprüft. Strukturell, kein Kursauslöser für Freigabe-Coins. Dringlichkeit niedrig, Unsicherheit mittel",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T16:08:33+01:00",
+   "coin": "GOAT",
+   "signal": "neutral",
+   "quelle": "DexScreener",
+   "titel": "GOAT-Bedingung erfüllt: Haupt-Liq 1094365,67 $ ≥ 1 Mio., Median 42031,73 ≥ 20k",
+   "text": "Pair 9Tb2ohu5P16BpBarqd3N27WnkF51Ukfs8Z1GzzLDxVZW. Trend 14:08 1038716,58 → 15:05 1079901,74 → 16:08 1094365,67 (+1,34 %). Spielraum +94365,67 $. Kurs 0,01085 $, Vol 24h 42031,73. Serie 21./22./23.11.: 86645 / 32656 / 42031,73. Dringlichkeit niedrig, Unsicherheit niedrig. https://dexscreener.com/solana/9Tb2ohu5P16BpBarqd3N27WnkF51Ukfs8Z1GzzLDxVZW",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T16:08+01:00",
+   "coin": "SCOUT",
+   "signal": "neutral",
+   "quelle": "DexScreener",
+   "titel": "Kein Crash/Delisting/Hack der übrigen Freigabe-Coins; FARTBOY +12,3 % ohne News",
+   "text": "Vs 15:05: FARTBOY 0,01585 (+12,25 %, Liq 523k), Fartcoin +4,26 %, Buttcoin −2,05 %, neet −1,00 %; Liq überall stabil oder steigend. Kein News-Einstieg. Liste bis 24.11. 09:15. Dringlichkeit niedrig, Unsicherheit niedrig",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T16:10+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "Binance / Upbit / OKX / Bybit / Solana Status",
+   "titel": "Keine neuen Listings/Delistings der Freigabe-Coins; Bybit-API nicht abrufbar",
+   "text": "Binance-Delist neuester 20.11.; Upbit nichts nach SKY/USDS; OKX-API nur alte Einträge; Bybit CloudFront-Geo-Block (SOL-Wartung Di 04:00 nicht neu verifiziert); Solana All Systems Operational. Hormus: kein UKMTO 218-26. Dringlichkeit niedrig, Unsicherheit niedrig",
+   "datei": "2026-11-23.csv"
+  },
+  {
    "datei": "2026-11-22.md",
    "titel": "News-Scans 22.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
    "text": "- **Fenster seit 19:00: keine neuen Signale** für BTC/ETH/SOL, Freigabe-Coins (scout-2026-11-22) oder Depot (leer). Keine Nachrichten an Team.\n- **Hormus:** kein UKMTO 218-26, kein JMIC 117, CENTCOM weiter ohne Post nach 21.11. 15:44 (X-Abruf ~19:51). IRGC/Fars-Minenmeldung (zwei Tanker bei Ghanam) bleibt **unbestätigt**, kein Dementi (bereits 18:00/19:00 erfasst). Gerüchte über US-Angriff auf iranischen Tanker bei Kharg laut X-News durch Sentinel-Bilder widerlegt – unbestätigt, nicht verwertbar. Lage nicht entspannt.\n- **Markt:** CoinGecko ~19:50 Berlin: BTC **60.662 $** (+1,1 %/24h), ETH **1.713 $** (+2,0 %), SOL **70,31 $** (−0,5 %) – vs 19:00 flach (BTC −0,2 %), kein Schock.\n- **Listings/Delistings, Solana:** nichts Neues zu Freigabe-Coins.\n- **Fenster seit 13:00: keine neuen Signale** für BTC/ETH/SOL, Scout-Freigaben (scout-2026-11-22) oder Depot. JEANPHIL-Paper-Position wurde 13:07 nach Panzaeron-Block (manuelle-blocks.json bis 25.11. 09:30) geschlossen, Depot laut paper-trades.csv leer, Cash 48,73 €. Echtes Geld weiter pausiert. Keine Nachrichten an Team.\n- **CENTCOM/UKMTO Hormus:** keine neuen Posts seit 22.11. 07:45 (X-Timelines, Abruf ~13:59). Letzter UKMTO 216-26 (21.11. 09:14:59). Neu nur IRGC-Behauptungen (58. MQ-9 abgeschossen; Angriffe auf US-Ziele in Bahrain 21.11.) – **unbestätigt**, Bahrain bereits gemeldet. Lage nicht entspannt.\n- **Markt:** CoinGecko last_updated 22.11. ~13:56 Berlin: BTC **60.718 $** (+3,3 %/24h), ETH **1.705,67 $** (+2,7 %), SOL **70,24 "
@@ -6801,19 +6873,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-23 16:08:20",
-   "tokens": 43,
-   "paar": 43,
+   "t": "2026-11-23 16:14:20",
+   "tokens": 42,
+   "paar": 42,
    "vor": 0,
    "offen": 0,
    "schatten": 1
   },
   "heute": {
-   "runden": 542,
-   "tokens": 30272,
-   "paar": 29933,
+   "runden": 548,
+   "tokens": 30598,
+   "paar": 30259,
    "vor": 11,
-   "kandidaten_zeilen": 1752,
+   "kandidaten_zeilen": 1756,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -6822,7 +6894,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    920
+    923
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -6830,7 +6902,7 @@
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    97
+    98
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -6901,7 +6973,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-23.csv",
-   "zeit": "2026-11-23T15:06:37+01:00"
+   "zeit": "2026-11-23T16:10:48+01:00"
   },
   {
    "name": "Kadabra",
@@ -6932,8 +7004,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-23T16:08:21+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-23T16:14:20+01:00"
   },
   {
    "name": "Magnayen",
@@ -6945,36 +7017,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-23T14:59:00",
-   "RISK",
-   "supervisor: Box war 298 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-23T14:59:05",
-   "SCAN",
-   "Runde: 73 Tokens, 73 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
-  [
-   "2026-11-23T15:00:03",
-   "SCAN",
-   "Runde: 37 Tokens, 37 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-23T15:01:03",
-   "SCAN",
-   "Runde: 37 Tokens, 37 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-23T15:04:37",
-   "RISK",
-   "supervisor: Box war 217 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-23T15:04:42",
-   "RISK",
-   "BLOCK CATE: Insider-Netzwerke (≤50 Wallets) 12.8 % ≥ 10 %; Dev-Konto leer (Warnung)"
-  ],
   [
    "2026-11-23T15:04:45",
    "SCAN",
@@ -7244,6 +7286,36 @@
    "2026-11-23T16:08:20",
    "SCAN",
    "Runde: 43 Tokens, 43 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T16:09:20",
+   "SCAN",
+   "Runde: 42 Tokens, 42 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T16:10:22",
+   "SCAN",
+   "Runde: 78 Tokens, 78 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 6 s"
+  ],
+  [
+   "2026-11-23T16:11:20",
+   "SCAN",
+   "Runde: 42 Tokens, 42 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T16:12:20",
+   "SCAN",
+   "Runde: 42 Tokens, 42 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T16:13:22",
+   "SCAN",
+   "Runde: 80 Tokens, 80 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 6 s"
+  ],
+  [
+   "2026-11-23T16:14:20",
+   "SCAN",
+   "Runde: 42 Tokens, 42 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
   ]
  ],
  "trefferquote": {
@@ -7261,5 +7333,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-23T16:08:21+01:00"
+ "daten_neuest": "2026-11-23T16:14:20+01:00"
 }

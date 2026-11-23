@@ -6375,17 +6375,17 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-23 09:12:25",
-   "tokens": 44,
-   "paar": 44,
+   "t": "2026-11-23 09:14:27",
+   "tokens": 83,
+   "paar": 83,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 253,
-   "tokens": 14833,
-   "paar": 14689,
+   "runden": 255,
+   "tokens": 14960,
+   "paar": 14816,
    "vor": 4,
    "kandidaten_zeilen": 985,
    "nach_checks": 0,
@@ -6507,7 +6507,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-23T09:12:26+01:00"
+   "zeit": "2026-11-23T09:14:28+01:00"
   },
   {
    "name": "Magnayen",
@@ -6519,16 +6519,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-23T08:07:34",
-   "SCAN",
-   "Runde: 44 Tokens, 44 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-23T08:08:37",
-   "SCAN",
-   "Runde: 83 Tokens, 83 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
   [
    "2026-11-23T08:09:34",
    "SCAN",
@@ -6818,6 +6808,16 @@
    "2026-11-23T09:12:25",
    "SCAN",
    "Runde: 44 Tokens, 44 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T09:13:24",
+   "SCAN",
+   "Runde: 44 Tokens, 44 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T09:14:27",
+   "SCAN",
+   "Runde: 83 Tokens, 83 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
   ]
  ],
  "trefferquote": {
@@ -6835,5 +6835,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-23T09:12:26+01:00"
+ "daten_neuest": "2026-11-23T09:14:28+01:00"
 }

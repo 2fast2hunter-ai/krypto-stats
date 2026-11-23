@@ -6801,17 +6801,17 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-23 15:14:36",
-   "tokens": 75,
-   "paar": 75,
-   "vor": 1,
+   "t": "2026-11-23 15:16:24",
+   "tokens": 38,
+   "paar": 38,
+   "vor": 0,
    "offen": 0,
    "schatten": 1
   },
   "heute": {
-   "runden": 508,
-   "tokens": 28463,
-   "paar": 28129,
+   "runden": 510,
+   "tokens": 28539,
+   "paar": 28205,
    "vor": 10,
    "kandidaten_zeilen": 1674,
    "nach_checks": 0,
@@ -6933,7 +6933,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-23T15:14:38+01:00"
+   "zeit": "2026-11-23T15:16:25+01:00"
   },
   {
    "name": "Magnayen",
@@ -6945,16 +6945,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-23T13:53:09",
-   "RISK",
-   "BLOCK UCASH: Dev-Wallet jünger als 7 Tage (älteste Tx vor 27.5 h, 181 Tx); Dev-Konto leer (Warnung)"
-  ],
-  [
-   "2026-11-23T13:53:12",
-   "SCAN",
-   "Runde: 78 Tokens, 77 mit Paar, Vorfilter ok 1, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 9 s"
-  ],
   [
    "2026-11-23T13:54:06",
    "SCAN",
@@ -7244,6 +7234,16 @@
    "2026-11-23T15:14:36",
    "SCAN",
    "Runde: 75 Tokens, 75 mit Paar, Vorfilter ok 1, offen 0, Schatten 1, nach Checks 1, gekauft 0, KAUF_PAUSE aktiv, Dauer 17 s"
+  ],
+  [
+   "2026-11-23T15:15:24",
+   "SCAN",
+   "Runde: 38 Tokens, 38 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T15:16:24",
+   "SCAN",
+   "Runde: 38 Tokens, 38 mit Paar, Vorfilter ok 0, offen 0, Schatten 1, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
   ]
  ],
  "trefferquote": {
@@ -7261,5 +7261,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-23T15:14:38+01:00"
+ "daten_neuest": "2026-11-23T15:16:25+01:00"
 }

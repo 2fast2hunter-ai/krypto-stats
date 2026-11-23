@@ -1,5 +1,5 @@
 {
- "stand_daten": "23.11.2026 18:05",
+ "stand_daten": "23.11.2026 19:07",
  "depot": {
   "wert": 48.73,
   "budget": 50.0,
@@ -4002,6 +4002,87 @@
    "datei": "2026-11-23.csv"
   },
   {
+   "zeitpunkt": "2026-11-23T19:03:44+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "CoinGecko",
+   "titel": "BTC 61664 (vs 18:00 −0,84 %, 1h −0,85 %), ETH 1744,15, SOL 73,73; F&G 11",
+   "text": "Majors geben seit 18:00 weiter nach, kein Crash. 24h-Hoch bleibt 64446. Zweitabruf 19:05 BTC 61612, ETH 1743,49, SOL 73,70.",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T19:05:34+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "Yahoo Finance",
+   "titel": "US-Kassa seit 18:00 flach (S&P +4,78 %, Nasdaq +6,63 %), NVDA 163,87 weicher, WTI 81,11 $ fester",
+   "text": "S&P 7240,92 vs 18:02 7244,42. ES 7253,50 / NQ 26817,75 Stand 18:55. WTI vs 17:52 80,30 fester, Sessiontief bleibt 79,99. DAX-Schluss unverändert 25337,27. Öl kein Hormus-Beleg.",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T19:06+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "Bybit HTML / Binance CMS / OKX / Upbit / Bithumb",
+   "titel": "Keine neuen Listings/Delistings der Freigabe-Coins seit 18:00",
+   "text": "Bybit-HTML erreichbar, unverändert (Delist 27.11. DIAM/MBX/MCRT/NS/OBT, TradFi-Listings). Binance catalog/list/query ok, list/query wieder 400; Listing weiter Anthropic 15:17, Delist 20.11. OKX-API alt. Upbit/Bithumb ohne neue handelrelevante Notice. Kein Freigabe-Coin betroffen.",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T19:05+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "X @UK_MTO / CENTCOM / Reuters",
+   "titel": "Iranische Minen-Meldung weiter unbestätigt",
+   "text": "Kein UKMTO 218-26, kein JMIC 117, kein CENTCOM nach 22.11. 21:23:51. 218-26/JMIC-117-PDFs 404, 217-26 erreichbar. Kein Hormus-Open. Rabigh weiter unbestätigt.",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T19:05:52+01:00",
+   "coin": "GOAT",
+   "signal": "INFO",
+   "quelle": "DexScreener Pair-Endpoint",
+   "titel": "GOAT-Bedingung erfüllt: Haupt-Liq 1057359,06 $ ≥ 1 Mio., Median 45928,50 ≥ 20k",
+   "text": "Pair 9Tb2ohu5P16BpBarqd3N27WnkF51Ukfs8Z1GzzLDxVZW, Abruf 19:05:52 Berlin. Vs 18:02 1073147,48 $ (−1,47 %, −15788,42 $), Spielraum +57359,06 $. Kurs 0,01056 $. Trend seit 16:08 weiter abwärts, Bedingung erfüllt, bleibt frei.",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T19:05:52+01:00",
+   "coin": "FARTBOY",
+   "signal": "INFO",
+   "quelle": "DexScreener / X-Suche",
+   "titel": "FARTBOY-Spike läuft weiter aus: 0,01544 $ (−1,84 % vs 18:02, −2,59 % vs 16:08)",
+   "text": "Liq 503901,58 $ (−1,71 % vs 18:02). 1h-Volumen nur 916 $ bei 48 Buys/5 Sells, 5m 0/0. Kein neuer Katalysator, kein Schwellenbruch. Spike-Einstieg bleibt heikel.",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T19:05:52+01:00",
+   "coin": "SCOUT",
+   "signal": "INFO",
+   "quelle": "DexScreener",
+   "titel": "Kein Crash/Delisting/Hack der übrigen Freigabe-Coins; Mehrheit leicht weicher",
+   "text": "Vs 18:02 typisch −1 bis −3 %. Keine Liq-Abzüge >30 %, kein ≥50 %/24h. status.solana.com All Systems Operational. X-Trends ohne Memecoin-Themen.",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T19:06+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "chainflip.io / mempool.space",
+   "titel": "Chainflip-Bounty-Frist noch offen bis 19:38, bisher kein Ergebnis",
+   "text": "Offizielle Seite unverändert. BTC-Rückgabeadresse ohne Eingang (0 On-Chain- und 0 Mempool-Tx, Abruf 19:06). Rubio–Katar 20:00 und Williams 22:00 noch offen.",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T19:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "paper-trades.csv",
+   "titel": "Keine neuen Käufe seit 18:00; Depot leer",
+   "text": "Datei unverändert (mtime 22.11. 13:07, letzte Zeile JEANPHIL-Verkauf, Cash 48,73 €). Kein Kauf außerhalb der Liste.",
+   "datei": "2026-11-23.csv"
+  },
+  {
    "datei": "2026-11-22.md",
    "titel": "News-Scans 22.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
    "text": "- **Fenster seit 19:00: keine neuen Signale** für BTC/ETH/SOL, Freigabe-Coins (scout-2026-11-22) oder Depot (leer). Keine Nachrichten an Team.\n- **Hormus:** kein UKMTO 218-26, kein JMIC 117, CENTCOM weiter ohne Post nach 21.11. 15:44 (X-Abruf ~19:51). IRGC/Fars-Minenmeldung (zwei Tanker bei Ghanam) bleibt **unbestätigt**, kein Dementi (bereits 18:00/19:00 erfasst). Gerüchte über US-Angriff auf iranischen Tanker bei Kharg laut X-News durch Sentinel-Bilder widerlegt – unbestätigt, nicht verwertbar. Lage nicht entspannt.\n- **Markt:** CoinGecko ~19:50 Berlin: BTC **60.662 $** (+1,1 %/24h), ETH **1.713 $** (+2,0 %), SOL **70,31 $** (−0,5 %) – vs 19:00 flach (BTC −0,2 %), kein Schock.\n- **Listings/Delistings, Solana:** nichts Neues zu Freigabe-Coins.\n- **Fenster seit 13:00: keine neuen Signale** für BTC/ETH/SOL, Scout-Freigaben (scout-2026-11-22) oder Depot. JEANPHIL-Paper-Position wurde 13:07 nach Panzaeron-Block (manuelle-blocks.json bis 25.11. 09:30) geschlossen, Depot laut paper-trades.csv leer, Cash 48,73 €. Echtes Geld weiter pausiert. Keine Nachrichten an Team.\n- **CENTCOM/UKMTO Hormus:** keine neuen Posts seit 22.11. 07:45 (X-Timelines, Abruf ~13:59). Letzter UKMTO 216-26 (21.11. 09:14:59). Neu nur IRGC-Behauptungen (58. MQ-9 abgeschossen; Angriffe auf US-Ziele in Bahrain 21.11.) – **unbestätigt**, Bahrain bereits gemeldet. Lage nicht entspannt.\n- **Markt:** CoinGecko last_updated 22.11. ~13:56 Berlin: BTC **60.718 $** (+3,3 %/24h), ETH **1.705,67 $** (+2,7 %), SOL **70,24 "
@@ -7026,19 +7107,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-23 18:59:13",
-   "tokens": 52,
-   "paar": 52,
+   "t": "2026-11-23 19:11:41",
+   "tokens": 90,
+   "paar": 90,
    "vor": 0,
    "offen": 0,
    "schatten": 2
   },
   "heute": {
-   "runden": 650,
-   "tokens": 36679,
-   "paar": 36331,
+   "runden": 660,
+   "tokens": 37317,
+   "paar": 36969,
    "vor": 14,
-   "kandidaten_zeilen": 2074,
+   "kandidaten_zeilen": 2103,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -7047,19 +7128,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    1083
+    1099
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    779
+    789
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    127
+    129
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    41
+    42
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -7126,7 +7207,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-23.csv",
-   "zeit": "2026-11-23T18:05:05+01:00"
+   "zeit": "2026-11-23T19:07:33+01:00"
   },
   {
    "name": "Kadabra",
@@ -7157,8 +7238,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-23T18:59:16+01:00"
+   "letzte_datei": "krypto/scanner/scanner.log",
+   "zeit": "2026-11-23T19:11:41+01:00"
   },
   {
    "name": "Magnayen",
@@ -7170,61 +7251,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-23T17:26:37",
-   "SCAN",
-   "Runde: 47 Tokens, 47 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
-  ],
-  [
-   "2026-11-23T17:27:37",
-   "SCAN",
-   "Runde: 48 Tokens, 48 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
-  ],
-  [
-   "2026-11-23T17:28:40",
-   "SCAN",
-   "Runde: 87 Tokens, 87 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 6 s"
-  ],
-  [
-   "2026-11-23T17:29:37",
-   "SCAN",
-   "Runde: 49 Tokens, 49 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
-  ],
-  [
-   "2026-11-23T17:30:37",
-   "SCAN",
-   "Runde: 49 Tokens, 49 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
-  ],
-  [
-   "2026-11-23T17:36:18",
-   "RISK",
-   "supervisor: Box war 345 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-23T17:36:24",
-   "SCAN",
-   "Runde: 87 Tokens, 87 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 6 s"
-  ],
-  [
-   "2026-11-23T17:37:22",
-   "SCAN",
-   "Runde: 49 Tokens, 49 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
-  ],
-  [
-   "2026-11-23T17:38:22",
-   "SCAN",
-   "Runde: 49 Tokens, 49 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
-  ],
-  [
-   "2026-11-23T17:51:46",
-   "RISK",
-   "supervisor: Box war 808 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-23T17:51:53",
-   "SCAN",
-   "Runde: 85 Tokens, 85 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 6 s"
-  ],
   [
    "2026-11-23T17:52:50",
    "SCAN",
@@ -7469,6 +7495,61 @@
    "2026-11-23T18:59:13",
    "SCAN",
    "Runde: 52 Tokens, 52 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T19:00:13",
+   "SCAN",
+   "Runde: 52 Tokens, 52 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T19:01:13",
+   "SCAN",
+   "Runde: 51 Tokens, 51 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T19:04:34",
+   "RISK",
+   "supervisor: Box war 165 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-23T19:04:41",
+   "SCAN",
+   "Runde: 90 Tokens, 90 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 6 s"
+  ],
+  [
+   "2026-11-23T19:05:38",
+   "SCAN",
+   "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T19:06:38",
+   "SCAN",
+   "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T19:07:38",
+   "SCAN",
+   "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T19:08:41",
+   "SCAN",
+   "Runde: 90 Tokens, 90 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 6 s"
+  ],
+  [
+   "2026-11-23T19:09:38",
+   "SCAN",
+   "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T19:10:38",
+   "SCAN",
+   "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 4 s"
+  ],
+  [
+   "2026-11-23T19:11:41",
+   "SCAN",
+   "Runde: 90 Tokens, 90 mit Paar, Vorfilter ok 0, offen 0, Schatten 2, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 6 s"
   ]
  ],
  "trefferquote": {
@@ -7486,5 +7567,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-23T18:59:16+01:00"
+ "daten_neuest": "2026-11-23T19:11:41+01:00"
 }

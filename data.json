@@ -1,5 +1,5 @@
 {
- "stand_daten": "22.11.2026 23:09",
+ "stand_daten": "23.11.2026 02:00",
  "depot": {
   "wert": 48.73,
   "budget": 50.0,
@@ -2964,6 +2964,121 @@
    "score_0_10": "1",
    "quelle_links": "",
    "datei": "x-stimmung.csv"
+  },
+  {
+   "datei": "2026-11-23.md",
+   "titel": "News-Scans 23.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
+   "text": "- **Fenster seit Scan 23:00 (22.11., Kurse 23:06:54):** US-Equity-Futures sind **höher eröffnet** und haben die Erholung ausgebaut; Seoul/KOSPI ist **deutlich tiefer** eröffnet und hat nachgegeben. Die iranische Sonntags-Minenmeldung bleibt **unbestätigt** (weder bestätigt noch dementiert). Kein UKMTO 218-26, kein Update zu 217-26, kein JMIC 117, kein neuer CENTCOM-Post nach 21:23:51 (22.11.). Kein starkes handelsrelevantes Signal in den Freigabe-Coins. Paper weiter erlaubt, echtes Geld pausiert (`KAUF_PAUSE_ECHTGELD`). Freigabeliste scout-2026-11-22 gültig bis **heute 09:15**; scout-2026-11-23.md fehlt noch.\n- **US-Futures / Öl / Gold (nur belegte Stände):** Quelle Yahoo Finance (1-Minuten-Chart, Abruf ~01:59 Berlin). Freitagsschluss als Referenz: ES 6.935, NQ 25.126,5, YM 48.216, WTI 83,41 $, Brent 89,95 $, Gold 3.515,4 $. Erster belegter 1-Minuten-Tick jeweils **00:10 Berlin** (kein Tick um exakt 00:00 in der Serie):\n- **Seoul / KOSPI:** Offizieller Open laut Yonhap **09:03 KST / 01:03 Berlin**: KOSPI **4.734,90 (−2,77 % / −135,06 Punkte)** vs Freitag 4.869,96. Aju Press (Korea Exchange, 01:16 Berlin): derselbe Open 4.734,90; KOSDAQ-Open **634,93 (−1,66 %)**. Yahoo Finance später: erster 1-Minuten-Tick **01:19 Berlin** 4.716,38 (−3,15 %), Stand **01:39:20 Berlin: 4.692,63 (−3,64 %)**; KOSDAQ 633,32 (−1,91 %), KOSPI 200 726,93 (−3,76 %). Nach dem Open also weiter nachgegeben, unter der 4.800er-Marke. CNBC früh: Samsung ca. −3 %, SK Hynix ca. −2 % (Frühhandel, nicht Schluss)"
+  },
+  {
+   "zeitpunkt": "2026-11-23T00:10+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "Yahoo Finance",
+   "titel": "US-Futures höher eröffnet (ES +0",
+   "text": "93 %",
+   "null": [
+    " NQ +1",
+    "45 % im ersten 1m-Tick)",
+    "Referenz Freitag ES 6935 / NQ 25126,5. Erster belegter Yahoo-1m-Tick 00:10 Berlin: ES 6999,75, NQ 25490. Stand 01:49 Berlin: ES 7078,75 (+2,07 %), NQ 25819,75 (+2,76 %). CNBC 01:41 Berlin: ES +2,03 %, NQ +2,76 %. Dringlichkeit niedrig, Unsicherheit niedrig. https://finance.yahoo.com/quote/ES=F/ https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+   ],
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T01:03+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "Yonhap/Korea Exchange",
+   "titel": "KOSPI-Open 4734",
+   "text": "90 −2",
+   "null": [
+    "77 %",
+    "Yonhap 01:03 Berlin / 09:03 KST: −135,06 Punkte vs Freitag 4869,96. Aju Press gleicher Open; KOSDAQ-Open 634,93 (−1,66 %). Yahoo 01:39:20 Berlin: KOSPI 4692,63 (−3,64 %), weiter nachgegeben. Dringlichkeit niedrig, Unsicherheit niedrig. https://en.yna.co.kr/view/AEN20261123001600320"
+   ],
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T01:49+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "Yahoo Finance",
+   "titel": "Öl leicht schwächer",
+   "text": " Gold fester",
+   "null": [
+    "WTI 82,85 $ (−0,67 % vs Freitag 83,41, Tick 01:49:17). Brent 89,29 $ (−0,73 % vs 89,95, Tick 01:43:28). Gold 3576,3 $ (+1,73 % vs 3515,4, Tick 01:49:14). Erste Ticks ab 00:10/00:13 in derselben Richtung. Dringlichkeit niedrig, Unsicherheit niedrig."
+   ],
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T02:00+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "UK_MTO/CENTCOM/Reuters/AP/Lloyd’s/JMIC",
+   "titel": "Iranische Minen-Meldung weiter unbestätigt",
+   "text": "weder bestätigt noch dementiert. Kein 218-26, kein Update zu 217-26, kein JMIC 117. Kein CENTCOM-Post nach 22.11. 21:23:51. Reuters/AP/Lloyd’s ohne unabhängige Verifikation. Dringlichkeit mittel, Unsicherheit hoch.",
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T01:58+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "CENTCOM",
+   "titel": "Kein neuer CENTCOM-Post nach 22.11. 21:23:51",
+   "text": "X-Abruf bis ~01:58 Berlin. Besuchsabschluss Cooper bleibt letzter Post",
+   "null": [
+    " kein Minen-Bezug. Weder Bestätigung noch Dementi. Dringlichkeit niedrig",
+    " Unsicherheit niedrig. https://x.com/CENTCOM/status/2124599763660070960"
+   ],
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T01:58:54+01:00",
+   "coin": "BTC",
+   "signal": "neutral",
+   "quelle": "CoinGecko",
+   "titel": "BTC 61175 vs 23:00 +0",
+   "text": "61 %",
+   "null": [
+    "ETH 1716",
+    "60; SOL 70",
+    "62; 1h BTC +0",
+    "18 %. F&G 11 (neuer Tageswert 23.11. 01:00",
+    " unverändert). Kein Schock. Dringlichkeit niedrig",
+    " Unsicherheit niedrig"
+   ],
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T01:59+01:00",
+   "coin": "SCOUT",
+   "signal": "neutral",
+   "quelle": "DexScreener",
+   "titel": "Kein Crash/Delisting/Hack der Freigabe-Coins",
+   "text": "Liq vs 23:08 −0",
+   "null": [
+    "5 bis +3",
+    "1 %. TROLL +5",
+    "9 % vs 23:08",
+    " 24h +6",
+    "7 %",
+    " unter Schwellen (gestern Dip aufgeholt). Freigaben gültig bis 09:15. Dringlichkeit niedrig",
+    " Unsicherheit niedrig"
+   ],
+   "datei": "2026-11-23.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-23T02:00+01:00",
+   "coin": "MACRO",
+   "signal": "neutral",
+   "quelle": "paper-trades.csv",
+   "titel": "Keine neuen Käufe seit 23:00; Depot leer",
+   "text": "Cash 48",
+   "null": [
+    "73 €",
+    " mtime 13:07 (22.11.). Kein Off-List-Kauf in diesem Fenster. Dringlichkeit niedrig",
+    " Unsicherheit niedrig"
+   ],
+   "datei": "2026-11-23.csv"
   },
   {
    "datei": "2026-11-22.md",
@@ -5939,177 +6054,6 @@
    "datei": "2026-10-29.md",
    "titel": "Scan 23:00 – Do 29.10.2026, 22:59 Uhr (Europe/Berlin)",
    "text": ""
-  },
-  {
-   "zeitpunkt": "2026-10-29T12:11+01:00",
-   "coin": "BTC",
-   "signal": "verkauf",
-   "quelle": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
-   "titel": "Fed hält Zinsen, 2 Stimmen für Erhöhung",
-   "text": "BTC fiel auf ~80.100 $ (Tief 79.600), ETH −1,7 %, Memecoin-Index −3,4 %. Dringlichkeit mittel, Unsicherheit niedrig.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T18:46+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://news.bitcoin.com/market-updates/bitcoin-price-82k-bears-warn-drop-toward-76k/",
-   "titel": "US-BIP Q3 3,4 %, PCE wie erwartet",
-   "text": "BTC kurz bis ~81.900 $, dann Rückfall auf ~80.600 $ mit Nasdaq −1,6 %. Range 79,6–82k. Dringlichkeit mittel, Unsicherheit mittel.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T21:00+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-   "titel": "Strategy meldet Q3-Zahlen",
-   "text": "848.517 BTC zu Ø 75.446 $, nur ~6 % im Plus. Abwärtsrisiko. Dringlichkeit hoch, Unsicherheit hoch.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T09:00+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://swolecharts.com/crypto-economic-calendar",
-   "titel": "Optionsverfall BTC/ETH 09:00, CME-Futures 17:00",
-   "text": "Volatilität möglich. Dringlichkeit hoch, Unsicherheit mittel.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T12:11+01:00",
-   "coin": "BTC",
-   "signal": "kauf",
-   "quelle": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
-   "titel": "Spot-BTC-ETF-Zuflüsse 3 Tage in Folge",
-   "text": "+137 Mio $ am 28.10., zusammen 423,7 Mio $ (Farside). Leicht positiv. Dringlichkeit niedrig, Unsicherheit mittel.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-26T12:00+01:00",
-   "coin": "PUMP",
-   "signal": "verkauf",
-   "quelle": "https://pumpdata.fun/report/2026-10-26",
-   "titel": "Pump.fun-Volumen 62 % unter 30-Tage-Schnitt",
-   "text": "PUMP −23,4 % in 2 Wochen vs. SOL −8,5 %. Contract-Adresse unbestätigt. Dringlichkeit mittel, Unsicherheit mittel.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-28T12:00+01:00",
-   "coin": "TNSR",
-   "signal": "verkauf",
-   "quelle": "https://coinlaw.io/exchange-listings-tracker/",
-   "titel": "Coinbase delistet TNSR am 09.11.",
-   "text": "Binance entfernt am 30.10. einige Spot-/Margin-Paare, BTC/ETH selbst unberührt. Dringlichkeit niedrig, Unsicherheit niedrig.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T20:55+01:00",
-   "coin": "alle",
-   "signal": "neutral",
-   "quelle": "https://www.bls.gov/schedule/2026/11_sched_list.htm",
-   "titel": "Makro-Termine",
-   "text": "JOLTS 03.11. 16:00, US-Arbeitsmarktbericht 06.11. 14:30, CPI 10.11. 14:30, FOMC 09.12. Dringlichkeit mittel, Unsicherheit niedrig.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T21:39+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://beincrypto.com/is-binance-being-hacked-customer-funds/",
-   "titel": "Verdacht Binance-Hot-Wallet-Hack >2 Mrd $ (unbestätigt)",
-   "text": "On-Chain: Transfer 21:24 aus Binance 14/16 an Tornado-finanzierte Adresse. Binance-Statement fehlt. BTC 80.300 -> 78.800 $. Dringlichkeit hoch, Unsicherheit hoch.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T21:05+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://www.strategy.com/press/strategy-announces-third-quarter-2026-financial-results_10-29-2026",
-   "titel": "Strategy Q3: 20,91 Mrd $ operativer Gewinn, EPS 44,75 $",
-   "text": "848.517 BTC, Ø 75.446 $; keine BTC-Käufe Woche bis 25.10. Keine positive BTC-Reaktion. Dringlichkeit mittel, Unsicherheit niedrig.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T21:15+01:00",
-   "coin": "BTC",
-   "signal": "verkauf",
-   "quelle": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-   "titel": "Amazon und Intel verfehlen Ausblick, Nasdaq-Futures -1 %",
-   "text": "AMZN -6 %, INTC -16 % nachbörslich; BTC fällt mit. Dringlichkeit mittel, Unsicherheit niedrig.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T21:43+01:00",
-   "coin": "USELESS",
-   "signal": "neutral",
-   "quelle": "https://api.coingecko.com/api/v3/simple/price?ids=useless-3&vs_currencies=usd&include_24hr_change=true",
-   "titel": "Memecoins fallen mit Markt, kein eigener Anlass",
-   "text": "CA Dz9mQ9NzkBcCsuGPFJ3r1bS4wgqKMHBPiVuniW8Mbonk. 24h -20 %. Anstieg seit Meldung n/a (fallend). Weitere: FARTCOIN 9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump -11 %, POPCAT 7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr -12 %, PENGU 2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv -11 %, WIF EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm -9 %.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T21:43+01:00",
-   "coin": "GTA6",
-   "signal": "neutral",
-   "quelle": "https://x.com/i/trending/2115905346652745864",
-   "titel": "GTA6-Memecoin -64 % nach Wallet-Dump (X, unbestätigt)",
-   "text": "CA 4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz (Zuordnung unbestätigt). Anstieg seit Meldung n/a (-49,7 % 1h laut Scanner). Kein Einstieg.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T22:00+01:00",
-   "coin": "SOL",
-   "signal": "neutral",
-   "quelle": "https://x.com/i/trending/2115813822527426922",
-   "titel": "Ondo: 7 tokenisierte Portfolios auf Solana",
-   "text": "Plus Polygon-Integration, RWA-ATH 5,19 Mrd $ (X-Zusammenfassungen). Dringlichkeit niedrig.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T22:16+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://x.com/binance/status/2115915708504900039",
-   "titel": "Binance offiziell: untersucht mögliches Sicherheitsproblem",
-   "text": "Kein Bestätigen/Dementi; ab 22:29 'User funds are completely safe'. Dringlichkeit hoch.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T22:15+01:00",
-   "coin": "BNB",
-   "signal": "verkauf",
-   "quelle": "https://x.com/cz_binance/status/2115915423174853077",
-   "titel": "CZ: 'sieht nach Hack auf Binance aus'",
-   "text": "PeckShield 22:23 'Confirmed hack'. BNB -6 % in 1h (CoinDesk). Dringlichkeit hoch, Unsicherheit niedrig.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T22:25+01:00",
-   "coin": "USDT",
-   "signal": "neutral",
-   "quelle": "https://x.com/paoloardoino/status/2115918000373346709",
-   "titel": "Tether friert >1,567 Mrd USDT ein, Circle >800 Mio USDC",
-   "text": "Begrenzt Schaden des Binance-Hacks.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T22:50+01:00",
-   "coin": "BTC",
-   "signal": "verkauf",
-   "quelle": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-   "titel": "Hacker-Wallet hält >5,7 Mrd $ (Arkham)",
-   "text": "~600 Mio $ Liquidationen in 1h (FXStreet/Coinglass). Zahlen je Quelle verschieden.",
-   "datei": "2026-10-29.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-29T22:59+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://api.exchange.coinbase.com/products/BTC-USD/ticker",
-   "titel": "Binance-Preise ohne Abweichung",
-   "text": "BTCUSDT 79.086 vs Coinbase 78.958 / Kraken 78.961; ETH +0,1 %. Auszahlungen laut Nutzern teils hängend (unbestätigt).",
-   "datei": "2026-10-29.csv"
   }
  ],
  "varianten": {
@@ -6161,19 +6105,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-23 01:25:37",
-   "tokens": 84,
-   "paar": 84,
+   "t": "2026-11-23 02:01:21",
+   "tokens": 49,
+   "paar": 49,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 38,
-   "tokens": 2263,
-   "paar": 2232,
+   "runden": 49,
+   "tokens": 2917,
+   "paar": 2884,
    "vor": 0,
-   "kandidaten_zeilen": 166,
+   "kandidaten_zeilen": 221,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -6182,19 +6126,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    75
+    101
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    74
+    98
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    10
+    13
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
-    4
+    6
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
@@ -6260,8 +6204,8 @@
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/2026-11-22.csv",
-   "zeit": "2026-11-22T23:09:16+01:00"
+   "letzte_datei": "krypto/news/2026-11-23.csv",
+   "zeit": "2026-11-23T02:00:19+01:00"
   },
   {
    "name": "Kadabra",
@@ -6293,7 +6237,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/kandidaten.csv",
-   "zeit": "2026-11-23T01:25:39+01:00"
+   "zeit": "2026-11-23T02:01:23+01:00"
   },
   {
    "name": "Magnayen",
@@ -6305,76 +6249,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-22T23:27:45",
-   "SCAN",
-   "Runde: 46 Tokens, 46 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-22T23:28:45",
-   "SCAN",
-   "Runde: 46 Tokens, 46 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-22T23:48:21",
-   "RISK",
-   "supervisor: Box war 1183 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-22T23:49:07",
-   "SCAN",
-   "Runde: 83 Tokens, 83 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
-  [
-   "2026-11-22T23:50:05",
-   "SCAN",
-   "Runde: 45 Tokens, 45 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-22T23:53:13",
-   "RISK",
-   "supervisor: Box war 152 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-22T23:53:18",
-   "SCAN",
-   "Runde: 83 Tokens, 81 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
-  [
-   "2026-11-22T23:54:16",
-   "SCAN",
-   "Runde: 45 Tokens, 45 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-22T23:55:16",
-   "SCAN",
-   "Runde: 45 Tokens, 45 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-22T23:56:16",
-   "SCAN",
-   "Runde: 45 Tokens, 45 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-22T23:57:18",
-   "SCAN",
-   "Runde: 83 Tokens, 83 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
-  [
-   "2026-11-22T23:58:16",
-   "SCAN",
-   "Runde: 45 Tokens, 45 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-22T23:59:16",
-   "SCAN",
-   "Runde: 45 Tokens, 45 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-23T00:00:18",
-   "SCAN",
-   "Runde: 85 Tokens, 83 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
   [
    "2026-11-23T00:06:23",
    "RISK",
@@ -6604,6 +6478,76 @@
    "2026-11-23T01:25:37",
    "SCAN",
    "Runde: 84 Tokens, 84 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-23T01:26:35",
+   "SCAN",
+   "Runde: 46 Tokens, 46 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T01:27:35",
+   "SCAN",
+   "Runde: 46 Tokens, 46 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T01:48:47",
+   "RISK",
+   "supervisor: Box war 1233 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-23T01:48:51",
+   "SCAN",
+   "Runde: 86 Tokens, 86 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 18 s"
+  ],
+  [
+   "2026-11-23T01:49:35",
+   "SCAN",
+   "Runde: 49 Tokens, 49 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T01:50:35",
+   "SCAN",
+   "Runde: 49 Tokens, 49 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T01:55:07",
+   "RISK",
+   "supervisor: Box war 240 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-23T01:55:17",
+   "SCAN",
+   "Runde: 89 Tokens, 88 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-23T01:56:15",
+   "SCAN",
+   "Runde: 50 Tokens, 50 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T01:57:15",
+   "SCAN",
+   "Runde: 50 Tokens, 50 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T01:59:05",
+   "RISK",
+   "supervisor: Box war 89 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-23T01:59:23",
+   "SCAN",
+   "Runde: 90 Tokens, 89 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-23T02:00:21",
+   "SCAN",
+   "Runde: 50 Tokens, 50 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-23T02:01:21",
+   "SCAN",
+   "Runde: 49 Tokens, 49 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
   ]
  ],
  "trefferquote": {
@@ -6621,5 +6565,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-23T01:25:39+01:00"
+ "daten_neuest": "2026-11-23T02:01:23+01:00"
 }

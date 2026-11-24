@@ -1,5 +1,5 @@
 {
- "stand_daten": "24.11.2026 07:02",
+ "stand_daten": "24.11.2026 07:08",
  "depot": {
   "wert": 48.73,
   "budget": 50.0,
@@ -3093,6 +3093,78 @@
    "signal": "INFO",
    "quelle": "paper-trades.csv",
    "titel": "Keine neuen Käufe seit 02:00; Depot leer",
+   "text": "Datei unverändert (mtime 22.11. 13:07, Cash 48,73 €). Nur gelesen.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T07:02:45+01:00",
+   "coin": "BTC",
+   "signal": "INFO",
+   "quelle": "CoinGecko",
+   "titel": "Majors nach tieferem Tief erholt: BTC 60.521 / ETH 1.702,40 / SOL 71,64 $ (vs 05:00 +0,45 / +0,48 / +0,49 %)",
+   "text": "Neues 24h-Tief BTC 59.467 (ETH 1.672,41 / SOL 70,29). Zweitabruf 07:06:24: 60.422 / 1.700,17 / 71,57 — stabilisiert, nicht weiter abwärts, keine scharfe FSC-Reaktion. F&G 11. CoinGlass 24h-Liq 346,97 Mio. $ (Aggregator).",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T07:00:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "FSC no010101/88199 (PDF Pressetext + Anhang 2)",
+   "titel": "FSC veröffentlicht Regierungsentwurf «디지털자산업의 혁신과 이용자 보호에 관한 법률» um 15:00 KST / 07:00 Berlin",
+   "text": "Kern: Lizenz statt Meldung (매매/중개/보관 인가, 운용 등록), Won-Stablecoins zuerst Banken-Mehrheitskonsortium (Tech als größter Einzelaktionär möglich, 100-%-Reserve, Nennwert-Rückzahlung), Börsen-Deckel 20 %/Ausnahme 34 % (bis 6 Jahre Übergangsfrist), ICO mit Whitepaper, Hack-Haftung ohne Verschulden. Koreanischer Spot-ETF nicht in diesem Entwurf. Noch kein geltendes Recht. Keine belegte Upbit-/Bithumb-Reaktion im Fenster.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T07:03:11+01:00",
+   "coin": "GOAT",
+   "signal": "INFO",
+   "quelle": "DexScreener (Pair 9Tb2ohu5P16BpBarqd3N27WnkF51Ukfs8Z1GzzLDxVZW)",
+   "titel": "Haupt-Liq exakt 1.049.299,06 $ (vs 05:00 +1,96 %), Median 45.134,68 $ — Bedingung erfüllt",
+   "text": "Spielraum +49.299,06 $. Kurs 0,01061 $. 24h-Vol 56.440,62 $. Liquidität vs 05:00 wieder gelockert, bleibt frei, kein starkes Signal.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T07:03:11+01:00",
+   "coin": "FARTBOY",
+   "signal": "INFO",
+   "quelle": "DexScreener (Pair DhHVd5s4hqBGnTkFztsK98WGPtYUJjpUCqNnWaNLWb4F)",
+   "titel": "Haupt-Liq 487.907,70 $ (vs 05:00 +1,32 %), Abstand zur 30-%-Linie 129.035 $",
+   "text": "Vs 24h-Hoch 512.675 $ jetzt −4,83 % (Linie 358.872,50 $). Kurs 0,01476 $. Kein Schwellenbruch.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T07:03:00+01:00",
+   "coin": "SOL",
+   "signal": "INFO",
+   "quelle": "Bybit Deposit/Withdrawal-Status (WebFetch)",
+   "titel": "SOL-Auszahlungen wieder Normal (Einzahlungen weiter Normal)",
+   "text": "05:01 noch Suspended. Keine Abschlussmeldung auf der Ankündigungsseite (wie angekündigt). Operativ, kein Freigabe-Coin-Signal.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T07:03:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "Gate Futures-API ACE_USDT; keine neue offizielle Mitteilung",
+   "titel": "ACE-Settlement offenbar vollzogen: Positionen 0, Orderbuch leer, Last/Index/Mark 0,042 $",
+   "text": "Offizieller Abrechnungspreis nicht als Gate-Post gefunden. Spot weiter deaktiviert. ACE kein Freigabe-Coin. Unsicherheit mittel.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T07:00:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "X (@UK_MTO/@CENTCOM) / UKMTO-PDFs / Reuters-Stand – unbestätigt",
+   "titel": "IRGC-Tanker/Minen weiter unbestätigt; kein UKMTO 218-26, kein JMIC 117",
+   "text": "CENTCOM ohne neuen Tanker-/LUCAS-Post (letzter Post 23.11. 23:08 nur Roosevelt-Flugdeck). LUCAS und Rabigh weiter unbestätigt. Lage nicht entspannt. Unsicherheit hoch.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T07:00:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "paper-trades.csv",
+   "titel": "Keine neuen Käufe seit 05:00; Depot leer",
    "text": "Datei unverändert (mtime 22.11. 13:07, Cash 48,73 €). Nur gelesen.",
    "datei": "2026-11-24.csv"
   },
@@ -7206,19 +7278,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-24 07:03:25",
-   "tokens": 41,
-   "paar": 41,
+   "t": "2026-11-24 07:13:57",
+   "tokens": 77,
+   "paar": 76,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 145,
-   "tokens": 9149,
-   "paar": 9111,
+   "runden": 155,
+   "tokens": 9662,
+   "paar": 9623,
    "vor": 0,
-   "kandidaten_zeilen": 722,
+   "kandidaten_zeilen": 753,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -7227,11 +7299,11 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    445
+    472
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    217
+    220
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
@@ -7239,7 +7311,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    10
+    11
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -7306,7 +7378,7 @@
    "farbe": "#06B6D4",
    "form": "diamond",
    "letzte_datei": "krypto/news/2026-11-24.md",
-   "zeit": "2026-11-24T05:03:42+01:00"
+   "zeit": "2026-11-24T07:08:15+01:00"
   },
   {
    "name": "Kadabra",
@@ -7338,7 +7410,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-24T07:03:25+01:00"
+   "zeit": "2026-11-24T07:13:57+01:00"
   },
   {
    "name": "Magnayen",
@@ -7350,66 +7422,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-24T04:37:02",
-   "SCAN",
-   "Runde: 49 Tokens, 49 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T04:38:02",
-   "SCAN",
-   "Runde: 49 Tokens, 49 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T04:39:02",
-   "SCAN",
-   "Runde: 49 Tokens, 49 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T04:54:27",
-   "RISK",
-   "supervisor: Box war 927 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-24T04:55:09",
-   "RISK",
-   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
-  ],
-  [
-   "2026-11-24T04:55:17",
-   "SCAN",
-   "Runde: 86 Tokens, 85 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 10 s"
-  ],
-  [
-   "2026-11-24T04:56:10",
-   "SCAN",
-   "Runde: 47 Tokens, 47 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T04:59:07",
-   "RISK",
-   "supervisor: Box war 140 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-24T04:59:12",
-   "SCAN",
-   "Runde: 84 Tokens, 84 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 6 s"
-  ],
-  [
-   "2026-11-24T05:00:10",
-   "SCAN",
-   "Runde: 47 Tokens, 47 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T05:01:10",
-   "SCAN",
-   "Runde: 46 Tokens, 46 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T05:02:10",
-   "SCAN",
-   "Runde: 46 Tokens, 46 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
   [
    "2026-11-24T05:03:09",
    "RISK",
@@ -7649,6 +7661,66 @@
    "2026-11-24T07:03:25",
    "SCAN",
    "Runde: 41 Tokens, 41 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T07:04:24",
+   "SCAN",
+   "Runde: 40 Tokens, 40 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T07:05:27",
+   "SCAN",
+   "Runde: 78 Tokens, 78 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-24T07:06:24",
+   "SCAN",
+   "Runde: 40 Tokens, 40 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T07:07:24",
+   "SCAN",
+   "Runde: 40 Tokens, 40 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T07:08:24",
+   "SCAN",
+   "Runde: 40 Tokens, 40 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T07:09:24",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
+  ],
+  [
+   "2026-11-24T07:09:29",
+   "RISK",
+   "HTTP 429 geckoterminal (Versuch 2/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
+  ],
+  [
+   "2026-11-24T07:09:42",
+   "SCAN",
+   "Runde: 78 Tokens, 78 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 20 s"
+  ],
+  [
+   "2026-11-24T07:10:24",
+   "SCAN",
+   "Runde: 40 Tokens, 40 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T07:11:24",
+   "SCAN",
+   "Runde: 40 Tokens, 40 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T07:12:24",
+   "SCAN",
+   "Runde: 40 Tokens, 40 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T07:13:57",
+   "SCAN",
+   "Runde: 77 Tokens, 76 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 36 s"
   ]
  ],
  "trefferquote": {
@@ -7666,5 +7738,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-24T07:03:25+01:00"
+ "daten_neuest": "2026-11-24T07:13:57+01:00"
 }

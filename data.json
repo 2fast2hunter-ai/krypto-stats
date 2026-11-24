@@ -1,5 +1,5 @@
 {
- "stand_daten": "24.11.2026 13:56",
+ "stand_daten": "24.11.2026 15:12",
  "depot": {
   "wert": 48.73,
   "budget": 50.0,
@@ -3553,6 +3553,78 @@
    "quelle": "X-News",
    "titel": "Ansem-Wallet dumpt $ANSEM (MCap 36,7→9,4 Mio $)",
    "text": "Hack-Verdacht unbestätigt. ANSEM ohnehin BLOCK, nicht im Depot.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T15:09:17+01:00",
+   "coin": "BTC",
+   "signal": "INFO",
+   "quelle": "CoinGecko",
+   "titel": "BTC hält knapp 60.000 $: 60.175 $ (vs 14:00 60.379, −0,34 %); ETH 1.695,13; SOL 70,02",
+   "text": "24h-Tief BTC unverändert 59.380 $, SOL jetzt 69,64 $. Zweitabruf 15:10: 60.181 / 1.694,81 / 69,99. F&G 11. CoinGlass 24h-Liq 271,90 Mio. $ (Aggregator, Fenster rollt). ETF weiter −569,7 Mio. $ (23.11.), kein 24.11.-Flow vor 15:30. Dringlichkeit niedrig.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T15:09:00+01:00",
+   "coin": "GOAT",
+   "signal": "INFO",
+   "quelle": "DexScreener (Pair 9Tb2ohu5P16BpBarqd3N27WnkF51Ukfs8Z1GzzLDxVZW); RugCheck /report",
+   "titel": "Haupt-Liq 1.008.949,03 $ (vs 14:00 −1,09 %), Spielraum nur +8.949 $; Median 43.396,70 $; Top10 48,00 % — Bedingung erfüllt, knapp",
+   "text": "Engster Abstand heute. Kurs 0,01011 $, 1h −1,79 %. Top10 unter 50 %. Noch kein starkes Signal, beobachten.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T15:09:00+01:00",
+   "coin": "FARTBOY",
+   "signal": "INFO",
+   "quelle": "DexScreener (Pair DhHVd5s4hqBGnTkFztsK98WGPtYUJjpUCqNnWaNLWb4F)",
+   "titel": "Haupt-Liq 465.843,55 $ (vs 14:00 −0,66 %), Abstand zur 30-%-Linie 106.971 $",
+   "text": "Vs 24h-Hoch 512.675 $ jetzt −9,13 % (Linie 358.872,50 $). Kurs 0,01378 $, 24h −12,52 %. Kein Schwellenbruch.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T15:09:00+01:00",
+   "coin": "Buttcoin",
+   "signal": "INFO",
+   "quelle": "RugCheck /report (Methode Scout/tab.py)",
+   "titel": "Nebenpools ungelockt 25,13 % (25,1 %) der RC-Gesamtliq 643.901 $ — unter der 30-%-Schwelle",
+   "text": "Vs Scout 09:22 25,9 % leicht rückläufig. Haupt-Pool LP-Lock 100 %, RC-Liq 481.989 $. DexScreener-Haupt-Liq 483.284 $, Kurs 0,005331 $, 24h −13,84 %. Kein Regelbruch.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T15:00:00+01:00",
+   "coin": "BTC",
+   "signal": "INFO",
+   "quelle": "SEC Form 8-K Strategy Inc. 23.11.2026 (0001193125-26-470961)",
+   "titel": "Primär bestätigt: 457 BTC für 29,6 Mio. $ (16.–22.11.), Ø 64.898 $; Bestand 851.305 BTC per 22.11.",
+   "text": "Finanziert aus MSTR-ATM (176,7 Mio. $ netto, davon 29,6 Mio. $ für BTC). Unsicherheit nun niedrig. Kein Kursimpuls seit 14:00. Saylor-Post nicht separat geprüft.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T15:09:00+01:00",
+   "coin": "ANSEM",
+   "signal": "INFO",
+   "quelle": "DexScreener; CoinDesk 24.11.; On-Chain-Berichte — Hack-Ursache unbestätigt",
+   "titel": "$ANSEM 0,02018 $, 24h −52,39 %; Ansem behauptet Wallet-Hack (Bullpen), Abverkauf on-chain belegt",
+   "text": "Ursache (Hack vs. eigener Verkauf) von Dritten weiter bestritten. Bleibt BLOCK, nicht in der Freigabeliste, nicht im Depot. Unsicherheit hoch.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T14:20:23+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "UKMTO 219-26 PDF-Revision / @UK_MTO 14:20; Reuters/JPost — IRGC-Minen unbestätigt",
+   "titel": "Zweiter 219-26-Post: verlinkte PDF ändert Vorfallsdatum auf 22.11. 20:25 UTC; Canonical-Pfad weiter 23.11. — Datum unsicher",
+   "text": "Wortlaut sonst unverändert (drei Schiffe, unbekannte Geschosse). Reuters übernimmt UKMTO, bestätigt nicht die Minen-These. Kein JMIC 117, CENTCOM unverändert, WSJ-Cyber unbestätigt. Dringlichkeit mittel, Unsicherheit mittel/hoch.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T15:11:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "FSC-Liste unverändert; Finviz-Kalender Case-Shiller (S&P-PR nicht selbst geöffnet)",
+   "titel": "VASP: weiterhin keine Einzelbescheide. Case-Shiller 20-City YoY Sep laut Kalender 2,6 % (Konsens 2,7 %), mit Vorbehalt",
+   "text": "Consumer Confidence/Richmond Fed erst 16:00. Core-PCE Mi 25.11. 14:30. Paper-Depot leer (mtime 22.11. 13:07, Cash 48,73 €).",
    "datei": "2026-11-24.csv"
   },
   {
@@ -7665,19 +7737,19 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-24 14:43:00",
+   "t": "2026-11-24 15:12:51",
    "tokens": 75,
-   "paar": 67,
+   "paar": 69,
    "vor": 0,
    "offen": 0,
    "schatten": 0
   },
   "heute": {
-   "runden": 487,
-   "tokens": 25987,
-   "paar": 24536,
+   "runden": 498,
+   "tokens": 26621,
+   "paar": 25096,
    "vor": 1,
-   "kandidaten_zeilen": 1513,
+   "kandidaten_zeilen": 1557,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -7686,19 +7758,19 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    942
+    962
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
-    441
+    459
    ],
    [
     "Vorfilter: kein Volumen-Spike (#× < #×)",
-    86
+    89
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    23
+    24
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -7764,8 +7836,8 @@
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/2026-11-24.csv",
-   "zeit": "2026-11-24T13:56:36+01:00"
+   "letzte_datei": "krypto/news/2026-11-24.md",
+   "zeit": "2026-11-24T15:12:39+01:00"
   },
   {
    "name": "Kadabra",
@@ -7796,8 +7868,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-24T14:46:40+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-24T15:12:52+01:00"
   },
   {
    "name": "Magnayen",
@@ -7809,81 +7881,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-24T13:27:23",
-   "SCAN",
-   "Runde: 36 Tokens, 31 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T13:28:23",
-   "SCAN",
-   "Runde: 37 Tokens, 32 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T13:29:23",
-   "RISK",
-   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/trending_pools?page=1"
-  ],
-  [
-   "2026-11-24T13:29:30",
-   "RISK",
-   "HTTP 429 geckoterminal (Versuch 1/3) https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-11-24T13:29:35",
-   "RISK",
-   "HTTP 429 geckoterminal (Versuch 2/3) https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-11-24T13:29:45",
-   "RISK",
-   "HTTP 429 geckoterminal (Versuch 3/3) https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-11-24T13:30:00",
-   "RISK",
-   "WARN gt-new: API fehlgeschlagen: https://api.geckoterminal.com/api/v2/networks/solana/new_pools?page=1"
-  ],
-  [
-   "2026-11-24T13:30:00",
-   "SCAN",
-   "Runde: 55 Tokens, 48 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 40 s"
-  ],
-  [
-   "2026-11-24T13:30:25",
-   "SCAN",
-   "Runde: 36 Tokens, 31 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T13:33:21",
-   "RISK",
-   "supervisor: Box war 142 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-24T13:33:27",
-   "SCAN",
-   "Runde: 73 Tokens, 61 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
-  [
-   "2026-11-24T13:34:25",
-   "SCAN",
-   "Runde: 36 Tokens, 31 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T13:35:25",
-   "SCAN",
-   "Runde: 36 Tokens, 31 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T13:36:24",
-   "SCAN",
-   "Runde: 36 Tokens, 31 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T13:37:27",
-   "SCAN",
-   "Runde: 75 Tokens, 67 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
   [
    "2026-11-24T13:38:25",
    "SCAN",
@@ -8108,6 +8105,81 @@
    "2026-11-24T14:46:40",
    "RISK",
    "supervisor: Box war 225 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-24T14:47:23",
+   "SCAN",
+   "Runde: 73 Tokens, 65 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-24T14:48:20",
+   "SCAN",
+   "Runde: 37 Tokens, 32 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T14:51:21",
+   "RISK",
+   "supervisor: Box war 141 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-24T14:51:27",
+   "SCAN",
+   "Runde: 73 Tokens, 62 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-24T14:59:19",
+   "RISK",
+   "supervisor: Box war 478 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-24T14:59:57",
+   "SCAN",
+   "Runde: 76 Tokens, 68 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 6 s"
+  ],
+  [
+   "2026-11-24T15:00:54",
+   "SCAN",
+   "Runde: 38 Tokens, 33 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T15:05:02",
+   "RISK",
+   "supervisor: Box war 222 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-24T15:05:07",
+   "SCAN",
+   "Runde: 74 Tokens, 66 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-24T15:08:07",
+   "RISK",
+   "supervisor: Box war 185 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-24T15:08:51",
+   "SCAN",
+   "Runde: 74 Tokens, 66 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-24T15:09:49",
+   "SCAN",
+   "Runde: 38 Tokens, 33 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T15:10:49",
+   "SCAN",
+   "Runde: 38 Tokens, 33 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T15:11:49",
+   "SCAN",
+   "Runde: 38 Tokens, 33 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T15:12:51",
+   "SCAN",
+   "Runde: 75 Tokens, 69 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
   ]
  ],
  "trefferquote": {
@@ -8125,5 +8197,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-24T14:46:40+01:00"
+ "daten_neuest": "2026-11-24T15:12:52+01:00"
 }

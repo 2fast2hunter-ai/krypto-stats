@@ -1,5 +1,5 @@
 {
- "stand_daten": "24.11.2026 07:53",
+ "stand_daten": "24.11.2026 09:07",
  "depot": {
   "wert": 48.73,
   "budget": 50.0,
@@ -3193,6 +3193,87 @@
    "quelle": "CoinGecko",
    "titel": "Majors flach vs 07:00: BTC 60.509 / ETH 1.701,40 / SOL 71,91 $",
    "text": "F&G 11. GOAT-Liq 1,05 Mio, FARTBOY-Liq 487k – kein Schwellenbruch.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T09:03:40+01:00",
+   "coin": "BTC",
+   "signal": "INFO",
+   "quelle": "CoinGecko",
+   "titel": "Majors leicht weicher vs 08:00: BTC 60.355 / ETH 1.696,60 / SOL 71,44 $ (vs 08:00 −0,25 / −0,28 / −0,65 %)",
+   "text": "24h-Tief unverändert 59.467 $. Zweitabruf 09:05:36: 60.346 / 1.696,20 / 71,40. F&G 11. Kein Crash, keine scharfe FSC-Reaktion. Dringlichkeit niedrig.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T09:03:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "Dateisystem / scout-2026-11-23.md",
+   "titel": "Kein scout-2026-11-24.md; Freigaben aus dem 23.11.-Scout laufen 09:15 aus",
+   "text": "Ab 09:15 gelten keine Freigaben, solange keine neue Scout-Datei vorliegt. Prozess-Hinweis, kein Kurssignal.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T09:05:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "FSC no010101/88195 / Yonhap 06:00 KST / Financial News 06:01 KST",
+   "titel": "VASP: um 09:05 kein neues Ergebnis; 10:00 Berlin weiter offen",
+   "text": "Letzter amtlicher Stand bleibt Annahme aller 28 Frist-Meldungen plus Prüfverfahren, keine Zulassungs-/Ablehnungsliste. Ergebnisse laut Behörden einzeln und zeitversetzt.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T09:00:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "Yonhap / Digital Times / Chosun / Newspim / Money Today",
+   "titel": "FSC-Entwurf: Korea-Medien fokussieren 20-/34-%-Anteilskappe; Branchenkritik, keine offizielle Upbit-/Bithumb-Mitteilung",
+   "text": "Medien nennen u. a. Dunamu 25,51 % und Bithumb Holdings 73,56 % — nicht von den Börsen bestätigt. Regierungsentwurf, keine scharfe BTC-Reaktion. Unsicherheit mittel.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T09:04:00+01:00",
+   "coin": "GOAT",
+   "signal": "INFO",
+   "quelle": "DexScreener (Pair 9Tb2ohu5P16BpBarqd3N27WnkF51Ukfs8Z1GzzLDxVZW)",
+   "titel": "Haupt-Liq exakt 1.045.003,71 $ (vs 07:55 −0,52 %), Median 45.134,68 $ — Bedingung erfüllt",
+   "text": "Spielraum +45.003,71 $. Kurs 0,01056 $. 24h-Vol 55.036,04 $. Bleibt frei bis Scout-Ende 09:15, kein starkes Signal.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T09:04:00+01:00",
+   "coin": "FARTBOY",
+   "signal": "INFO",
+   "quelle": "DexScreener (Pair DhHVd5s4hqBGnTkFztsK98WGPtYUJjpUCqNnWaNLWb4F)",
+   "titel": "Haupt-Liq 485.362,78 $ (vs 07:55 −0,36 %), Abstand zur 30-%-Linie 126.490 $",
+   "text": "Vs 24h-Hoch 512.675 $ jetzt −5,33 % (Linie 358.872,50 $). Kurs 0,01464 $. Kein Schwellenbruch.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T09:03:40+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "CoinGecko; CryptoSlate 23.11. / Tokenomics.com",
+   "titel": "Monad-Unlock heute ~16,61 Mrd. MON (~140 % der Zirkulation); Kurs 0,01352 $ (24h +9,99 %) nach Tief 0,01127 $",
+   "text": "Nicht im Portfolio. Kein erkennbarer Spillover auf BTC/ETH/SOL. Unlock-Größe aus Trackern, Unsicherheit mittel.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T09:00:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "JPost (Reuters-Byline) / WSJ via Reuters – unbestätigt; X @UK_MTO/@CENTCOM",
+   "titel": "IRGC-Tanker weiter unbestätigt; WSJ-Cyberangriffe auf Schiffe von Reuters nicht verifiziert",
+   "text": "Kein UKMTO 218-26, kein JMIC 117. CENTCOM ohne neuen Tanker-Post. Iran-Zuordnung der Cyber-Spur unbestätigt. Lage nicht entspannt. Unsicherheit hoch.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T09:00:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "paper-trades.csv",
+   "titel": "Keine neuen Käufe seit 08:00; Depot leer",
+   "text": "Datei unverändert (mtime 22.11. 13:07, Cash 48,73 €). Nur gelesen.",
    "datei": "2026-11-24.csv"
   },
   {
@@ -7305,7 +7386,7 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-24 08:55:44",
+   "t": "2026-11-24 09:08:20",
    "tokens": 38,
    "paar": 38,
    "vor": 0,
@@ -7313,11 +7394,11 @@
    "schatten": 0
   },
   "heute": {
-   "runden": 218,
-   "tokens": 12821,
-   "paar": 12759,
+   "runden": 224,
+   "tokens": 13125,
+   "paar": 13057,
    "vor": 1,
-   "kandidaten_zeilen": 926,
+   "kandidaten_zeilen": 938,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -7326,7 +7407,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    582
+    593
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -7338,7 +7419,7 @@
    ],
    [
     "Vorfilter: Momentum #m +# % außerhalb +#+# %",
-    14
+    15
    ],
    [
     "Vorfilter: Momentum #m -# % außerhalb +#+# %",
@@ -7404,8 +7485,8 @@
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/2026-11-24.csv",
-   "zeit": "2026-11-24T07:53:51+01:00"
+   "letzte_datei": "krypto/news/2026-11-24.md",
+   "zeit": "2026-11-24T09:07:06+01:00"
   },
   {
    "name": "Kadabra",
@@ -7437,7 +7518,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-24T09:02:38+01:00"
+   "zeit": "2026-11-24T09:08:20+01:00"
   },
   {
    "name": "Magnayen",
@@ -7449,36 +7530,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-24T07:47:32",
-   "SCAN",
-   "Runde: 38 Tokens, 38 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T07:48:34",
-   "SCAN",
-   "Runde: 75 Tokens, 75 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
-  [
-   "2026-11-24T07:49:32",
-   "SCAN",
-   "Runde: 38 Tokens, 38 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T07:50:32",
-   "SCAN",
-   "Runde: 37 Tokens, 37 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T07:51:58",
-   "SCAN",
-   "Runde: 71 Tokens, 70 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 29 s"
-  ],
-  [
-   "2026-11-24T07:52:57",
-   "SCAN",
-   "Runde: 38 Tokens, 38 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
   [
    "2026-11-24T07:53:57",
    "SCAN",
@@ -7748,6 +7799,36 @@
    "2026-11-24T09:02:38",
    "RISK",
    "supervisor: Box war 417 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-24T09:03:23",
+   "SCAN",
+   "Runde: 76 Tokens, 76 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-24T09:04:20",
+   "SCAN",
+   "Runde: 38 Tokens, 38 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T09:05:20",
+   "SCAN",
+   "Runde: 38 Tokens, 38 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T09:06:20",
+   "SCAN",
+   "Runde: 38 Tokens, 38 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T09:07:23",
+   "SCAN",
+   "Runde: 76 Tokens, 70 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-24T09:08:20",
+   "SCAN",
+   "Runde: 38 Tokens, 38 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
   ]
  ],
  "trefferquote": {
@@ -7765,5 +7846,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-24T09:02:38+01:00"
+ "daten_neuest": "2026-11-24T09:08:20+01:00"
 }

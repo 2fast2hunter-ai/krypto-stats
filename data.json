@@ -7206,7 +7206,7 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-24 07:02:24",
+   "t": "2026-11-24 07:03:25",
    "tokens": 41,
    "paar": 41,
    "vor": 0,
@@ -7214,9 +7214,9 @@
    "schatten": 0
   },
   "heute": {
-   "runden": 144,
-   "tokens": 9108,
-   "paar": 9070,
+   "runden": 145,
+   "tokens": 9149,
+   "paar": 9111,
    "vor": 0,
    "kandidaten_zeilen": 722,
    "nach_checks": 0,
@@ -7322,7 +7322,7 @@
    "farbe": "#F59E0B",
    "form": "shield",
    "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-11-24T07:02:37+01:00"
+   "zeit": "2026-11-24T07:02:52+01:00"
   },
   {
    "name": "Mauzi",
@@ -7338,7 +7338,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-24T07:02:24+01:00"
+   "zeit": "2026-11-24T07:03:25+01:00"
   },
   {
    "name": "Magnayen",
@@ -7350,11 +7350,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-24T04:36:05",
-   "SCAN",
-   "Runde: 90 Tokens, 90 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
   [
    "2026-11-24T04:37:02",
    "SCAN",
@@ -7649,6 +7644,11 @@
    "2026-11-24T07:02:24",
    "SCAN",
    "Runde: 41 Tokens, 41 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T07:03:25",
+   "SCAN",
+   "Runde: 41 Tokens, 41 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
   ]
  ],
  "trefferquote": {
@@ -7666,5 +7666,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-24T07:02:37+01:00"
+ "daten_neuest": "2026-11-24T07:03:25+01:00"
 }

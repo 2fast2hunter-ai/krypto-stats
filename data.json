@@ -1,5 +1,5 @@
 {
- "stand_daten": "23.11.2026 23:08",
+ "stand_daten": "24.11.2026 02:04",
  "depot": {
   "wert": 48.73,
   "budget": 50.0,
@@ -2964,6 +2964,74 @@
    "score_0_10": "1",
    "quelle_links": "",
    "datei": "x-stimmung.csv"
+  },
+  {
+   "datei": "2026-11-24.md",
+   "titel": "News-Scans 24.11.2026 (Berlin, UTC+1) – Xatu, Phase 1 Paper",
+   "text": "- **Fenster seit Scan 23:00 (23.11., DexScreener 23:03:55, CoinGecko 23:01:51):** Ruhige Nacht ohne Schockreaktion auf den Williams-Redetext. US-Equity-Futures praktisch unverändert, Gold fester, Asien (KOSPI/Nikkei/ASX) klar höher eröffnet. GOAT bleibt frei, Haupt-Liq nur minimal unter dem 23:04-Stand. FARTBOY-Liq fließt weiter leicht ab, bleibt aber weit über der 30-%-Schwelle. IRGC-Behauptung zu drei Tankern weiter **unbestätigt** (Reuters gibt die Meldung weiter, ohne Schiffe zu identifizieren oder unabhängig zu bestätigen; kein UKMTO 218-26, kein JMIC 117). Freigabeliste unverändert aus scout-2026-11-23.md, Papier bis **24.11. 09:15**. Echtes Geld pausiert (`KAUF_PAUSE_ECHTGELD`). Keine Nachrichten an andere Agenten, nicht gehandelt.\n- **Markt:** CoinGecko last_updated 24.11. **02:01:56 Berlin:** BTC **61.260 $** (+0,21 %/24h, −5,57 %/7d, 1h +0,02 %; 24h-Range 60.358–64.446), ETH **1.709,67 $** (−0,38 % / −6,12 %/7d, 1h −0,06 %), SOL **72,12 $** (+2,23 % / +0,76 %/7d, 1h +0,08 %). Vs Scan 23:00 (61.254 / 1.721,71 / 72,31): BTC **+0,01 %**, ETH **−0,70 %**, SOL **−0,26 %**. **Keine nächtliche Schockreaktion auf Williams** (BTC flach; ETH etwas weicher, aber kein Crash). Fear & Greed weiter **11 Extreme Fear** (alternative.me, Tageswert 24.11. unverändert). Binance-Spot-API vom Box-Standort weiter gesperrt, nur CoinGecko.\n- **US-Futures / WTI / Gold (Yahoo, 01:52 Berlin):** ES **7.267,50** (vs 22:53 7.267,50 **unverändert**; Nacht-Hoch 7.276,00 / Tief 7.240,75), NQ **26.82"
+  },
+  {
+   "zeitpunkt": "2026-11-24T02:01:56+01:00",
+   "coin": "BTC",
+   "signal": "INFO",
+   "quelle": "CoinGecko",
+   "titel": "Majors über Nacht flach: BTC 61.260 / ETH 1.709,67 / SOL 72,12 $ (vs 23:00 +0,01 / −0,70 / −0,26 %)",
+   "text": "CG last_updated 02:01:56 Berlin. F&G 11 Extreme Fear. Keine Williams-Schockreaktion, kein Crash. ETH etwas weicher, BTC unverändert.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T01:52:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "Yahoo Finance",
+   "titel": "US-Futures unverändert (ES 7.267,50 / NQ 26.823,50); KOSPI +2,32 %, Nikkei +3,87 %",
+   "text": "Vs 22:53 ES/NQ praktisch gleich, WTI 80,44 $, Gold 3.659,4 $. Asien-Open risk-on, kein Williams-Hangover. Hang Seng/Shanghai um 02:02 noch nicht eröffnet.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T02:02:22+01:00",
+   "coin": "GOAT",
+   "signal": "INFO",
+   "quelle": "DexScreener (Pair 9Tb2ohu5P16BpBarqd3N27WnkF51Ukfs8Z1GzzLDxVZW)",
+   "titel": "Haupt-Liq exakt 1.042.482,36 $ (vs 23:04 −0,14 %), Median 45.134,68 $ — Bedingung erfüllt",
+   "text": "Spielraum +42.482,36 $. Kurs unverändert 0,01043 $. 24h-Vol 49.125,15 $. Bleibt frei, kein starkes Signal.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T02:02:22+01:00",
+   "coin": "FARTBOY",
+   "signal": "INFO",
+   "quelle": "DexScreener (Pair DhHVd5s4hqBGnTkFztsK98WGPtYUJjpUCqNnWaNLWb4F)",
+   "titel": "Haupt-Liq 492.924,04 $ fließt leicht ab (vs 23:03 −0,74 %), Abstand zur 30-%-Linie ~134k $",
+   "text": "Vs 24h-Hoch 18:00 (512.675 $) erst −3,85 % (Schwelle 358.873 $). Vs ~07:00 23.11. (~488k) leicht höher. Kurs 0,01501 $. Kein Schwellenbruch.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T02:00:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "Reuters (via Geo.tv) / JPost / @UK_MTO / @CENTCOM – unbestätigt",
+   "titel": "IRGC-Behauptung drei Tanker weiter unbestätigt; Reuters gibt nur die Meldung weiter, ohne Verifikation",
+   "text": "Keine Schiffsnamen. Kein UKMTO 218-26, kein JMIC 117 (PDFs 404). CENTCOM-Post 23:08 Berlin nur Roosevelt-Flugdeck, kein Tanker-/LUCAS-Bezug. LUCAS und Rabigh weiter unbestätigt. Unsicherheit hoch.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T02:00:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "TokenPost 23.11. 16:09 KST / Issue On 23.11. 21:59 KST",
+   "titel": "KR-Digital-Asset-Basic-Act noch nicht veröffentlicht; FSC-Ausschuss heute 15:00 KST / 07:00 Berlin",
+   "text": "Regierungstext steht aus. Zusätzlich 18:00 KST VASP-Re-Registrierung geplant. Core-PCE Mi 14:30 unverändert. Kein Kurssignal.",
+   "datei": "2026-11-24.csv"
+  },
+  {
+   "zeitpunkt": "2026-11-24T02:00:00+01:00",
+   "coin": "MACRO",
+   "signal": "INFO",
+   "quelle": "paper-trades.csv",
+   "titel": "Keine neuen Käufe seit 23:00; Depot leer",
+   "text": "Datei unverändert (mtime 22.11. 13:07, Cash 48,73 €). Nur gelesen.",
+   "datei": "2026-11-24.csv"
   },
   {
    "datei": "2026-11-23.md",
@@ -7024,335 +7092,6 @@
    "datei": "2026-10-30.md",
    "titel": "Scan 23:00 – Fr 30.10.2026, 23:08 Uhr (Europe/Berlin)",
    "text": "- Binance/Teng/Yi He/CZ seit 22:00: keine Posts. Zeitplan unverändert ≈ So 1.11. ~13:00 (rechnerisch, ~40 h ab Teng 21:00). Kein Post-Mortem, kein PoR-Snapshot.\n- Kriterien: Auszahlungen ✗ · max 1h-Range 6 h: BTC 1,15 / ETH 1,20 / SOL 1,10 % ✓ · ETH 2.243 > 2.125 ✓ → Pause bleibt.\n- News (Cointelegraph, Kontext, neutral): 22:10 Chainalysis: ~89 % der Hack-Verluste 2026 mutmaßlich Nordkorea ([X](https://x.com/Cointelegraph/status/2116276551729684798)); 22:50 Rohöl auf Mehrjahreshoch ([X](https://x.com/Cointelegraph/status/2116286620345245696)); 22:53 Strive-CEO: BTC hält sich trotz Hack.\n- Listings/Upbit/Solana: nichts Neues. NIO 0,00125 (Liq. 112k); NIO-19:00-Zeile r_4h −21,5 % (BTC −0,4 %). SI276/PUMP: DexScreener weiter rate-limited.\n- X: keine neuen Shill-Muster.\n- Binance seit 21:00: nur Yi He 21:47 Emoji-Link-Post ([X](https://x.com/heyibinance/status/2116270902472249412)), keine neuen Fakten. Keine genauere Auszahlungs-Zielzeit als „~40 h“ ab 21:00 (rechnerisch ≈ So 1.11. ~13:00 – passt zu Panzaerons Neubewertung So ~13:30). Kein Post-Mortem; PoR-Report bis Mo 2.11., erster Snapshot vorher (Zeit offen).\n- **KAUF_PAUSE-Kriterien:** Auszahlungen ✗ · max. 1h-Range 16–22 Uhr: BTC 1,15 %, ETH 1,83 %, SOL 1,86 % ✓ · ETH 2.241 > 2.125 (+5,5 %) ✓ → **Pause bleibt.**\n- Upbit: nichts Neues. Listings/Solana: nichts Neues (OKX nur Event-Werbung).\n- SI276 / NIO / PUMP: DexScreener 22:05 rate-limited → keine Kurse.\n- Scanner: FLOAT-Schatten 21:12 ausgestoppt (−18,6 % netto). NIO+FLOA"
-  },
-  {
-   "zeitpunkt": "2026-10-30T01:13:00+01:00",
-   "coin": "BNB",
-   "signal": "verkauf",
-   "quelle": "https://x.com/binance/status/2115960292115124558",
-   "titel": "Binance: Ein-/Auszahlungen ausgesetzt, deckt alle Verluste",
-   "text": "Offiziell, keine Abschlussmeldung. Yi He 01:04: 'will cover all hacking losses', Post-Mortem nach Abschluss. KAUF_PAUSE bleibt.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T00:06:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://x.com/binance/status/2115943482204574108",
-   "titel": "Binance Alpha-Handel ausgesetzt",
-   "text": "Teil der Sicherheitsmaßnahmen.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T01:52:00+01:00",
-   "coin": "USDT",
-   "signal": "neutral",
-   "quelle": "https://x.com/binance/status/2115970069696217576",
-   "titel": "Binance: verifiziert eingefroren ~3 Mrd $",
-   "text": "00:22 noch 2,54 Mrd $; ZachXBT 02:01 >2,83 Mrd $; Arbitrum 01:14 30,5 Mio $.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T02:01:00+01:00",
-   "coin": "ETH",
-   "signal": "verkauf",
-   "quelle": "https://x.com/lookonchain/status/2115972257864687976",
-   "titel": "Hacker tauscht Alts in 70.480 ETH",
-   "text": "UNI 39,6 Mio, ENA 33,9 Mio, PEPE 31,7 Mio u. a. (Lookonchain, On-Chain).",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T02:00:00+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://data-api.binance.vision/api/v3/ticker/price",
-   "titel": "Binance-Prämie gering",
-   "text": "BTCUSDT 77.139 vs Coinbase/Kraken 76.939 (+0,26 %, USDT 0,9984 → ~+0,1 %); ETH +0,2 %. Auszahlungen gesperrt → Arbitrage blockiert.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T03:24:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://x.com/binance/status/2115993361517891592",
-   "titel": "Binance Erstbefund: kompromittierter DevOps-Laptop",
-   "text": "Keine Private-Key-Leaks; Schaden ~6,3 Mrd $ (CoinDesk/TokenPost), Deckung SAFU + Firmenmittel; PoR und Post-Mortem später. Ein-/Auszahlungen weiter gesperrt – keine Abschlussmeldung, KAUF_PAUSE bleibt.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T03:32:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://x.com/heyibinance/status/2115995324825370777",
-   "titel": "Yi He: Auszahlungen nach Abschluss des Security-Scans",
-   "text": "Kein Termin.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T02:29:00+01:00",
-   "coin": "ETH",
-   "signal": "verkauf",
-   "quelle": "https://x.com/PeckShieldAlert/status/2115979333085118554",
-   "titel": "Hacker tauscht PEPE und WBTC in ETH",
-   "text": "14.050 ETH + 5.700 ETH; CoinDesk: 20.000 WETH über Aave geliehen; Chainalysis ~5,9 Mrd $; ZachXBT/Blockaid: vermutlich Nordkorea (Zuordnung unbestätigt).",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T02:50:00+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://cryptokeyhole.com/bitcoin-options-expiry/",
-   "titel": "Optionsverfall heute 09:00 Berlin (08:00 UTC)",
-   "text": "~12,1 Mrd $ Notional (Deribit/OKX/Bybit), Max Pain 79.000, P/C 0,60. CME-Verfall 17:00 Berlin laut Regel (16:00 London), nicht separat bestätigt.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T05:00:00+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://data-api.binance.vision/api/v3/ticker/price",
-   "titel": "Binance-Prämie unverändert gering",
-   "text": "BTCUSDT 78.083 vs Coinbase 77.870 / Kraken 77.879 (+0,27 %, USDT-bereinigt ~+0,1 %); ETH +0,2 %. Erholung seit 02:00: BTC +1,4 %, BNB +3,4 %.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T05:36:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://x.com/binance/status/2116026356740034858",
-   "titel": "Binance: Auszahlungen in 48 h, Einzahlungen normal",
-   "text": "Auszahlungen bleiben pausiert (Security-Revamp); Yi He 05:17: Beginn der Wiederaufnahme binnen 48 h. Kein Abschlussbericht, PoR nach Behebung. KAUF_PAUSE bleibt.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T01:17:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
-   "titel": "CoinDesk: Hack traf PoR-Wallets, ETH-Deckung ~94 %",
-   "text": "~204.500 ETH gestohlen (5,6 % der ETH-Reserven); nächster PoR-Snapshot 1.11.; SAFU ~1 Mrd $ in BTC.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T06:58:00+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://swiftedge.uk/btc/max-pain",
-   "titel": "Optionsverfall 09:00: Max Pain 79.000, P/C 0,59",
-   "text": "~12 Mrd $ Notional; BTC 78.446 (−0,6 % unter Max Pain).",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T07:00:00+01:00",
-   "coin": "SI276",
-   "signal": "neutral",
-   "quelle": "https://dexscreener.com/solana/12jc1DzJpzbCDaKuM4brAKh9jcFry2TLG1FfGsL4ftCG",
-   "titel": "SI276: weiter schwach, Bot-artige Mikrotrades",
-   "text": "Kurs 0,0003967 (−23,7 % 24h, −7,6 % seit 21:49); Vol 1h 948 $ bei 1.029 Käufen/345 Verkäufen; Liq 63.969 $; Top10 30,5 %, 7.659 Holder; 4 X-Posts mit CA in 10 h. Ausgesetzt.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T08:00:00+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://swiftedge.uk/btc/max-pain",
-   "titel": "Scan 08:00: nichts Neues",
-   "text": "Binance seit 05:36 ohne neue Posts, Auszahlungen zu. Max Pain 79.000 (P/C 0,60), BTC 78.526. US-ECI 13:30 Berlin, Chicago PMI 14:45.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T08:37:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://x.com/_RichardTeng/status/2116072080525656150",
-   "titel": "Teng: Verluste werden gedeckt",
-   "text": "Wiederholung; Auszahlungen weiter pausiert, kein Post-Mortem/PoR.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T09:00:00+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://swiftedge.uk/btc/max-pain",
-   "titel": "Optionsverfall erfolgt, BTC unter Max Pain",
-   "text": "BTC ~78,0k vs Max Pain 79k; 1h 78.652->78.185.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T08:54:00+01:00",
-   "coin": "ETH",
-   "signal": "neutral",
-   "quelle": "https://x.com/lookonchain/status/2116076166188773626",
-   "titel": "Wal 0x15a4 20x-Short 13.000 ETH",
-   "text": "Einzelquelle Lookonchain.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T08:37:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://x.com/lookonchain/status/2116071971054334398",
-   "titel": "Lazarus-Verbindung möglich (unbestätigt)",
-   "text": "Gerücht, nicht bestätigt.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T09:47:00+01:00",
-   "coin": "BNB",
-   "signal": "verkauf",
-   "quelle": "https://x.com/binance/status/2116089661408108712",
-   "titel": "Binance: weitere Einbruchspunkte entdeckt",
-   "text": "Offizielles Update: zusätzlich zum Laptop weitere Breach-Punkte, komplexer Angriff. Auszahlungen weiter pausiert, kein Post-Mortem/PoR.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T09:00:00+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://www.deribit.com/api/v2/public/get_delivery_prices?index_name=btc_usd",
-   "titel": "Deribit-Settlement 78.119",
-   "text": "BTC 78.119,01 / ETH 2.235,49, unter Max Pain 79k.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T06:12:00+01:00",
-   "coin": "SOL",
-   "signal": "neutral",
-   "quelle": "https://coindesk.cc/story/2026/10/mirae-asset-securities-issues-tokenized-notes-on-solana",
-   "titel": "Mirae tokenisierte Notes auf Solana",
-   "text": "Institutionelle Platzierung, Volumen nicht genannt.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T08:00:00+01:00",
-   "coin": "SOL",
-   "signal": "neutral",
-   "quelle": "https://www.coingabbar.com/en/solana-news-kamino-borrowing-pause-rwa-value-ondo",
-   "titel": "Kamino pausiert SOL/BTC-Borrowing",
-   "text": "Vorsorglich wegen Binance-Lage; Uhrzeit des Kamino-Posts nicht bekannt (zeitpunkt = Artikel).",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T09:47:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
-   "titel": "Binance: Auszahlungen in ~45 h",
-   "text": "Update 09:47: on track, ~45 h (≈1.11. 06:47 Berlin); Abflüsse gestoppt; kein Post-Mortem/PoR.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T11:55:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://x.com/binance/status/2116121748555153621",
-   "titel": "Binance beginnt Asset-Recovery für Nutzer",
-   "text": "Offiziell; Umfang nicht genannt; Auszahlungen weiter pausiert, Ziel ~45 h ab 09:47.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T12:07:00+01:00",
-   "coin": "ALTS",
-   "signal": "kauf",
-   "quelle": "https://x.com/heyibinance/status/2116124832584904742",
-   "titel": "Binance kauft gestohlene Altcoins zurück",
-   "text": "Yi He: OTC + on-exchange, volle Menge; nur geloggt (KAUF_PAUSE), keine unserer Coins direkt.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T12:57:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://x.com/cz_binance/status/2116137390180065546",
-   "titel": "CZ: Token-Recovery begonnen",
-   "text": "Einordnung, keine Zahlen.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T13:30:00+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://www.bls.gov/news.release/eci.nr0.htm",
-   "titel": "US-ECI Q3 +0,8 % wie erwartet",
-   "text": "Vorquartal 0,9 %, y/y 3,4 %.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T14:07:00+01:00",
-   "coin": "SOL",
-   "signal": "neutral",
-   "quelle": "https://x.com/lookonchain/status/2116155134300545382",
-   "titel": "68.773 SOL von Kraken/Bybit/OKX abgezogen",
-   "text": "Einzelquelle Lookonchain, neue Wallet 2VXozU.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T14:45:00+01:00",
-   "coin": "BTC",
-   "signal": "neutral",
-   "quelle": "https://www.investing.com/economic-calendar/chicago-pmi-38",
-   "titel": "Chicago PMI 55,3 unter Erwartung",
-   "text": "Erwartung 55,8, Vormonat 58,8.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T14:24:00+01:00",
-   "coin": "ETH",
-   "signal": "neutral",
-   "quelle": "https://x.com/lookonchain/status/2116159431679570229",
-   "titel": "Hacker verliert 3,32 Mio $ Altcoins an NEWT-Contract",
-   "text": "Einzelquelle Lookonchain.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T14:27:00+01:00",
-   "coin": "ETH",
-   "signal": "neutral",
-   "quelle": "https://x.com/lookonchain/status/2116160060716159167",
-   "titel": "ETF-Flows: BTC +30,5 Mio, ETH −62,3 Mio",
-   "text": "Lookonchain-Zusammenfassung.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T15:32:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://x.com/_RichardTeng/status/2116176335722913865",
-   "titel": "Teng: nur eigene Hot Wallet betroffen",
-   "text": "Kundengelder in Cold Wallets; >1 Täter; Self-destruct-Tooling; Auszahlungen weiter pausiert.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T16:23:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://x.com/heyibinance/status/2116189354418897261",
-   "titel": "Yi He: User funds are SAFU (Video)",
-   "text": "Keine neuen Fakten; Auszahlungen weiter pausiert.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T19:00:00+01:00",
-   "coin": "NIO",
-   "signal": "neutral",
-   "quelle": "https://dexscreener.com/solana/7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump",
-   "titel": "NIO +50 % 1h, Shill-Muster",
-   "text": "CA 7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump; Schatten-Kandidat, Liq 181k; X-Callposts + Beta-Köder CIO. Kein Fakt, nur Beobachtung.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "zeitpunkt": "2026-10-30T21:00:00+01:00",
-   "coin": "BNB",
-   "signal": "neutral",
-   "quelle": "https://x.com/_RichardTeng/status/2116259036903669855",
-   "titel": "Teng: Auszahlungen in ~40 h, PoR bis Montag",
-   "text": "6,34 Mrd $ reserviert (5 Mrd in exakten Tokens); EIP-7702-Delegation; Post-Mortem folgt.",
-   "datei": "2026-10-30.csv"
-  },
-  {
-   "datei": "2026-10-29.md",
-   "titel": "Scan 23:00 – Do 29.10.2026, 22:59 Uhr (Europe/Berlin)",
-   "text": ""
   }
  ],
  "varianten": {
@@ -7404,7 +7143,7 @@
  },
  "funnel": {
   "letzter": {
-   "t": "2026-11-24 02:02:10",
+   "t": "2026-11-24 02:16:02",
    "tokens": 53,
    "paar": 53,
    "vor": 0,
@@ -7412,11 +7151,11 @@
    "schatten": 0
   },
   "heute": {
-   "runden": 43,
-   "tokens": 2895,
-   "paar": 2882,
+   "runden": 53,
+   "tokens": 3539,
+   "paar": 3521,
    "vor": 0,
-   "kandidaten_zeilen": 229,
+   "kandidaten_zeilen": 235,
    "nach_checks": 0,
    "gekauft": 0,
    "schatten": 0,
@@ -7425,7 +7164,7 @@
   "gruende": [
    [
     "Vorfilter: Liquidität # $ < #k",
-    132
+    138
    ],
    [
     "Vorfilter: Volumen #m # $ < #k",
@@ -7503,8 +7242,8 @@
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/2026-11-23.csv",
-   "zeit": "2026-11-23T23:08:24+01:00"
+   "letzte_datei": "krypto/news/2026-11-24.md",
+   "zeit": "2026-11-24T02:04:07+01:00"
   },
   {
    "name": "Kadabra",
@@ -7535,8 +7274,8 @@
    "rolle": "meme-scan",
    "farbe": "#EF4444",
    "form": "tri",
-   "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-24T02:02:10+01:00"
+   "letzte_datei": "krypto/scanner/kandidaten.csv",
+   "zeit": "2026-11-24T02:16:03+01:00"
   },
   {
    "name": "Magnayen",
@@ -7548,61 +7287,6 @@
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-23T23:55:37",
-   "SCAN",
-   "Runde: 55 Tokens, 55 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-23T23:56:36",
-   "SCAN",
-   "Runde: 55 Tokens, 55 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T00:00:26",
-   "RISK",
-   "supervisor: Box war 187 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-24T00:00:27",
-   "SCAN",
-   "Runde: 93 Tokens, 93 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 6 s"
-  ],
-  [
-   "2026-11-24T00:01:24",
-   "SCAN",
-   "Runde: 55 Tokens, 55 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T00:02:24",
-   "SCAN",
-   "Runde: 55 Tokens, 55 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T00:14:01",
-   "RISK",
-   "supervisor: Box war 675 s eingefroren – neue Frist 180 s"
-  ],
-  [
-   "2026-11-24T00:14:16",
-   "SCAN",
-   "Runde: 93 Tokens, 93 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
-  [
-   "2026-11-24T00:15:13",
-   "SCAN",
-   "Runde: 54 Tokens, 54 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T00:16:13",
-   "SCAN",
-   "Runde: 54 Tokens, 54 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
-  ],
-  [
-   "2026-11-24T00:18:07",
-   "RISK",
-   "supervisor: Box war 105 s eingefroren – neue Frist 180 s"
-  ],
   [
    "2026-11-24T00:18:40",
    "SCAN",
@@ -7847,6 +7531,61 @@
    "2026-11-24T02:02:10",
    "SCAN",
    "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T02:03:10",
+   "SCAN",
+   "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T02:04:13",
+   "SCAN",
+   "Runde: 91 Tokens, 91 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-24T02:05:10",
+   "SCAN",
+   "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T02:06:10",
+   "SCAN",
+   "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T02:07:10",
+   "SCAN",
+   "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T02:08:13",
+   "SCAN",
+   "Runde: 91 Tokens, 91 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
+  ],
+  [
+   "2026-11-24T02:09:10",
+   "SCAN",
+   "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T02:10:10",
+   "SCAN",
+   "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
+  ],
+  [
+   "2026-11-24T02:14:39",
+   "RISK",
+   "supervisor: Box war 251 s eingefroren – neue Frist 180 s"
+  ],
+  [
+   "2026-11-24T02:15:04",
+   "SCAN",
+   "Runde: 91 Tokens, 86 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 6 s"
+  ],
+  [
+   "2026-11-24T02:16:02",
+   "SCAN",
+   "Runde: 53 Tokens, 53 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 3 s"
   ]
  ],
  "trefferquote": {
@@ -7864,5 +7603,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-24T02:02:10+01:00"
+ "daten_neuest": "2026-11-24T02:16:03+01:00"
 }

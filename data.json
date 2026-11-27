@@ -1,5 +1,5 @@
 {
- "stand_daten": "24.11.2026 16:05",
+ "stand_daten": "27.11.2026 13:18",
  "depot": {
   "wert": 48.73,
   "budget": 50.0,
@@ -7903,32 +7903,32 @@
    "rolle": "Scout",
    "farbe": "#3B82F6",
    "form": "circle",
-   "letzte_datei": "wissen/krypto/scans/2026-11-24.md",
-   "zeit": "2026-11-24T09:26:46+01:00"
+   "letzte_datei": "krypto/scout-2026-11-15.md",
+   "zeit": "2026-11-27T13:18:37+01:00"
   },
   {
    "name": "Xatu",
    "rolle": "News",
    "farbe": "#06B6D4",
    "form": "diamond",
-   "letzte_datei": "krypto/news/2026-11-24.csv",
-   "zeit": "2026-11-24T16:05:22+01:00"
+   "letzte_datei": "krypto/news/2026-10-29.csv",
+   "zeit": "2026-11-27T13:18:37+01:00"
   },
   {
    "name": "Kadabra",
    "rolle": "Strategie",
    "farbe": "#A855F7",
    "form": "hex",
-   "letzte_datei": "krypto/strategien/meme-smartwallet.md",
-   "zeit": "2026-11-22T09:31:57+01:00"
+   "letzte_datei": "krypto/backtests/meme_laden.py",
+   "zeit": "2026-11-27T13:18:37+01:00"
   },
   {
    "name": "Panzaeron",
    "rolle": "Risiko",
    "farbe": "#F59E0B",
    "form": "shield",
-   "letzte_datei": "krypto/risiko-regeln.md",
-   "zeit": "2026-11-24T09:30:40+01:00"
+   "letzte_datei": "krypto/tools/manuelle-blocks.json.bak-2026-11-22",
+   "zeit": "2026-11-27T13:18:38+01:00"
   },
   {
    "name": "Mauzi",
@@ -7936,7 +7936,7 @@
    "farbe": "#10B981",
    "form": "square",
    "letzte_datei": "krypto/paper-trades.csv",
-   "zeit": "2026-11-22T13:07:51+01:00"
+   "zeit": "2026-11-27T13:18:38+01:00"
   },
   {
    "name": "Scanner",
@@ -7944,7 +7944,7 @@
    "farbe": "#EF4444",
    "form": "tri",
    "letzte_datei": "krypto/scanner/scanner.log",
-   "zeit": "2026-11-27T13:12:26+01:00"
+   "zeit": "2026-11-27T13:19:16+01:00"
   },
   {
    "name": "Magnayen",
@@ -7952,15 +7952,10 @@
    "farbe": "#9CA3AF",
    "form": "circle",
    "letzte_datei": "krypto/dashboard/build.py",
-   "zeit": "2026-11-22T04:28:43+01:00"
+   "zeit": "2026-11-27T13:17:48+01:00"
   }
  ],
  "aktivitaet": [
-  [
-   "2026-11-27T11:20:07",
-   "SCAN",
-   "Runde: 77 Tokens, 70 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 5 s"
-  ],
   [
    "2026-11-27T11:21:44",
    "RISK",
@@ -8255,6 +8250,11 @@
    "2026-11-27T13:12:26",
    "SCAN",
    "Runde: 32 Tokens, 29 mit Paar, Vorfilter ok 0, offen 0, Schatten 0, nach Checks 0, gekauft 0, KAUF_PAUSE aktiv, Dauer 16 s"
+  ],
+  [
+   "2026-11-27T13:19:16",
+   "SCAN",
+   "Start meme-scan (PAPER, keine Wallet) pid 2204"
   ]
  ],
  "trefferquote": {
@@ -8272,5 +8272,5 @@
   "ergebnis": 0.3276,
   "notiz": "Teil-TP +30 % (+32.2 %); Slippage 1.50 %; CA 9Pq7aLAbhDG2tTnS22cm6kuysZVcZpLFE368HWuypump"
  },
- "daten_neuest": "2026-11-27T13:12:26+01:00"
+ "daten_neuest": "2026-11-27T13:19:16+01:00"
 }
